@@ -1,0 +1,28 @@
+{
+  "id": "santiago-lengua",
+  "libro_id": "santiago",
+  "orden": 3,
+  "titulo": "¿Cómo puede una lengua tan pequeña incendiar un bosque?",
+  "pasaje": "Sant 3,1-12",
+  "que_dice": "Un caballo se gobierna con un freno y un barco enorme con un pequeño timón. Santiago dice que la lengua cumple esa misma función en la vida de una persona.\n\nPequeña, puede prender fuego a todo un bosque (3,5). Con ella se bendice a Dios y se maldice a quienes llevan su imagen (3,9). El autor lo ve incoherente, como una fuente que diera agua dulce y salada a la vez, y aplica el aviso a los maestros de la comunidad.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el cuidado de la palabra, tema de la sabiduría de Israel en Proverbios y Sirácida, se lee como ética de la comunidad. No hay diferencias de fondo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos ve aquí la mano de un maestro de sabiduría y retórica griega: las imágenes del freno y del timón eran corrientes en la época. Santiago las pone al servicio de la tradición sapiencial.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle of James (ICC)",
+      "autor": "Dale C. Allison Jr.",
+      "tradicion": "critica"
+    }
+  ]
+}

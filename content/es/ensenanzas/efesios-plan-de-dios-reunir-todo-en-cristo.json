@@ -1,0 +1,50 @@
+{
+  "id": "efesios-plan-de-dios-reunir-todo-en-cristo",
+  "libro_id": "efesios",
+  "orden": 1,
+  "titulo": "¿Qué plan tenía Dios para el mundo antes de crearlo?",
+  "pasaje": "Ef 1,3-14",
+  "que_dice": "Una comunidad escucha una carta que arranca con una sola frase, larguísima, de alabanza a Dios. Enumera lo que Dios ha hecho: elegir a los creyentes antes de crear el mundo, adoptarlos como hijos, perdonarlos y darles a conocer su proyecto.\n\nEse proyecto es reunir todo, lo del cielo y lo de la tierra, bajo Cristo (1,10). Judíos y no judíos entran en él y reciben el mismo sello, el Espíritu (1,12-14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía reconoce una *berakhá*, la fórmula de bendición a Dios con que empiezan muchas oraciones judías. La elección de un pueblo y la meta de reunir a las naciones vienen de Israel. Se discute si ese plan tiene ahora a Cristo por centro."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la elección es llamada a la santidad, y la adopción, vida de gracia. El *Catecismo de la Iglesia Católica* (n. 1077) abre con este pasaje su exposición de la liturgia."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Calvino leyó 1,4-5 como predestinación: Dios elige antes de todo mérito (*Institución*, III, 22). Otras tradiciones protestantes, como la arminiana, entienden que Dios elige a quienes prevé que creerán."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve una *berakhá* cristianizada, con una sola oración griega de doce versículos y un vocabulario muy denso. Se discute si esa densidad es de Pablo; la cuestión se trata en la autoría del libro.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "alianza",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ephesians (Word Biblical Commentary 42)",
+      "autor": "Andrew T. Lincoln",
+      "tradicion": "critica",
+      "url": "https://www.accordancebible.com/product/wbc-vol-42-ephesians-by-andrew-t-lincoln/"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia",
+      "url": "https://search.worldcat.org/title/The-Jewish-annotated-New-Testament-:-New-Revised-Standard-Version-Bible-translation/oclc/666242532"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "abdias-edom-el-hermano-que-miro",
+  "libro_id": "abdias",
+  "orden": 1,
+  "titulo": "¿Por qué se condena a Edom, el hermano que se quedó mirando?",
+  "pasaje": "Abd 1,10-14",
+  "que_dice": "Jerusalén ha caído y Edom, el pueblo de Esaú, hermano de Jacob, estaba allí. El texto lo acusa de quedarse al margen mientras extranjeros se llevaban la riqueza (1,10-11).\n\nLuego enumera lo que Edom no debió hacer. No debió mirar con gusto el día de su hermano, ni reírse de su ruina, ni entrar por sus puertas, ni saquear, ni cerrar los caminos a los fugitivos (1,12-14). No se condena una guerra, sino la alegría ante la desgracia ajena.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica leyó en Edom a Roma, que destruyó el segundo Templo en el año 70 d. C. El libro habla así de cualquier poder que oprime a Israel."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante apenas citan el libro. Quienes lo leen hoy suelen subrayar la denuncia de quien se alegra de la caída del vecino, y piden leer los versículos duros con su contexto histórico."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica lee el pasaje como el grito de los vencidos tras 587 a. C. Lam 4,21-22, Ez 35 y Sal 137,7 guardan el mismo rencor contra Edom.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

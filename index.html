@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es" data-tema="">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Biblia, libro a libro</title>
+    <meta name="description" content="Los 73 libros de la Biblia: qué enseñan, cómo los leen las tradiciones y qué dice la crítica histórica." />
+
+    <!--
+      Se precarga solo la tipografía de interfaz. La de los titulares llega un instante después y el
+      texto ya se está leyendo con la de respaldo: precargarlo todo compite con lo que de verdad
+      bloquea la primera pantalla.
+    -->
+    <link rel="preload" href="/fuentes/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
+
+    <!-- El tema se resuelve ANTES de pintar, en un script síncrono: si no, hay un destello al entrar en un sitio oscuro. El sitio es solo en español (DEC §9). -->
+    <script>
+      (() => {
+        const guardado = localStorage.getItem('tema');
+        const oscuro = guardado ? guardado === 'oscuro' : matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.dataset.tema = oscuro ? 'oscuro' : 'claro';
+      })();
+    </script>
+  </head>
+  <body>
+    <!--
+      La portada va escrita aquí, y la app NO la reemplaza: le cambia el texto cuando hace falta.
+
+      Es lo único que el navegador puede pintar antes de descargar y ejecutar el JavaScript. Con el
+      contenedor vacío, el primer texto tardaba 2,7 s en el móvil de gama baja. Y reemplazarla
+      después no servía: al repintarla, el elemento más grande de la pantalla volvía a contar como
+      recién pintado y el LCP seguía en 2,8 s aunque ya se estuviera viendo desde el primer segundo.
+    -->
+    <div id="cabecera"></div>
+    <main id="sitio">
+      <div class="portada">
+        <h1>Biblia, libro a libro</h1>
+        <p>Los 73 libros de la Biblia: qué enseñan, cómo los leen las tradiciones y qué dice la crítica histórica.</p>
+      </div>
+      <div id="app"></div>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

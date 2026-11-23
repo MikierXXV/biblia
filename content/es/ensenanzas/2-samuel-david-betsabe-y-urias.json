@@ -1,0 +1,60 @@
+{
+  "id": "2-samuel-david-betsabe-y-urias",
+  "libro_id": "2-samuel",
+  "orden": 2,
+  "titulo": "David abusa de su poder: Betsabé, Urías y un crimen encubierto",
+  "pasaje": "2 Sm 11",
+  "que_dice": "En primavera, cuando los reyes salen a la guerra, David se queda en Jerusalén. Desde el terrado ve a una mujer que se baña, Betsabé, y manda que se la traigan. Se acuesta con ella, y ella queda embarazada (11,1-5).\n\nDavid llama del frente a su marido, Urías el hitita, para que duerma con ella. Urías se niega a disfrutar de su casa mientras sus compañeros acampan al raso. Entonces David ordena a Joab que lo ponga en primera línea y lo deje solo. Urías muere (11,6-27).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Shabat 56a) recoge la opinión de rabí Samuel bar Najmaní, en nombre de rabí Yonatán, de que quien dice que David pecó se equivoca. Otras voces rabínicas lo condenan."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, David pecó gravemente y se arrepintió. El Sal 51 (50), el Miserere, se asocia a este episodio y se reza en la liturgia penitencial."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "J. Cheryl Exum",
+      "texto": "J. Cheryl Exum señala que el relato no dice qué quería Betsabé, porque no la deja hablar. Solo sabemos que es bella y que el rey la manda traer."
+    }
+  ],
+  "critica": {
+    "texto": "El texto calla si Betsabé consintió. La crítica discute cómo leer ese silencio del texto.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Randall Bailey",
+        "texto": "Betsabé participa en una alianza política de su familia, la de Eliam y Ajitófel. El texto no describe fuerza física."
+      },
+      {
+        "quien": "Richard M. Davidson y A. I. Abasili",
+        "texto": "Ante un rey que manda traerla no hay consentimiento libre. Lo leen como violación por poder y abuso de autoridad."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Plotted, Shot, and Painted: Cultural Representations of Biblical Women (Sheffield Academic Press, 1996)",
+      "autor": "J. Cheryl Exum",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "David in Love and War: The Pursuit of Power in 2 Samuel 10–12 (JSOT Press, 1990)",
+      "autor": "Randall C. Bailey",
+      "tradicion": "critica"
+    }
+  ]
+}

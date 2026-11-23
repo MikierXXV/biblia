@@ -1,0 +1,38 @@
+{
+  "id": "malaquias-culto-descuidado",
+  "libro_id": "malaquias",
+  "orden": 1,
+  "titulo": "Si el gobernador no aceptaría esa ofrenda, ¿la acepta Dios?",
+  "pasaje": "Mal 1,6-14; 2,1-9",
+  "que_dice": "Un sacerdote ofrece en el altar un animal ciego, cojo o enfermo. Dios pregunta si se atrevería a presentárselo a su gobernador, y si este lo aceptaría (1,8). Los sacerdotes desprecian el nombre de Dios al tratar su mesa con desdén (1,6-7).\n\nLa sentencia es dura: Dios cerrará las puertas del Templo antes que recibir tales ofrendas, porque su nombre es grande entre las naciones (1,10-11). El sacerdote debía guardar el saber y enseñar la ley (2,7), y se ha desviado del camino (2,8-9).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Menajot 110a) lee Mal 1,11 como una referencia a los sabios que estudian en todas partes las leyes de los sacrificios: ese estudio equivale a ofrecerlos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Desde la Didajé y san Justino, la tradición cristiana lee la «ofrenda pura» de Mal 1,11 como la eucaristía, ofrecida en todas partes. El Concilio de Trento (sesión XXII) la recoge así."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica data el libro en el siglo V a. C., con el Templo ya funcionando y una administración persa visible en el gobernador de 1,8. Hill y Petersen leen el reproche como una disputa con el sacerdocio de Jerusalén.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Zechariah 9-14 and Malachi (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Malachi (Anchor Bible 25D)",
+      "autor": "Andrew E. Hill",
+      "tradicion": "critica"
+    }
+  ]
+}

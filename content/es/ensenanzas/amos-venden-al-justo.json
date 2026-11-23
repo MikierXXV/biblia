@@ -1,0 +1,42 @@
+{
+  "id": "amos-venden-al-justo",
+  "libro_id": "amos",
+  "orden": 1,
+  "titulo": "Venden al justo por dinero y al pobre por unas sandalias",
+  "pasaje": "Am 2,6-8; 5,10-13",
+  "que_dice": "Amós denuncia a Israel con ejemplos concretos. Se vende al inocente por plata y al pobre por un par de sandalias (2,6). Se pisotea la cabeza del débil como si fuera polvo (2,7).\n\nEl manto que se toma en prenda por una deuda debía devolverse antes de la noche (Éx 22,25-26). En Am 2,8 se usa para tumbarse junto a los altares. En las puertas de la ciudad, donde se juzga, se rechaza al que defiende al justo y se acepta el soborno (5,10-12).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Según el Talmud (Makot 24a), Amós resumió los mandamientos en uno solo: buscadme y viviréis (Am 5,4). La tradición rabínica toma de él que la injusticia con el pobre es una falta contra Dios."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Martin Luther King, pastor bautista, citó Am 5,24 en Washington en 1963. En su «Carta desde la cárcel de Birmingham» se comparó con Amós como «extremista» por la justicia."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica, con Wolff y Paul, ve aquí el reflejo de un reino próspero y desigual. Había deudas que acababan en esclavitud y jueces que no protegían al pobre.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Amos (Hermeneia)",
+      "autor": "Shalom M. Paul",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Carta desde la cárcel de Birmingham",
+      "autor": "Martin Luther King Jr.",
+      "tradicion": "protestante"
+    }
+  ]
+}

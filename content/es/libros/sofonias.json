@@ -1,0 +1,73 @@
+{
+  "id": "sofonias",
+  "seccion_id": "profetas",
+  "orden": 15,
+  "nombre": "Sofonías",
+  "abreviatura": "Sof",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta de tiempos del rey Josías anuncia el día del Señor contra Judá y las naciones. Promete un resto pobre y humilde y un Dios que se alegra.",
+  "presentacion": "Jerusalén, hacia el 630 a. C., con un rey joven, Josías, y sacerdotes que sirven a Baal junto al Señor. Sofonías, que según Sof 1,1 desciende de un Ezequías, anuncia que Dios hará limpieza: un día de ira, angustia y tiniebla (Sof 1).\n\nEl día alcanza también a las naciones vecinas (Sof 2,4-15). Pero invita a los humildes a buscar la justicia y la humildad, por si se ponen a cubierto (Sof 2,3). Y promete un resto pobre que se refugiará en el Señor (Sof 3,12-13).\n\nEl final cambia el tono: Dios se alegra por su pueblo y canta por él (Sof 3,14-17). Su descripción del día de ira inspiró el *Dies irae* (en latín, «día de ira»), secuencia medieval para los difuntos.",
+  "autoria": {
+    "tradicion": "Sof 1,1 presenta a Sofonías con una genealogía de cuatro generaciones hasta un Ezequías. La tradición judía y la cristiana le atribuyen el libro.",
+    "critica": "Casi toda la crítica ve en Sofonías al autor de los capítulos 1-2. Discute si 3,14-20 es suyo o añadido después del destierro, como defiende buena parte de la crítica histórica.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Sof 1,1 sitúa al profeta bajo el rey Josías de Judá, que reinó de 640 a 609 a. C.",
+    "critica": "Entre 640 y 609 a. C., probablemente antes de la reforma de Josías en el 622 a. C. Los pasajes finales pueden ser posteriores.",
+    "acuerdo": "consenso",
+    "rango": [
+      -640,
+      -609
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el noveno.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Sof 1,14-18",
+      "nota": "El día del Señor llega como ira, angustia y tiniebla."
+    },
+    {
+      "pasaje": "Sof 2,3",
+      "nota": "Buscad al Señor, la justicia y la humildad: quizá quedéis a cubierto."
+    },
+    {
+      "pasaje": "Sof 3,12-13",
+      "nota": "Queda un pueblo pobre y humilde que se refugia en el Señor."
+    },
+    {
+      "pasaje": "Sof 3,14-17",
+      "nota": "Dios se alegra por su pueblo y se regocija con cantos."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Zephaniah (Anchor Bible)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Sofonías predica bajo Josías, entre 640 y 609 a. C., y anuncia el día del Señor contra Judá.",
+    "El *Dies irae* medieval se inspira en Sof 1,15-16, la descripción del día de ira.",
+    "Sof 2,3 invita a buscar justicia y humildad, y Sof 3,12-13 promete un resto pobre y humilde.",
+    "Sof 3,14-17 presenta a un Dios que se alegra y canta por su pueblo.",
+    "Se discute si 3,14-20 es del profeta o se añadió tras el destierro."
+  ]
+}

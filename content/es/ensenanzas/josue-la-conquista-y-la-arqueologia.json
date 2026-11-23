@@ -1,0 +1,64 @@
+{
+  "id": "josue-la-conquista-y-la-arqueologia",
+  "libro_id": "josue",
+  "orden": 4,
+  "titulo": "¿Hubo conquista? Lo que encuentra la arqueología en Canaán",
+  "pasaje": "Jos 6-12; 23-24",
+  "que_dice": "Según el libro, Israel cruza el Jordán, toma Jericó y Ay, y vence a coaliciones del sur y del norte. En pocos años se reparte la tierra (Jos 6-12). Los capítulos 23-24 hablan, sin embargo, de pueblos que siguen en el país.\n\nLos arqueólogos han excavado muchos de esos lugares. Para la mayoría de excavadores, Jericó y Ay (et-Tell) no tenían murallas hacia 1250-1200 a. C. En esa época aparecen en la sierra central cientos de aldeas pequeñas sin murallas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía clásica leyó Josué como historia cumplida, y el judaísmo ortodoxo mantiene esa lectura. El judaísmo reformista y la crítica judía académica discuten la arqueología."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Hasta el siglo XIX, la lectura cristiana coincidía con la judía. La exégesis católica posterior a la Dei Verbum (1965) admite que la Biblia usa géneros históricos variados."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchos evangélicos defienden la historicidad del relato, y otras Iglesias protestantes aceptan la crítica histórica. Ambas lecturas conviven dentro del protestantismo."
+    }
+  ],
+  "critica": {
+    "texto": "La arqueología ofrece varios modelos del origen de Israel. Ninguno ha logrado el acuerdo de todos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Israel Finkelstein",
+        "texto": "No hubo conquista: Israel surge en la sierra central en un proceso lento de asentamiento, con raíces cananeas y pastoriles."
+      },
+      {
+        "quien": "Amihai Mazar y William Dever",
+        "texto": "En posiciones intermedias: asentamiento gradual y mixto, con grupos cananeos y quizá un grupo llegado de Egipto. El libro conserva recuerdos reelaborados."
+      },
+      {
+        "quien": "Kenneth Kitchen y lecturas maximalistas",
+        "texto": "El libro conserva recuerdos fiables y su cuadro encaja con el Egipto y el Canaán del siglo XIII a. C."
+      },
+      {
+        "quien": "Albrecht Alt y George Mendenhall",
+        "texto": "Modelos clásicos: infiltración pacífica de pastores (Alt) o revuelta de campesinos cananeos contra las ciudades-estado (Mendenhall)."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Bible Unearthed",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Archaeology of the Land of the Bible, 10,000–586 B.C.E.",
+      "autor": "Amihai Mazar",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "On the Reliability of the Old Testament",
+      "autor": "Kenneth A. Kitchen",
+      "tradicion": "protestante"
+    }
+  ]
+}

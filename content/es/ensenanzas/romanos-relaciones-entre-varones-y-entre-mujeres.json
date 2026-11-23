@@ -1,0 +1,66 @@
+{
+  "id": "romanos-relaciones-entre-varones-y-entre-mujeres",
+  "libro_id": "romanos",
+  "orden": 2,
+  "titulo": "¿Qué condena Pablo en Rom 1,26-27?",
+  "pasaje": "Rom 1,26-27",
+  "que_dice": "Pablo describe a los pueblos que, según él, han rechazado a Dios. Dice que Dios los entregó a pasiones deshonrosas: sus mujeres cambiaron el uso natural por el contrario a la naturaleza, y los varones hicieron lo mismo entre sí.\n\nSuele leerse como el único pasaje del Nuevo Testamento sobre relaciones entre mujeres, aunque Agustín y Clemente de Alejandría entendieron 1,26 como actos heterosexuales no procreativos. Sirve de introducción a una acusación que alcanza luego también a los judíos (Rom 2).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El judaísmo rabínico prohíbe las relaciones entre varones apoyándose en Lv 18,22 y 20,13. Hoy las corrientes ortodoxas mantienen la prohibición y las corrientes reformista y conservadora la han revisado en grados distintos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "El Catecismo (n. 2357) califica los actos homosexuales de desordenados, con apoyo en este pasaje, y pide respeto hacia las personas."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa mantiene la misma condena, apoyada en la lectura de los Padres; Crisóstomo comenta este pasaje con dureza."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las iglesias protestantes se dividen: unas mantienen la lectura tradicional y otras la han revisado y bendicen uniones entre personas del mismo sexo."
+    }
+  ],
+  "critica": {
+    "texto": "El sentido de «contra la naturaleza» y el alcance del pasaje están en disputa entre los estudiosos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Richard Hays y Robert Gagnon",
+        "texto": "Pablo condena toda práctica homosexual, que ve como signo de rebeldía contra el Creador; el texto vale para hoy."
+      },
+      {
+        "quien": "Bernadette Brooten",
+        "texto": "Las fuentes antiguas conocían deseos duraderos entre mujeres. Pablo los condena porque rompen la jerarquía de género, no por un desorden pasajero."
+      },
+      {
+        "quien": "John Boswell",
+        "texto": "Pablo critica a heterosexuales que actúan contra su propia inclinación; el pasaje no habla de la orientación homosexual."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "imagen-de-dios-y-dignidad-humana",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Moral Vision of the New Testament",
+      "autor": "Richard B. Hays",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Bible and Homosexual Practice",
+      "autor": "Robert A. J. Gagnon",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Love Between Women: Early Christian Responses to Female Homoeroticism",
+      "autor": "Bernadette J. Brooten",
+      "tradicion": "critica"
+    }
+  ]
+}

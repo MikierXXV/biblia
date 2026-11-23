@@ -1,0 +1,46 @@
+{
+  "id": "exodo-decalogo-carta-de-libertad",
+  "libro_id": "exodo",
+  "orden": 3,
+  "titulo": "El Decálogo empieza recordando la libertad, no dando órdenes",
+  "pasaje": "Éx 20,1-17",
+  "que_dice": "Antes de ordenar nada, la voz del Sinaí se presenta: soy el Señor, tu Dios, el que te sacó de Egipto, de la esclavitud. Después vienen diez palabras. Las primeras piden exclusividad para Dios y rechazan las imágenes.\n\nLas siguientes protegen el descanso, a los padres, la vida, el matrimonio, la propiedad, la verdad y lo ajeno (20,1-17). El sábado alcanza a siervos, extranjeros y animales: nadie trabaja ese día.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía cuenta como primera palabra la presentación de Dios, que es una afirmación más que un mandato. Según el Talmud (Makot 23b), la Torá tiene 613 preceptos, y Saadía Gaón, en el siglo X, los agrupó bajo las diez palabras."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica y la luterana siguen a Agustín: unen en un solo mandato otros dioses e imágenes, y dividen en dos la codicia. Las leen como ley de amor a Dios y al prójimo."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa cuenta, como la reformada, la prohibición de imágenes como mandamiento propio y reúne la codicia en uno solo. Así llega también a diez palabras, con otro reparto."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En el protestantismo, Lutero distingue entre ley y evangelio. Calvino defiende un tercer uso de la ley: guía del creyente en su vida. Las Iglesias reformadas cuentan la prohibición de imágenes como mandato propio."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos compara Éx 20 con Dt 5,6-21. Los textos casi coinciden, pero el sábado se funda aquí en la creación y allí en la liberación de Egipto.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Exodus (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

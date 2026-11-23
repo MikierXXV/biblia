@@ -1,0 +1,72 @@
+{
+  "id": "eclesiastico",
+  "seccion_id": "sapienciales",
+  "orden": 7,
+  "nombre": "Eclesiástico (Sirácida)",
+  "abreviatura": "Sir",
+  "capitulos": 51,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Obra del maestro Ben Sira (hacia el 180 a. C.), conservada en parte en hebreo. Reúne consejos sobre familia, trabajo, culto y sabiduría.",
+  "presentacion": "Hacia el 180 a. C., en Jerusalén, un maestro llamado Jesús, hijo de Sirá, abre una escuela y escribe lo que enseña. Es Ben Sira, el único autor de los libros sapienciales que firma con su nombre (50,27). Sus consejos tratan de la amistad, los hijos, el dinero, la mesa, la medicina, el culto y el trato con los poderosos.\n\nEl libro mezcla proverbios, poemas sobre la Sabiduría (1; 24), oraciones y alabanzas de la creación (42,15-43,33), y termina con el elogio de los antepasados de Israel (44-50). Su nieto lo tradujo al griego hacia el 132 a. C. y puso un prólogo que lo cuenta.\n\nSe conservó en griego. Desde el siglo XIX han aparecido partes del original hebreo en la Genizá de El Cairo, Qumrán y Masada.",
+  "autoria": {
+    "tradicion": "El propio libro se atribuye a Jesús, hijo de Sirá, escriba de Jerusalén (50,27). Los rabinos lo citan a menudo, aunque el Talmud (Sanedrín 100b) discute si es lícito leerlo.",
+    "critica": "La crítica acepta la autoría de Ben Sira. Es el único libro sapiencial firmado por su autor, y lo conocemos también por el prólogo de su nieto.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición no propone otra fecha: el libro se sitúa en tiempos de Ben Sira, hacia el 180 a. C.",
+    "critica": "El original hebreo es de hacia el 180 a. C. La traducción griega de su nieto es de hacia el 132 a. C., según el prólogo.",
+    "acuerdo": "consenso",
+    "rango": [
+      -200,
+      -130
+    ]
+  },
+  "canon": {
+    "judia": "No está en la Biblia hebrea. Los rabinos lo citan, y partes del original hebreo se conservaron en la Genizá de El Cairo.",
+    "ortodoxa": "Es canónico y figura entre los libros sapienciales de la Septuaginta.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Sir 24,1-12",
+      "nota": "La Sabiduría se presenta y habita en Sión."
+    },
+    {
+      "pasaje": "Sir 38,1-15",
+      "nota": "Honra al médico: Dios creó los remedios."
+    },
+    {
+      "pasaje": "Sir 44,1-15",
+      "nota": "Abre el elogio de los antepasados."
+    },
+    {
+      "pasaje": "Sir 50,1-21",
+      "nota": "Simón, el sumo sacerdote, saliendo del santuario."
+    },
+    {
+      "pasaje": "Sir 50,27",
+      "nota": "Ben Sira firma el libro."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Ben Sira es el único sabio bíblico que firma su libro, hacia el 180 a. C. (50,27).",
+    "Identifica la sabiduría con la Torá (Sir 24).",
+    "Habla de amistad, dinero, limosna, medicina y mujeres, con consejos y con prejuicios de su época.",
+    "Su nieto lo tradujo al griego hacia el 132 a. C.; hay partes del original hebreo.",
+    "Es deuterocanónico: lo reciben católicos y ortodoxos, y no judíos ni protestantes."
+  ]
+}

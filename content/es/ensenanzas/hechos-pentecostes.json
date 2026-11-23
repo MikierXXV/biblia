@@ -1,0 +1,60 @@
+{
+  "id": "hechos-pentecostes",
+  "libro_id": "hechos",
+  "orden": 1,
+  "titulo": "En Pentecostés, cada uno oye hablar en su propia lengua",
+  "pasaje": "Hch 2,1-41",
+  "que_dice": "Jerusalén, fiesta de Pentecostés, cincuenta días después de la Pascua. Los discípulos están reunidos en una casa. Se oye un ruido como de viento, aparecen lenguas como de fuego y empiezan a hablar en otras lenguas.\n\nPeregrinos de quince pueblos distintos los oyen cada uno en su idioma. Unos se asombran y otros creen que están borrachos. Pedro explica el hecho con el profeta Joel: Dios derrama su Espíritu sobre toda carne (Jl 3,1-5). Ese día, según el relato, se bautizan unas tres mil personas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, *Shavuot*, la fiesta de las Semanas, celebra la cosecha y, en la tradición rabínica, el don de la Torá en el Sinaí. Comentaristas judíos del Nuevo Testamento señalan que Lucas evoca el Sinaí: fuego, voz y un pueblo reunido."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Pentecostés es el nacimiento de la Iglesia. Las lenguas entendidas por todos se leen desde Agustín como lo contrario de Babel (Gn 11): la división se cura sin borrar los idiomas."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa celebra en Pentecostés la fiesta de la Trinidad. El icono de la fiesta pone a los apóstoles en semicírculo y, debajo, una figura coronada que representa al mundo, que espera el anuncio."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "El pentecostalismo nació a comienzos del s. XX en Estados Unidos. Lee Hch 2 como modelo para hoy: el bautismo en el Espíritu se acompaña de la *glosolalia*, el hablar en lenguas. Otras iglesias protestantes lo leen como un hecho único que funda la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué hay detrás del relato y por qué Lucas lo sitúa en Pentecostés.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joseph A. Fitzmyer",
+        "texto": "Lucas construye la escena con una tradición sobre una experiencia carismática real de los primeros discípulos, y la sitúa en Pentecostés con intención teológica."
+      },
+      {
+        "quien": "Richard I. Pervo",
+        "texto": "Ve en el relato una composición literaria de Lucas, con recursos de la novela antigua, más que el recuerdo de un acontecimiento concreto."
+      }
+    ]
+  },
+  "temas": [
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Acts of the Apostles (Anchor Bible 31)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Acts: A Commentary (Hermeneia)",
+      "autor": "Richard I. Pervo",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

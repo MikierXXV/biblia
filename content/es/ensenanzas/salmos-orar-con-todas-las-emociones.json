@@ -1,0 +1,54 @@
+{
+  "id": "salmos-orar-con-todas-las-emociones",
+  "libro_id": "salmos",
+  "orden": 1,
+  "titulo": "Los salmos enseñan a rezar con rabia, miedo y gratitud",
+  "pasaje": "Sal 22 (21); 88 (87)",
+  "que_dice": "Un hombre reza desde la fosa, abandonado por los amigos, y su salmo acaba sin respuesta: su única compañía es la oscuridad (88,19). En el Sal 22 (21), otro grita que Dios lo ha dejado y, de golpe, da gracias porque ha sido escuchado.\n\nLos salmos no piden al orante que sienta otra cosa de lo que siente. El lamento es el género más frecuente. El Sal 88 (87), como el 39 (38), termina sin consuelo, y está en el libro igual que los de alabanza.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Meguilá 15b) pone las primeras palabras del Sal 22 en labios de Ester, cuando entra ante el rey sin ser llamada. La tradición judía reza los salmos a diario."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa reza el salterio entero cada semana, dividido en veinte *kathismata*, secciones para sentarse a escuchar. En Cuaresma lo reza dos veces por semana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura cristiana oye en el Sal 22,2 la voz de Jesús en la cruz, según Mt 27,46 y Mc 15,34. La liturgia católica lo canta el Domingo de Ramos."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Walter Brueggemann",
+      "texto": "Para Walter Brueggemann, los salmos van de la orientación a la desorientación y a una nueva orientación. El lamento es la voz de la desorientación, y la fe lo necesita."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica clasifica los salmos por géneros: himnos, lamentos individuales y colectivos, acciones de gracias. Esa clasificación, de Hermann Gunkel, sigue en uso.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Psalms (Interpretation)",
+      "autor": "James Luther Mays",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Message of the Psalms: A Theological Commentary",
+      "autor": "Walter Brueggemann",
+      "tradicion": "protestante"
+    }
+  ]
+}

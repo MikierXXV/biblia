@@ -1,0 +1,88 @@
+{
+  "id": "hebreos",
+  "seccion_id": "nuevo-testamento",
+  "orden": 19,
+  "nombre": "Hebreos",
+  "abreviatura": "Heb",
+  "bloque": "cartas-catolicas",
+  "capitulos": 13,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un sermón escrito que presenta a Cristo como sumo sacerdote y lo compara con el culto del Templo. Su autor es desconocido.",
+  "presentacion": "Una comunidad cansada empieza a flaquear. Ha sufrido insultos y pérdidas, y algunos dejan de reunirse (Heb 10,32-34; 10,25). El autor, que no se nombra, les escribe un sermón largo para que no abandonen su fe.\n\nEl texto mezcla exposición y exhortación. Lee los salmos y el culto de Israel (el santuario, el sumo sacerdote, el día de la Expiación) como anuncio de Cristo. Entre una exposición y otra intercala llamadas a perseverar.\n\nEs el libro del Nuevo Testamento que más se apoya en la Escritura de Israel y el que más ha pesado en el debate entre cristianismo y judaísmo. Por eso se lee aquí con las lecturas judías y cristianas a la vista.",
+  "autoria": {
+    "tradicion": "Las iglesias de Oriente la atribuyeron pronto a Pablo. Orígenes ya dudaba por el estilo y dijo que solo Dios sabe quién la escribió.",
+    "critica": "La crítica sostiene que no es de Pablo: el griego es más pulido y el pensamiento, distinto. El autor sigue anónimo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Quienes la atribuyen a Pablo la sitúan antes de su muerte, hacia el 64-67.",
+    "critica": "La mayoría de los críticos la fecha entre los años 60 y 90, y la cita 1 Clemente hacia el 96, lo que fija el límite superior. Se discute si es anterior o posterior a la destrucción del Templo (año 70).",
+    "acuerdo": "discusion",
+    "rango": [
+      60,
+      90
+    ],
+    "rango_tradicion": [
+      60,
+      67
+    ],
+    "posturas": [
+      {
+        "quien": "William L. Lane y otros",
+        "texto": "Leen en presente el culto del Templo (8,4; 10,1-2) y fechan la carta antes del 70, hacia 64-68."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "La sitúan hacia 80-90, tras la destrucción del Templo, y toman esos presentes como lenguaje sobre el culto que describe la Escritura."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica y se cuenta tradicionalmente como la carta decimocuarta de Pablo.",
+    "protestante": "Es canónica. Lutero dudó de su autoría y la colocó al final de su Nuevo Testamento, junto a Santiago, Judas y Apocalipsis."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Heb 4,14-5,10",
+      "nota": "Cristo presentado como sumo sacerdote que comparte la debilidad humana."
+    },
+    {
+      "pasaje": "Heb 8,1-13",
+      "nota": "La «alianza mejor» y el oráculo de Jeremías sobre la alianza nueva."
+    },
+    {
+      "pasaje": "Heb 11,1-40",
+      "nota": "La lista de testigos de la fe, de Abel a los mártires."
+    },
+    {
+      "pasaje": "Heb 12,1-3",
+      "nota": "La carrera de la perseverancia con la mirada puesta en Jesús."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistle to the Hebrews (Hermeneia)",
+      "autor": "Harold W. Attridge",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hebrews (Word Biblical Commentary 47A-B)",
+      "autor": "William L. Lane",
+      "tradicion": "protestante"
+    }
+  ],
+  "para_recordar": [
+    "Hebreos es un sermón anónimo, no una carta de Pablo, escrito entre los años 60 y 90.",
+    "Lee el culto de Israel (santuario, sumo sacerdote, expiación) como anuncio de Cristo.",
+    "Alterna la exposición con llamadas a perseverar ante el cansancio y la presión.",
+    "La crítica discute si sus destinatarios eran cristianos de origen judío o no.",
+    "La lectura judía recuerda que el judaísmo tiene su propia vía de expiación, sin Templo."
+  ]
+}

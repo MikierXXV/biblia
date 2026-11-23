@@ -1,0 +1,61 @@
+{
+  "id": "salmos-salmos-que-piden-castigo",
+  "libro_id": "salmos",
+  "orden": 2,
+  "titulo": "Un salmo pide estrellar contra la roca a los niños de Babilonia",
+  "pasaje": "Sal 137 (136); 109 (108)",
+  "que_dice": "Los deportados se sientan junto a los ríos de Babilonia y lloran al acordarse de Sión. Sus captores les piden cantos y ellos no cantan. El Sal 137 (136) acaba con una maldición: dichoso quien agarre a los niños de Babilonia y los estrelle contra la roca (137,7-9).\n\nEl Sal 109 (108) pide que los hijos del enemigo queden huérfanos y su mujer viuda (109,9). Son los salmos imprecatorios, los que piden a Dios que castigue. Son pocos, pero la tradición los ha rezado.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La liturgia judía recita el Sal 137 en los días ordinarios antes de la oración tras la comida. Los sábados prefiere el Sal 126, de esperanza."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La Liturgia de las Horas omite los salmos 58 (57), 83 (82) y 109 (108) y algunos versículos de otros por su dureza. Agustín leía a los hijos de Babilonia como los malos deseos, que se rompen contra la roca, Cristo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Erich Zenger",
+      "texto": "Para Erich Zenger, son oraciones de víctimas sin poder. No ejecutan la venganza: la entregan a Dios para no tomarla ellos. Las lee como protesta contra la violencia, no como licencia para ella."
+    }
+  ],
+  "critica": {
+    "texto": "El Sal 137 es del exilio o posterior, tras el 587 a. C. Se discute qué es su violencia.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de los críticos",
+        "texto": "Es retórica de venganza propia del Próximo Oriente y de quien ha perdido todo; no un programa."
+      },
+      {
+        "quien": "Otros críticos y teólogos",
+        "texto": "Expresa un odio real que la Biblia recoge sin aprobarlo ni corregirlo."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "oracion",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A God of Vengeance? Understanding the Psalms of Divine Wrath",
+      "autor": "Erich Zenger",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

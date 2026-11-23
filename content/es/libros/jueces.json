@@ -1,0 +1,87 @@
+{
+  "id": "jueces",
+  "seccion_id": "historicos",
+  "orden": 2,
+  "nombre": "Jueces",
+  "abreviatura": "Jue",
+  "capitulos": 21,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Tras Josué, Israel vive sin jefe fijo y cae en un ciclo de infidelidad, opresión y rescate. El libro reúne los relatos de Débora, Gedeón, Jefté y Sansón, y termina con episodios de violencia atroz.",
+  "presentacion": "Una mujer, Débora, se sienta bajo una palmera y resuelve pleitos. Otra, Yael, clava una estaca en la sien de un general enemigo. Un hombre, Jefté, promete a Dios lo primero que salga de su casa. Así es Jueces: relatos vivos, duros y a veces desconcertantes.\n\nUn juez (*shofet*, en hebreo) es aquí sobre todo un libertador militar. Dios lo suscita cuando el pueblo clama: Otniel, Ehud, Débora, Gedeón, Jefté, Sansón. El libro repite un ciclo de infidelidad, opresión, clamor y rescate, y cada vuelta empeora.\n\nLos capítulos 17-21 no tienen jueces. Cuentan un santuario con ídolo, una violación y una guerra entre tribus, y repiten que no había rey en Israel. Una parte de la crítica lo lee como argumento a favor de la monarquía; otra, como crítica a todo el sistema.",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b) atribuye el libro a Samuel.",
+    "critica": "El libro es anónimo. La mayoría de la crítica lo incluye en la Historia deuteronomista, que ordena relatos antiguos dentro de un marco teológico propio.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Samuel, el libro es del siglo XI a. C.",
+    "critica": "Los hechos se sitúan entre los siglos XII y XI a. C. El Cántico de Débora (Jue 5) está entre los textos más antiguos de la Biblia. El marco deuteronomista es de los siglos VII-VI a. C., y sus capas se discuten.",
+    "acuerdo": "discusion",
+    "rango": [
+      -1100,
+      -550
+    ],
+    "rango_tradicion": [
+      -1100,
+      -1000
+    ],
+    "posturas": [
+      {
+        "quien": "Martin Noth",
+        "texto": "El marco (2,6-3,6 y las fórmulas del ciclo) lo escribió el historiador deuteronomista hacia 560 a. C., en el exilio, y vio en los capítulos 17-21 un apéndice posterior."
+      },
+      {
+        "quien": "Wolfgang Richter",
+        "texto": "Hubo antes un «libro de los libertadores», del norte, que el marco deuteronomista reelaboró después."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Profetas anteriores (Nevi’im rishonim), entre Josué y Samuel. Rut va aparte, entre los Escritos.",
+    "ortodoxa": "Es canónico y figura entre los libros históricos. El texto griego antiguo se conserva en dos formas, la del códice Vaticano y la del Alejandrino.",
+    "protestante": "Es canónico y figura entre los libros históricos, antes de Rut."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jue 2,11-19",
+      "nota": "El narrador resume el ciclo que organiza el libro."
+    },
+    {
+      "pasaje": "Jue 4-5",
+      "nota": "Débora y Yael: el relato en prosa y el poema, uno de los textos más antiguos de la Biblia."
+    },
+    {
+      "pasaje": "Jue 11,29-40",
+      "nota": "Jefté promete a Dios lo primero que salga de su casa, y sale su hija."
+    },
+    {
+      "pasaje": "Jue 21,25",
+      "nota": "Frase final: no había rey en Israel y cada uno hacía lo que le parecía bien."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Texts of Terror",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Book of Judges: Literature as Politics",
+      "autor": "Marc Z. Brettler",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Jueces repite un ciclo: infidelidad, opresión, clamor y rescate por un libertador.",
+    "Débora es jueza y profeta, y el Cántico de Débora es de los textos más antiguos de la Biblia.",
+    "Los relatos de Jefté y de Gabaá son textos de terror que la crítica y las tradiciones leen de frente.",
+    "La frase «no había rey» se lee como defensa de la monarquía o como crítica de todo el sistema.",
+    "La tradición judía pone Jueces entre los Profetas anteriores, no entre los «históricos»."
+  ]
+}

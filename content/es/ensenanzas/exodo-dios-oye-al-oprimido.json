@@ -1,0 +1,60 @@
+{
+  "id": "exodo-dios-oye-al-oprimido",
+  "libro_id": "exodo",
+  "orden": 1,
+  "titulo": "Dios oye el grito de los esclavos y baja a liberarlos",
+  "pasaje": "Éx 3,7-10",
+  "que_dice": "Moisés cuida ovejas en el desierto cuando ve una zarza que arde sin consumirse. Desde ella Dios le habla: ha visto la opresión de su pueblo en Egipto, ha oído sus gritos y baja a liberarlo.\n\nLuego le encarga ir ante el faraón (3,7-10). Moisés se excusa cuatro veces. Dios le responde que estará con él y le da un nombre misterioso (3,14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi lee el nombre de 3,14 como promesa: Dios estará con Israel en esta opresión y en las que vengan. La tradición judía ve en este pasaje el origen de la memoria de la liberación."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Dios se revela aquí como quien escucha y libera. La liturgia pascual cristiana toma la salida de Egipto como imagen de la liberación del pecado."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "liberacion",
+      "autor": "Gustavo Gutiérrez",
+      "texto": "En la teología de la liberación de Gustavo Gutiérrez, el éxodo es el relato modelo: Dios toma partido por los oprimidos y la fe pasa por la liberación histórica."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos coincide en que no hay pruebas arqueológicas directas del relato tal como lo cuenta el libro. Discute qué recuerdo histórico conserva.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Finkelstein y Silberman",
+        "texto": "Ven el eco de recuerdos como la expulsión de los hicsos de Egipto, reelaborado y escrito en el siglo VII a. C. Los israelitas serían de origen cananeo."
+      },
+      {
+        "quien": "K. A. Kitchen y otros estudiosos conservadores",
+        "texto": "Hallan rasgos egipcios del Delta y de Ramsés II (siglo XIII a. C.) que sostendrían una base histórica."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Exodus (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "La Biblia desenterrada",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Teología de la liberación. Perspectivas",
+      "autor": "Gustavo Gutiérrez",
+      "tradicion": "literaria"
+    }
+  ]
+}

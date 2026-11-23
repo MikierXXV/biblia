@@ -1,0 +1,87 @@
+{
+  "id": "rut",
+  "seccion_id": "historicos",
+  "orden": 3,
+  "nombre": "Rut",
+  "abreviatura": "Rut",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Una viuda moabita se queda con su suegra Noemí y acaba siendo bisabuela del rey David. Un libro breve sobre lealtad, extranjería y esperanza.",
+  "presentacion": "Una familia de Belén huye del hambre y emigra a Moab. Allí mueren el padre y sus dos hijos. La viuda, Noemí, vuelve a casa con Rut, su nuera moabita. Todo ocurre «en el tiempo en que gobernaban los jueces».\n\nRut espiga en el campo de Booz, un pariente de la familia, y acaba casándose con él. Su hijo Obed será abuelo del rey David (Rut 4,17). El libro es casi todo diálogo y tiene forma simétrica: empieza en el vacío (hambre, muerte, viudez) y termina en la plenitud (boda, hijo, genealogía).\n\nSu género se discute: se ha leído como relato histórico, como novela corta y como relato ejemplar. Importa por tres cosas: la iniciativa de dos mujeres en un mundo de hombres, el trato a una extranjera pobre y una moabita entre los antepasados de Jesús (Mt 1,5).",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, tratado Baba Batra 14b) atribuye el libro al profeta Samuel.",
+    "critica": "El libro es anónimo. La crítica no discute tanto quién lo escribió como cuándo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Samuel, es obra del siglo XI a. C.",
+    "critica": "La acción se sitúa en la época de los jueces (hacia los siglos XII-XI a. C.). La fecha de composición está en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      -1000,
+      -400
+    ],
+    "rango_tradicion": [
+      -1100,
+      -1000
+    ],
+    "posturas": [
+      {
+        "quien": "Edward F. Campbell",
+        "texto": "Data el libro en la monarquía temprana (siglos X-IX a. C.)."
+      },
+      {
+        "quien": "Otra parte, muy extendida",
+        "texto": "Lo sitúa tras el exilio (siglo V a. C.), quizá como réplica a Esdras y Nehemías sobre los matrimonios con mujeres extranjeras."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), como uno de los cinco rollos (megillot). Se lee en la fiesta de Shavuot, la de las Semanas.",
+    "ortodoxa": "Es canónico y figura entre los libros históricos, después de Jueces.",
+    "protestante": "Es canónico y figura entre los libros históricos, después de Jueces."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Rut 1,16-17",
+      "nota": "La promesa de Rut a Noemí: «tu pueblo será mi pueblo»."
+    },
+    {
+      "pasaje": "Rut 2,2",
+      "nota": "Rut sale a espigar en los campos, un derecho de los pobres."
+    },
+    {
+      "pasaje": "Rut 3,9",
+      "nota": "Rut pide a Booz que extienda su manto sobre ella, es decir, que la acoja como pariente redentor."
+    },
+    {
+      "pasaje": "Rut 4,17",
+      "nota": "Obed es el abuelo de David: la nota que cierra el relato."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Ruth (Anchor Bible 7)",
+      "autor": "Edward F. Campbell",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Rut, una moabita, se queda con su suegra Noemí y, según el libro, es bisabuela del rey David.",
+    "Su palabra clave es jésed: la fidelidad generosa que nadie puede exigir.",
+    "Dos mujeres, Noemí y Rut, llevan la iniciativa en un mundo de hombres.",
+    "La tradición judía lee Rut en Shavuot; la cristiana la ve entre los antepasados de Jesús (Mt 1,5).",
+    "La crítica discute cuándo se escribió: en la monarquía temprana o tras el exilio."
+  ]
+}

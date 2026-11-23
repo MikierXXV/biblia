@@ -1,0 +1,91 @@
+{
+  "id": "eclesiastes",
+  "seccion_id": "sapienciales",
+  "orden": 4,
+  "nombre": "Eclesiastés",
+  "abreviatura": "Ecl",
+  "capitulos": 12,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un maestro examina el trabajo, el placer y la muerte, y concluye que casi todo es «vanidad». Cuestiona las respuestas fáciles.",
+  "presentacion": "Un hombre mayor mira su vida y dice que todo es *hebel*: la palabra hebrea para «aliento» o «vapor», lo que se ve y no se agarra. Se presenta como Qohélet, «el que reúne la asamblea», hijo de David y rey en Jerusalén (1,1).\n\nHa probado la sabiduría, el placer, la riqueza y el trabajo, y en todo encuentra un límite. Ve que al sabio y al necio les espera la misma muerte, que la justicia a veces no llega y que el futuro no se conoce.\n\nNo es un libro de desesperanza. Recomienda comer, beber y disfrutar con gratitud de lo que se tiene (9,7-10), y termina pidiendo temer a Dios (12,13). Es un libro de preguntas, y por eso inquietó a los sabios antiguos.",
+  "autoria": {
+    "tradicion": "La tradición lo atribuyó a Salomón (1,1). El Talmud (Baba Batra 15a) dice que lo puso por escrito el círculo del rey Ezequías.",
+    "critica": "El libro es anónimo. «Qohélet» es un título que el autor se da, y el «rey» de 1,1 es un recurso literario.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Salomón, el libro es del siglo X a. C.",
+    "critica": "La crítica lo data después del exilio por su hebreo tardío, y discute si es de época persa o helenística.",
+    "acuerdo": "discusion",
+    "rango": [
+      -450,
+      -200
+    ],
+    "posturas": [
+      {
+        "quien": "Choon-Leong Seow",
+        "texto": "Época persa, siglos V-IV a. C., por los préstamos del persa y el lenguaje económico del libro."
+      },
+      {
+        "quien": "Michael V. Fox y otros críticos",
+        "texto": "Siglo III a. C., en el ambiente helenístico."
+      }
+    ],
+    "rango_tradicion": [
+      -970,
+      -930
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), como uno de los cinco rollos (megillot). Muchas comunidades lo leen en Sucot, la fiesta de las Tiendas. Los sabios discutieron si debía retirarse.",
+    "ortodoxa": "Es canónico y figura entre los libros sapienciales.",
+    "protestante": "Es canónico y figura entre los libros poéticos y sapienciales."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Ecl 1,2",
+      "nota": "Todo es aliento: la frase que resume el libro."
+    },
+    {
+      "pasaje": "Ecl 3,1-8",
+      "nota": "Un tiempo para cada cosa bajo el cielo."
+    },
+    {
+      "pasaje": "Ecl 9,7-10",
+      "nota": "Come tu pan con alegría: el consejo central."
+    },
+    {
+      "pasaje": "Ecl 12,1-8",
+      "nota": "Recuerda a tu Creador: la vejez como imagen."
+    },
+    {
+      "pasaje": "Ecl 12,13",
+      "nota": "Conclusión del epílogo: teme a Dios."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Qohélet llama a todo hebel: aliento, algo que existe pero no se agarra.",
+    "Cuestiona las respuestas fáciles: el justo y el malvado mueren igual, y la justicia no siempre llega.",
+    "Su consejo práctico es disfrutar con gratitud de comer, trabajar y amar (9,7-10).",
+    "Los sabios del Talmud discutieron si retirarlo por sus contradicciones.",
+    "La crítica discute si el epílogo (12,9-14) es del mismo autor o de un redactor."
+  ]
+}

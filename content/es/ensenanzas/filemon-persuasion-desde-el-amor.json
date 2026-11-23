@@ -1,0 +1,44 @@
+{
+  "id": "filemon-persuasion-desde-el-amor",
+  "libro_id": "filemon",
+  "orden": 2,
+  "titulo": "¿Por qué Pablo ruega en vez de ordenar?",
+  "pasaje": "Flm 8-9",
+  "que_dice": "Pablo podría mandar a Filemón lo que debe hacer, y lo dice. Prefiere rogar, por amor, como anciano y preso por Cristo. La carta, dirigida también a una comunidad que se reúne en casa de Filemón, no pide algo en secreto: la pide ante los demás.\n\nEl texto está lleno de recursos de persuasión: elogios, juegos de palabras con el nombre de Onésimo («útil») y una promesa de pagar cualquier deuda.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen aquí un modelo de autoridad que persuade y no impone. Difieren en qué consecuencias extraen para la autoridad dentro de la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que la carta está compuesta con arte retórico. Discuten si el ruego es una presión disfrazada.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "James Dunn",
+        "texto": "Pablo respeta la libertad de Filemón, pero deja claro lo que espera de él; el ruego tiene fuerza por la relación que une a ambos."
+      },
+      {
+        "quien": "John Barclay",
+        "texto": "La delicadeza oculta una presión: ante la comunidad, Filemón queda sin un modo fácil de negarse."
+      }
+    ]
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Paul, Philemon and the Dilemma of Christian Slave-Ownership (New Testament Studies 37)",
+      "autor": "John M. G. Barclay",
+      "tradicion": "critica"
+    }
+  ]
+}

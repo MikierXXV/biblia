@@ -1,0 +1,45 @@
+{
+  "id": "mateo-perdonar-setenta-veces-siete",
+  "libro_id": "mateo",
+  "orden": 4,
+  "titulo": "Perdonar setenta veces siete: la deuda que no se puede pagar",
+  "pasaje": "Mt 18,21-35",
+  "que_dice": "Pedro pregunta cuántas veces debe perdonar a su hermano: ¿hasta siete? Jesús responde: setenta veces siete, o setenta y siete según se lea el griego. En los dos casos, sin llevar la cuenta. Y cuenta una parábola.\n\nUn siervo debe a su rey diez mil talentos, una cifra que ningún siervo reuniría, y el rey se lo perdona. Al salir, el siervo ahoga a un compañero que le debe cien denarios, y el rey lo castiga. El centro es el contraste entre las dos deudas. Antes, Mt 18,15-20 ofrece a la comunidad un camino para el conflicto: hablar a solas, luego con testigos, luego ante la asamblea.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía enseña que el Yom Kipur, el día de la expiación, no perdona las ofensas contra el prójimo hasta que se pide perdón al ofendido (Mishná, Yoma 8,9). El perdón entre personas es condición previa."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el texto se une a la petición del Padrenuestro: perdónanos como perdonamos (Mt 6,12). El Catecismo ve en ella una condición mutua entre el perdón de Dios y el humano (2838-2845)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "En la tradición ortodoxa, el perdón mutuo abre la Cuaresma. En las vísperas del Domingo del Perdón, cada fiel pide perdón a los demás con una reverencia, como describe Alexander Schmemann en Great Lent."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, en la línea de los reformadores, el orden importa: primero el perdón gratuito del rey, después el del siervo. El perdón humano responde a la gracia y no la compra."
+    }
+  ],
+  "critica": {
+    "texto": "Mt 18 es el cuarto de los cinco discursos de Mateo y se dirige a la comunidad. Esta parábola solo aparece en este evangelio. Su cifra exagerada es, según la crítica, un recurso para subrayar el contraste.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Matthew 8-20 (Hermeneia)",
+      "autor": "Ulrich Luz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Great Lent: Journey to Pascha",
+      "autor": "Alexander Schmemann",
+      "tradicion": "ortodoxa"
+    }
+  ]
+}

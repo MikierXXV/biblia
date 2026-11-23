@@ -1,0 +1,38 @@
+{
+  "id": "ageo-reconstruir-el-templo",
+  "libro_id": "ageo",
+  "orden": 1,
+  "titulo": "¿Casas con artesonado mientras la casa de Dios sigue en ruinas?",
+  "pasaje": "Ag 1,1-15",
+  "que_dice": "A finales de agosto del 520 a. C. el pueblo de Jerusalén vive en casas con paredes de madera noble. Ageo se dirige a Zorobabel y a Josué con una pregunta incómoda: ¿es hora de vivir bajo techo mientras el Templo está en ruinas (1,2-4)?\n\nSiembran mucho y cosechan poco, comen sin saciarse y guardan el jornal en un saco roto (1,6). Ageo lo atribuye a su abandono del Templo. Los jefes y el pueblo obedecen, y tres semanas después empiezan la obra (1,12-15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Yoma 21b) cuenta cinco cosas que faltaban en el Segundo Templo, entre ellas el arca y la presencia de Dios. Lo deduce de una grafía rara en Ag 1,8, donde falta una letra en el verbo «ser glorificado»."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición cristiana antigua, con Jerónimo en su comentario a Ageo, dio al Templo un sentido espiritual: la edificación de la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica fecha Ag 1 en el 520 a. C. Meyers y Meyers recuerdan que, en Oriente, el templo daba legitimidad al gobernante. Ageo une su reconstrucción con la prosperidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

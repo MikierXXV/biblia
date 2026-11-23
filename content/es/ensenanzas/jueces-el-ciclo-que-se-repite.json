@@ -1,0 +1,34 @@
+{
+  "id": "jueces-el-ciclo-que-se-repite",
+  "libro_id": "jueces",
+  "orden": 1,
+  "titulo": "Un ciclo que se repite: infidelidad, opresión, clamor y rescate",
+  "pasaje": "Jue 2,11-23; 3,7-11",
+  "que_dice": "Otniel es el primer juez, y con él el libro muestra su fórmula. Israel hace lo malo ante Dios y sirve a los dioses de Canaán. Dios lo entrega a un opresor, Cusán-Risatáyim, rey de Mesopotamia. Los israelitas claman y Dios les suscita a Otniel, que vence y da paz durante cuarenta años (3,7-11).\n\nEl narrador resume el ciclo en 2,11-19. Cuando muere cada juez, el pueblo vuelve a hacer lo mismo y algo peor.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el ciclo enseña que la infidelidad trae opresión y que Dios escucha el clamor. El Sal 106 (105) recorre la historia de Israel con el mismo esquema."
+    }
+  ],
+  "critica": {
+    "texto": "Según la mayoría de la crítica, el esquema del ciclo (2,11-19) es del historiador deuteronomista, que ordenó relatos antiguos de libertadores locales en una historia de todo Israel.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judges, Ruth (New American Commentary 6)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    }
+  ]
+}

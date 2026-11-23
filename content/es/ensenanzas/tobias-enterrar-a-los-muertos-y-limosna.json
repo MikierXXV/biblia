@@ -1,0 +1,37 @@
+{
+  "id": "tobias-enterrar-a-los-muertos-y-limosna",
+  "libro_id": "tobias",
+  "orden": 1,
+  "titulo": "Tobit entierra a los muertos aunque le cueste la casa",
+  "pasaje": "Tob 1,16–2,10; 4,7-11",
+  "que_dice": "Tobit vive en Nínive, deportado por los asirios. Cuando el rey mata a judíos y deja sus cuerpos sin sepultura, él los entierra de noche y pierde sus bienes (Tob 1,16-20). Un día, tras enterrar a un muerto, se queda ciego (2,1-10).\n\nMás tarde, ya ciego, aconseja a su hijo: da limosna de lo que tengas, aunque sea poco, porque la limosna libra de la muerte (4,7-11). Para el libro, la misericordia con los pobres y con los muertos es la forma concreta de fidelidad a Dios.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no tiene Tobías en su canon, pero comparte el valor. Sepultar a los muertos es *jésed shel emet*: la bondad verdadera, la que no espera pago, porque el difunto no puede devolverla."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, las obras de misericordia corporales incluyen enterrar a los muertos y dar limosna. Tobías es una de sus fuentes bíblicas."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica clasifica el libro como novela edificante de la diáspora. Su ética resume lo que se pedía en la vida diaria bajo dominio extranjero: no abandonar a los muertos, ayudar a los pobres y casarse dentro del pueblo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Tobit (Commentaries on Early Jewish Literature)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

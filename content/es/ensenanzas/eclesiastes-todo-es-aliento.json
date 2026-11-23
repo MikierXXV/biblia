@@ -1,0 +1,52 @@
+{
+  "id": "eclesiastes-todo-es-aliento",
+  "libro_id": "eclesiastes",
+  "orden": 1,
+  "titulo": "«Todo es aliento»: ¿qué le queda al hombre de tanto afán?",
+  "pasaje": "Ecl 1,2-11",
+  "que_dice": "Un anciano con fama de sabio abre su discurso con una frase que lo resume: vanidad de vanidades, todo es vanidad (1,2). La palabra hebrea, *hebel*, significa «aliento» o «vapor»: algo que existe y no se deja agarrar.\n\nLuego pregunta qué saca el hombre de todo su trabajo bajo el sol (1,3). Las generaciones van y vienen, el sol sale y se pone, los ríos van al mar y el mar no se llena. Todo se repite y nadie recuerda lo antiguo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los sabios del Talmud (Shabat 30b) quisieron retirar el libro por sus contradicciones. Lo conservaron porque empieza y termina con palabras de la Torá. Muchas comunidades lo leen en Sucot, fiesta de alegría."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Jerónimo, el traductor de la Vulgata, comentó el libro hacia el 388. Lo leyó como desprecio de un mundo que pasa, para volver la mirada a Dios."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué quiere decir *hebel*, la palabra que da título al libro. Tres de sus lecturas más conocidas son «aliento», «absurdo» y «fugaz».",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Michael V. Fox",
+        "texto": "Traduce «absurdo»: el mundo no tiene el sentido que parece exigir la razón, y Qohélet lo reconoce."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Subrayan lo fugaz: el aliento dura poco, como la vida, pero no por eso carece de valor."
+      }
+    ]
+  },
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

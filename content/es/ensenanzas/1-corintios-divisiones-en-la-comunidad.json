@@ -1,0 +1,34 @@
+{
+  "id": "1-corintios-divisiones-en-la-comunidad",
+  "libro_id": "1-corintios",
+  "orden": 1,
+  "titulo": "¿Está dividido Cristo? Pablo ante los bandos de Corinto",
+  "pasaje": "1 Cor 1,10-17",
+  "que_dice": "Gente de la casa de Cloe llega a Éfeso con malas noticias: la comunidad de Corinto se ha partido en bandos. Unos dicen ser de Pablo, otros de Apolo, otros de Cefas, otros de Cristo (1,11-12). Pablo pregunta si Cristo está repartido.\n\nLa causa parece ser el prestigio. Los corintios admiran la elocuencia y miden a los maestros por su sabiduría. Pablo responde que la cruz parece necedad al mundo (1,18-25) y que él y Apolo son colaboradores: uno planta, otro riega, y Dios hace crecer (3,5-9).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el pasaje como llamada a la unidad de la Iglesia. Se cita sobre todo en el movimiento ecuménico, que busca superar las divisiones entre iglesias, aunque Pablo hablaba de rivalidades dentro de una sola comunidad."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en los bandos rivalidades de prestigio por la sabiduría y la retórica, no cuatro doctrinas distintas. Pablo no los corrige con un argumento sobre doctrina, sino con la cruz como criterio: quien se gloría en un maestro humano se gloría mal.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NIGTC)",
+      "autor": "Anthony C. Thiselton",
+      "tradicion": "critica"
+    }
+  ]
+}

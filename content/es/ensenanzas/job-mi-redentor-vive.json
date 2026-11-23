@@ -1,0 +1,53 @@
+{
+  "id": "job-mi-redentor-vive",
+  "libro_id": "job",
+  "orden": 5,
+  "titulo": "«Mi redentor vive»: ¿esperanza tras la muerte o justicia en vida?",
+  "pasaje": "Job 19,25-27",
+  "que_dice": "Job está al límite. Ha dicho que Dios lo ha cercado y que sus amigos lo han abandonado (19,6-22). Entonces pide que sus palabras se graben en la roca y proclama: sé que mi redentor vive y que al final se alzará sobre el polvo (19,23-25).\n\nEl *goel*: el pariente que debía defender los derechos de su familia. Job espera un defensor que lo declare inocente. Los versículos 26-27 son difíciles en hebreo: Job verá a Dios, pero no está claro si «desde su carne» o «sin ella».",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi identifica al *goel* con Dios, el defensor del inocente. Los comentaristas judíos no leen el pasaje de un solo modo, y el judaísmo rabínico afirma la resurrección por otros textos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La Vulgata traduce que Job verá a Dios «en su carne», y la tradición católica leyó el pasaje como esperanza de resurrección. Entra en la liturgia de difuntos."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición protestante conservó esa lectura: Haendel, luterano, puso Jb 19,25 en El Mesías (1741) como anuncio de la resurrección de Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si Job espera la vindicación antes de morir o después. La mayoría ve tardía la resurrección explícita (Dn 12,2); Jon Levenson le busca raíces más antiguas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Job espera que Dios lo declare inocente en vida: es un grito de confianza en la justicia, no una doctrina."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Job aspira a ver a Dios tras la muerte: el pasaje anticipa lo que más tarde será la esperanza de resurrección."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Resurrection and the Restoration of Israel",
+      "autor": "Jon D. Levenson",
+      "tradicion": "judia"
+    }
+  ],
+  "abierta": true
+}

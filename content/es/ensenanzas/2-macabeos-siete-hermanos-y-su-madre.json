@@ -1,0 +1,56 @@
+{
+  "id": "2-macabeos-siete-hermanos-y-su-madre",
+  "libro_id": "2-macabeos",
+  "orden": 1,
+  "titulo": "Siete hermanos y su madre mueren confiando en resucitar",
+  "pasaje": "2 Mac 7",
+  "que_dice": "Un rey pretende obligar a siete hermanos a comer carne de cerdo. Ellos se niegan, uno tras otro, y son torturados y muertos delante de su madre (2 Mac 7,1-23). Todos esperan que Dios los devuelva a la vida.\n\nEl segundo dice que el Rey del mundo los resucitará para una vida eterna (7,9). El cuarto añade que el rey no resucitará para la vida (7,14). La madre los anima y muere la última (7,41).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no recibió el libro, pero cree en la resurrección de los muertos. El Talmud (Sanedrín 90a) niega parte en el mundo futuro a quien niegue que la Torá la enseña."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica es un texto central sobre la resurrección y el martirio. Heb 11,35 habla de quienes prefirieron la tortura para alcanzar una resurrección mejor."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa honra el 1 de agosto a los siete hermanos macabeos, a su madre Solomoní y a Eleazar."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Biblias protestantes lo tienen por apócrifo y no lo usan para fundar la doctrina de la resurrección, que apoyan en Dn 12 y en el Nuevo Testamento."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que la esperanza de resurrección individual es tardía en el Antiguo Testamento. Discute de dónde viene.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jon Levenson",
+        "texto": "Tiene raíz israelita: la imagen de restaurar al pueblo (Ez 37; Is 26) se aplica ahora a cada mártir."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Ve influencia persa o griega sobre el judaísmo de la época helenística."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "2 Maccabees (Hermeneia)",
+      "autor": "Robert Doran",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Resurrection and the Restoration of Israel",
+      "autor": "Jon D. Levenson",
+      "tradicion": "judia"
+    }
+  ]
+}

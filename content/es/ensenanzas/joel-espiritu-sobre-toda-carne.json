@@ -1,0 +1,38 @@
+{
+  "id": "joel-espiritu-sobre-toda-carne",
+  "libro_id": "joel",
+  "orden": 3,
+  "titulo": "Un Espíritu para todos: hijos, hijas, siervos y ancianos",
+  "pasaje": "Jl 3,1-5 (Jl 2,28-32 en otras Biblias)",
+  "que_dice": "Tras la plaga, Dios promete devolver lo perdido. Luego promete algo mayor: derramará su Espíritu sobre toda carne, es decir, sobre todo ser humano (3,1). Los hijos y las hijas profetizarán, los ancianos tendrán sueños y los jóvenes visiones.\n\nLa promesa alcanza hasta los siervos y las siervas (3,2). Antes habrá señales: el sol se oscurecerá y la luna se pondrá como sangre (3,3-4). Quien invoque el nombre del Señor se salvará (3,5).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía tradicional entiende la promesa de Jl 3,1-5 como dirigida a Israel y a los tiempos futuros, y no la vincula con un hecho ya ocurrido."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen Hch 2: Pedro dice en Pentecostés que lo que ven es lo anunciado por Joel (Hch 2,16). Las Iglesias pentecostales hacen de este texto un pilar de su teología del Espíritu."
+    }
+  ],
+  "critica": {
+    "texto": "Hch 2,17 cambia «después de esto» por «en los últimos días»; Joel dice lo primero. La crítica ve en Jl 3,1-5 una promesa posterior al exilio, que Lucas relee en clave de Pentecostés.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Joel and Amos (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ]
+}

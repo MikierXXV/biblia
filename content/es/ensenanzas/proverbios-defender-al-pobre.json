@@ -1,0 +1,48 @@
+{
+  "id": "proverbios-defender-al-pobre",
+  "libro_id": "proverbios",
+  "orden": 4,
+  "titulo": "Quien oprime al pobre ofende a su Creador",
+  "pasaje": "Prov 14,31; 19,17; 22,22-23",
+  "que_dice": "Proverbios dice dos cosas sobre el pobre. Por un lado, que la pereza empobrece y el trabajo enriquece (10,4). Por otro, que quien oprime al pobre ofende a su Creador (14,31) y que quien se apiada de él presta al Señor, que se lo devolverá (19,17).\n\nEl libro prohíbe despojar al débil a las puertas de la ciudad, donde se juzgaba, porque Dios defenderá su causa (22,22-23). El pobre no queda solo: tiene un defensor.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el cuidado del pobre se entiende como deber ante Dios, no como favor. La tradición judía lo llama *tzedaká*, la justicia que se hace dando, y Maimónides pone como grado más alto ayudar al pobre a valerse por sí mismo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo encajan las dos visiones del pobre: el perezoso empobrecido y la víctima de la opresión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Las dos visiones proceden de colecciones y de ambientes distintos: la del campesino que vigila la pereza y la del escriba que critica abusos."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Proverbios no culpa al pobre: dice que la pereza empobrece, pero no que todo pobre sea perezoso. Son sentencias generales, no un juicio sobre cada caso."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Proverbs 10-31 (Anchor Bible 18B)",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Proverbs (Word Biblical Commentary 22)",
+      "autor": "Roland E. Murphy",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

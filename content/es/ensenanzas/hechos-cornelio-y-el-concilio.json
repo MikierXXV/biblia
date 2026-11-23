@@ -1,0 +1,53 @@
+{
+  "id": "hechos-cornelio-y-el-concilio",
+  "libro_id": "hechos",
+  "orden": 5,
+  "titulo": "Pedro entra en casa de un pagano y la Iglesia se abre",
+  "pasaje": "Hch 10,1-48; 15,1-29",
+  "que_dice": "Cesarea, puerto romano. Cornelio, centurión pagano, recibe en una visión la orden de llamar a Pedro. Mientras, Pedro ve bajar del cielo un lienzo con animales impuros y oye que coma. Entra en casa de Cornelio, algo que, según el propio Pedro (Hch 10,28), no estaba permitido a un judío, y lo bautiza.\n\nAños después, en Jerusalén, se discute si los no judíos deben circuncidarse. El concilio de Jerusalén decide que no. Solo les pide cuatro cosas, entre ellas no comer sangre ni carne ofrecida a los ídolos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, las cuatro normas se parecen a las leyes de Noé, los preceptos que la tradición rabínica pide a todos los pueblos. Desde esa lectura, el concilio no rompe con el judaísmo: aplica una idea judía a los no judíos."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el bautismo de Cornelio y el concilio abren la Iglesia a todos los pueblos sin hacerlos judíos antes. Las iglesias ven en el concilio el modelo de cómo se resuelve un conflicto: reunión, debate y decisión común."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica compara Hch 15 con el relato de Pablo en Gál 2,1-10, que no menciona las cuatro normas. Se discute cómo encajan.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joseph A. Fitzmyer y otros",
+        "texto": "Hch 15 funde dos reuniones distintas: la que cuenta Pablo y otra posterior que fijó las normas de comida."
+      },
+      {
+        "quien": "Una parte de la crítica, con Pervo",
+        "texto": "Lucas presenta un acuerdo armonioso donde las cartas de Pablo muestran un conflicto abierto, como el de Antioquía (Gál 2,11-14)."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Acts of the Apostles (Anchor Bible 31)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Acts: A Commentary (Hermeneia)",
+      "autor": "Richard I. Pervo",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

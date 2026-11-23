@@ -1,0 +1,48 @@
+{
+  "id": "1-macabeos-dinastia-asmonea",
+  "libro_id": "1-macabeos",
+  "orden": 4,
+  "titulo": "Los asmoneos se hacen sumos sacerdotes: ¿era legítimo?",
+  "pasaje": "1 Mac 9-14",
+  "que_dice": "Judas muere en batalla (1 Mac 9). Su hermano Jonatán negocia con los reyes seléucidas y acepta ser sumo sacerdote en el 152 a. C., por nombramiento del rey Alejandro Balas (10,18-21). Simón logra la independencia política y un decreto que lo hace jefe y sumo sacerdote hasta que surja un profeta fiel (14,35-47).\n\nLos asmoneos no descendían de la familia que había ejercido el sumo sacerdocio. El libro lo celebra, pero algunos textos de Qumrán parecen criticar a un sacerdote ilegítimo, aunque se discute a quién se refieren.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica recuerda a los Macabeos con ambivalencia. En Janucá la lectura profética es Zac 2,14–4,7, que dice que la salvación no viene de la fuerza ni del poder, sino del espíritu de Dios."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el libro es fuente histórica canónica de la época entre los testamentos. Explica parte del contexto del Nuevo Testamento: la independencia asmonea y la llegada de Roma (1 Mac 8)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo leer este libro como fuente histórica de la época y qué papel jugó la dinastía.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jonathan Goldstein",
+        "texto": "Lo lee como propaganda de la dinastía: justifica a los asmoneos como elegidos de Dios (5,62) y calla sus conflictos."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Lo lee como una fuente histórica de primer orden, con cronología precisa y documentos oficiales, aunque favorable a los asmoneos."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Maccabees (Anchor Bible 41)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

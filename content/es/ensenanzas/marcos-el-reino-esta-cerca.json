@@ -1,0 +1,60 @@
+{
+  "id": "marcos-el-reino-esta-cerca",
+  "libro_id": "marcos",
+  "orden": 1,
+  "titulo": "El reino de Dios está cerca, y Jesús pide cambiar de vida",
+  "pasaje": "Mc 1,14-15",
+  "que_dice": "Juan el Bautista ha sido arrestado. Jesús llega a Galilea con una noticia: se ha cumplido el tiempo y el reino de Dios está cerca. Pide dos cosas: cambiar de vida (*metanoeite*, cambiad de mentalidad) y creer en la buena noticia.\n\nEs la primera frase que Marcos pone en boca de Jesús. Marcos no define el reino: lo muestra en curaciones, en exorcismos y en comidas con pecadores (Mc 2,15-17).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, la expresión recuerda el reinado de Dios que celebran los salmos. También lo pide el *Kadish* (la doxología que se recita en el duelo): «que establezca su reino». La pregunta es qué significaba «cerca» bajo dominio romano."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el reino llega con Jesús y crece en la Iglesia, su germen y principio, según el Concilio Vaticano II (*Lumen gentium*, «luz de las naciones», 5)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa subraya que el reino se anticipa ya en la liturgia. La Divina Liturgia se entiende como una entrada en el reino y empieza con su bendición."
+    }
+  ],
+  "critica": {
+    "texto": "Los evangelios son biografías antiguas escritas desde la fe, no crónicas neutrales: hay acuerdo en eso. Sobre qué quiso decir el Jesús histórico con «reino» hay escuelas enfrentadas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Bart Ehrman",
+        "texto": "Jesús fue un profeta apocalíptico: esperaba que Dios interviniera pronto, juzgara el mundo e implantara su reino."
+      },
+      {
+        "quien": "John Dominic Crossan",
+        "texto": "Jesús fue un sabio campesino, de talante cínico, que proclamó un reino igualitario ya presente, sin fin del mundo."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Jesús anunció el regreso de Dios a Sión y creyó que su reinado se hacía presente en el propio ministerio de Jesús."
+      }
+    ]
+  },
+  "temas": [
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jesus: Apocalyptic Prophet of the New Millennium",
+      "autor": "Bart D. Ehrman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Historical Jesus",
+      "autor": "John Dominic Crossan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jesus and the Victory of God",
+      "autor": "N. T. Wright",
+      "tradicion": "protestante"
+    }
+  ]
+}

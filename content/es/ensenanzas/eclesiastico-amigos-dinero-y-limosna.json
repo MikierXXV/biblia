@@ -1,0 +1,42 @@
+{
+  "id": "eclesiastico-amigos-dinero-y-limosna",
+  "libro_id": "eclesiastico",
+  "orden": 2,
+  "titulo": "Un amigo fiel es un tesoro: Ben Sira sobre amigos, dinero y limosna",
+  "pasaje": "Sir 6,5-17; 29,8-13",
+  "que_dice": "Ben Sira avisa al discípulo: hay amigos de ocasión que se sientan a tu mesa y desaparecen en la desgracia (6,8-10). Un amigo fiel es una protección segura, un tesoro, un elixir de vida (6,14-16). Conviene probarlo antes de confiar.\n\nTambién habla del dinero. Aconseja prestar al prójimo en su necesidad y dar limosna al pobre sin hacerlo esperar (29,8-13). La limosna, dice, libra de todo mal (29,12).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud repite que la limosna libra de la muerte (Baba Batra 10a, a partir de Prov 10,2). La tradición la llama *tzedaká*, justicia que se hace dando."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica apoya en Sir 3,30 y Tob 12,9 que la limosna expía los pecados, junto con la oración y el ayuno."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Los reformadores rechazaron que la limosna expíe los pecados, y no reciben el libro como Escritura. La ven como fruto de la fe."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve en Ben Sira a un escriba de Jerusalén cercano a las élites. Sus consejos de prudencia ante los poderosos y sobre el dinero reflejan ese ambiente.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

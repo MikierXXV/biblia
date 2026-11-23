@@ -1,0 +1,28 @@
+{
+  "id": "2-juan-cautela-ante-falsos-maestros",
+  "libro_id": "2-juan",
+  "orden": 2,
+  "titulo": "¿Hay que cerrar la puerta a quien enseña otra cosa?",
+  "pasaje": "2 Jn 7-11",
+  "que_dice": "Un predicador itinerante llama a la puerta de una casa de la comunidad. La carta dice qué hacer: si no trae la enseñanza de Cristo, no se le recibe en casa ni se le saluda (vv. 10-11). La razón es que han salido muchos engañadores que niegan que Jesucristo ha venido en carne (v. 7).\n\nEl texto choca con la hospitalidad que pide 3 Jn. Quien se aparta de la enseñanza, dice el autor, no tiene a Dios (v. 9).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el pasaje se ha usado para justificar límites doctrinales en la comunión. Muchos lectores actuales lo leen como una norma para visitantes de una iglesia doméstica concreta, no como regla general de trato a quien piensa distinto."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lo ve como una medida práctica en una red de iglesias en casas. Se negaba alojamiento y apoyo a misioneros itinerantes que difundían la doctrina de los disidentes. Brown lo coloca después de la ruptura que refleja 1 Jn 2,19.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

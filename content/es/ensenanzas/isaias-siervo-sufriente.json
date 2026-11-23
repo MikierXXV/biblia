@@ -1,0 +1,58 @@
+{
+  "id": "isaias-siervo-sufriente",
+  "libro_id": "isaias",
+  "orden": 4,
+  "titulo": "El siervo que sufre por otros: ¿quién es?",
+  "pasaje": "Is 52,13–53,12",
+  "que_dice": "El cuarto «canto del siervo» describe a un siervo del Señor despreciado, herido y condenado sin haber hecho mal. El texto dice que carga con las dolencias y las culpas de «muchos» (53,4-6.11-12).\n\nHabla de él en tercera persona; en 53,1-6 quienes hablan parecen testigos que reconocen su error. El poema acaba con su exaltación (52,13; 53,10-12). No dice quién es el siervo, y esa pregunta ha recibido respuestas muy distintas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía no es única. Rashi lee al siervo como el pueblo de Israel, que sufre entre las naciones. El Targum de Jonatán, la traducción aramea antigua, habla del «mesías, mi siervo». Ninguna de estas lecturas ve en el texto una profecía de Jesús."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, el poema anuncia a Jesús. Mt 8,17 aplica 53,4 a sus curaciones, y en Hch 8,32-35 Felipe explica el pasaje a un eunuco etíope diciéndole que habla de Jesús."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica atribuye el poema al «Segundo Isaías» (Is 40-55), hacia el 540 a. C. La identidad del siervo está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica, que sigue la lectura medieval de Rashi",
+        "texto": "Israel entero, o un resto fiel de Israel, que sufre en el exilio."
+      },
+      {
+        "quien": "R. N. Whybray",
+        "texto": "El propio profeta, que habla de sí mismo y de su misión."
+      },
+      {
+        "quien": "Ernst Sellin",
+        "texto": "Una figura individual del pasado, como Moisés, o una figura futura todavía por venir."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 40-55 (Anchor Bible 19A)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Thanksgiving for a Liberated Prophet (JSOT Press, 1978)",
+      "autor": "R. N. Whybray",
+      "tradicion": "critica"
+    }
+  ]
+}

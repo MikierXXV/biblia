@@ -1,0 +1,96 @@
+{
+  "id": "daniel",
+  "seccion_id": "profetas",
+  "orden": 6,
+  "nombre": "Daniel",
+  "abreviatura": "Dn",
+  "capitulos": 14,
+  "deuterocanonico": false,
+  "adiciones_griegas": [
+    "Dn 3,24-90",
+    "Dn 13",
+    "Dn 14"
+  ],
+  "estado": "completo",
+  "resumen": "Mezcla relatos de jóvenes judíos en la corte babilonia con visiones sobre los imperios. Las Biblias católicas añaden pasajes en griego.",
+  "presentacion": "El rey Nabucodonosor sueña con una estatua de oro, plata, bronce y hierro y exige que sus sabios le cuenten el sueño sin habérselo dicho antes. Solo Daniel, un joven judío deportado, lo logra (Dn 2). Así empieza un libro sobre cómo vivir bajo imperios que no son el tuyo.\n\nTiene dos mitades. Los capítulos 1-6 son relatos de judíos fieles en la corte: el horno ardiente (3), el banquete de Baltasar (5) y el foso de los leones (6). Los capítulos 7-12 son visiones apocalípticas, es decir, revelaciones sobre el fin: imperios, un «hijo de hombre» y una resurrección.\n\nEstá escrito en dos lenguas, hebreo y arameo. Las Biblias católicas y ortodoxas añaden tres textos en griego: Azarías y el cántico de los tres jóvenes (3,24-90), Susana (13) y Bel y el Dragón (14).",
+  "autoria": {
+    "tradicion": "La tradición lo atribuye a Daniel, deportado a Babilonia en el siglo VI a. C. El Talmud (Baba Batra 15a) dice que lo escribieron los hombres de la Gran Asamblea.",
+    "critica": "La mayoría de críticos lo considera obra anónima de un autor judío del siglo II a. C., que presenta a un sabio del exilio como figura. Comentaristas conservadores defienden que lo escribió Daniel.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, el libro se escribió en el siglo VI a. C., durante el destierro en Babilonia.",
+    "critica": "Casi toda la crítica lo data hacia el 165 a. C., en la persecución de Antíoco IV Epífanes. Sus visiones cuentan con precisión la historia helenística hasta el 167 a. C. y se equivocan al anunciar la muerte de Antíoco (Dn 11,40-45).",
+    "acuerdo": "discusion",
+    "rango": [
+      -167,
+      -164
+    ],
+    "rango_tradicion": [
+      -600,
+      -530
+    ],
+    "posturas": [
+      {
+        "quien": "John J. Collins y la mayoría de la crítica",
+        "texto": "Hacia el 165 a. C. Lo apoyan la historia exacta hasta el 167 y errónea después, los errores sobre Babilonia y la mezcla de hebreo y arameo."
+      },
+      {
+        "quien": "Joyce Baldwin y otros comentaristas conservadores",
+        "texto": "Siglo VI a. C. Sostienen que el libro recoge recuerdos y visiones del propio Daniel y que su arameo es compatible con una fecha antigua."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), no entre los Profetas. Reconoce solo el texto hebreo y arameo (Dn 1-12).",
+    "ortodoxa": "Es canónico, con las tres adiciones griegas (Dn 3,24-90; 13; 14). La Septuaginta, la traducción griega antigua, las incluye, y la tradición ortodoxa las lee como Escritura.",
+    "protestante": "Es canónico y va entre los Profetas, como en la Biblia católica. Las adiciones griegas no se incluyen; las Biblias protestantes tradicionales las llaman «apócrifas»."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Dn 2,31-45",
+      "nota": "La estatua de cuatro metales y la piedra que la derriba."
+    },
+    {
+      "pasaje": "Dn 3,16-18",
+      "nota": "Los tres jóvenes responden al rey ante el horno."
+    },
+    {
+      "pasaje": "Dn 7,13-14",
+      "nota": "Uno «como un hijo de hombre» recibe el reino."
+    },
+    {
+      "pasaje": "Dn 12,2-3",
+      "nota": "Muchos de los que duermen en el polvo despertarán."
+    },
+    {
+      "pasaje": "Dn 13,1-64",
+      "nota": "Susana, acusada falsamente."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel (Hermeneia)",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Daniel (Tyndale Old Testament Commentaries 21)",
+      "autor": "Joyce G. Baldwin",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Daniel, Esther, and Jeremiah: The Additions (Anchor Bible 44)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Daniel combina relatos de fidelidad en la corte (1-6) y visiones apocalípticas (7-12).",
+    "La mayoría de la crítica lo data hacia el 165 a. C., en la persecución de Antíoco IV.",
+    "Comentaristas conservadores defienden una fecha del siglo VI a. C.",
+    "Dn 12,2-3 es, para la mayoría de la crítica, el texto más claro del Antiguo Testamento sobre la resurrección.",
+    "Las Biblias católicas y ortodoxas añaden tres textos griegos que no están en las judías ni en las protestantes."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "exodo-dios-compasivo-y-clemente",
+  "libro_id": "exodo",
+  "orden": 4,
+  "titulo": "Tras el becerro de oro, Dios se define compasivo y clemente",
+  "pasaje": "Éx 34,6-7",
+  "que_dice": "Moisés baja del Sinaí y descubre que el pueblo ha fabricado un becerro de oro. Rompe las tablas de la ley. Dios lo cita otra vez en el monte y pasa ante él proclamando su nombre.\n\nSe define como compasivo y clemente, lento a la ira y lleno de amor y fidelidad. Perdona la culpa, pero no la deja sin consecuencias: alcanzan hasta la tercera y cuarta generación (34,6-7).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía llama a estos versículos los trece atributos de la misericordia (Talmud, Rosh Hashaná 17b) y los recita en la liturgia del perdón, sobre todo en Yom Kipur."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, esta fórmula resume el rostro de Dios que el Nuevo Testamento ve en Jesús. Jon 4,2 y Sal 103 la repiten."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos nota que esta fórmula se repite, con variantes, en Nm 14,18, Jl 2,13, Jon 4,2 y Sal 103. La entiende como una confesión central de Israel.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Exodus (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

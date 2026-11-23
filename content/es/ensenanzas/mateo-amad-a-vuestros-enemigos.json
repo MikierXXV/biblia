@@ -1,0 +1,68 @@
+{
+  "id": "mateo-amad-a-vuestros-enemigos",
+  "libro_id": "mateo",
+  "orden": 1,
+  "titulo": "Jesús pide amar al enemigo y rezar por quien persigue",
+  "pasaje": "Mt 5,38-48",
+  "que_dice": "En un monte de Galilea, Jesús repasa lo que sus oyentes ya saben: ojo por ojo, amarás a tu prójimo. Y va más lejos. A quien te golpea en la mejilla, ofrécele la otra. A quien te pide la túnica, dale también el manto.\n\nPide amar a los enemigos y rezar por quienes persiguen. Su razón es imitar a Dios, que hace salir el sol sobre malos y buenos. Los ejemplos son gestos concretos, no una teoría. El texto cierra pidiendo ser *teleioi*, es decir, completos y sin reservas, como el Padre (Mt 5,48).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recuerda que la Torá ya manda ayudar al animal del enemigo (Éx 23,4-5) y no odiar al hermano (Lv 19,17). Los sabios entendieron «ojo por ojo» como una indemnización proporcionada, no como una mutilación (Baba Kamma 83b-84a)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "Para la lectura ortodoxa, amar al enemigo es sobre todo oración: se pide a Dios por quien hace daño. El ejemplo clásico es Esteban, que pide perdón para quienes lo apedrean (Hch 7,60)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Dietrich Bonhoeffer lee el pasaje como una llamada concreta a seguir a Jesús, no como un ideal inalcanzable. Lutero distinguía a la persona privada, que perdona, del titular de un oficio, como juez o soldado, que debe proteger a otros."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Amy-Jill Levine",
+      "texto": "Amy-Jill Levine señala que «odiarás a tu enemigo» no figura en la Torá y advierte contra leer las antítesis como un Jesús contra el judaísmo. Para ella, Jesús intensifica mandamientos que sus oyentes ya conocían."
+    }
+  ],
+  "critica": {
+    "texto": "El dicho sobre amar a los enemigos aparece también en Lc 6,27-36, con otra redacción. Su origen común es el problema sinóptico, y se discute cómo se explica.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Hipótesis de las dos fuentes (la mayoritaria)",
+        "texto": "Mateo y Lucas copiaron Marcos y una colección perdida de dichos, llamada Q. Este dicho vendría de Q."
+      },
+      {
+        "quien": "Hipótesis de Farrer (Goodacre)",
+        "texto": "No hizo falta Q: Lucas conoció el evangelio de Mateo y lo reelaboró."
+      },
+      {
+        "quien": "Hipótesis de Griesbach (minoritaria, William Farmer)",
+        "texto": "Mateo es el primer evangelio; Lucas lo usó, y Marcos resumió a los dos."
+      }
+    ]
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Misunderstood Jew",
+      "autor": "Amy-Jill Levine",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Discipleship (Dietrich Bonhoeffer Works 4)",
+      "autor": "Dietrich Bonhoeffer",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Case Against Q",
+      "autor": "Mark Goodacre",
+      "tradicion": "critica"
+    }
+  ]
+}

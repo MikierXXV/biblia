@@ -1,0 +1,28 @@
+{
+  "id": "2-pedro-falsos-maestros-y-judas",
+  "libro_id": "2-pedro",
+  "orden": 2,
+  "titulo": "¿Cómo se reconoce a un falso maestro en la comunidad?",
+  "pasaje": "2 Pe 2,1-10",
+  "que_dice": "Con el tono de los antiguos profetas ante los falsos profetas, el autor avisa de que entre los lectores habrá maestros que traerán doctrinas destructivas (2,1). Los acusa de codicia, de explotar a los fieles y de una libertad sin freno (2,2-3.19).\n\nPara apoyar el aviso recuerda tres juicios de Dios: los ángeles caídos, el diluvio y Sodoma. En los tres, dice, Dios también rescató a los justos, como a Noé y a Lot (2,4-9).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el capítulo se ha leído como llamada al discernimiento ante la enseñanza. Los ejemplos de Noé y Lot se entienden como prueba de que Dios juzga y a la vez protege a quien le es fiel."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve que 2 Pe 2 reelabora buena parte de Jds 4-13: coinciden los ejemplos, las imágenes y su orden. Se admite que 2 Pe usa a Judas y no al revés, y que omite su cita de 1 Enoc. Bauckham lo estudia en detalle en su comentario conjunto.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    }
+  ]
+}

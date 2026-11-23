@@ -1,0 +1,51 @@
+{
+  "id": "lucas-padre-perdonalos",
+  "libro_id": "lucas",
+  "orden": 5,
+  "titulo": "Desde la cruz, Jesús pide perdón para quienes lo crucifican",
+  "pasaje": "Lc 23,33-34",
+  "que_dice": "En un cerro llamado Calavera, los soldados clavan a Jesús en una cruz entre dos malhechores. Jesús dice: Padre, perdónalos, porque no saben lo que hacen. Luego los soldados se reparten su ropa echándola a suertes.\n\nLa frase es una de las más citadas de la pasión. Solo la trae Lucas, y encaja con el resto de su evangelio, donde Jesús perdona a otros y habla de misericordia.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, la frase tiene un paralelo en la tradición de que Dios perdona los pecados cometidos por ignorancia (Nm 15,22-29). Pero hoy se discute si apunta a los soldados romanos, a los dirigentes judíos o a ambos, y ese debate pesó en la historia de la acusación contra los judíos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la oración muestra a Jesús perdonando y rezando por sus verdugos, un modelo del perdón al enemigo. Es la primera de las siete palabras de la cruz, que se meditan el Viernes Santo."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lee la petición como un acto de Dios hecho hombre. El ejemplo de Esteban (Hch 7,60) muestra a los mártires imitando esta oración."
+    }
+  ],
+  "critica": {
+    "texto": "Lc 23,34 falta en los dos manuscritos más antiguos del pasaje, el papiro 75 y el códice Vaticano, aunque está en muchos otros. Se discute si Lucas la escribió o si es un añadido posterior.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Bruce M. Metzger y el comité del Nuevo Testamento griego",
+        "texto": "La frase es un añadido posterior, tomado de una tradición antigua. Por su valor, la editan entre dobles corchetes en lugar de quitarla."
+      },
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "La frase es de Lucas: encaja con su estilo y con Hch 7,60, y su ausencia se explica por un recorte posterior, quizá por el conflicto con los judíos."
+      }
+    ]
+  },
+  "temas": [
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Textual Commentary on the Greek New Testament",
+      "autor": "Bruce M. Metzger",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Gospel According to Luke X-XXIV (Anchor Bible 28A)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    }
+  ]
+}

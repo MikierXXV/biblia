@@ -1,0 +1,53 @@
+{
+  "id": "daniel-dios-cambia-los-imperios",
+  "libro_id": "daniel",
+  "orden": 2,
+  "titulo": "Una estatua de cuatro metales y una piedra: Dios cambia los reinos",
+  "pasaje": "Dn 2,1-49",
+  "que_dice": "Nabucodonosor tiene un sueño que lo angustia y exige que sus sabios lo adivinen y lo expliquen, bajo pena de muerte (2,1-12). Nadie puede. Daniel pide tiempo, reza con sus compañeros y recibe el sueño en visión (2,17-19).\n\nEl rey vio una estatua con cabeza de oro, pecho de plata, vientre de bronce, piernas de hierro y pies de hierro mezclado con barro. Una piedra, sin mano humana, la golpea y la hace polvo. La piedra crece hasta ser un monte que llena la tierra (2,31-35). Daniel dice que son reinos que se suceden, y que Dios establecerá uno que no será destruido (2,36-45).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica leyó pronto los cuatro reinos como una serie que termina en Roma. Génesis Rabá 2,4 los cuenta como Babilonia, Media, Grecia y Edom, nombre rabínico de Roma. Rashi y otros comentaristas medievales la siguen."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Hipólito de Roma, en el primer comentario cristiano a Daniel (hacia el 204 d. C.), también termina la serie en Roma e identifica la piedra con Cristo. Para esa lectura, la piedra es el reino de Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee los cuatro reinos como Babilonia, Media, Persia y Grecia, y el reino final como el de Dios tras la persecución de Antíoco. La identificación del cuarto reino está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John J. Collins y la mayoría de la crítica",
+        "texto": "Babilonia, Media, Persia y Grecia. El cuarto reino es el de Alejandro y sus sucesores, entre ellos Antíoco IV."
+      },
+      {
+        "quien": "Joyce Baldwin y otros comentaristas conservadores",
+        "texto": "Babilonia, Persia, Grecia y Roma. El cuarto reino es Roma, y el reino de Dios llega después."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel (Hermeneia)",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Daniel (Tyndale Old Testament Commentaries 21)",
+      "autor": "Joyce G. Baldwin",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

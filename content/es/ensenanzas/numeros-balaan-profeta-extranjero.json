@@ -1,0 +1,53 @@
+{
+  "id": "numeros-balaan-profeta-extranjero",
+  "libro_id": "numeros",
+  "orden": 5,
+  "titulo": "Un profeta extranjero quiere maldecir a Israel y acaba bendiciéndolo",
+  "pasaje": "Nm 22,1–24,25",
+  "que_dice": "Balac, rey de Moab, teme al pueblo que acampa junto a su frontera. Manda llamar a Balaán, un adivino de Mesopotamia, para que lo maldiga. Por el camino, la burra de Balaán ve a un ángel que él no ve y se niega a avanzar. El animal habla (22,22-30).\n\nTres veces Balaán sube a un monte, y tres veces solo le salen bendiciones para Israel. La cuarta anuncia que una estrella saldrá de Jacob (24,17).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve a Balaán como figura ambigua. La Misná (Abot 5,19) lo pone como ejemplo de mala conducta, mientras el Sifre a Deuteronomio lo hace profeta de las naciones. Nm 24,17 se leyó también como mesiánico: el Targum de Onquelos y Rabí Akiba, con Bar Kojbá, «hijo de la estrella»."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Balaán es modelo negativo en 2 Pe 2,15, Jds 11 y Ap 2,14. La tradición cristiana lee 24,17 como anuncio de Cristo, y desde Justino y Orígenes se lo relaciona con la estrella de Mt 2."
+    }
+  ],
+  "critica": {
+    "texto": "Una inscripción hallada en Deir Alla (Jordania), hacia el 800 a. C., menciona a un adivino Balaam hijo de Beor. Confirma que era una figura conocida fuera de Israel. Se discute la fecha de los poemas de Nm 23-24.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Frank M. Cross y David N. Freedman",
+        "texto": "Los poemas son arcaicos, de los siglos XII-X a. C., y entre lo más antiguo del Pentateuco."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Son de la monarquía, de los siglos IX-VIII a. C., o incluso posteriores."
+      }
+    ]
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Studies in Ancient Yahwistic Poetry (SBL, 1975)",
+      "autor": "Frank M. Cross y David N. Freedman",
+      "tradicion": "critica"
+    }
+  ]
+}

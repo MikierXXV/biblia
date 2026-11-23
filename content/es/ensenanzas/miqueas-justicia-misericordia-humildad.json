@@ -1,0 +1,39 @@
+{
+  "id": "miqueas-justicia-misericordia-humildad",
+  "libro_id": "miqueas",
+  "orden": 1,
+  "titulo": "¿Qué pide Dios: sacrificios, o justicia, misericordia y humildad?",
+  "pasaje": "Miq 6,1-8",
+  "que_dice": "El Señor convoca un pleito contra su pueblo, con los montes por testigos (6,1-2). Un israelita pregunta qué ofrenda llevar: holocaustos, miles de carneros, ríos de aceite, incluso a su primogénito (6,6-7).\n\nLa respuesta es breve. Ya se te ha dicho lo que es bueno: practicar la justicia, amar el *jésed*, la lealtad misericordiosa, y caminar humildemente con tu Dios (6,8). Antes, el texto ha recordado la salida de Egipto como prueba de lo que Dios ya hizo (6,3-5).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Makot 24a) cuenta que el rabino Simlay vio en Miq 6,8 un resumen de los 613 mandamientos. Miqueas los redujo a tres: practicar la justicia, amar la misericordia y caminar con humildad."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen el versículo como resumen de la vida moral. Muchas lo ponen junto a Mt 23,23, donde Jesús reprocha dejar de lado la justicia, la misericordia y la fidelidad."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica, como Wolff, ve en 6,1-8 un pleito judicial (*rîb*, litigio) que termina en respuesta sapiencial. El pasaje no abole el culto: lo subordina a la justicia.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "culto-verdadero-y-sacrificio",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Micah (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

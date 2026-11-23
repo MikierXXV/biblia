@@ -1,0 +1,60 @@
+{
+  "id": "filipenses-alegria-en-la-carcel",
+  "libro_id": "filipenses",
+  "orden": 4,
+  "titulo": "¿Cómo puede alegrarse Pablo desde una cárcel?",
+  "pasaje": "Flp 4,4-7",
+  "que_dice": "Pablo escribe desde la cárcel, con una posible condena a muerte por delante (Flp 1,12-26). Aun así, la carta repite la alegría: pide alegrarse en el Señor siempre, y lo dice dos veces (4,4).\n\nPide también no angustiarse por nada y presentar todo a Dios con oración y acción de gracias (4,6). Promete una paz que supera todo entendimiento (4,7). Los filipenses le habían enviado ayuda con Epafrodito, y esa solidaridad es parte de su alegría (4,10-18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía compara este pasaje con la alegría ante Dios que piden los salmos y Habacuc 3,17-18 aun en la pérdida. La Mishná (*Berajot* 9,5) manda bendecir a Dios también por el mal."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el pasaje como alegría que no depende de las circunstancias. Los estoicos ofrecen un paralelo, pero la carta la funda en el Señor, no en el dominio de uno mismo."
+    }
+  ],
+  "critica": {
+    "texto": "La carta no dice dónde estaba Pablo preso, ni si es una sola carta. Los críticos discuten ambas cosas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Gordon Fee y Markus Bockmuehl",
+        "texto": "Pablo estaba preso en Roma, hacia el 60-62 d. C., y la carta es una unidad."
+      },
+      {
+        "quien": "Gerald Hawthorne",
+        "texto": "La cárcel era la de Cesarea, capital romana de Judea."
+      },
+      {
+        "quien": "Helmut Koester",
+        "texto": "Estaba preso en Éfeso, a mediados de los años 50, y la carta reúne varias cartas breves."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul's Letter to the Philippians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/37584"
+    },
+    {
+      "titulo": "The Epistle to the Philippians (Black's New Testament Commentary)",
+      "autor": "Markus Bockmuehl",
+      "tradicion": "critica",
+      "url": "https://bestcommentaries.com/book/3186"
+    },
+    {
+      "titulo": "Philippians (Word Biblical Commentary 43, ed. revisada)",
+      "autor": "Gerald F. Hawthorne y Ralph P. Martin",
+      "tradicion": "protestante",
+      "url": "https://bestcommentaries.com/book/4018"
+    }
+  ]
+}

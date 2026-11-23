@@ -1,0 +1,34 @@
+{
+  "id": "1-macabeos-luchar-en-sabado",
+  "libro_id": "1-macabeos",
+  "orden": 2,
+  "titulo": "Matatías decide que se puede luchar en sábado para sobrevivir",
+  "pasaje": "1 Mac 2,19-41",
+  "que_dice": "Un oficial del rey llega a Modín y ordena a Matatías ofrecer un sacrificio pagano. Matatías responde que, aunque todos obedezcan, él y sus hijos no abandonarán la alianza. Cuando un judío se adelanta a sacrificar, Matatías lo mata en el altar (1 Mac 2,15-26).\n\nUn grupo de fugitivos que no se defiende en sábado muere sin resistir: son mil personas. Matatías y los suyos deciden entonces defenderse si los atacan en sábado (2,29-41).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la vida pesa más que el descanso ritual. La tradición judía lo formuló como *pikuaj nefesh*, el deber de salvar una vida. Varios comentaristas cristianos ponen la decisión junto a Mc 2,27."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven en el relato una solución práctica a un problema real: cómo defenderse sin violar la ley. Josefo (Antigüedades 12,272-277) cuenta la misma decisión.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Maccabees (Anchor Bible 41)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

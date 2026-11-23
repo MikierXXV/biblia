@@ -1,0 +1,50 @@
+{
+  "id": "lamentaciones-la-ciudad-viuda",
+  "libro_id": "lamentaciones",
+  "orden": 1,
+  "titulo": "Una ciudad sola y viuda llora sin que nadie la consuele",
+  "pasaje": "Lam 1,1-22",
+  "que_dice": "El poema abre con un grito: ¡cómo está sola la ciudad antes llena de gente! Jerusalén, grande entre las naciones, es ahora como una viuda (1,1). Llora de noche y nadie la consuela; sus amigos la han traicionado (1,2).\n\nHabla primero un narrador y luego la propia ciudad, que pide a quienes pasan que miren su dolor (1,12). Reconoce su culpa (1,18) y a la vez pide a Dios que mire a su enemigo. Dos veces dice que no hay quien la consuele (1,9.21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Lamentaciones la noche del 9 de Av, sentada en el suelo y con poca luz. Ese día recuerda la destrucción de los dos Templos. El midrás (comentario antiguo) Eijá Rabá comenta el libro versículo a versículo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica usó Lamentaciones en los oficios de tinieblas (*Tenebrae*, las lecturas nocturnas de Semana Santa). Aún las lee en el Triduo Pascual, aplicadas al sufrimiento de Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee Lam 1 como duelo comunitario, con rasgos de los lamentos por ciudades destruidas del Próximo Oriente, como el lamento sumerio por Ur. La ciudad personificada como mujer, la «hija de Sión», es un recurso conocido.",
+    "acuerdo": "consenso"
+  },
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Kathleen M. O'Connor",
+      "texto": "Kathleen O'Connor lee el libro como literatura de supervivencia ante un trauma colectivo: da voz al dolor para que no quede mudo."
+    }
+  ],
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Lamentations (Old Testament Library)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Lamentations and the Tears of the World",
+      "autor": "Kathleen M. O'Connor",
+      "tradicion": "literaria"
+    }
+  ]
+}

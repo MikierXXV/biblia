@@ -1,0 +1,57 @@
+{
+  "id": "levitico-relaciones-entre-varones",
+  "libro_id": "levitico",
+  "orden": 4,
+  "titulo": "Dos versículos sobre relaciones entre varones y cómo se leen hoy",
+  "pasaje": "Lv 18,22; 20,13",
+  "que_dice": "Lv 18 y 20 enumeran relaciones sexuales prohibidas: incesto, adulterio, sexo con animales. En medio, 18,22 dice que no se acueste uno con varón como con mujer. Lv 20,13 repite la prohibición y fija pena de muerte para los dos.\n\nEl texto da una razón general: esas prácticas contaminan la tierra y son las de los pueblos que Israel desaloja (18,24-30). El hebreo bíblico no habla de orientación sexual, sino de un acto.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El judaísmo ortodoxo mantiene la prohibición. El reformista no la considera vinculante hoy. En 2006 el movimiento conservador de Estados Unidos aprobó dictámenes de ambos tipos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "El Catecismo católico (2357-2358) enseña que esos actos son contrarios a la ley natural y pide acoger a las personas con respeto y delicadeza."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Iglesias protestantes están divididas. Unas mantienen la prohibición como norma permanente. Otras la leen como condicionada por su contexto y aceptan uniones o la ordenación de personas homosexuales."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica sitúa Lv 18 y 20 en el Código de Santidad. Discute qué prohíbe exactamente el texto y por qué.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Saul M. Olyan",
+        "texto": "Sostiene que la frase hebrea designa un acto concreto, el coito entre varones, y no otras formas de relación."
+      },
+      {
+        "quien": "Jacob Milgrom (Anchor Bible 3A)",
+        "texto": "Ve una norma de pureza ligada a separar a Israel de los pueblos vecinos y a proteger la descendencia."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Leviticus 17-22 (Anchor Bible 3A)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "«And with a Male You Shall Not Lie the Lying Down of a Woman» (Journal of the History of Sexuality 5, 1994)",
+      "autor": "Saul M. Olyan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

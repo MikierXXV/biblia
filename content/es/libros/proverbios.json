@@ -1,0 +1,81 @@
+{
+  "id": "proverbios",
+  "seccion_id": "sapienciales",
+  "orden": 3,
+  "nombre": "Proverbios",
+  "abreviatura": "Prov",
+  "capitulos": 31,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Reúne sentencias y discursos sobre cómo vivir bien. Presenta la sabiduría como una mujer que llama a los jóvenes.",
+  "presentacion": "Un padre habla a su hijo en el umbral de la vida: escucha, no te juntes con quien te invita a robar, no sigas a la mujer ajena. Así empiezan los discursos de Prov 1-9. Después vienen centenares de proverbios sueltos y colecciones atribuidas a los sabios, a Agur y a Lemuel.\n\nEl libro parte de que la vida tiene un orden y de que el sabio lo descubre. El trabajo, la honradez, la palabra medida y el cuidado del pobre llevan a vivir bien. La Sabiduría aparece como una mujer que llama en las plazas (1,20-33; 8; 9). El libro termina con el elogio de la mujer valiente (31,10-31).\n\nLos proverbios son generalizaciones, no promesas. Job y Eclesiastés discuten sus límites.",
+  "autoria": {
+    "tradicion": "La tradición atribuye el libro a Salomón (1,1; 10,1). El propio texto recoge dichos de los sabios, de Agur, de Lemuel y de los hombres del rey Ezequías (25,1).",
+    "critica": "El libro es una antología de colecciones de épocas distintas. La crítica no cree que Salomón lo escribiera entero.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Salomón, el núcleo del libro es del siglo X a. C.",
+    "critica": "Algunas colecciones pueden ser de la monarquía. La redacción final es posexílica, y Prov 1-9 suele considerarse la parte más reciente.",
+    "acuerdo": "consenso",
+    "rango": [
+      -950,
+      -300
+    ],
+    "rango_tradicion": [
+      -970,
+      -930
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), junto con Salmos y Job, las tres obras poéticas de la Biblia hebrea.",
+    "ortodoxa": "Es canónico y figura entre los libros sapienciales.",
+    "protestante": "Es canónico y figura entre los libros poéticos y sapienciales."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Prov 1,7",
+      "nota": "El temor del Señor es el principio del saber."
+    },
+    {
+      "pasaje": "Prov 8,22-31",
+      "nota": "La Sabiduría, presente con Dios al crear el mundo."
+    },
+    {
+      "pasaje": "Prov 14,31",
+      "nota": "Quien oprime al pobre ofende a su Creador."
+    },
+    {
+      "pasaje": "Prov 22,17-24,22",
+      "nota": "Treinta dichos con paralelo egipcio."
+    },
+    {
+      "pasaje": "Prov 31,10-31",
+      "nota": "Elogio de la mujer valiente."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Proverbs 1-9 (Anchor Bible 18A)",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Proverbs (Word Biblical Commentary 22)",
+      "autor": "Roland E. Murphy",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Proverbios enseña a vivir bien: trabajo, honradez, palabra medida y cuidado del pobre.",
+    "Su lema es el temor del Señor como principio del saber (1,7).",
+    "La Sabiduría aparece como una mujer que llama en la plaza (Prov 8-9).",
+    "Prov 22,17-24,22 tiene un paralelo egipcio, la Instrucción de Amenemope.",
+    "Salomón da nombre al libro, pero la crítica lo ve como una antología posexílica."
+  ]
+}

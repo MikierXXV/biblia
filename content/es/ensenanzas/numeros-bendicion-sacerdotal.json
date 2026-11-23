@@ -1,0 +1,37 @@
+{
+  "id": "numeros-bendicion-sacerdotal",
+  "libro_id": "numeros",
+  "orden": 4,
+  "titulo": "Una bendición de tres líneas que sigue diciéndose hoy",
+  "pasaje": "Nm 6,22-27",
+  "que_dice": "Dios dicta a Moisés cómo han de bendecir Aarón y sus hijos al pueblo, con tres frases cada vez más largas. La primera pide que el Señor te bendiga y te guarde. La segunda, que haga brillar su rostro sobre ti. La tercera, que alce su rostro hacia ti y te dé la paz.\n\nEl texto añade que, al pronunciarla, los sacerdotes ponen el nombre de Dios sobre los israelitas, y él los bendecirá (6,22-27).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "En la sinagoga, los *kohanim*, descendientes de los sacerdotes, pronuncian la bendición con las manos extendidas. Muchos padres la recitan sobre sus hijos la noche del viernes."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En las Iglesias protestantes se usa para despedir al pueblo en el culto. Lutero la mantuvo en su misa en alemán (1526)."
+    }
+  ],
+  "critica": {
+    "texto": "En 1979 se hallaron en una tumba de Ketef Hinnom, en Jerusalén, dos pequeños rollos de plata con un texto muy parecido a Nm 6,24-26. Se datan hacia finales del siglo VII a. C. y están entre los textos bíblicos más antiguos conservados.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Amulets from Ketef Hinnom: A New Edition and Evaluation (BASOR 334, 2004)",
+      "autor": "Gabriel Barkay, Marilyn J. Lundberg, Andrew G. Vaughn y Bruce Zuckerman",
+      "tradicion": "critica"
+    }
+  ]
+}

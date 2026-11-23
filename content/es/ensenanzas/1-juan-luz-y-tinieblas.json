@@ -1,0 +1,33 @@
+{
+  "id": "1-juan-luz-y-tinieblas",
+  "libro_id": "1-juan",
+  "orden": 3,
+  "titulo": "¿Se puede decir que se está con Dios y vivir en tinieblas?",
+  "pasaje": "1 Jn 1,5-2,2",
+  "que_dice": "La carta empieza por lo que se ha oído, visto y tocado: la vida se hizo visible (1,1-2). Después viene el mensaje: Dios es luz y en él no hay tiniebla (1,5).\n\nQuien dice estar en comunión con Dios mientras camina en tinieblas, miente (1,6). Quien camina en la luz tiene comunión con los hermanos y queda limpio de pecado (1,7). Reconocer el propio pecado es la condición del perdón (1,8-9).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, 1,9 fundamenta la confesión de los pecados, que se practica en el sacramento de la reconciliación."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas protestantes entienden 1,9 como confesión directa a Dios, con la promesa de perdón a quien la hace, sin intermediario."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos compara el lenguaje de luz y tinieblas con los textos de Qumrán. La Regla de la Comunidad habla allí de hijos de la luz y de hijos de las tinieblas. Lo toman como señal de que la escuela joánica vivía en un entorno judío con ese vocabulario.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

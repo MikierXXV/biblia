@@ -1,0 +1,38 @@
+{
+  "id": "eclesiastico-sabiduria-y-torah",
+  "libro_id": "eclesiastico",
+  "orden": 1,
+  "titulo": "Ben Sira identifica la sabiduría con la Torá de Israel",
+  "pasaje": "Sir 24",
+  "que_dice": "En medio del libro, la Sabiduría toma la palabra en una asamblea divina y se presenta. Salió de la boca del Altísimo, cubrió la tierra como niebla y recorrió el cielo y el abismo en busca de un lugar donde descansar (24,1-6). Dios le ordenó instalarse en Jacob, y habita en Sión (24,8-11).\n\nBen Sira da su respuesta: todo esto es el libro de la alianza del Altísimo, la ley que Moisés nos dio (24,23). La sabiduría que buscan los pueblos tiene dirección: es la Torá de Israel.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica recogió esa identificación: la Torá es la sabiduría que existía antes del mundo (Génesis Rabá 1,1). Ben Sira no está en el canon judío, pero los rabinos lo citan."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica lee Sir 24 el segundo domingo de Navidad. Aplica la Sabiduría a Cristo, el Verbo (Jn 1,14), y a María, que la tradición llama sede de la Sabiduría."
+    }
+  ],
+  "critica": {
+    "texto": "Dt 4,6 ya presentaba la ley como sabiduría ante las naciones. Ben Sira lo lleva más lejos: une la Sabiduría personificada de Prov 8 con la Torá escrita.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

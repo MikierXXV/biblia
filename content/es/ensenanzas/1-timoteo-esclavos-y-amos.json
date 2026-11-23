@@ -1,0 +1,35 @@
+{
+  "id": "1-timoteo-esclavos-y-amos",
+  "libro_id": "1-timoteo",
+  "orden": 4,
+  "titulo": "¿Qué dice 1 Timoteo a los esclavos de amos creyentes?",
+  "pasaje": "1 Tim 6,1-2",
+  "que_dice": "La carta se dirige a los esclavos cristianos. Les pide tratar a sus amos como dignos de todo respeto, para que nadie hable mal de Dios ni de la enseñanza. Si el amo es creyente, no deben despreciarlo por ser hermano, sino servirle mejor (1 Tim 6,1-2).\n\nEl texto no pide la libertad de los esclavos ni critica la institución. Antes, en 1,10, la carta incluye entre los pecadores a los traficantes de personas.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas actuales: las grandes Iglesias condenan la esclavitud y leen estos versículos como producto de su época. En el siglo XIX, los defensores de la esclavitud los citaron como mandato y los abolicionistas respondieron con Gál 3,28 y Flm 16."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve aquí un código doméstico (norma sobre las relaciones en la casa). Adopta el orden social de la época, como Col 3,22-4,1 y Ef 6,5-9.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Slavery in Early Christianity",
+      "autor": "Jennifer A. Glancy",
+      "tradicion": "critica",
+      "url": "https://libcat.library.tamu.edu/Record/in00005701460"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

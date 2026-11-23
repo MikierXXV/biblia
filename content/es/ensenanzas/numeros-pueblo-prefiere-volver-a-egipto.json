@@ -1,0 +1,37 @@
+{
+  "id": "numeros-pueblo-prefiere-volver-a-egipto",
+  "libro_id": "numeros",
+  "orden": 2,
+  "titulo": "El pueblo prefiere volver a Egipto antes que entrar en la tierra",
+  "pasaje": "Nm 13,1–14,45",
+  "que_dice": "Doce hombres, uno por tribu, exploran Canaán durante cuarenta días. Vuelven con un racimo enorme de uvas y un informe dividido. Diez dicen que la tierra es buena pero sus habitantes son gigantes. Josué y Caleb piden entrar.\n\nEl pueblo llora toda la noche y propone nombrar un jefe y volver a Egipto. Dios decide que esa generación no entrará: vagará cuarenta años, uno por cada día de exploración. Moisés intercede con la fórmula de Éx 34,6-7 (14,18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía sitúa la noche del llanto el 9 de Av, la fecha en que luego se recuerda la destrucción de los dos Templos (Talmud, Taanit 29a)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Heb 3-4 y 1 Cor 10,1-12 usan este episodio como advertencia. La generación del desierto no entró por falta de fe."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en los relatos de queja del desierto (Nm 11; 14; 16-17; 20-21) un esquema que se repite: el pueblo protesta, Dios castiga y Moisés intercede. Sirven para explicar por qué esa generación no entró en la tierra.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cantar-de-los-cantares-voz-femenina-protagonista",
+  "libro_id": "cantar-de-los-cantares",
+  "orden": 3,
+  "titulo": "La amada habla, busca y decide: el Cantar da la palabra a una mujer",
+  "pasaje": "Cant 3,1-4; 5,2-8",
+  "que_dice": "De noche, en su cama, ella busca al que ama su alma y no lo encuentra. Se levanta, recorre la ciudad y pregunta a los guardias si lo han visto (3,1-4). En otra escena, él llama a la puerta y ella tarda en abrir. Cuando abre, él ya se ha ido, y los guardias la golpean (5,2-7).\n\nElla toma la iniciativa y nombra su deseo. Sus hermanos aparecen vigilándola (1,6; 8,8-9).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la búsqueda nocturna se lee como imagen del creyente que busca a Dios y no siempre lo encuentra."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Para Phyllis Trible, la amada es sujeto y no objeto: desea, busca y habla, y él responde. El Cantar muestra una relación de reciprocidad que contrasta con otras páginas de la Biblia."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute quién está detrás de la voz femenina, que ocupa buena parte de los poemas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Athalya Brenner",
+        "texto": "Sostiene que algunos poemas pudieron componerlos mujeres: la voz femenina sería de canciones populares de mujeres."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Ven una convención literaria: el autor, o autores, pudo ser un hombre que da la palabra a la amada."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Song of Songs (Old Testament Guides)",
+      "autor": "Athalya Brenner",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Song of Songs and the Ancient Egyptian Love Songs",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    }
+  ]
+}

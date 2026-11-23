@@ -1,0 +1,61 @@
+{
+  "id": "habacuc-el-justo-vivira-por-su-fidelidad",
+  "libro_id": "habacuc",
+  "orden": 2,
+  "titulo": "El justo vivirá por su fidelidad: ¿fe, fidelidad o firmeza?",
+  "pasaje": "Hab 2,1-4",
+  "que_dice": "Habacuc espera en su puesto de guardia. La respuesta de Dios llega con una orden: escribir la visión en tablillas, para que se lea de corrido (2,1-2). Tarda, pero llegará sin falta (2,3).\n\nEl soberbio no tiene el alma recta. El justo, en cambio, vivirá por su *emuná*, palabra hebrea que significa fidelidad o firmeza (2,4).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Makkot 24a) cuenta que Moisés recibió 613 mandamientos y que Habacuc los resumió en uno: Hab 2,4. La tradición judía lee ahí la fidelidad a Dios como camino de vida."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica lee Hab 2,4 con Pablo (Rom 1,17; Gál 3,11) y entiende la fe como confianza que se expresa en obras de amor (Gál 5,6)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero hizo de Rom 1,17 la clave de su lectura de la Biblia: el justo vive por la fe sola, no por sus méritos. Heb 10,38 cita también el versículo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué significa la palabra hebrea *emuná* en este versículo, y de quién es la fidelidad.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Francis I. Andersen",
+        "texto": "Es fidelidad o firmeza: la conducta constante del justo que resiste mientras espera la visión."
+      },
+      {
+        "quien": "Septuaginta",
+        "texto": "La traducción griega antigua dice «por mi fidelidad»: la fidelidad sería la de Dios, y no la del justo."
+      },
+      {
+        "quien": "Comentario de Qumrán (1QpHab)",
+        "texto": "Lo aplica a quienes cumplen la Torá y son fieles al Maestro de Justicia, el fundador de la comunidad."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Habakkuk (Anchor Yale Bible)",
+      "autor": "Francis I. Andersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

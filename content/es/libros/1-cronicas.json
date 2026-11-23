@@ -1,0 +1,72 @@
+{
+  "id": "1-cronicas",
+  "seccion_id": "historicos",
+  "orden": 8,
+  "nombre": "1 Crónicas",
+  "abreviatura": "1 Cr",
+  "capitulos": 29,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Rehace la historia desde Adán con genealogías y presenta a David como organizador del culto. Mira el pasado desde la comunidad posterior al exilio.",
+  "presentacion": "Nueve capítulos de nombres, de Adán a los repatriados de Babilonia. Así abre 1 Crónicas, y muchos lectores se detienen ahí. Detrás hay una pregunta de la comunidad que volvió del exilio: ¿seguimos siendo el mismo pueblo?\n\nDespués el libro cuenta el reinado de David (1 Cr 10-29), con una selección clara. Narra el traslado del arca a Jerusalén y los preparativos del Templo. Calla el adulterio con Betsabé y la rebelión de Absalón, que sí cuenta 2 Samuel.\n\nLos judíos lo llaman *Divré ha-Yamim*, «los hechos de los días». La traducción griega antigua, la Septuaginta, lo llamó «Paralipómenos», es decir, «lo omitido», y Torres Amat conserva ese nombre. En la Biblia hebrea cierra el canon, unido a 2 Crónicas.",
+  "autoria": {
+    "tradicion": "El Talmud (Baba Batra 15a) dice que Esdras escribió su libro y las genealogías de Crónicas hasta su propia época.",
+    "critica": "El libro es anónimo. La crítica habla de «el Cronista», un autor de la época persa tardía. Discute si escribió también Esdras y Nehemías: Sara Japhet y Hugh Williamson lo niegan; Martin Noth y la lectura clásica lo afirman.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Si el autor es Esdras, el libro sería del siglo V a. C.",
+    "critica": "La mayoría de los críticos lo sitúa en el siglo IV a. C., a fines del dominio persa o al comienzo del helenístico.",
+    "acuerdo": "consenso",
+    "rango": [
+      -400,
+      -300
+    ],
+    "rango_tradicion": [
+      -450,
+      -400
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim). 1 y 2 Crónicas forman un solo libro, que cierra la Biblia hebrea.",
+    "ortodoxa": "Es canónico. En la Biblia griega, base de la tradición ortodoxa, figura como Paralipómenos, tras los libros de los Reyes.",
+    "protestante": "Es canónico y sigue a 2 Reyes, entre los libros históricos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Cr 1,1",
+      "nota": "Las genealogías empiezan en Adán y recorren todo el pueblo."
+    },
+    {
+      "pasaje": "1 Cr 16,8-36",
+      "nota": "El himno de David cuando el arca llega a Jerusalén."
+    },
+    {
+      "pasaje": "1 Cr 17,1-27",
+      "nota": "La promesa de una dinastía a David, con cambios respecto a 2 Sm 7."
+    },
+    {
+      "pasaje": "1 Cr 29,10-19",
+      "nota": "La oración final de David: todo lo que se ofrece viene de Dios."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Abre con nueve capítulos de genealogías: así la comunidad posterior al exilio se reconoce a sí misma.",
+    "Reescribe Samuel y Reyes y deja fuera lo incómodo de David, como Betsabé.",
+    "Su David es sobre todo el organizador del culto y del Templo.",
+    "En la Biblia hebrea cierra el canon; Torres Amat lo llama Paralipómenos.",
+    "La crítica discute si el Cronista escribió también Esdras y Nehemías."
+  ]
+}

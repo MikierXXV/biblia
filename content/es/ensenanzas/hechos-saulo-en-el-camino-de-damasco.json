@@ -1,0 +1,58 @@
+{
+  "id": "hechos-saulo-en-el-camino-de-damasco",
+  "libro_id": "hechos",
+  "orden": 4,
+  "titulo": "Saulo cae en el camino de Damasco: ¿conversión o llamada?",
+  "pasaje": "Hch 9,1-22",
+  "que_dice": "Saulo persigue a los seguidores de Jesús y va a Damasco con cartas para detenerlos. Cerca de la ciudad lo envuelve una luz del cielo. Cae a tierra y oye una voz: Saulo, ¿por qué me persigues?\n\nQueda ciego tres días. Un discípulo de Damasco, Ananías, le impone las manos y recupera la vista. Se bautiza y empieza a anunciar a Jesús en las sinagogas. Hechos cuenta la escena tres veces, con detalles distintos (Hch 9; 22; 26).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía vio durante siglos en Pablo a quien rompió con la Ley y separó a los cristianos de Israel. En el s. XX, Joseph Klausner lo leyó así, y Hyam Maccoby fue más lejos: lo presentó como el verdadero fundador del cristianismo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, es la conversión por excelencia: la liturgia la celebra el 25 de enero. El perseguidor se vuelve apóstol, y la Iglesia lo lee como prueba de que la gracia puede cambiar a cualquiera."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La lectura protestante clásica, desde Lutero, une la escena con la justificación por la fe: Pablo deja de confiar en sus obras y descubre la gracia. Esa lectura ha marcado la idea occidental de conversión interior."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Krister Stendahl",
+      "texto": "Krister Stendahl, en 1963, propuso hablar de llamada y no de conversión. En sus cartas, Pablo describe la escena como la de los profetas llamados desde el seno materno (Gál 1,15; Jr 1,5), no como el fin de una crisis de conciencia."
+    },
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Pamela Eisenbaum y Paula Fredriksen",
+      "texto": "La corriente llamada Pablo dentro del judaísmo, con Pamela Eisenbaum y Paula Fredriksen, sostiene que Pablo nunca dejó de ser judío. Lo leen como un judío que cree haber recibido la misión de llevar al Dios de Israel a los no judíos."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica compara el relato de Lucas con lo que dice el propio Pablo. En sus cartas, Pablo habla de una revelación de Jesús, sin caída ni ceguera (Gál 1,15-17; 1 Cor 15,8). Las tres versiones de Hechos difieren en quién oye la voz.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul Among Jews and Gentiles",
+      "autor": "Krister Stendahl",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Paul Was Not a Christian",
+      "autor": "Pamela Eisenbaum",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Mythmaker: Paul and the Invention of Christianity",
+      "autor": "Hyam Maccoby",
+      "tradicion": "judia"
+    }
+  ]
+}

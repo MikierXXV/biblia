@@ -1,0 +1,57 @@
+{
+  "id": "colosenses-primacia-de-cristo",
+  "libro_id": "colosenses",
+  "orden": 1,
+  "titulo": "¿Qué dice el himno de Colosenses sobre la primacía de Cristo?",
+  "pasaje": "Col 1,15-20",
+  "que_dice": "Una carta a una ciudad pequeña de Frigia contiene un texto que parece un himno. Dice que Cristo es imagen del Dios invisible, primogénito de toda la creación, y que en él, por él y para él fue creado todo.\n\nLa segunda estrofa lo hace cabeza de la Iglesia y primero en resucitar. Por él reconcilia Dios todo, en el cielo y en la tierra, mediante la sangre de la cruz (Col 1,18-20).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía ve aquí lenguaje de la sabiduría de Dios, que según Prov 8,22-31 estaba junto a él en la creación. El Sirácida (24) la identifica con la Torá. Se discute si aplicar esto a una persona es compatible con el monoteísmo judío."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el himno como afirmación de la divinidad de Cristo y de su papel en la creación. En el siglo IV Arrio entendió primogénito como criatura; Atanasio y el concilio de Nicea (325) lo rechazaron."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el texto tiene forma de himno, con dos estrofas. Discuten quién lo compuso.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Eduard Lohse",
+        "texto": "Es un himno anterior a la carta, cantado en las comunidades, que el autor retocó con aclaraciones sobre la Iglesia y la cruz."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Lo compuso el propio autor de la carta, como poema judío sobre la creación y la nueva creación, con la sabiduría de fondo."
+      }
+    ]
+  },
+  "temas": [
+    "creacion-y-cuidado-del-mundo",
+    "sabiduria-y-vida-buena",
+    "mesias-y-esperanza-mesianica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica",
+      "url": "https://faithlife.com/store/product/3462"
+    },
+    {
+      "titulo": "Colossians and Philemon (Hermeneia)",
+      "autor": "Eduard Lohse",
+      "tradicion": "critica",
+      "url": "https://vufind.daystar.ac.ke/Record/18858"
+    },
+    {
+      "titulo": "Colossians and Philemon (Tyndale New Testament Commentaries)",
+      "autor": "N. T. Wright",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/47662/colossians-and-philemon"
+    }
+  ]
+}

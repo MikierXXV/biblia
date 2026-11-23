@@ -1,0 +1,28 @@
+{
+  "id": "2-juan-el-anciano-y-la-senora",
+  "libro_id": "2-juan",
+  "orden": 3,
+  "titulo": "¿Quién es el Anciano que escribe a una señora elegida?",
+  "pasaje": "2 Jn 1-3",
+  "que_dice": "El autor no da su nombre. Se llama solo el Anciano (en griego, *presbýteros*) y escribe a una señora elegida y a sus hijos (v. 1). Cierra con saludos de los hijos de su hermana elegida (v. 13).\n\nNo se sabe quién es el Anciano. Casi todos los lectores entienden que la señora y su hermana son dos comunidades presentadas como personas.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas antiguas: las cartas se atribuyeron a Juan. Eusebio de Cesarea (s. IV), citando a Papías, distinguió a un Juan presbítero del apóstol, y deja abierta la duda sobre cuál escribió."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en 2 y 3 Jn a un mismo autor de la escuela joánica. Brown distingue al autor de las cartas del evangelista, aunque los sitúa en la misma escuela. La identidad del Anciano queda sin resolver.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

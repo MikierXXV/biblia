@@ -1,0 +1,78 @@
+{
+  "id": "mateo",
+  "seccion_id": "nuevo-testamento",
+  "orden": 1,
+  "nombre": "Mateo",
+  "abreviatura": "Mt",
+  "bloque": "evangelios",
+  "capitulos": 28,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Evangelio escrito para una comunidad de origen judío. Presenta a Jesús como nuevo Moisés y organiza sus enseñanzas en cinco discursos.",
+  "presentacion": "Un recaudador de impuestos deja su mesa y sigue a Jesús (Mt 9,9). Según la tradición, ese hombre da nombre al primer evangelio del Nuevo Testamento. El libro se dirige a una comunidad de origen judío y cita sin parar las Escrituras de Israel. Presenta a Jesús como un nuevo Moisés: nace, huye a Egipto y sube a un monte a enseñar (Mt 2; 5-7).\n\nMateo ordena lo que Jesús enseñó en cinco grandes discursos: el Sermón del Monte, la misión, las parábolas, la vida de la comunidad y el fin de los tiempos. Cada uno acaba con una fórmula parecida (Mt 7,28). Se ha visto ahí un eco de los cinco libros de la Torá, aunque no todos los críticos lo aceptan.\n\nEl libro trae también páginas duras contra los fariseos (Mt 23). Muchos comentaristas las leen como un conflicto dentro del judaísmo del siglo I. Otros creen que la comunidad de Mateo ya se había separado de la sinagoga.",
+  "autoria": {
+    "tradicion": "La tradición cristiana lo atribuye al apóstol Mateo, el recaudador de Mt 9,9. Se apoya en Papías, obispo de Hierápolis (siglo II), según el cual Mateo puso por escrito los dichos de Jesús en lengua hebrea.",
+    "critica": "La mayoría de críticos lo considera anónimo: su griego no parece traducido y, según la hipótesis más extendida, usa el evangelio de Marcos como fuente. Se discute si existió antes un original hebreo o arameo: unos lo defienden y otros lo niegan.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición es anterior a la caída del Templo, entre los años 50 y 70 d. C.",
+    "critica": "La mayoría de críticos lo data entre los años 80 y 90 d. C., probablemente en Siria (Antioquía), después de la destrucción del Templo en el 70 d. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      80,
+      90
+    ],
+    "rango_tradicion": [
+      50,
+      70
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Se estudia como fuente del judaísmo del siglo I; The Jewish Annotated New Testament lo comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónico y abre el Nuevo Testamento, como en las demás Biblias cristianas.",
+    "protestante": "Es canónico y abre el Nuevo Testamento, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Mt 5,3-12",
+      "nota": "Las bienaventuranzas, que abren el Sermón del Monte."
+    },
+    {
+      "pasaje": "Mt 5,43-48",
+      "nota": "El amor a los enemigos."
+    },
+    {
+      "pasaje": "Mt 18,21-35",
+      "nota": "La parábola del siervo que no perdona."
+    },
+    {
+      "pasaje": "Mt 25,31-46",
+      "nota": "El juicio final y las obras de misericordia."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Matthew 1-7, 8-20 y 21-28 (Hermeneia)",
+      "autor": "Ulrich Luz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Mateo escribe para una comunidad de origen judío y presenta a Jesús como nuevo Moisés.",
+    "Reúne las enseñanzas de Jesús en cinco discursos, el primero el Sermón del Monte.",
+    "La crítica lo data hacia 80-90 d. C. y lo ve anónimo; la tradición lo atribuye al apóstol Mateo.",
+    "Se discute si Mt 23 refleja una disputa dentro del judaísmo o una comunidad ya separada.",
+    "Mateo y Lucas comparten muchos dichos que no están en Marcos: de ahí el problema sinóptico."
+  ]
+}

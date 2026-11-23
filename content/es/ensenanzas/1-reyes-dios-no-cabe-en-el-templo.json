@@ -1,0 +1,39 @@
+{
+  "id": "1-reyes-dios-no-cabe-en-el-templo",
+  "libro_id": "1-reyes",
+  "orden": 2,
+  "titulo": "Salomón construye el templo y confiesa que Dios no cabe en él",
+  "pasaje": "1 Re 6; 8",
+  "que_dice": "Salomón tarda siete años en construir el templo de Jerusalén, con cedro del Líbano, piedra labrada y oro (6,1-38). Cuando está listo, trae el arca y una nube llena el edificio (8,1-11). Después bendice al pueblo y reza.\n\nEn su oración dice algo inesperado: si los cielos no pueden contener a Dios, menos este templo (8,27). Pide que Dios escuche desde el cielo a quien rece hacia él, también al extranjero que venga de lejos (8,41-43) y a los desterrados (8,46-50).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía reza hacia Jerusalén, según 1 Re 8,44.48 y Berajot 30a. Según una opinión del Talmud (Berajot 26b), las oraciones diarias sustituyen a los sacrificios del templo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Lectura de las tradiciones católica, ortodoxa y protestante: Esteban menciona el templo de Salomón y cita Is 66,1-2: el Altísimo no habita en edificios hechos por manos humanas (Hch 7,47-50)."
+    }
+  ],
+  "critica": {
+    "texto": "La oración de 8,22-53 tiene capas. La mayoría de críticos ve el núcleo en una dedicación antigua (8,12-13) y las súplicas por los desterrados (8,46-53) como un añadido del exilio, pues suponen un pueblo ya cautivo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "oracion",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Kings (Anchor Bible 10)",
+      "autor": "Mordechai Cogan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

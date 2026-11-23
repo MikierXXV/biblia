@@ -1,0 +1,50 @@
+{
+  "id": "daniel-hijo-de-hombre",
+  "libro_id": "daniel",
+  "orden": 3,
+  "titulo": "Daniel ve a uno «como un hijo de hombre» recibir el reino",
+  "pasaje": "Dn 7,1-28",
+  "que_dice": "Daniel sueña con cuatro bestias que salen del mar: un león con alas de águila, un oso, un leopardo con cuatro cabezas y un animal terrible con diez cuernos. Del último sale un cuerno pequeño que habla con arrogancia y hace guerra a los santos (7,1-8).\n\nSe instalan unos tronos y un Anciano de días se sienta a juzgar. Las bestias pierden el poder (7,9-12). Llega entre las nubes uno «como un hijo de hombre» y recibe un reino que no pasará (7,13-14). Se explica a Daniel que los santos del Altísimo recibirán el reino (7,15-27).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Entre los rabinos hay varias lecturas. Según el Talmud (Sanedrín 38b), Rabí Aquiba explicó los «tronos» como uno para Dios y otro para David. Rashi ve en el «hijo de hombre» al mesías; Ibn Ezra, al pueblo de Israel."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Jesús se llama a sí mismo «Hijo del hombre» en los evangelios, y Mc 14,62 lo une a Dn 7,13 ante el sumo sacerdote. Para la lectura católica, y en lo esencial para las demás cristianas, Dn 7,13-14 anuncia la gloria de Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos data la visión hacia el 167-164 a. C. y la lee como consuelo en la persecución. Los reinos paganos caerán y Dios dará el reino a los fieles. La identidad del «hijo de hombre» está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John J. Collins y otros",
+        "texto": "Una figura angélica, quizá el arcángel Miguel (12,1), que representa a los fieles de Israel."
+      },
+      {
+        "quien": "T. W. Manson y Maurice Casey",
+        "texto": "Un símbolo del pueblo fiel: los «santos del Altísimo» (7,18.27)."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "reino-de-dios",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel (Hermeneia)",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

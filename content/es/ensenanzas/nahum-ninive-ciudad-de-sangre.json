@@ -1,0 +1,38 @@
+{
+  "id": "nahum-ninive-ciudad-de-sangre",
+  "libro_id": "nahum",
+  "orden": 2,
+  "titulo": "Nínive, la ciudad de sangre: cómo cae un imperio",
+  "pasaje": "Nah 3,1-19",
+  "que_dice": "Látigos, ruedas y carros retumban en las calles de Nínive, capital de Asiria (3,2-3). El profeta la llama ciudad de sangre, llena de mentira y de botín (3,1). Le recuerda a Tebas, la gran ciudad de Egipto que Asiria arrasó en el 663 a. C.: también ella fue al destierro (3,8-10).\n\nNínive cayó en el 612 a. C. ante babilonios y medes. El libro termina sin consuelo para el rey de Asiria: su herida no tiene cura, y todos los que oyen la noticia aplauden (3,19).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El comentario de Qumrán a Nahúm (4Q169) es un *pésher*, comentario que aplica el libro a su propio presente. Lo refiere a sucesos del siglo I a. C.: los «buscadores de cosas lisas» y un rey Demetrio."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas han leído el libro como promesa de que ningún imperio dura para siempre. Para Judá, que pagaba tributo a Asiria desde hacía décadas, la noticia era el fin de la opresión."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica, como Roberts, fecha el libro entre 663 y 612 a. C.: Tebas aparece como ciudad ya caída en 3,8, y Nínive como ciudad aún en pie.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

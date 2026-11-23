@@ -1,0 +1,44 @@
+{
+  "id": "1-reyes-la-vina-de-nabot",
+  "libro_id": "1-reyes",
+  "orden": 5,
+  "titulo": "Nabot muere por una viña y Elías acusa al rey",
+  "pasaje": "1 Re 21",
+  "que_dice": "Ajab, rey de Israel, quiere la viña de Nabot, junto a su palacio de Yizreel, para hacer una huerta. Le ofrece una viña mejor o dinero. Nabot rechaza: es la herencia de sus padres (21,1-3). Ajab se mete en la cama y no quiere comer.\n\nSu esposa Jezabel lo arregla. Escribe cartas con el sello del rey, y dos testigos falsos acusan a Nabot de maldecir a Dios y al rey. Nabot es apedreado y Ajab toma la viña. Entonces Elías le sale al paso y anuncia el castigo de Dios (21,4-24).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Nabot defiende una tierra que, según Lv 25,23, es de Dios y no se vende sin más. Elías es el profeta que defiende al débil frente al rey."
+    }
+  ],
+  "critica": {
+    "texto": "El relato une la historia de un campesino con el juicio de un profeta. La crítica discute su origen y su relación con 2 Re 9.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Alexander Rofé",
+        "texto": "El relato es tardío: lo fecha en época persa, mucho después de Ajab."
+      },
+      {
+        "quien": "Nadav Na'aman",
+        "texto": "2 Re 9,25-26 cuenta el crimen con otros detalles, pues allí mueren también los hijos de Nabot. Sugiere una tradición independiente."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Kings (Anchor Bible 10)",
+      "autor": "Mordechai Cogan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "I & II Kings: A Commentary",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    }
+  ]
+}

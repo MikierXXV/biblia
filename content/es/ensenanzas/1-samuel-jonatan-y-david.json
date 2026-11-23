@@ -1,0 +1,60 @@
+{
+  "id": "1-samuel-jonatan-y-david",
+  "libro_id": "1-samuel",
+  "orden": 6,
+  "titulo": "Jonatán renuncia al trono por su amigo David",
+  "pasaje": "1 Sm 18-20; 2 Sm 1,26",
+  "que_dice": "Jonatán, hijo de Saúl y heredero del trono, ve a David vencer a Goliat y desde ese momento lo quiere como a sí mismo. Le da su manto, su espada, su arco y su cinturón (18,1-4). Hacen un pacto.\n\nSaúl sospecha de David y quiere matarlo. Jonatán, entre dos lealtades, lo avisa con una señal de flechas junto a una peña (20,18-22). Se despiden llorando y renuevan el pacto (20,41-42). Cuando Jonatán muere, David lo llora y dice que su amor era más hermoso que el de las mujeres (2 Sm 1,26).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La Misná (Avot 5,16) pone el amor de David y Jonatán como ejemplo del amor que no depende de ningún interés y que por eso no termina."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Aelredo de Rieval (s. XII), en La amistad espiritual, recuerda a Jonatán y David como modelo de amistad cristiana."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Theodore W. Jennings Jr.",
+      "texto": "Theodore Jennings lee el relato como una historia de amor entre los dos hombres, más allá de la amistad. Es una lectura minoritaria y discutida."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute de qué trata este amor: de afecto, de política o de ambas cosas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "J. A. Thompson",
+        "texto": "El vocabulario de «amar» y del pacto es el de los tratados: Jonatán reconoce a David como futuro rey y le cede su derecho al trono."
+      },
+      {
+        "quien": "Robert Alter",
+        "texto": "El relato muestra a la vez afecto personal y cálculo político: Jonatán sabe que, al amar a David, entrega su propio futuro."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jacob's Wound",
+      "autor": "Theodore W. Jennings Jr.",
+      "tradicion": "critica"
+    }
+  ]
+}

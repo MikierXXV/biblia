@@ -1,0 +1,43 @@
+{
+  "id": "salmos-el-rey-y-el-mesias",
+  "libro_id": "salmos",
+  "orden": 5,
+  "titulo": "Los salmos del rey: ¿un monarca de Judá o el mesías esperado?",
+  "pasaje": "Sal 2; 72; 110 (109)",
+  "que_dice": "En la coronación de un rey de Judá se cantaba que Dios lo llamaba su hijo y le daba las naciones (Sal 2,7-8). El Sal 72 (71) le pide que defienda a los pobres y salve a los hijos del necesitado (72,4). El Sal 110 (109) le dice que se siente a la derecha de Dios hasta que ponga a sus enemigos bajo sus pies.\n\nSon salmos reales. Hablan de un rey concreto y, con el tiempo, se leyeron como esperanza de un rey futuro.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi recoge que sus maestros aplicaron el Sal 2 al mesías, y prefiere referirlo a David para responder a la lectura cristiana. El Sal 110 lo lee de David o de Abraham."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura cristiana aplica el Sal 2,7 a Jesús (Hch 13,33; Heb 1,5) y el 110,1 (Mc 12,35-37; Hch 2,34-35). Es de los salmos más citados en el Nuevo Testamento."
+    }
+  ],
+  "critica": {
+    "texto": "Los salmos reales parecen de la monarquía. Mowinckel los lee como himnos de entronización del rey de Judá. Para Gerald Wilson, el orden final del salterio, tras el exilio, los convirtió en esperanza de un rey futuro.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Psalms (Interpretation)",
+      "autor": "James Luther Mays",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

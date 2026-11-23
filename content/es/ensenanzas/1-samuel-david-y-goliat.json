@@ -1,0 +1,56 @@
+{
+  "id": "1-samuel-david-y-goliat",
+  "libro_id": "1-samuel",
+  "orden": 5,
+  "titulo": "David y Goliat: un pastor sin armadura frente a un campeón",
+  "pasaje": "1 Sm 17",
+  "que_dice": "Goliat, un campeón filisteo de unos tres metros, según el texto hebreo, desafía cada día al ejército de Saúl durante cuarenta días. Nadie se atreve a contestarle. David, el menor de los hijos de Jesé, llega con provisiones para sus hermanos y pregunta quién es ese incircunciso que desafía a Dios (17,26).\n\nDavid rechaza la armadura de Saúl y baja al valle con un bastón, cinco piedras lisas y su honda. Dice que vence en nombre del Señor, que no necesita espada ni lanza. Una piedra hunde la frente de Goliat, y David lo remata con su propia espada (17,38-51).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Sotá 42b) hace de Goliat un descendiente de Orpá, la nuera de Noemí que se despidió en Rut 1. Así los relatos de Rut y de David quedan unidos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Agustín (Sermón 32 y Comentarios a los Salmos, Sal 144 (143)) lee a David como figura de Cristo, que vence sin armas humanas, y a Goliat como figura del diablo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas protestantes ven en David un modelo de fe frente al miedo: vence porque confía en Dios y no porque sea fuerte."
+    }
+  ],
+  "critica": {
+    "texto": "El relato tiene problemas de texto y de tradición, y por eso se discute su origen.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Emanuel Tov",
+        "texto": "La Septuaginta omite 17,12-31 y 17,55-18,5 y da a Goliat unos dos metros. Para Tov, el texto hebreo es una versión ampliada."
+      },
+      {
+        "quien": "P. Kyle McCarter",
+        "texto": "2 Sm 21,19 dice que Elhanán mató a Goliat, y 1 Cr 20,5 lo corrige: mató a su hermano. Quizá una hazaña ajena pasó a David."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

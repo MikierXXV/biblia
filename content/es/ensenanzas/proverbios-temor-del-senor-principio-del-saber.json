@@ -1,0 +1,42 @@
+{
+  "id": "proverbios-temor-del-senor-principio-del-saber",
+  "libro_id": "proverbios",
+  "orden": 1,
+  "titulo": "El saber empieza por temer al Señor: reconocer a Dios",
+  "pasaje": "Prov 1,1-7; 9,10",
+  "que_dice": "Un padre abre el libro con un propósito: enseñar a los jóvenes prudencia, justicia y rectitud (1,2-4). Fija el punto de partida: el temor del Señor es el principio del saber (1,7). Casi igual lo repite en 9,10.\n\nTemer aquí no es sentir miedo. Es reconocer que hay un Dios que ordena el mundo y que el sabio no es su dueño. El necio, en cambio, desprecia la instrucción. La sabiduría de Proverbios es práctica: se aprende viviendo y escuchando a los mayores.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lo llama «temor del cielo» y lo toma como base de la vida religiosa. Pirké Avot, el tratado de dichos de los sabios (3,17), dice que sin sabiduría no hay temor y sin temor no hay sabiduría."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica cuenta el temor entre los siete dones del Espíritu Santo (Is 11,2-3). Tomás de Aquino distingue el temor servil, que huye del castigo, del filial, que no quiere ofender a quien ama."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en Prov 1-9 la introducción teológica que se añadió al final del libro. El versículo 1,7 es su lema.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Proverbs 1-9 (Anchor Bible 18A)",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Proverbs (Word Biblical Commentary 22)",
+      "autor": "Roland E. Murphy",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

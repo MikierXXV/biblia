@@ -1,0 +1,54 @@
+{
+  "id": "2-reyes-eliseo-y-la-viuda-la-sunamita",
+  "libro_id": "2-reyes",
+  "orden": 1,
+  "titulo": "Eliseo atiende a una viuda y devuelve la vida al hijo de la sunamita",
+  "pasaje": "2 Re 4",
+  "que_dice": "Una viuda de un discípulo de los profetas va a ver a Eliseo: un acreedor quiere llevarse a sus dos hijos como esclavos. Eliseo le manda pedir vasijas vacías a los vecinos. Ella vierte su única jarra de aceite en todas, hasta que se acaban las vasijas. Vende el aceite y paga la deuda (4,1-7).\n\nUna mujer de Sunén acoge a Eliseo y le prepara un cuarto, y él le promete un hijo. Años después el niño muere. La mujer va al Carmelo y no suelta a Eliseo hasta que vuelve con ella. El profeta se tiende sobre el niño, y este abre los ojos (4,8-37).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Berajot 10b) cuenta que la sunamita vio que Eliseo era un hombre santo porque nunca vio una mosca sobre su mesa. De ahí se deduce el valor de la hospitalidad a los sabios."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el aceite y la resurrección del niño anuncian milagros de Jesús, como el de la viuda de Naín (Lc 7,11-17)."
+    }
+  ],
+  "critica": {
+    "texto": "Los relatos de Eliseo son milagros de cercanía: ocurren en casas y entre gente corriente. La crítica discute su origen y su fecha.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Alexander Rofé",
+        "texto": "Proceden de círculos de discípulos de profetas del norte, y pasaron a la historia deuteronomista con pocos retoques."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Los relatos de Elías (1 Re 17) y de Eliseo (2 Re 4) se parecen a propósito, y se discute cuál imita a cuál."
+      }
+    ]
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "justicia-social-y-defensa-del-pobre",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Kings (Anchor Bible 11)",
+      "autor": "Mordechai Cogan y Hayim Tadmor",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jesus and Elisha",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

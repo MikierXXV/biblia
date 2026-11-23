@@ -1,0 +1,48 @@
+{
+  "id": "2-macabeos-creacion-de-la-nada",
+  "libro_id": "2-macabeos",
+  "orden": 3,
+  "titulo": "Una madre pide mirar el cielo y la tierra para creer en Dios",
+  "pasaje": "2 Mac 7,27-29",
+  "que_dice": "Es el momento más duro del capítulo 7. El rey intenta que la madre convenza al hijo menor de ceder. Ella se inclina hacia él y le habla en la lengua de sus padres. Le recuerda que lo llevó nueve meses y lo crió (2 Mac 7,24-27).\n\nLe pide que mire el cielo y la tierra. Dios no los hizo de cosas ya existentes, y así también a los humanos (7,28). El menor responde que no obedece al rey, y muere.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no tiene una sola opinión. Rashi lee Gn 1,1 como «al comenzar Dios a crear», con un caos ya existente, mientras Maimónides defiende que Dios creó de la nada."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, 2 Mac 7,28 es uno de los textos que sostienen la creación de la nada. El IV Concilio de Letrán (1215) la afirmó como doctrina."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si 2 Mac 7,28 afirma la creación de la nada en sentido técnico.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jonathan Goldstein",
+        "texto": "Sostiene que sí: es la primera afirmación explícita de que Dios creó de la nada."
+      },
+      {
+        "quien": "Gerhard May y David Winston",
+        "texto": "Sostienen que el texto dice solo que Dios no hizo el mundo de algo ya visible, sin la precisión filosófica posterior."
+      }
+    ]
+  },
+  "temas": [
+    "creacion-y-cuidado-del-mundo",
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Maccabees (Anchor Bible 41A)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "2 Maccabees (Hermeneia)",
+      "autor": "Robert Doran",
+      "tradicion": "critica"
+    }
+  ]
+}

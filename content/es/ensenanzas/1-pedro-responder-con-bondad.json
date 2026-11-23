@@ -1,0 +1,29 @@
+{
+  "id": "1-pedro-responder-con-bondad",
+  "libro_id": "1-pedro",
+  "orden": 4,
+  "titulo": "¿Se puede responder al mal con el bien y dar razón de la esperanza?",
+  "pasaje": "1 Pe 3,13-17",
+  "que_dice": "Un vecino pregunta a un cristiano por qué vive así, sin vengarse de las burlas. La carta anticipa esa escena y pide estar siempre dispuesto a dar razón de la esperanza.\n\nLa respuesta debe darse con mansedumbre y respeto, con la conciencia limpia (3,15-16). El autor prefiere que sus lectores sufran por hacer el bien antes que por hacer el mal. Así sus calumniadores quedarán en evidencia.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el pasaje es una guía para el testimonio sereno ante la hostilidad. Usa *apología*, la defensa razonada, de donde la apologética cristiana toma su nombre."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos lee este pasaje como una estrategia de convivencia ante la sospecha social, con el ejemplo de Jesús detrás. Elliott lo ve parte de un programa de resistencia sin violencia, y Jobes lo lee como consejo pastoral.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Peter (Anchor Yale Bible 37B)",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    }
+  ]
+}

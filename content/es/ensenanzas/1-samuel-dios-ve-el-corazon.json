@@ -1,0 +1,34 @@
+{
+  "id": "1-samuel-dios-ve-el-corazon",
+  "libro_id": "1-samuel",
+  "orden": 4,
+  "titulo": "Dios elige al menor de los hijos de Jesé, no al más alto",
+  "pasaje": "1 Sm 16,1-13",
+  "que_dice": "Dios manda a Samuel a Belén a ungir a uno de los hijos de Jesé como nuevo rey. Samuel mira al mayor, Eliab, alto y fuerte, y piensa que es el elegido. Dios le corrige: él no mira como mira el hombre; el hombre ve las apariencias y el Señor ve el corazón (16,7).\n\nPasan siete hijos y ninguno es el elegido. El octavo, David, el más joven, cuida las ovejas. Lo llaman y Samuel lo unge delante de sus hermanos. Desde ese día el espíritu del Señor está con David (16,11-13).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Dios elige por razones que el hombre no ve y escoge al menor de la familia."
+    }
+  ],
+  "critica": {
+    "texto": "El libro cuenta tres veces cómo David llega a Saúl: como ungido (16,1-13), como músico de la corte (16,14-23) y como pastor desconocido que vence a Goliat (17). La mayoría de críticos lee esas versiones como tradiciones distintas, unidas por un redactor.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

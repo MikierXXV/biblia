@@ -1,0 +1,234 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Enseñanza",
+  "description": "Una enseñanza de un libro, con las tres capas de DEC §3.",
+  "type": "object",
+  "required": [
+    "id",
+    "libro_id",
+    "orden",
+    "titulo",
+    "pasaje",
+    "que_dice",
+    "lecturas",
+    "critica",
+    "temas",
+    "fuentes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "libro_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "orden": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "titulo": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 80
+    },
+    "pasaje": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 60
+    },
+    "que_dice": {
+      "type": "string",
+      "minLength": 200,
+      "maxLength": 900
+    },
+    "cita": {
+      "type": "object",
+      "required": [
+        "texto",
+        "referencia",
+        "traduccion"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "texto": {
+          "type": "string",
+          "minLength": 5,
+          "maxLength": 400
+        },
+        "referencia": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 60
+        },
+        "traduccion": {
+          "type": "string"
+        }
+      }
+    },
+    "lecturas": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "tradicion",
+          "texto"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "tradicion": {
+            "type": "string",
+            "enum": [
+              "judia",
+              "catolica",
+              "ortodoxa",
+              "protestante",
+              "comun"
+            ]
+          },
+          "texto": {
+            "type": "string",
+            "minLength": 80,
+            "maxLength": 600
+          }
+        }
+      }
+    },
+    "critica": {
+      "type": "object",
+      "required": [
+        "texto",
+        "acuerdo"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "texto": {
+          "type": "string",
+          "minLength": 80,
+          "maxLength": 700
+        },
+        "acuerdo": {
+          "type": "string",
+          "enum": [
+            "consenso",
+            "discusion"
+          ]
+        },
+        "posturas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "quien",
+              "texto"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "quien": {
+                "type": "string",
+                "minLength": 3,
+                "maxLength": 100
+              },
+              "texto": {
+                "type": "string",
+                "minLength": 20,
+                "maxLength": 260
+              }
+            }
+          }
+        }
+      }
+    },
+    "abierta": {
+      "type": "boolean"
+    },
+    "temas": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    },
+    "fuentes": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": [
+          "titulo",
+          "autor",
+          "tradicion"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "titulo": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 200
+          },
+          "autor": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 200
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "tradicion": {
+            "type": "string",
+            "enum": [
+              "judia",
+              "catolica",
+              "ortodoxa",
+              "protestante",
+              "critica",
+              "literaria"
+            ]
+          }
+        }
+      }
+    },
+    "academica": {
+      "type": "array",
+      "maxItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "enfoque",
+          "autor",
+          "texto"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "enfoque": {
+            "type": "string",
+            "enum": [
+              "literaria",
+              "feminista",
+              "liberacion",
+              "judaismo-academico",
+              "otra"
+            ]
+          },
+          "autor": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 120
+          },
+          "texto": {
+            "type": "string",
+            "minLength": 80,
+            "maxLength": 450
+          }
+        }
+      }
+    }
+  }
+}

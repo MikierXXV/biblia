@@ -1,0 +1,95 @@
+{
+  "id": "genesis",
+  "seccion_id": "pentateuco",
+  "orden": 1,
+  "nombre": "Génesis",
+  "abreviatura": "Gn",
+  "capitulos": 50,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta los orígenes del mundo, de la humanidad y de Israel. Sigue a Abrahán, Isaac, Jacob y José hasta la llegada de la familia a Egipto.",
+  "presentacion": "Un jardín, un asesinato, un diluvio y una torre que nadie termina. Los once primeros capítulos hablan de toda la humanidad. Después el foco se estrecha: una familia, la de Abrahán, recibe la promesa de ser bendición para todas las naciones (12,3).\n\nLos capítulos 12-50 siguen cuatro generaciones: Abrahán y Sara, Isaac y Rebeca, Jacob con Lía y Raquel, y José. Son historias de familia, con celos, engaños y reconciliaciones. Terminan con los hijos de Jacob instalados en Egipto.\n\nEl libro no es un solo relato. Mezcla poemas, genealogías y narraciones de épocas distintas. Importa porque plantea las preguntas que la Biblia irá contestando: de dónde viene el mundo, qué es el ser humano y por qué Dios elige a un pueblo.",
+  "autoria": {
+    "tradicion": "La tradición judía y la cristiana clásica atribuyen los cinco libros del Pentateuco a Moisés. Su época se calcula distinto: la cronología judía tradicional lo sitúa en el siglo XIII a. C., y la cristiana clásica, por 1 Re 6,1, algo antes.",
+    "critica": "La crítica no atribuye el libro a Moisés: lo considera una obra compuesta. Discute cómo se compuso, si por fuentes escritas o por bloques añadidos con el tiempo.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Moisés lo escribió entre los siglos XIV y XIII a. C., en el desierto.",
+    "critica": "La mayoría de críticos sitúa la forma final tras el exilio (siglos VI-V a. C.), con materiales más antiguos. Cuántas fuentes hubo y cuándo se escribieron está en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      -600,
+      -400
+    ],
+    "rango_tradicion": [
+      -1320,
+      -1200
+    ],
+    "posturas": [
+      {
+        "quien": "Hipótesis documentaria clásica (Wellhausen y sucesores)",
+        "texto": "Distingue fuentes escritas (yahvista, elohísta, sacerdotal), de la monarquía al exilio, unidas por un redactor."
+      },
+      {
+        "quien": "Modelos de bloques y complementos (Ska, Schmid, Römer)",
+        "texto": "Ven bloques independientes, unidos y ampliados poco a poco, sobre todo en época persa (siglos VI-V a. C.)."
+      },
+      {
+        "quien": "Estudiosos conservadores, evangélicos y judíos ortodoxos",
+        "texto": "Defienden un peso mayor de Moisés en la formación del texto."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es el primer libro de la Torá. En hebreo se llama Bereshit, «en el principio», por su primera palabra.",
+    "ortodoxa": "Es canónico y abre el Antiguo Testamento, como en las Biblias católicas.",
+    "protestante": "Es canónico y abre el Antiguo Testamento, como en las Biblias católicas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Gn 1,26-28",
+      "nota": "El ser humano, hombre y mujer, creado a imagen de Dios."
+    },
+    {
+      "pasaje": "Gn 3,15",
+      "nota": "Dios anuncia enemistad entre la serpiente y la descendencia de la mujer; judíos y cristianos lo leen de modo distinto."
+    },
+    {
+      "pasaje": "Gn 12,1-3",
+      "nota": "La llamada a Abrahán y la bendición para todas las familias de la tierra."
+    },
+    {
+      "pasaje": "Gn 22,1-19",
+      "nota": "La prueba de Abrahán con su hijo Isaac."
+    },
+    {
+      "pasaje": "Gn 50,19-20",
+      "nota": "José perdona a sus hermanos: Dios convirtió el mal en bien."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducción a la lectura del Pentateuco",
+      "autor": "Jean-Louis Ska",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Génesis abre la Biblia con dos relatos de la creación, no con uno.",
+    "Dice que el ser humano, hombre y mujer, lleva la imagen de Dios (1,26-27).",
+    "Dios elige a Abrahán para bendecir a todas las naciones (12,1-3).",
+    "Judíos y cristianos leen Gn 3,15 de modo distinto.",
+    "La crítica discute cómo se compuso el libro, no que sea una obra compuesta."
+  ]
+}

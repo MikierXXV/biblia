@@ -1,0 +1,44 @@
+{
+  "id": "amos-que-corra-el-derecho",
+  "libro_id": "amos",
+  "orden": 2,
+  "titulo": "Fiestas que Dios rechaza: que el derecho corra como un río",
+  "pasaje": "Am 5,21-27",
+  "que_dice": "Dios dice que odia las fiestas de Israel. No acepta sus holocaustos, ni sus ofrendas de cereal, ni los novillos engordados, ni el ruido de los cantos y de las arpas (5,21-23).\n\nLo que pide es otra cosa: que el derecho corra como el agua y la justicia como un torrente que no se seca (5,24). Pregunta si en el desierto, durante cuarenta años, Israel le ofreció sacrificios (5,25). El castigo será el destierro más allá de Damasco (5,27).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas han leído Am 5,24 como programa de justicia social. Martin Luther King lo citó en Washington en 1963."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si Amós rechaza el culto sacrificial en sí o solo un culto separado de la justicia.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Wellhausen y la crítica clásica",
+        "texto": "Los profetas rechazaron el culto sacrificial como tal, que consideraban ajeno a la fe original de Israel."
+      },
+      {
+        "quien": "Rowley y la mayoría actual",
+        "texto": "Amós critica un culto sin justicia, pero no pide abolirlo. La frase habla de prioridades."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Amos (Hermeneia)",
+      "autor": "Shalom M. Paul",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Prophets",
+      "autor": "Abraham J. Heschel",
+      "tradicion": "judia"
+    }
+  ]
+}

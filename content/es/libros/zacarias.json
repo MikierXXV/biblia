@@ -1,0 +1,86 @@
+{
+  "id": "zacarias",
+  "seccion_id": "profetas",
+  "orden": 17,
+  "nombre": "Zacarías",
+  "abreviatura": "Zac",
+  "capitulos": 14,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Una noche de visiones sobre el Templo en obras y, más adelante, oráculos sobre un rey humilde y un día final. Para la mayoría de críticos, los capítulos 9-14 son de otra mano.",
+  "presentacion": "En una sola noche de febrero del 519 a. C., Zacarías ve ocho visiones. Un jinete entre mirtos, un candelabro entre dos olivos, una mujer dentro de una cesta. Un ángel intérprete le explica cada imagen: Dios vuelve a Jerusalén y el Templo se reconstruirá (Zac 1,7-6,8).\n\nLos capítulos 1-8 son contemporáneos de Ageo, entre el 520 y el 518 a. C. Tratan del Templo, del sumo sacerdote Josué y del gobernador Zorobabel. Tratan también de un ayuno que ya no hace falta (Zac 3-4; 7-8).\n\nLos capítulos 9-14 cambian de tono. Aparecen un rey humilde sobre un asno (Zac 9,9-10), un pastor rechazado (Zac 11) y un día final en que Dios reina sobre toda la tierra (Zac 14). La mayoría de críticos los atribuye a otro autor, y ese reparto es la gran discusión del libro.",
+  "autoria": {
+    "tradicion": "Zac 1,1 presenta a Zacarías, hijo de Berequías y nieto de Idó, y Esd 5,1 y 6,14 lo llaman hijo de Idó. Las tradiciones judía y cristiana le atribuyen el libro entero.",
+    "critica": "La mayoría de críticos, como Meyers y Meyers y Petersen, atribuye Zac 1-8 a Zacarías y Zac 9-14 a otro autor o autores posteriores, el llamado Deutero-Zacarías. Harrison y la crítica conservadora evangélica defienden un solo autor.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Zac 1,1.7 y 7,1 fechan los capítulos 1-8 entre el 520 y el 518 a. C., en tiempos de Darío. Los capítulos 9-14 no llevan fecha.",
+    "critica": "Zac 1-8 se data en 520-518 a. C. sin discusión. Para Zac 9-14 hay varias propuestas, desde el siglo VI hasta la época helenística.",
+    "acuerdo": "discusion",
+    "rango": [
+      -520,
+      -200
+    ],
+    "posturas": [
+      {
+        "quien": "Bernhard Duhm",
+        "texto": "Zac 9-14 es de época helenística, por la mención de Yaván (Grecia) en Zac 9,13. La primera crítica, con Joseph Mede en el siglo XVII, los había fechado antes del exilio."
+      },
+      {
+        "quien": "Hanson",
+        "texto": "Zac 9-14 viene de círculos visionarios de los siglos VI-V a. C. y es un paso hacia la apocalíptica."
+      },
+      {
+        "quien": "Harrison y la crítica conservadora",
+        "texto": "Todo el libro es de Zacarías, y los capítulos 9-14 serían de su madurez, hacia el 480 a. C."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el undécimo.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Zac 1,7-17",
+      "nota": "Primera visión: jinetes entre mirtos que recorren la tierra."
+    },
+    {
+      "pasaje": "Zac 4,1-14",
+      "nota": "El candelabro y los dos olivos; el espíritu, no la fuerza, acabará el Templo."
+    },
+    {
+      "pasaje": "Zac 9,9-10",
+      "nota": "Un rey humilde entra en Jerusalén sobre un asno."
+    },
+    {
+      "pasaje": "Zac 14,1-9",
+      "nota": "Un día final en que Dios reina sobre toda la tierra."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Zechariah 9-14 and Malachi (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Zac 1-8 se data en 520-518 a. C., con ocho visiones nocturnas sobre el Templo en obras.",
+    "La mayoría de críticos atribuye Zac 9-14 a otro autor; Harrison y la crítica conservadora defienden uno solo.",
+    "Zac 4,6 dice que el Templo no se acabará con ejército ni fuerza, sino con el espíritu de Dios.",
+    "Zac 9,9 anuncia un rey humilde sobre un asno; Mt 21,5 y Jn 12,15 lo citan en la entrada de Jesús en Jerusalén."
+  ]
+}

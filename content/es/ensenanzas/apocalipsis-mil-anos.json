@@ -1,0 +1,54 @@
+{
+  "id": "apocalipsis-mil-anos",
+  "libro_id": "apocalipsis",
+  "orden": 5,
+  "titulo": "¿Cuándo reinan los mil años del Apocalipsis?",
+  "pasaje": "Ap 20,1-10",
+  "que_dice": "Un ángel baja del cielo y encadena a Satanás durante mil años, mientras los mártires reinan con Cristo. Pasado ese tiempo, el mal se suelta un momento y es vencido (Ap 20,1-10). Es el único pasaje de la Biblia que habla de ese milenio.\n\nEl texto no dice dónde ocurre ni si el número es literal. De ahí vienen siglos de disputa sobre si el reinado es futuro, presente o simbólico.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "El quiliasmo, la espera de un reino de mil años en la tierra, ya aparece en Papías, Justino e Ireneo. Agustín, en *La ciudad de Dios*, lo reinterpretó como el tiempo de la Iglesia entre las dos venidas de Cristo, y esa lectura se hizo la habitual."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Scofield, en su Reference Bible (1909), y Hal Lindsey, en *The Late Great Planet Earth*, esperan un reinado literal tras el regreso de Cristo. Otros protestantes siguen la lectura agustiniana, y el premilenarismo es muy anterior a ambos."
+    }
+  ],
+  "abierta": true,
+  "critica": {
+    "texto": "La crítica discute el sentido del milenio. David Aune lo lee como un reino mesiánico provisional, anterior al fin, igual que en 4 Esd 7,28-29 y 2 Bar 40. Otros lo leen como símbolo del presente.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "David E. Aune",
+        "texto": "Un reino mesiánico provisional, anterior al fin definitivo, con paralelos en 4 Esd 7,28-29 y 2 Bar 40."
+      },
+      {
+        "quien": "G. K. Beale",
+        "texto": "Un símbolo del tiempo presente: los mártires reinan ya con Cristo hasta su vuelta."
+      }
+    ]
+  },
+  "temas": [
+    "reino-de-dios",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "La ciudad de Dios",
+      "autor": "Agustín de Hipona",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Contra las herejías (libro V)",
+      "autor": "Ireneo de Lyon",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Revelation 17-22 (Word Biblical Commentary 52C)",
+      "autor": "David E. Aune",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hebreos-fe-garantia-de-lo-esperado",
+  "libro_id": "hebreos",
+  "orden": 2,
+  "titulo": "¿Qué significa creer sin ver? Una lista de testigos",
+  "pasaje": "Heb 11,1-40",
+  "que_dice": "Abrahán sale de su tierra sin saber adónde va. Sara concibe cuando ya era anciana. Moisés prefiere compartir la suerte de su pueblo a vivir en palacio. El capítulo 11 los pone en fila.\n\nEl autor define la fe como la garantía de lo que se espera y la prueba de lo que no se ve (11,1). Luego la ilustra con personajes de Israel, de Abel a los mártires. Ninguno vio cumplida del todo la promesa (11,39-40).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: los personajes de la lista son figuras de Israel que se admiran como ejemplo. Las tradiciones difieren en qué falta para que se cumpla la promesa, no en el valor de ese ejemplo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos ve en el capítulo una lista de ejemplos, un recurso retórico antiguo que también usa Sir 44-50 en su elogio de los padres. La fe aquí es sobre todo confianza y fidelidad a lo prometido.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistle to the Hebrews (Hermeneia)",
+      "autor": "Harold W. Attridge",
+      "tradicion": "critica"
+    }
+  ]
+}

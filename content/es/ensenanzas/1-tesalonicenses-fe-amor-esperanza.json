@@ -1,0 +1,34 @@
+{
+  "id": "1-tesalonicenses-fe-amor-esperanza",
+  "libro_id": "1-tesalonicenses",
+  "orden": 1,
+  "titulo": "¿Cómo resume Pablo la vida cristiana en fe, amor y esperanza?",
+  "pasaje": "1 Tes 1,2-10",
+  "que_dice": "Tesalónica es una ciudad portuaria de Macedonia donde Pablo predicó poco tiempo antes de marcharse deprisa (Hch 17,1-10). Al darles las gracias, Pablo, Silvano y Timoteo resumen su vida en tres rasgos: la obra de la fe, el esfuerzo del amor y la constancia de la esperanza (1,3).\n\nLos tesalonicenses dejaron los ídolos para servir al Dios vivo y esperar a su Hijo, Jesús, que viene del cielo (1,9-10). Es la primera vez que aparecen juntas fe, amor y esperanza, una tríada que Pablo repite en 1 Cor 13,13.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas ven en esta tríada la base de la vida cristiana. La católica y la ortodoxa las llaman virtudes teologales; la protestante pone el acento en la fe, de la que nacen el amor y la esperanza."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lo considera el escrito cristiano más antiguo que se conserva. Es de hacia el 50-51 d. C. Dejar los ídolos indica que la comunidad era sobre todo de origen no judío.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    }
+  ]
+}

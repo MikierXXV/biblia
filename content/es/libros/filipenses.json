@@ -1,0 +1,94 @@
+{
+  "id": "filipenses",
+  "seccion_id": "nuevo-testamento",
+  "orden": 11,
+  "nombre": "Filipenses",
+  "abreviatura": "Flp",
+  "bloque": "cartas-paulinas",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Carta cálida escrita desde la cárcel a una comunidad querida. Incluye un himno sobre el abajamiento de Cristo.",
+  "presentacion": "Pablo escribe desde la cárcel a una comunidad que quiere y que le ha ayudado más que ninguna otra (Flp 4,15-16). Filipos era una colonia romana de Macedonia. Es una carta cálida y llena de alegría, aunque el autor no sabe si lo van a condenar a muerte (1,20-26).\n\nPide a los filipenses vivir unidos y con humildad (2,1-4) y les propone el ejemplo de Cristo en un himno (2,5-11). Más adelante habla de lo que dejó por Cristo (3,7-11), de la ciudadanía que está en el cielo (3,20) y de la alegría (4,4). Da las gracias por la ayuda recibida (4,10-20).\n\nSe discute dónde estaba preso, y si la carta es una sola o varias unidas. El himno de 2,5-11 se discute aparte: si es anterior a Pablo y qué dice sobre Cristo.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que escribe con Timoteo (Flp 1,1) y desde la cárcel.",
+    "critica": "Todos los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas. Lo que se discute es si es una sola carta o varias reunidas, y dónde estaba preso.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió preso en Roma, hacia el 60-62 d. C.",
+    "critica": "La crítica acepta que es de los años 50-60 d. C. Se discute dónde estaba preso, en Roma, Éfeso o Cesarea. De ahí depende la fecha, entre mediados de los 50 y los primeros 60.",
+    "acuerdo": "discusion",
+    "rango": [
+      54,
+      62
+    ],
+    "rango_tradicion": [
+      60,
+      62
+    ],
+    "posturas": [
+      {
+        "quien": "Gordon Fee y Markus Bockmuehl",
+        "texto": "Pablo estaba preso en Roma, hacia el 60-62 d. C. Los dos defienden que la carta es una unidad."
+      },
+      {
+        "quien": "Helmut Koester",
+        "texto": "Pablo estaba preso en Éfeso, a mediados de los años 50, y la carta reúne fragmentos de varias cartas."
+      },
+      {
+        "quien": "Gerald Hawthorne",
+        "texto": "La cárcel era la de Cesarea, la capital romana de Judea."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen Filipenses como testimonio de un judío del siglo I; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas. El himno de 2,5-11 se lee en la liturgia, por ejemplo en las fiestas de la Virgen.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Flp 2,1-4",
+      "nota": "Unidad y humildad en la comunidad."
+    },
+    {
+      "pasaje": "Flp 2,5-11",
+      "nota": "El himno al abajamiento y la exaltación de Cristo."
+    },
+    {
+      "pasaje": "Flp 3,7-11",
+      "nota": "Lo que Pablo cuenta como pérdida por Cristo."
+    },
+    {
+      "pasaje": "Flp 4,4-7",
+      "nota": "La alegría y la paz desde la cárcel."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul's Letter to the Philippians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/37584"
+    },
+    {
+      "titulo": "The Epistle to the Philippians (Black's New Testament Commentary)",
+      "autor": "Markus Bockmuehl",
+      "tradicion": "critica",
+      "url": "https://bestcommentaries.com/book/3186"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Pablo escribe a Filipos desde la cárcel y habla constantemente de alegría.",
+    "Contiene el himno al abajamiento y la exaltación de Cristo (2,5-11).",
+    "Se discute si estaba preso en Roma, Éfeso o Cesarea.",
+    "También si es una sola carta o varias unidas.",
+    "En 3,7-11 llama basura a lo que dejó por Cristo: se discute si rechaza el judaísmo."
+  ]
+}

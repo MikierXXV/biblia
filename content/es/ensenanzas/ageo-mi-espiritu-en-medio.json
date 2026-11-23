@@ -1,0 +1,38 @@
+{
+  "id": "ageo-mi-espiritu-en-medio",
+  "libro_id": "ageo",
+  "orden": 2,
+  "titulo": "Un Templo que parece nada, y Dios sigue en medio",
+  "pasaje": "Ag 2,1-9",
+  "que_dice": "Un anciano mira los cimientos del Templo nuevo. Recuerda el de Salomón, destruido hace sesenta y seis años, y el de ahora le parece nada. Ageo lo pregunta en voz alta, en plena fiesta de las Cabañas (2,1-3).\n\nLa respuesta es breve: ánimo, trabajad, porque estoy con vosotros y mi espíritu está en medio de vosotros (2,4-5). Dios promete sacudir cielo y tierra, y que lleguen a este Templo las riquezas de las naciones (2,6-9).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee el hebreo de Ag 2,7 en plural, como los tesoros de las naciones que llegan al Templo, y no como una persona."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición latina, que usó la Vulgata (la traducción latina de san Jerónimo), traduce Ag 2,7 como «el deseado de todas las gentes» y desde antiguo lo leyó como Cristo. Hebreos 12,26-27 también recoge la sacudida de Ag 2,6."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica traduce el hebreo de 2,7 como «los tesoros de las naciones», porque el verbo va en plural. Entiende por ello las ofrendas que traerán los pueblos al Templo, y no una persona.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Haggai and Zechariah 1-8 (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    }
+  ]
+}

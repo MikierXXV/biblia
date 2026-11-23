@@ -1,0 +1,58 @@
+{
+  "id": "romanos-obediencia-a-las-autoridades",
+  "libro_id": "romanos",
+  "orden": 3,
+  "titulo": "¿Hay que someterse siempre a las autoridades?",
+  "pasaje": "Rom 13,1-7",
+  "que_dice": "Pablo escribe a una comunidad que vive en la capital del Imperio, bajo Nerón. Pide que toda persona se someta a las autoridades, porque, dice, no hay autoridad que no venga de Dios. Quien resiste a la autoridad resiste lo que Dios ha dispuesto, y debe pagar impuestos.\n\nEl pasaje se ha usado para respaldar a gobiernos de todo tipo y también para resistir a algunos. Pablo no menciona ningún límite a esa sumisión.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la autoridad legítima viene de Dios y obliga en conciencia, pero no a mandar el mal. Agustín y Tomás de Aquino admiten no obedecer una ley injusta (Suma Teológica I-II, q. 96)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero lo leyó como mandato de obedecer a la autoridad civil, que guarda el orden en un mundo caído. Calvino admitió la resistencia por medio de magistrados inferiores. En el siglo XX, la Iglesia Confesante alemana lo discutió ante Hitler."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute si pide obediencia sin condiciones y qué situación concreta tenía Pablo delante.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ernst Käsemann",
+        "texto": "Pablo afirma que Dios gobierna por medio de todo poder; el texto corrige a entusiastas que rechazaban las autoridades."
+      },
+      {
+        "quien": "C. E. B. Cranfield",
+        "texto": "La autoridad recibe su función de Dios; el texto no justifica a un régimen que abuse de ella."
+      },
+      {
+        "quien": "John Howard Yoder y Neil Elliott",
+        "texto": "El verbo griego apunta a un orden dispuesto, no a bendecir al Imperio. Pablo no pedía aprobar la injusticia."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Commentary on Romans",
+      "autor": "Ernst Käsemann",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle to the Romans (ICC)",
+      "autor": "C. E. B. Cranfield",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Liberating Paul: The Justice of God and the Politics of the Apostle",
+      "autor": "Neil Elliott",
+      "tradicion": "critica"
+    }
+  ]
+}

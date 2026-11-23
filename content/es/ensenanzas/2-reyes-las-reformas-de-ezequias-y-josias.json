@@ -1,0 +1,58 @@
+{
+  "id": "2-reyes-las-reformas-de-ezequias-y-josias",
+  "libro_id": "2-reyes",
+  "orden": 4,
+  "titulo": "Ezequías y Josías reforman el culto y encuentran un libro",
+  "pasaje": "2 Re 18-23",
+  "que_dice": "Ezequías quita los lugares altos y rompe la serpiente de bronce que Moisés hizo. Confía en Dios cuando Senaquerib de Asiria cerca Jerusalén, y la ciudad se salva (18,1-19,37).\n\nSu bisnieto Josías es rey a los ocho años. Durante unas obras en el templo se encuentra un libro de la ley (22,8). La profetisa Hulda confirma que el castigo caerá, pero no en vida de Josías. El rey lee el libro al pueblo, renueva la alianza y destruye los santuarios fuera de Jerusalén (22,14-23,25).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Meguilá 14b) explica por qué Josías consultó a Hulda y no a Jeremías. Según Yoma 52b, al leer Dt 28,36 Josías escondió el arca."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Jerónimo y Juan Crisóstomo identifican el libro hallado con Deuteronomio. La crítica moderna sigue esa identificación desde W. M. L. de Wette (1805)."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute cuánto hubo de reforma real y cuánto de programa escrito. La arqueología no resuelve la cuestión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Frank M. Cross",
+        "texto": "La reforma de Josías es histórica, y la Historia deuteronomista se escribió como su programa."
+      },
+      {
+        "quien": "Israel Finkelstein y Neil Silberman",
+        "texto": "Hubo una reforma, pero respondió a la política: centralizar el culto en Jerusalén tras la caída de Asiria. El libro la presenta con más pureza que su alcance real."
+      },
+      {
+        "quien": "Ze'ev Herzog y Lisbeth S. Fried",
+        "texto": "Los altares desmontados de Arad se leen de modos opuestos: Herzog los vincula con la reforma, y Fried duda de que hubiera una reforma tan amplia."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "poder-monarquia-y-critica-politica",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Canaanite Myth and Hebrew Epic",
+      "autor": "Frank Moore Cross",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Bible Unearthed",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "II Kings (Anchor Bible 11)",
+      "autor": "Mordechai Cogan y Hayim Tadmor",
+      "tradicion": "critica"
+    }
+  ]
+}

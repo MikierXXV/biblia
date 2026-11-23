@@ -1,0 +1,38 @@
+{
+  "id": "deuteronomio-memoria-de-la-esclavitud",
+  "libro_id": "deuteronomio",
+  "orden": 2,
+  "titulo": "Recuerda que fuiste esclavo: la memoria funda la justicia",
+  "pasaje": "Dt 5,12-15; 15,12-15",
+  "que_dice": "Un israelita se vende como esclavo por deudas. Trabaja seis años para su amo. El séptimo, la ley manda dejarlo libre, y no con las manos vacías: el amo le da ovejas, grano y vino de lo que Dios le ha dado (15,12-14).\n\nLa razón que da el texto es la memoria: fuiste esclavo en Egipto y el Señor te rescató (15,15). La misma frase fundamenta el descanso del sábado para siervos y esclavas (5,12-15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía convierte esa memoria en rito. La Misná (Pesajim 10,5) manda que, en la cena de Pésaj, cada persona se vea como si ella misma hubiera salido de Egipto."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, la memoria de la esclavitud funda el trato justo al pobre. El Nuevo Testamento la amplía a la liberación del pecado (Rom 6,18)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos nota que Dt 15 amplía a Éx 21,2-6: incluye a las mujeres hebreas y exige un regalo al liberar. Pero sigue admitiendo la esclavitud por deudas, sin abolirla.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Deuteronomy 1-11 (Anchor Bible 5)",
+      "autor": "Moshe Weinfeld",
+      "tradicion": "judia"
+    }
+  ]
+}

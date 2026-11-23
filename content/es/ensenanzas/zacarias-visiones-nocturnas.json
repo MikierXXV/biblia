@@ -1,0 +1,38 @@
+{
+  "id": "zacarias-visiones-nocturnas",
+  "libro_id": "zacarias",
+  "orden": 1,
+  "titulo": "Ocho visiones en una noche: Dios mira de nuevo a Jerusalén",
+  "pasaje": "Zac 1,7-6,8",
+  "que_dice": "De noche, entre mirtos, Zacarías ve a un jinete sobre un caballo rojo. Sus jinetes han recorrido la tierra y la encuentran en calma. Un ángel pregunta cuánto tardará Dios en compadecerse de Jerusalén, y la respuesta es consoladora (1,7-17).\n\nSiguen siete visiones más (2,1-6,8; 1,18-6,8 en otras numeraciones). Hay cuatro cuernos, un hombre con una cuerda de medir, el sumo sacerdote Josué, un candelabro, un rollo volante, una mujer en una cesta y cuatro carros. Un ángel intérprete explica cada una.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La liturgia judía lee Zac 2,14-4,7 como haftará, la lectura profética que acompaña a la de la Torá, en el sábado de Janucá. La razón es el candelabro de la visión cuarta, que evoca la menorá del Templo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones cristianas, católica, ortodoxa y protestante, reconocen ecos de estas visiones en el Apocalipsis. Los caballos de colores de Zac 1,8 y 6,1-8 reaparecen en Ap 6,1-8, y los dos olivos de Zac 4, en los dos testigos de Ap 11,4."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica ve en el ángel intérprete y en las imágenes simbólicas un paso hacia la apocalíptica. Lee las visiones como un plan para el Templo, el sacerdocio y el gobernador.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

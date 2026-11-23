@@ -1,0 +1,91 @@
+{
+  "id": "2-timoteo",
+  "seccion_id": "nuevo-testamento",
+  "orden": 16,
+  "nombre": "2 Timoteo",
+  "abreviatura": "2 Tim",
+  "bloque": "cartas-paulinas",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Presentada como el testamento de Pablo, pide fidelidad en el sufrimiento. Es una de las cartas pastorales; la mayoría de críticos duda de que sea de Pablo.",
+  "presentacion": "La carta se presenta como escrita por un Pablo preso y cercano a la muerte (2 Tim 1,8; 4,6-8). Es la más personal de las pastorales: habla de amigos que lo abandonaron, de un manto y unos libros que Pablo pide (4,13) y de una despedida.\n\nPide a Timoteo fidelidad en el sufrimiento (1-2), firmeza ante los falsos maestros (3) y constancia en la predicación (4,1-5). Contiene también el pasaje más citado sobre la inspiración de las Escrituras (3,16-17).\n\nSu autoría se discute, como la de 1 Timoteo y Tito. Algunos estudiosos creen que reúne materiales de origen distinto, y que parte de las noticias personales del capítulo 4 podría venir de otras piezas.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo y la entiende como su última carta, escrita desde Roma poco antes de su muerte.",
+    "critica": "La mayoría de críticos la considera pseudónima, como 1 Timoteo y Tito. James D. Miller la ve como un documento compuesto con materiales de distinto origen. La defienden como de Pablo Philip Towner, George Knight, William Mounce y Luke Timothy Johnson.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió preso en Roma, hacia el 64-67 d. C., poco antes de su martirio.",
+    "critica": "La mayoría de críticos la data entre los años 90 y 120 d. C., como las otras pastorales. Quienes defienden a Pablo como autor la sitúan en los años 60 d. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      90,
+      120
+    ],
+    "rango_tradicion": [
+      64,
+      67
+    ],
+    "posturas": [
+      {
+        "quien": "Raymond Brown",
+        "texto": "La escribió un discípulo de Pablo después de su muerte, hacia finales del siglo I o principios del II, como un testamento en su nombre."
+      },
+      {
+        "quien": "Philip Towner y William Mounce",
+        "texto": "La escribió Pablo desde la cárcel de Roma, hacia el 64-67 d. C."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen las cartas pastorales como testimonio de la organización de las primeras comunidades cristianas; The Jewish Annotated New Testament las comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Tim 1,8-14",
+      "nota": "No avergonzarse del testimonio y sufrir por el evangelio."
+    },
+    {
+      "pasaje": "2 Tim 2,3-13",
+      "nota": "Las imágenes del soldado, el atleta y el labrador."
+    },
+    {
+      "pasaje": "2 Tim 3,14-17",
+      "nota": "La Escritura, inspirada y útil."
+    },
+    {
+      "pasaje": "2 Tim 4,6-8",
+      "nota": "La despedida de Pablo."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    },
+    {
+      "titulo": "Pastoral Epistles (Word Biblical Commentary 46)",
+      "autor": "William D. Mounce",
+      "tradicion": "protestante",
+      "url": "https://www.accordancebible.com/product/wbc-vol-46-pastoral-epistles-by-william-mounce/"
+    }
+  ],
+  "para_recordar": [
+    "La carta se presenta como el testamento de un Pablo preso y cercano a la muerte.",
+    "Pide a Timoteo fidelidad en el sufrimiento, con las imágenes de soldado, atleta y labrador.",
+    "La mayoría de críticos la ve pseudónima; otros la defienden como de Pablo.",
+    "2 Tim 3,16-17 habla de la Escritura de Israel, no del Nuevo Testamento aún sin reunir.",
+    "Algunos estudiosos creen que reúne materiales de origen distinto."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "malaquias-fidelidad-matrimonial",
+  "libro_id": "malaquias",
+  "orden": 2,
+  "titulo": "Un altar cubierto de lágrimas: la esposa de tu juventud",
+  "pasaje": "Mal 2,10-16",
+  "que_dice": "Los hombres llegan al altar y lo cubren de lágrimas, y se quejan de que Dios no acepta su ofrenda (2,13). El profeta responde que Dios ha sido testigo entre cada uno y la esposa de su juventud, a quien ha traicionado: ella era su compañera y su alianza (2,14).\n\nEl versículo 16 es muy difícil. El hebreo dice algo como «odia el repudio» o «el que odia, repudia», y la violencia cubre el vestido del que lo hace. Las traducciones difieren.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Guitín 90b) recoge dos lecturas de 2,16: Rabí Yehudá entiende «si la odias, repúdiala» y Rabí Yojanán que Dios odia el repudio. Añade que hasta el altar llora por quien repudia a su primera esposa."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica lee Mal 2,14-16 junto a Mt 19,3-9 como apoyo a la indisolubilidad del matrimonio."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas iglesias protestantes lo leen como condena del repudio injusto, y admiten excepciones por Mt 19,9 y 1 Cor 7,15."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute la traducción de Mal 2,16, y si 2,11 habla de matrimonios con extranjeras o de infidelidad religiosa.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Gordon Hugenberger",
+        "texto": "Mal 2,14 llama «alianza» al matrimonio. En 2,16 el sujeto es el marido que repudia por aversión y «cubre de violencia su vestido». Descarta «Dios odia el repudio» y «si la odias, repúdiala»."
+      },
+      {
+        "quien": "Septuaginta y Vulgata",
+        "texto": "La traducción griega antigua (Septuaginta) y la latina leen «si la odias, repúdiala», sin condena del repudio."
+      },
+      {
+        "quien": "Beth Glazier-McDonald",
+        "texto": "Mal 2,11 se refiere a casarse con extranjeras, y por ello algunos repudiaban a sus esposas judías."
+      },
+      {
+        "quien": "David L. Petersen",
+        "texto": "En 2,11 la hija de un dios extranjero es metáfora: designa la infidelidad religiosa, no matrimonios mixtos."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Marriage as a Covenant",
+      "autor": "Gordon P. Hugenberger",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Malachi: The Divine Messenger",
+      "autor": "Beth Glazier-McDonald",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

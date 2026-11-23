@@ -1,0 +1,55 @@
+{
+  "id": "job-protesta-sin-renunciar",
+  "libro_id": "job",
+  "orden": 2,
+  "titulo": "Job discute con Dios en lugar de callar o de maldecirlo",
+  "pasaje": "Job 13; 23",
+  "que_dice": "Job pasa siete días en silencio con sus tres amigos. Después rompe a hablar y maldice el día en que nació (3,1-3). Más tarde exige un juicio: quiere presentar su causa ante Dios y que Dios le conteste (13,3; 23,3-7).\n\nJob no niega a Dios. Se dirige a él una y otra vez, como acusado y como demandante. Pero Dios se esconde: Job lo busca al oriente y al occidente y no lo encuentra (23,8-9).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía suele ver en Job a quien reclama justicia a Dios, como Abraham ante Sodoma (Gn 18,25). Tras la Shoá, autores judíos como Elie Wiesel han leído el libro como modelo de quien interpela a Dios sin dejar de creer."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura cristiana tradicional elogia la paciencia de Job (Sant 5,11). Varios biblistas actuales señalan que el texto lo muestra impaciente y que Dios, al final, dice que Job habló con rectitud (42,7)."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "liberacion",
+      "autor": "Gustavo Gutiérrez",
+      "texto": "Para Gustavo Gutiérrez, Job halla dos lenguajes de fe: el profético, que exige justicia, y el contemplativo, que reconoce la gratuidad del amor de Dios. Lee el libro desde el sufrimiento de los pobres de América Latina."
+    }
+  ],
+  "critica": {
+    "texto": "El versículo 13,15 se transmite con dos lecturas hebreas que cambian el sentido: o Job espera en Dios aunque lo mate, o ya no espera nada.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Vulgata y muchas traducciones clásicas",
+        "texto": "Siguen la lectura recomendada por los masoretas: «aunque me mate, en él esperaré»."
+      },
+      {
+        "quien": "Traducciones modernas como la RSV",
+        "texto": "Siguen el texto escrito: «me matará, no tengo esperanza». Es el Job que reclama sin consuelo."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Hablar de Dios desde el sufrimiento del inocente",
+      "autor": "Gustavo Gutiérrez",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

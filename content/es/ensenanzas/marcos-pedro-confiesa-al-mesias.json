@@ -1,0 +1,51 @@
+{
+  "id": "marcos-pedro-confiesa-al-mesias",
+  "libro_id": "marcos",
+  "orden": 3,
+  "titulo": "Pedro llama Mesías a Jesús, y Jesús le manda callar",
+  "pasaje": "Mc 8,27-38",
+  "que_dice": "De camino a Cesarea de Filipo, Jesús pregunta a sus discípulos quién dice la gente que es. Pedro responde: tú eres el Mesías. Jesús les ordena no decírselo a nadie y anuncia que el Hijo del hombre sufrirá y será rechazado. Pedro lo reprende, y Jesús le contesta con dureza: ponte detrás de mí, Satanás.\n\nDespués pide a quien quiera seguirlo que cargue con su cruz. Marcos repite ese patrón: Jesús manda callar a los demonios y a los curados (1,25; 1,44), y los discípulos no entienden.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, «Mesías» designaba a un ungido de la casa de David que restauraría Israel. Los *Salmos de Salomón* (una obra judía del siglo I a. C.) esperan a un rey guerrero. Un Mesías que muere no era la expectativa más extendida."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "En la liturgia ortodoxa, Mc 8,34-9,1 se lee el domingo de la Veneración de la Cruz, a mitad de Cuaresma, y une el seguimiento de Jesús con la cruz."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero llamó «teología de la cruz» a la idea de que Dios se revela en el sufrimiento y no en la gloria. Muchos protestantes leen este pasaje desde esa clave."
+    }
+  ],
+  "critica": {
+    "texto": "El «secreto mesiánico» (las órdenes de callar) es un rasgo propio de Marcos. Se discute si responde a una reserva real de Jesús o a una explicación posterior.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Desde William Wrede (1901)",
+        "texto": "El secreto es una construcción de Marcos: explicaría por qué Jesús no fue reconocido como Mesías en vida y solo tras la resurrección."
+      },
+      {
+        "quien": "N. T. Wright y otros",
+        "texto": "Jesús sí se entendió como Mesías, pero redefinió el título como un camino de sufrimiento, y por eso pidió silencio."
+      }
+    ]
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Mark: A Commentary (Hermeneia)",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jesus and the Victory of God",
+      "autor": "N. T. Wright",
+      "tradicion": "protestante"
+    }
+  ]
+}

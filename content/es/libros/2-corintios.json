@@ -1,0 +1,84 @@
+{
+  "id": "2-corintios",
+  "seccion_id": "nuevo-testamento",
+  "orden": 8,
+  "nombre": "2 Corintios",
+  "abreviatura": "2 Cor",
+  "bloque": "cartas-paulinas",
+  "capitulos": 13,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Carta personal y tensa en la que Pablo defiende su ministerio. Habla de la debilidad y de la colecta para Jerusalén.",
+  "presentacion": "Es la carta más personal de Pablo y la más difícil de ordenar. Después de 1 Corintios, las relaciones con la comunidad se rompieron. Llegaron predicadores rivales que le negaban autoridad, hubo una visita dolorosa y una carta dura, que él mismo recuerda escrita con mucho dolor (2 Cor 2,1-4).\n\nEn los capítulos 1-7 Pablo se alegra de la reconciliación y defiende su ministerio con la imagen de las vasijas de barro (4,7). Los capítulos 8-9 piden ayuda para los pobres de Jerusalén. Los 10-13 cambian de tono. Hay ironía y defensa dura frente a unos rivales a los que llama con sarcasmo *superapóstoles* (11,5), y el relato de la espina en la carne (12,7-10).\n\nEse cambio de tono hace que se discuta si la carta es una unidad o varias cartas reunidas. Las posturas están en la datación y en la enseñanza sobre la colecta.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que escribe con Timoteo (2 Cor 1,1).",
+    "critica": "Los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas. Lo que se discute es si fue escrita de una vez o reúne varias cartas.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa hacia el 55-57 d. C., escrita desde Macedonia, poco antes de que Pablo llegara a Corinto por tercera vez.",
+    "critica": "La crítica la data hacia el 55-57 d. C., desde Macedonia. Se discute si es una sola carta o varias: según la respuesta, los capítulos 10-13 son anteriores o posteriores a los capítulos 1-9.",
+    "acuerdo": "discusion",
+    "rango": [
+      55,
+      57
+    ],
+    "posturas": [
+      {
+        "quien": "Murray J. Harris",
+        "texto": "La carta es una unidad. Pudo pasar un tiempo entre el capítulo 9 y el 10, y Pablo habría recibido entonces malas noticias."
+      },
+      {
+        "quien": "Laurence L. Welborn",
+        "texto": "Los capítulos 10-13 son la carta dura anterior a los capítulos 1-9, que un editor colocó al final."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen 2 Corintios como testimonio del conflicto de Pablo con otros misioneros del siglo I; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica. Lutero, en su teología de la cruz (1518), vio en la debilidad de Pablo una clave de cómo actúa Dios."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Cor 4,7-12",
+      "nota": "El tesoro en vasijas de barro."
+    },
+    {
+      "pasaje": "2 Cor 5,17-21",
+      "nota": "El ministerio de la reconciliación."
+    },
+    {
+      "pasaje": "2 Cor 8-9",
+      "nota": "La colecta para los pobres de Jerusalén."
+    },
+    {
+      "pasaje": "2 Cor 12,7-10",
+      "nota": "La espina en la carne y la fuerza en la debilidad."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Corinthians (Anchor Bible 32A)",
+      "autor": "Victor Paul Furnish",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Second Epistle to the Corinthians (NIGTC)",
+      "autor": "Murray J. Harris",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Es la carta más personal de Pablo, escrita en plena crisis con la comunidad de Corinto.",
+    "Pablo defiende su ministerio desde la debilidad, no desde el éxito.",
+    "Los capítulos 8-9 organizan la colecta para los pobres de Jerusalén.",
+    "Se discute si es una carta o varias reunidas, sobre todo por el cambio de tono en 10-13.",
+    "Contiene la imagen de las vasijas de barro (4,7) y la espina en la carne (12,7)."
+  ]
+}

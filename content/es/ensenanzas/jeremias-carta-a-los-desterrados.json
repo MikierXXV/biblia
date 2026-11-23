@@ -1,0 +1,39 @@
+{
+  "id": "jeremias-carta-a-los-desterrados",
+  "libro_id": "jeremias",
+  "orden": 4,
+  "titulo": "Jeremías pide a los desterrados que busquen el bien de Babilonia",
+  "pasaje": "Jr 29,1-14",
+  "que_dice": "En Babilonia circulan profetas que dicen que el destierro durará poco. Jeremías, desde Jerusalén, escribe a los desterrados lo contrario (29,1). Han de construir casas, plantar huertos, casar a sus hijos y buscar el bien de la ciudad donde viven, porque de él depende el suyo (29,5-7).\n\nEl destierro durará setenta años, y solo después Dios los hará volver (29,10). Entonces viene el versículo más citado: Dios tiene planes de paz, no de desgracia, para darles futuro y esperanza (29,11). El «os» es plural: se dirige a una comunidad.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ha citado Jr 29,7 como razón para rezar y trabajar por el bien de los países donde viven los judíos de la diáspora. Se suele relacionar con Pirké Avot (3,2), que pide rezar por la paz del gobierno."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas cristianas, sobre todo evangélicas, usan Jr 29,11 como promesa de esperanza personal y Jr 29,7 como base del compromiso cívico. Los comentaristas recuerdan el contexto: una carta colectiva a desterrados."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos data la carta hacia el 594 a. C., tras la primera deportación del 597. Jr 28-29 enfrenta a Jeremías con profetas de paz, como Ananías. En el texto griego, más breve, el capítulo 29 es el 36.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "exilio-y-retorno",
+    "esperanza-y-consuelo",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "A Commentary on Jeremiah: Exile and Homecoming",
+      "autor": "Walter Brueggemann",
+      "tradicion": "protestante"
+    }
+  ]
+}

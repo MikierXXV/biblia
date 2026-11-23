@@ -1,0 +1,66 @@
+{
+  "id": "filemon-hermano-querido-y-esclavitud",
+  "libro_id": "filemon",
+  "orden": 1,
+  "titulo": "¿Cuestiona Pablo la esclavitud al pedir que Onésimo sea «hermano»?",
+  "pasaje": "Flm 15-16",
+  "que_dice": "Pablo escribe preso a Filemón, un cristiano con casa propia y esclavos. Onésimo, esclavo de Filemón, ha estado con Pablo y ahora vuelve con esta carta. Pablo pide que Filemón lo reciba ya no como esclavo, sino como más que esclavo: un hermano querido, tanto en lo humano como en el Señor.\n\nPablo no dice nunca que Filemón deba liberarlo. La carta no explica por qué Onésimo estaba con Pablo.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas antiguas leyeron la carta como modelo de caridad entre amo y siervo, sin pedir el fin de la esclavitud. En los siglos XVIII y XIX, abolicionistas y defensores de la esclavitud la citaron con fines opuestos."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute si la carta cuestiona la esclavitud y qué pasó con Onésimo antes de llegar a Pablo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John Barclay",
+        "texto": "Pablo deja a Filemón ante un dilema: no ataca la institución, pero convierte la relación entre ambos en hermandad."
+      },
+      {
+        "quien": "Allen Callahan",
+        "texto": "Onésimo era hermano de sangre de Filemón, no esclavo; la carta pide reconciliar a dos hermanos, y la lectura del «fugitivo» es posterior."
+      },
+      {
+        "quien": "Peter Lampe",
+        "texto": "Onésimo no huyó: fue a pedir a Pablo que mediara en una disputa con su amo, como otros esclavos en Roma."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul, Philemon and the Dilemma of Christian Slave-Ownership (New Testament Studies 37)",
+      "autor": "John M. G. Barclay",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Embassy of Onesimus: The Letter of Paul to Philemon",
+      "autor": "Allen Dwight Callahan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "An African American Appraisal of the Philemon-Paul-Onesimus Triangle (1991)",
+      "autor": "Lloyd A. Lewis",
+      "tradicion": "literaria"
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Lloyd A. Lewis",
+      "texto": "Lloyd Lewis lee la carta junto con la experiencia afroamericana de la esclavitud y señala el silencio de Pablo ante la institución."
+    },
+    {
+      "enfoque": "otra",
+      "autor": "Allen Callahan",
+      "texto": "Allen Callahan (Embassy of Onesimus, 1997) lee la carta como un llamamiento a la hermandad que cuestiona la institución: Onésimo sería hermano de Filemón, no su esclavo fugitivo."
+    }
+  ]
+}

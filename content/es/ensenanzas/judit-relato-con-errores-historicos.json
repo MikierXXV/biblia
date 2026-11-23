@@ -1,0 +1,37 @@
+{
+  "id": "judit-relato-con-errores-historicos",
+  "libro_id": "judit",
+  "orden": 4,
+  "titulo": "Un relato con errores históricos a propósito: ¿qué cuenta?",
+  "pasaje": "Jdt 1-7",
+  "que_dice": "El libro empieza con un dato imposible: Nabucodonosor reina en Nínive (Jdt 1,1). El Nabucodonosor histórico fue rey de Babilonia, y Nínive había caído antes. Betulia, la ciudad del asedio, no aparece en ninguna otra fuente. Un lector antiguo lo habría notado.\n\nLos críticos explican estos errores como señal de ficción. Judit cuenta la lucha de un pueblo pequeño contra un enemigo de ambición universal. Su nombre significa «la judía».",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La Iglesia católica ha definido la canonicidad del libro, no su género histórico."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para los protestantes, que lo tienen por apócrifo, el libro es útil como relato edificante sobre la confianza en Dios. No lo usan para fundar doctrina."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos lo clasifican como novela histórica de la época macabea. Sus nombres simbólicos y sus errores apuntan a un cuento de resistencia y no a una crónica.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judith (Anchor Bible 40)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

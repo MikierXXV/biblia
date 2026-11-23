@@ -1,0 +1,38 @@
+{
+  "id": "sofonias-un-pueblo-pobre-y-humilde",
+  "libro_id": "sofonias",
+  "orden": 2,
+  "titulo": "Un pueblo pobre y humilde que se refugia en el Señor",
+  "pasaje": "Sof 2,3; 3,12-13",
+  "que_dice": "Antes del día de ira llega una invitación a los humildes de la tierra: buscad al Señor, buscad la justicia y la humildad. Quizá os pongáis a cubierto (2,3). El «quizá» deja la salvación en manos de Dios.\n\nDespués del juicio, queda en medio de la ciudad un pueblo pobre y humilde que se refugia en el nombre del Señor (3,12). No comete injusticia ni habla con engaño, y pastan y descansan sin que nadie los asuste (3,13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía conserva el pasaje entre los textos del resto fiel, el grupo que sobrevive a la crisis y mantiene la alianza con Dios."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante han visto en estos pobres del Señor el trasfondo de las bienaventuranzas (Mt 5,3-5; Lc 6,20)."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica, como Berlin, ve en el resto a quienes se someten a Dios, frente a los dirigentes arrogantes de 3,3-4 y 3,11. El hebreo *anawim* («humildes») une pobreza social y actitud ante Dios.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Zephaniah (Anchor Bible)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

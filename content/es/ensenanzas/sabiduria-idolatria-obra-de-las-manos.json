@@ -1,0 +1,37 @@
+{
+  "id": "sabiduria-idolatria-obra-de-las-manos",
+  "libro_id": "sabiduria",
+  "orden": 2,
+  "titulo": "Un carpintero talla un ídolo y le pide ayuda: sátira de la idolatría",
+  "pasaje": "Sab 13-15",
+  "que_dice": "Un leñador derriba un árbol, aprovecha la madera para sus tareas y con un trozo torcido hace una imagen. La adorna, la pone en la pared y le pide por su salud, sus hijos y su viaje. Habla con algo sin vida y pide fuerza a quien no puede moverse (13,11-19).\n\nEl autor distingue dos errores. Adorar las fuerzas de la naturaleza es más disculpable: buscan a Dios y los deslumbra la belleza (13,6-9). Adorar un objeto fabricado, no (14,12-31).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica apoya en Sab 13,1-9 y en Rom 1,19-20 que se puede conocer a Dios por sus obras. Pablo parece recoger este pasaje en Rom 1,18-23."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Calvino llamó al corazón humano una fábrica perpetua de ídolos (Institución I,11,8). Desde esa tradición, que no recibe el libro como Escritura, se lee el paralelo de Rom 1,18-23."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve en la sátira una continuación de la tradición profética (Is 44,9-20) y un ataque al ambiente de Alejandría, con su culto a animales sagrados (Sab 15,18-19). Casi todos aceptan que Rom 1 se apoya en este pasaje.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Solomon (Anchor Bible 43)",
+      "autor": "David Winston",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

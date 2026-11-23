@@ -1,0 +1,42 @@
+{
+  "id": "1-corintios-un-cuerpo-muchos-miembros",
+  "libro_id": "1-corintios",
+  "orden": 3,
+  "titulo": "¿Cómo puede ser la comunidad un cuerpo con muchos miembros?",
+  "pasaje": "1 Cor 12,12-27",
+  "que_dice": "En Corinto algunos se creen superiores por sus dones del Espíritu, sobre todo el de hablar en lenguas. Pablo compara la comunidad con un cuerpo. El pie no puede decir que no es del cuerpo por no ser mano, ni el ojo decir a la mano que no la necesita (12,15-21).\n\nLos miembros que parecen más débiles son indispensables, y si uno sufre, sufren todos. Judíos y griegos, esclavos y libres han sido bautizados en un solo Espíritu para formar un solo cuerpo (12,13.26).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica desarrolla la imagen como doctrina de la Iglesia, cuerpo de Cristo (Lumen gentium, n. 7). Los dones se ordenan dentro de una jerarquía con funciones distintas."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa vincula el cuerpo con la eucaristía: quienes comparten un solo pan forman un solo cuerpo (1 Cor 10,17). La unidad se realiza en la celebración."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición protestante insiste en el sacerdocio de todos los creyentes; las iglesias pentecostales subrayan además que cada miembro recibe un don propio."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica recuerda que la imagen del cuerpo era corriente en la política antigua, como la fábula de Menenio Agripa sobre el vientre y los miembros. Solía servir para que los pobres aceptaran su lugar. Pablo la vuelve a favor de los miembros más débiles.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "First Corinthians (Anchor Yale Bible 32)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante"
+    }
+  ]
+}

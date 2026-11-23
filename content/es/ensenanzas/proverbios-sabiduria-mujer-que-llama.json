@@ -1,0 +1,64 @@
+{
+  "id": "proverbios-sabiduria-mujer-que-llama",
+  "libro_id": "proverbios",
+  "orden": 3,
+  "titulo": "La Sabiduría grita en la plaza como una mujer que llama",
+  "pasaje": "Prov 8-9",
+  "que_dice": "Una mujer está de pie en las encrucijadas y a las puertas de la ciudad, y llama a los jóvenes: es la Sabiduría (8,1-4). Dice que estaba con Dios antes de la creación y que jugaba ante él en el mundo recién hecho (8,22-31).\n\nEn frente, otra mujer, la Necedad, llama con las mismas palabras desde su casa (9,13-18). Cada joven debe elegir a quién abrir. La Sabiduría invita a un banquete y ofrece vida. La Necedad lleva a la muerte.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para el judaísmo rabínico, la Sabiduría de Prov 8 es la Torá. El midrás Génesis Rabá (1,1) dice que Dios miró la Torá para crear el mundo, como un arquitecto mira sus planos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Los Padres de la Iglesia, y las tradiciones católica y ortodoxa, leyeron la Sabiduría de Prov 8 como el Hijo o Verbo de Dios. En el siglo IV, Arrio y sus adversarios discutieron Prov 8,22 al debatir si el Hijo había sido creado."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La liturgia ortodoxa lee Prov 9,1-11 en las vísperas de las fiestas de la Virgen. La casa que la Sabiduría se edifica se aplica a María, que acoge a Cristo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Claudia Camp",
+      "texto": "Para Claudia Camp, la Sabiduría personificada refleja el prestigio de las mujeres sabias de la casa y de la corte tras el exilio. No sería solo un recurso literario de varones."
+    }
+  ],
+  "critica": {
+    "texto": "El verbo hebreo de 8,22 puede significar «adquirir», «poseer» o «crear». Las traducciones antiguas lo leyeron de modos distintos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Septuaginta y muchas traducciones modernas",
+        "texto": "Traducen «me creó», como la NRSV y la NJPS. El mismo pasaje dice «fui engendrada» (8,24-25)."
+      },
+      {
+        "quien": "Áquila, la Vulgata y algunos críticos",
+        "texto": "Leen «me adquirió» o «me poseyó». Si la Sabiduría fue creada se discutió como cuestión teológica en tiempos de Arrio."
+      }
+    ]
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "creacion-y-cuidado-del-mundo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Proverbs 1-9 (Anchor Bible 18A)",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Wisdom and the Feminine in the Book of Proverbs",
+      "autor": "Claudia V. Camp",
+      "tradicion": "literaria"
+    }
+  ]
+}

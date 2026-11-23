@@ -1,0 +1,49 @@
+{
+  "id": "1-timoteo-obispos-y-diaconos",
+  "libro_id": "1-timoteo",
+  "orden": 3,
+  "titulo": "¿Quién puede ser obispo o diácono según 1 Timoteo 3?",
+  "pasaje": "1 Tim 3,1-13",
+  "que_dice": "Una comunidad que se reúne en casas necesita quien la cuide. La carta enumera lo que debe ser el *epíscopo* (obispo, literalmente supervisor). Ha de ser irreprochable, casado una sola vez, hospitalario, capaz de enseñar, sin afán de dinero y con su casa bien gobernada (1 Tim 3,1-7). Pide algo parecido a los *diáconos* (servidores) en 3,8-13.\n\nEl versículo 11 habla de *gynaikes*: la palabra griega significa mujeres o esposas. Por eso se discute si se refiere a diaconisas o a las esposas de los diáconos. Pablo llama diácono a Febe en Rom 16,1.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica ve aquí la base de los tres grados del ministerio: obispo, presbítero y diácono. El Concilio Vaticano II (Lumen gentium) los presenta en continuidad con los apóstoles."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa mantiene los tres órdenes y ordena como presbíteros y diáconos a varones casados antes de la ordenación. A los obispos los elige entre célibes o viudos."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Iglesias protestantes difieren. Las presbiterianas ven en obispo y anciano un solo cargo. Las episcopales mantienen el obispo como cargo propio. Muchas congregaciones dan la autoridad a la comunidad local."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que 3,1-13 muestra una organización por cargos más desarrollada que en las cartas indiscutidas de Pablo. La mayoría lo toma como indicio de una fecha tardía. Tit 1,5-7 llama anciano y obispo al mismo cargo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    },
+    {
+      "titulo": "1 & 2 Timothy and Titus: A Commentary (New Testament Library)",
+      "autor": "Raymond F. Collins",
+      "tradicion": "catolica",
+      "url": "https://www.accordancebible.com/product/nt-library-commentary-1-2-timothy-and-titus-raymond-f-collins/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "rut-moabita-bisabuela-de-david",
+  "libro_id": "rut",
+  "orden": 2,
+  "titulo": "Una moabita, bisabuela del rey David",
+  "pasaje": "Rut 4,13-22",
+  "que_dice": "Booz se casa con Rut y nace Obed. Las vecinas felicitan a Noemí. El narrador cierra con una nota breve: Obed fue padre de Isaí, e Isaí, de David (4,17).\n\nEl libro ha llamado a Rut «la moabita» varias veces, y eso importa. Moab era un pueblo vecino y a menudo enemigo de Israel. Dt 23,4 dice que un moabita no entrará en la asamblea del Señor «ni en la décima generación». El relato acaba con diez nombres, de Fares a David (4,18-22): David es bisnieto de una moabita.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee la genealogía como prueba de que el pueblo se abre a quien elige unirse a él. Rut, la conversa, es antepasada de David, y de David, según la tradición, vendrá el mesías. Una de las razones que da la tradición para leerlo en Shavuot: David nació y murió en esa fiesta. El midrás Rut Rabá insiste en el valor de la conversión sincera."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Mateo incluye a Rut en la genealogía de Jesús (Mt 1,5), junto a Tamar, Rahab y Betsabé, la mujer de Urías. Los biblistas, católicos entre ellos, lo explican de dos modos: casi todas son extranjeras, o todas viven situaciones irregulares en las que, según Mateo, Dios actuó. Raymond Brown recoge ambas. La lectura católica ve en la lista una apertura a los no judíos."
+    }
+  ],
+  "critica": {
+    "texto": "La fecha de composición está en discusión, y con ella el propósito del libro. Ninguna de las dos posturas principales puede probarse con los datos disponibles.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Edward F. Campbell",
+        "texto": "Data el libro en la monarquía temprana (siglos X-IX a. C.), como relato favorable a la casa de David."
+      },
+      {
+        "quien": "Otra parte, muy extendida",
+        "texto": "Lo sitúa tras el exilio (siglo V a. C.) y lo lee, quizá, como réplica a Esdras y Nehemías, que prohíben los matrimonios con extranjeras (Esd 9-10; Neh 13,23-27)."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "mesias-y-esperanza-mesianica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ruth (Anchor Bible 7)",
+      "autor": "Edward F. Campbell",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "El nacimiento del Mesías",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

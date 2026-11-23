@@ -1,0 +1,53 @@
+{
+  "id": "ezequiel-cada-uno-responde",
+  "libro_id": "ezequiel",
+  "orden": 2,
+  "titulo": "Ezequiel dice que cada persona responde de su propia culpa",
+  "pasaje": "Ez 18,1-32",
+  "que_dice": "Entre los desterrados circula un refrán: los padres comieron uvas agrias y a los hijos les da dentera (18,2). Quiere decir que ellos pagan por los pecados de sus padres. Ezequiel responde que ese refrán no se repetirá más (18,3).\n\nLa respuesta es una serie de casos. El hijo de un justo que roba y mata morirá. El hijo de un malvado que ve el mal de su padre y no lo imita vivirá (18,5-18). Dios no quiere la muerte del malvado, sino que cambie y viva (18,23.32).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Ez 18 como base de la responsabilidad personal y del arrepentimiento (*teshuvá*, el regreso a Dios). El Talmud (Makot 24a) contrasta a Moisés, que habló de castigo a los hijos (Éx 20,5), con Ezequiel."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Ez 18,23 es un texto clave sobre el perdón: Dios quiere que el pecador se convierta. La liturgia lo lee en Cuaresma."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en Ez 18 una respuesta a desterrados que se sentían castigados por culpas ajenas. La relación con Éx 20,5 y Dt 5,9 está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Ez 18 corrige la idea antigua del castigo a varias generaciones y abre paso a la responsabilidad individual."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "No contradice a Éx 20,5, que también habla de misericordia. Lo que rechaza es usar la culpa de los padres como excusa."
+      }
+    ]
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezekiel 1-20 y Ezekiel 21-37 (Anchor Bible 22 y 22A)",
+      "autor": "Moshe Greenberg",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Ezekiel (NICOT, 2 vols.)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

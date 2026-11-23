@@ -1,0 +1,52 @@
+{
+  "id": "josue-rahab-la-cananea-que-entra-en-israel",
+  "libro_id": "josue",
+  "orden": 2,
+  "titulo": "Rahab, la cananea que arriesga la vida y entra en Israel",
+  "pasaje": "Jos 2; 6,22-25",
+  "que_dice": "Dos espías llegan a Jericó y entran en casa de Rahab, una prostituta. El rey manda buscarlos y ella los esconde entre el lino del terrado. A cambio, pide que su familia se salve cuando caiga la ciudad. Los espías se lo juran (2,1-14).\n\nCuando las murallas caen, Rahab y los suyos quedan con vida. El libro añade que su familia vive en medio de Israel hasta el tiempo del narrador (6,25).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica trata a Rahab como convertida. Según el Talmud (Meguilá 14b), se casó con Josué y de ella descienden ocho profetas sacerdotes, entre ellos Jeremías."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Rahab es modelo de fe: la elogian Heb 11,31 y Sant 2,25, y Mt 1,5 la cuenta entre los antepasados de Jesús. Los Padres vieron en su cordón rojo (2,18) una figura de la sangre de Cristo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas protestantes subrayan su fe, siguiendo Heb 11,31. Rahab no es israelita y se salva por confiar en el Dios de Israel."
+    }
+  ],
+  "critica": {
+    "texto": "Los comentaristas discuten qué oficio tenía Rahab y qué papel le da el libro en la historia.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "El Targum y Flavio Josefo",
+        "texto": "La llaman posadera: una forma de suavizar el término hebreo, que designa a una prostituta."
+      },
+      {
+        "quien": "Mayoría de comentaristas modernos",
+        "texto": "Era prostituta, y su casa junto a la muralla era un lugar donde los extranjeros pasaban sin llamar la atención."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Joshua: An Introduction and Commentary",
+      "autor": "Richard S. Hess",
+      "tradicion": "protestante"
+    }
+  ]
+}

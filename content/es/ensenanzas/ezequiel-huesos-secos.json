@@ -1,0 +1,54 @@
+{
+  "id": "ezequiel-huesos-secos",
+  "libro_id": "ezequiel",
+  "orden": 4,
+  "titulo": "Un valle de huesos secos vuelve a la vida",
+  "pasaje": "Ez 37,1-14",
+  "que_dice": "El espíritu de Dios lleva a Ezequiel a un valle lleno de huesos muy secos (37,1-2). Dios le pregunta si esos huesos pueden vivir. El profeta responde que solo Dios lo sabe (37,3). Luego le manda profetizar, y los huesos se juntan, se cubren de carne y reciben aliento (37,4-10).\n\nDios explica la imagen: los huesos son toda la casa de Israel, que se siente seca y sin esperanza. Dios abrirá sus tumbas y los llevará a su tierra (37,11-14). Antes, en 36,26, había prometido un corazón nuevo y un espíritu nuevo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Ez 37 como promesa de restauración, y lo lee en el sábado de la Pascua judía. El Talmud (Sanedrín 92b) recoge opiniones enfrentadas: unos rabinos dicen que los huesos revivieron de verdad, otros que fue una parábola."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones cristianas leen Ez 37 también como imagen de la resurrección final. La liturgia católica lo lee en el quinto domingo de Cuaresma del ciclo A (37,12-14), junto a la resurrección de Lázaro (Jn 11)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee la visión como imagen de la restauración colectiva de Israel tras el exilio (37,11) y no como doctrina de la resurrección individual. Su relación con la resurrección está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jon Levenson",
+        "texto": "La imagen colectiva fue una raíz de la esperanza posterior de resurrección, que crece en Israel desde Ez 37 y Is 26."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "La esperanza de resurrección debe más a influencias persas o helenísticas que a esta visión, que es solo metáfora."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezekiel 1-20 y Ezekiel 21-37 (Anchor Bible 22 y 22A)",
+      "autor": "Moshe Greenberg",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Resurrection and the Restoration of Israel",
+      "autor": "Jon D. Levenson",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

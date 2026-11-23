@@ -1,0 +1,60 @@
+{
+  "id": "efesios-salvacion-por-gracia",
+  "libro_id": "efesios",
+  "orden": 2,
+  "titulo": "¿Se salva uno por la fe o por las obras, según Efesios?",
+  "pasaje": "Ef 2,8-10",
+  "que_dice": "Una carta recuerda a creyentes de origen pagano cómo vivían antes: muertos por sus faltas, sin esperanza (Ef 2,1-3). Luego afirma que Dios los ha salvado por gracia, mediante la fe, y que esa salvación no viene de ellos: es regalo (2,8-9).\n\nAñade que son obra de Dios, creados en Cristo para unas buenas obras que él preparó de antemano (2,10). Las obras quedan fuera como causa y dentro como consecuencia.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, la elección de Israel tampoco se gana por méritos (Dt 7,7-8), y los mandamientos responden a una alianza ya dada. La diferencia con el texto está en el papel de Cristo, no en la gracia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Trento (1547) enseñó que la justificación es don de Dios y no mérito previo, y que la fe obra por la caridad. Las buenas obras de 2,10 hacen crecer esa gracia."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero leyó este pasaje como el centro de la justificación por la fe sola (*sola fide*). Las buenas obras son fruto de la fe, no su condición."
+    }
+  ],
+  "critica": {
+    "texto": "Aquí las obras no se califican como obras de la ley, a diferencia de Rom 3,28 y Gál 2,16. Los críticos discuten qué implica ese cambio.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Andrew Lincoln",
+        "texto": "El paso de las obras de la ley a las obras en general muestra una generalización posterior de la enseñanza de Pablo, pensada para lectores no judíos."
+      },
+      {
+        "quien": "Harold Hoehner",
+        "texto": "Es coherente con Pablo: en sus cartas indiscutidas también excluye el mérito humano, y esta carta lo aplica a lectores no judíos."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ephesians (Word Biblical Commentary 42)",
+      "autor": "Andrew T. Lincoln",
+      "tradicion": "critica",
+      "url": "https://www.accordancebible.com/product/wbc-vol-42-ephesians-by-andrew-t-lincoln/"
+    },
+    {
+      "titulo": "Paul and Palestinian Judaism",
+      "autor": "E. P. Sanders",
+      "tradicion": "critica",
+      "url": "https://fortresspress.com/store/product/9780800618995/Paul-and-Palestinian-Judaism"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary (Baker Academic, 2002)",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    }
+  ]
+}

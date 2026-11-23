@@ -1,0 +1,90 @@
+{
+  "id": "exodo",
+  "seccion_id": "pentateuco",
+  "orden": 2,
+  "nombre": "Éxodo",
+  "abreviatura": "Éx",
+  "capitulos": 40,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Narra la salida de Egipto, la alianza del Sinaí y la entrega de la ley. Termina con la construcción del santuario que acompaña al pueblo.",
+  "presentacion": "Un niño hebreo flota en una cesta por el Nilo. Lo recoge la hija del faraón. Ese niño, Moisés, volverá a Egipto para sacar de allí a los esclavos de su pueblo.\n\nEl libro tiene tres partes. La primera cuenta la salida de Egipto y el paso del mar (1-15). La segunda, el viaje al Sinaí (15-18). La tercera, la alianza en el monte, con la ley y la construcción del santuario (19-40).\n\nImporta porque da a Israel su memoria fundacional: fue esclavo y fue liberado. De ahí salen la fiesta de la Pascua y el Decálogo. Los salmos, los profetas y el Nuevo Testamento vuelven una y otra vez a este relato.",
+  "autoria": {
+    "tradicion": "La tradición judía y la cristiana clásica atribuyen el libro a Moisés. Su época se calcula distinto: la cronología judía tradicional lo sitúa en el siglo XIII a. C., y la cristiana clásica, por 1 Re 6,1, algo antes.",
+    "critica": "La crítica no atribuye el libro a Moisés: lo considera una obra compuesta de tradiciones distintas. Discute cómo y cuándo se unieron.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Moisés lo escribió tras la salida de Egipto. La tradición rabínica fecha esta hacia el 1313 a. C. Otros la sitúan en el siglo XV, por 1 Re 6,1, o en el XIII, como Kitchen y Hoffmeier.",
+    "critica": "La mayoría de críticos sitúa la redacción final en época persa, con tradiciones más antiguas. La fecha y la ruta del éxodo están en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      -600,
+      -400
+    ],
+    "rango_tradicion": [
+      -1320,
+      -1200
+    ],
+    "posturas": [
+      {
+        "quien": "Wellhausen y la mayoría de la crítica posterior",
+        "texto": "La forma final es del exilio o de época persa (siglos VI-V a. C.), con tradiciones más antiguas de por medio."
+      },
+      {
+        "quien": "Estudiosos conservadores, evangélicos y judíos ortodoxos",
+        "texto": "Defienden un núcleo mosaico. Unos fechan el éxodo hacia 1446 a. C., según 1 Re 6,1. Otros, como Kitchen y Hoffmeier, en el siglo XIII a. C., en tiempos de Ramsés II."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es el segundo libro de la Torá, Shemot, «nombres». Cada año, en Pésaj (la Pascua), se recuerda la salida de Egipto.",
+    "ortodoxa": "Es canónico y sigue a Génesis, como en las Biblias católicas.",
+    "protestante": "Es canónico y sigue a Génesis, como en las Biblias católicas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Éx 3,7-10",
+      "nota": "Dios oye el clamor de los esclavos y envía a Moisés."
+    },
+    {
+      "pasaje": "Éx 12,1-14",
+      "nota": "Las normas de la primera Pascua."
+    },
+    {
+      "pasaje": "Éx 14,21-31",
+      "nota": "El paso del mar."
+    },
+    {
+      "pasaje": "Éx 20,1-17",
+      "nota": "El Decálogo, las diez palabras."
+    },
+    {
+      "pasaje": "Éx 34,6-7",
+      "nota": "Dios se define como compasivo y clemente."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Exodus (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "La Biblia desenterrada",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Éxodo cuenta cómo Dios oye a los esclavos y los saca de Egipto (3,7-10).",
+    "En el Sinaí, el pueblo liberado acepta una alianza con Dios.",
+    "El Decálogo empieza recordando la liberación, no dando órdenes.",
+    "La crítica no encuentra pruebas directas del relato y discute la fecha y la ruta del éxodo."
+  ]
+}

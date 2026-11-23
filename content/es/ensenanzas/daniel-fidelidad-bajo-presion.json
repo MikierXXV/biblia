@@ -1,0 +1,48 @@
+{
+  "id": "daniel-fidelidad-bajo-presion",
+  "libro_id": "daniel",
+  "orden": 1,
+  "titulo": "Tres jóvenes y un sabio desobedecen al rey: el horno y el foso",
+  "pasaje": "Dn 3; 6",
+  "que_dice": "El rey Nabucodonosor levanta una estatua de oro y manda que todos se postren ante ella al oír la música. Tres jóvenes judíos, Sadrac, Mesac y Abdénago, no lo hacen. Dicen que su Dios puede salvarlos del horno ardiente y que, aunque no lo haga, no adorarán la estatua (3,16-18). Los arrojan al fuego y salen sin quemarse.\n\nEn Dn 6, el rey Darío prohíbe rezar a nadie que no sea él durante treinta días. Daniel sigue rezando tres veces al día, con las ventanas abiertas hacia Jerusalén. Lo echan al foso de los leones y sale ileso.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee estos relatos como modelo de fidelidad en la diáspora. Ananías, Misael y Azarías, los nombres hebreos de los tres jóvenes, son ejemplo de aceptar la muerte antes que renunciar a la fe. El Talmud (Pesajim 53b) los cita."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica y la ortodoxa conservan el cántico de los tres jóvenes en el horno (Dn 3,24-90), que falta en el texto hebreo. Se reza en las laudes del domingo de la Liturgia de las Horas y en los maitines ortodoxos."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee Dn 1-6 como relatos ejemplares de la diáspora, escritos en los siglos III o II a. C. para animar a judíos bajo dominio extranjero. Ninguna fuente babilonia conocida menciona a Daniel ni estos episodios. La persecución de Antíoco IV, que prohibió la ley judía en el 167 a. C., se ve sobre todo en los capítulos 7-12. La fecha se discute.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John J. Collins y la mayoría de la crítica",
+        "texto": "Relatos de los siglos III-II a. C., escritos para animar a los judíos de la diáspora bajo dominio extranjero."
+      },
+      {
+        "quien": "Joyce Baldwin y otros comentaristas conservadores",
+        "texto": "Relatos con base en recuerdos de la corte babilónica del siglo VI a. C."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel (Hermeneia)",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Daniel (Tyndale Old Testament Commentaries 21)",
+      "autor": "Joyce G. Baldwin",
+      "tradicion": "protestante"
+    }
+  ]
+}

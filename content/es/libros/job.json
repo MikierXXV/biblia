@@ -1,0 +1,81 @@
+{
+  "id": "job",
+  "seccion_id": "sapienciales",
+  "orden": 1,
+  "nombre": "Job",
+  "abreviatura": "Job",
+  "capitulos": 42,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un hombre justo pierde todo y discute con sus amigos y con Dios sobre el porqué del sufrimiento. Dios responde con preguntas, no con explicaciones.",
+  "presentacion": "Un hombre íntegro, Job, vive en la tierra de Us con sus hijos y sus rebaños. En el cielo, un miembro de la corte divina, «el Satán» o el acusador, sostiene que Job sirve a Dios solo porque le va bien. Dios le permite probarlo. En un día Job pierde hijos, bienes y salud.\n\nEl libro es un largo poema en diálogo, enmarcado por un relato en prosa. Tres amigos, Elifaz, Bildad y Sofar, sostienen que el sufrimiento es castigo. Job lo niega y exige a Dios una respuesta. Dios habla al fin desde la tormenta (38-41), y el relato termina con Job restaurado.\n\nEl libro discute la idea de que al justo le va bien y al malvado, mal. No resuelve el problema: lo plantea con toda su dureza y lo deja abierto. Por eso se lee como una de las grandes obras sobre el sufrimiento.",
+  "autoria": {
+    "tradicion": "El Talmud (Baba Batra 14b) atribuye el libro a Moisés. En la misma discusión (15a) un maestro sostiene que Job nunca existió y que el libro es una parábola.",
+    "critica": "El libro es anónimo. La crítica discute si es de una sola mano o si se le añadieron partes, como los discursos de Elihú (32-37) y quizá el poema de Job 28.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Moisés, el libro es del siglo XIII a. C. La acción se sitúa en tiempos de los patriarcas.",
+    "critica": "La mayoría de críticos data el poema entre los siglos VI y IV a. C., con el exilio o después. Un relato en prosa más antiguo pudo servir de marco.",
+    "acuerdo": "consenso",
+    "rango": [
+      -600,
+      -300
+    ],
+    "rango_tradicion": [
+      -1300,
+      -1200
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), la tercera parte de la Biblia hebrea.",
+    "ortodoxa": "Es canónico y figura entre los libros poéticos y sapienciales.",
+    "protestante": "Es canónico y figura entre los libros poéticos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Job 1,21",
+      "nota": "Job, tras perderlo todo: el Señor dio y el Señor quitó."
+    },
+    {
+      "pasaje": "Job 19,25",
+      "nota": "«Yo sé que mi redentor vive»: pasaje de lectura discutida."
+    },
+    {
+      "pasaje": "Job 28",
+      "nota": "Poema sobre la sabiduría, que solo Dios conoce."
+    },
+    {
+      "pasaje": "Job 38,1-7",
+      "nota": "Dios habla desde la tormenta y pregunta a Job."
+    },
+    {
+      "pasaje": "Job 42,7",
+      "nota": "Dios reprende a los amigos por no hablar de él con rectitud."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hablar de Dios desde el sufrimiento del inocente",
+      "autor": "Gustavo Gutiérrez",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Book of Job: A Contest of Moral Imaginations",
+      "autor": "Carol A. Newsom",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Job pierde hijos, bienes y salud sin haber pecado, y el libro lo dice desde la primera página.",
+    "Los amigos defienden la retribución: quien sufre ha pecado. Dios los reprende al final (42,7).",
+    "Job protesta, pero sigue hablando con Dios. Dios responde con preguntas, no con explicaciones.",
+    "El poema se data entre los siglos VI y IV a. C.; el marco en prosa puede ser más antiguo.",
+    "«Yo sé que mi redentor vive» se lee como esperanza en la resurrección o como confianza en ser vindicado en vida."
+  ]
+}

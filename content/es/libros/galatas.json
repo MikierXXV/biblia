@@ -1,0 +1,88 @@
+{
+  "id": "galatas",
+  "seccion_id": "nuevo-testamento",
+  "orden": 9,
+  "nombre": "Gálatas",
+  "abreviatura": "Gál",
+  "bloque": "cartas-paulinas",
+  "capitulos": 6,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Pablo discute con quienes exigían la circuncisión a los convertidos no judíos. Defiende la libertad frente a la ley.",
+  "presentacion": "Pablo se enfada. La carta empieza sin la acción de gracias habitual y se queda en el reproche: los gálatas se están pasando a otro evangelio (Gál 1,6). Unos maestros les piden que se circunciden y guarden la Torá para ser del pueblo de Dios.\n\nPablo responde con su propia historia, la disputa con Pedro en Antioquía (2,11-14) y un argumento sobre Abrahán: la promesa precede a la ley (3-4). Afirma que en Cristo no hay judío ni griego, esclavo ni libre, varón ni mujer (3,28). Termina con una llamada a no usar la libertad como pretexto y con el fruto del Espíritu (5-6).\n\nLa carta fue clave para Lutero, y la crítica actual la discute sobre su relación con Hch 15 y sobre a quién iba dirigida.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que habla en primera persona y la firma de su mano (Gál 6,11).",
+    "critica": "Todos los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La hipótesis de los destinatarios del sur, defendida desde William Ramsay por F. F. Bruce y Richard Longenecker, la data hacia el 48-49 d. C., antes de Hch 15. Es una propuesta moderna, no una tradición antigua.",
+    "critica": "La mayoría de críticos la data entre los años 50 y 55 d. C., aunque se discute según a quién iba dirigida, a Galacia del norte o del sur.",
+    "acuerdo": "discusion",
+    "rango": [
+      50,
+      55
+    ],
+    "rango_tradicion": [
+      48,
+      50
+    ],
+    "posturas": [
+      {
+        "quien": "Hans Dieter Betz y J. Louis Martyn",
+        "texto": "Los destinatarios son los gálatas de la región norte; la carta es de mediados de los años 50, en Éfeso o Macedonia."
+      },
+      {
+        "quien": "Richard Longenecker y F. F. Bruce",
+        "texto": "Los destinatarios viven en la provincia romana del sur; la carta es de hacia el 48-49, antes de Hch 15."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen Gálatas como testimonio del judaísmo del siglo I; The Jewish Annotated New Testament lo comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica. Lutero la consideró su carta predilecta y la comentó dos veces, en 1519 y 1535."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Gál 2,11-14",
+      "nota": "El enfrentamiento entre Pablo y Pedro en Antioquía."
+    },
+    {
+      "pasaje": "Gál 3,26-29",
+      "nota": "Ni judío ni griego, ni esclavo ni libre, ni varón ni mujer."
+    },
+    {
+      "pasaje": "Gál 5,1-6",
+      "nota": "La libertad frente a la circuncisión."
+    },
+    {
+      "pasaje": "Gál 5,22-23",
+      "nota": "El fruto del Espíritu."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Anchor Bible 33A)",
+      "autor": "J. Louis Martyn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Pablo escribe enfadado a comunidades a las que otros piden circuncidarse.",
+    "Defiende que los no judíos no deben circuncidarse para ser del pueblo de Dios.",
+    "Cuenta su enfrentamiento con Pedro en Antioquía (Gál 2,11-14).",
+    "Gál 3,28 declara iguales en Cristo a judío y griego, esclavo y libre, varón y mujer.",
+    "Se discute si los gálatas vivían en el norte o en el sur, y cómo encaja Hch 15."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rut-espigar-y-goel",
+  "libro_id": "rut",
+  "orden": 3,
+  "titulo": "Una espigadora y el pariente que debía rescatarla",
+  "pasaje": "Rut 2-4",
+  "que_dice": "Rut sale a espigar: recoge las espigas que los segadores dejan atrás. Era un derecho de pobres, viudas, huérfanos y extranjeros (Lv 19,9-10; Dt 24,19-21). Entra por azar en el campo de Booz, que la protege y le deja grano de más.\n\nNoemí le explica que Booz es *goel*: el pariente que tenía el deber de rescatar a los suyos. En el capítulo 4, Booz reúne a los ancianos en la puerta de la ciudad. Allí resuelve con otro pariente más cercano la compra de la tierra de Noemí. Después se casa con Rut para que el nombre del difunto no se pierda.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en el campo de Booz el modelo de cómo cumplir la ley de las espigas, una obligación de justicia con los pobres. La tradición rabínica admira que Booz haga más de lo que la ley exige y trate a Rut con respeto."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Entre los protestantes hay dos lecturas. La evangélica sigue a los Padres de la Iglesia, los autores cristianos de los primeros siglos. Ve en el *goel* un «tipo» de Cristo: una figura que lo anuncia como redentor. La liberal lo explica por su contexto social, como una institución de la familia israelita."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo se relaciona la escena de la puerta con las leyes escritas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una postura",
+        "texto": "El libro refleja costumbres reales de la época, de las que solo conocemos una parte por Lv 25 (rescate de tierras) y Dt 25,5-10 (matrimonio con la viuda del hermano)."
+      },
+      {
+        "quien": "Otra postura",
+        "texto": "El relato mezcla las dos instituciones con libertad narrativa y no aplica ninguna al pie de la letra."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ruth (Anchor Bible 7)",
+      "autor": "Edward F. Campbell",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

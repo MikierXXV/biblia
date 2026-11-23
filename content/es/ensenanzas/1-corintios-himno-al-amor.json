@@ -1,0 +1,38 @@
+{
+  "id": "1-corintios-himno-al-amor",
+  "libro_id": "1-corintios",
+  "orden": 4,
+  "titulo": "¿Qué dice Pablo del amor entre lenguas, profecías y dones?",
+  "pasaje": "1 Cor 13,1-13",
+  "que_dice": "En medio de tres capítulos sobre los dones del Espíritu, Pablo intercala un poema sobre el amor (*ágape*, en griego). Hablar lenguas de ángeles, tener profecía o repartir los bienes a los pobres no vale nada sin amor (13,1-3).\n\nLuego enumera lo que el amor hace: es paciente, no envidia, no se jacta, no lleva cuenta del mal (13,4-7). Los dones pasarán. Permanecen la fe, la esperanza y el amor, y el mayor es el amor (13,8-13).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica llama a este amor *caridad* (amor que se da sin esperar nada) y la cuenta entre las tres virtudes teologales con la fe y la esperanza. Tomás de Aquino la considera la forma de todas las virtudes (Suma Teológica II-II, q. 23)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para Lutero, el amor es fruto de la fe: no justifica, pero brota de quien ya ha sido justificado. La tradición luterana lee el capítulo como descripción de la vida del creyente, no como condición para salvarse."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos no lo lee como un paréntesis: contesta a la rivalidad por los dones que domina los capítulos 12 y 14. Se lee hoy en muchas bodas, aunque habla de la vida de una comunidad entera.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "First Corinthians (Anchor Yale Bible 32)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    }
+  ]
+}

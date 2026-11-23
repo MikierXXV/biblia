@@ -1,0 +1,53 @@
+{
+  "id": "nahum-se-puede-celebrar-la-ruina-del-enemigo",
+  "libro_id": "nahum",
+  "orden": 3,
+  "titulo": "¿Se puede celebrar en nombre de Dios la ruina del enemigo?",
+  "pasaje": "Nah 3,4-7",
+  "que_dice": "Una mujer humillada en la plaza, con la falda levantada ante las naciones: así describe Nahúm el castigo de Nínive (3,5-6). Dios mismo declara que está contra ella. Nadie llora por la ciudad, y el texto no deja lugar al arrepentimiento ni a la compasión (3,7).\n\nPara Judá, sometida durante décadas, era la noticia de que el opresor caía. Para el lector de hoy, la imagen es violenta: Dios se muestra vengador, y varios comentaristas leen en el castigo una escena de abuso sexual.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas conservan Nahúm en su canon y lo leen como promesa de justicia para los oprimidos. El texto describe lo que Dios hará; no manda a nadie vengarse."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo valorar el tono vengativo del libro y su imagen de Dios.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "O. Palmer Robertson",
+        "texto": "Nahúm defiende la justicia de Dios, que no deja sin respuesta la crueldad de Asiria."
+      },
+      {
+        "quien": "Julia M. O'Brien",
+        "texto": "Cuestiona éticamente que el libro celebre la violencia, y la imagen de la ciudad como mujer agredida con Dios como agresor. Pide examinar esa imagen del castigo."
+      },
+      {
+        "quien": "Marvin Sweeney",
+        "texto": "El libro afirma la soberanía de Dios sobre los imperios. Habla con la voz de un pueblo sometido, que espera justicia."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Nahum (Readings: A New Biblical Commentary)",
+      "autor": "Julia M. O'Brien",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Twelve Prophets (Berit Olam)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Books of Nahum, Habakkuk, and Zephaniah (NICOT)",
+      "autor": "O. Palmer Robertson",
+      "tradicion": "critica"
+    }
+  ]
+}

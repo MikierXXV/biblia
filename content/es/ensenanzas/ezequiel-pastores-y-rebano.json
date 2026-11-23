@@ -1,0 +1,48 @@
+{
+  "id": "ezequiel-pastores-y-rebano",
+  "libro_id": "ezequiel",
+  "orden": 3,
+  "titulo": "Dios denuncia a los pastores que se cuidan a sí mismos y no al rebaño",
+  "pasaje": "Ez 34,1-31",
+  "que_dice": "Dios acusa a los pastores de Israel, es decir, a sus gobernantes, de alimentarse a sí mismos en vez de cuidar al rebaño. Se beben la leche, se visten con la lana y matan a las ovejas gordas, pero no fortalecen a las débiles ni curan a las enfermas (34,2-4).\n\nPor eso Dios dice que cuidará él mismo de sus ovejas: las buscará, las reunirá y las llevará a buenos pastos (34,11-16). Promete también poner sobre ellas un pastor, «mi siervo David», que las apacentará (34,23).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los comentarios medievales, como los de Rashi y Radak, leen al «David» del versículo 23 como el mesías de la casa de David. Para la tradición judía, es la promesa de un rey que gobernará con justicia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "En Jn 10,11-16, Jesús se presenta como el buen pastor. Para la lectura católica, y en lo esencial para las demás cristianas, retoma la promesa de Ez 34 de que Dios mismo cuidará de su pueblo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve en Ez 34 una acusación contra los reyes de Judá. Acabaron en el desastre del 587 a. C. «Pastor» era un título corriente de reyes en el Próximo Oriente. Se discute quién es el «David» del versículo 23.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Daniel Block",
+        "texto": "Un descendiente de David, un gobernante futuro que cumple la promesa de la dinastía."
+      },
+      {
+        "quien": "Walther Zimmerli",
+        "texto": "Una figura davídica futura sin título de rey: Ez 34,24 lo llama «príncipe» (*nasí*, jefe), con poder limitado."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "mesias-y-esperanza-mesianica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezekiel 1-20 y Ezekiel 21-37 (Anchor Bible 22 y 22A)",
+      "autor": "Moshe Greenberg",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Ezekiel (NICOT, 2 vols.)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    }
+  ]
+}

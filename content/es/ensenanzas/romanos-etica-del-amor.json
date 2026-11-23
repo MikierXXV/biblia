@@ -1,0 +1,38 @@
+{
+  "id": "romanos-etica-del-amor",
+  "libro_id": "romanos",
+  "orden": 6,
+  "titulo": "¿Cómo debe vivir quien cree según Pablo?",
+  "pasaje": "Rom 12,9-21",
+  "que_dice": "Tras once capítulos de argumento, Pablo pasa a la vida diaria de una comunidad de Roma formada por gente de oficios y orígenes distintos. Pide un amor sin fingimiento, hospitalidad, alegría con quien se alegra y llanto con quien llora.\n\nTambién manda no devolver mal por mal, dar de comer al enemigo hambriento y no dejarse vencer por el mal, sino vencerlo con el bien (12,21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía reconoce aquí ecos de Proverbios, de donde Pablo toma lo de dar de comer al enemigo (Prov 25,21-22). Reconoce también el mandato de amar al prójimo (Lv 19,18)."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el pasaje como la consecuencia práctica de la gracia anunciada antes. Las diferencias aparecen al aplicarlo: pacifismo, resistencia o defensa legítima."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lo lee como una exhortación (*paraclesis*) con material de la tradición judía y de la sabiduría helenística, y ve en Rom 13,8-10 su resumen.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Romans (Anchor Bible 33)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Romans 9-16 (Word Biblical Commentary 38B)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    }
+  ]
+}

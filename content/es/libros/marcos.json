@@ -1,0 +1,78 @@
+{
+  "id": "marcos",
+  "seccion_id": "nuevo-testamento",
+  "orden": 2,
+  "nombre": "Marcos",
+  "abreviatura": "Mc",
+  "bloque": "evangelios",
+  "capitulos": 16,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "El evangelio más breve y, para la mayoría de críticos, el más antiguo. Muestra a Jesús en acción, con un final que desconcierta.",
+  "presentacion": "Un profeta vestido de pelo de camello predica junto al Jordán, y Jesús aparece sin más: sin nacimiento ni genealogía. Así empieza Marcos, el evangelio más breve (Mc 1,1-15). Va deprisa, con un «enseguida» constante, y muestra a Jesús curando, expulsando demonios y discutiendo.\n\nEl libro tiene dos mitades. La primera pregunta quién es Jesús. La segunda, qué clase de Mesías es: uno que sufre (Mc 8,27-10,52). Culmina en la cruz y en un final que desconcierta: las mujeres huyen del sepulcro vacío, con miedo (Mc 16,8).\n\nLa mayoría de críticos lo considera el primer evangelio escrito y una fuente de Mateo y de Lucas. Los versículos 16,9-20 son un añadido posterior.",
+  "autoria": {
+    "tradicion": "La tradición cristiana lo atribuye a Marcos, discípulo e intérprete de Pedro. Se apoya en Papías, obispo de Hierápolis (siglo II), citado por Eusebio: Marcos puso por escrito, con exactitud pero sin orden, lo que recordaba de Pedro.",
+    "critica": "La crítica lo considera formalmente anónimo: el texto no nombra a su autor. Se discute si el título conserva un recuerdo fiable, como defiende Martin Hengel, y si el autor conoció de cerca a Pedro.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición lo escribió Marcos en Roma, hacia el final de la vida de Pedro, entre los años 60 y 70 d. C.",
+    "critica": "La mayoría de críticos lo data entre los años 65 y 73 d. C., en torno a la guerra judía contra Roma. Sitúan su origen en Roma o en Siria.",
+    "acuerdo": "consenso",
+    "rango": [
+      65,
+      73
+    ],
+    "rango_tradicion": [
+      60,
+      70
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Se estudia como fuente del judaísmo del siglo I; The Jewish Annotated New Testament lo anota desde esa perspectiva.",
+    "ortodoxa": "Es canónico, con su final largo (16,9-20), como en el resto de Biblias cristianas.",
+    "protestante": "Es canónico. Muchas Biblias protestantes modernas imprimen 16,9-20 entre corchetes o con una nota."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Mc 1,14-15",
+      "nota": "El primer anuncio de Jesús: el reino de Dios está cerca."
+    },
+    {
+      "pasaje": "Mc 8,27-33",
+      "nota": "Pedro llama Mesías a Jesús, y Jesús anuncia su sufrimiento."
+    },
+    {
+      "pasaje": "Mc 10,45",
+      "nota": "El Hijo del hombre vino a servir y a dar su vida en rescate."
+    },
+    {
+      "pasaje": "Mc 16,1-8",
+      "nota": "El final del texto más antiguo: el sepulcro vacío."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Mark 1-8 y Mark 8-16 (Anchor Bible 27 y 27A)",
+      "autor": "Joel Marcus",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Mark: A Commentary (Hermeneia)",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Marcos es, para la mayoría de críticos, el primer evangelio y una fuente de Mateo y de Lucas.",
+    "Presenta a Jesús en acción y no cuenta su nacimiento.",
+    "Su centro es un Mesías que sufre: la cruz explica quién es Jesús.",
+    "Los manuscritos más antiguos acaban en Mc 16,8; 16,9-20 es un añadido posterior.",
+    "La tradición lo vincula con Pedro; la crítica lo ve anónimo y lo data hacia 65-73 d. C."
+  ]
+}

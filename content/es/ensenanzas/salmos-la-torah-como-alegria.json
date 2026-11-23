@@ -1,0 +1,47 @@
+{
+  "id": "salmos-la-torah-como-alegria",
+  "libro_id": "salmos",
+  "orden": 4,
+  "titulo": "El salmista canta la Torá como su alegría y su luz",
+  "pasaje": "Sal 1; 119 (118)",
+  "que_dice": "El salmo 1 abre el libro con una imagen: un árbol plantado junto a un arroyo, que da su fruto a su tiempo. Es la persona que se complace en la *torá*, la enseñanza o ley del Señor, y la repasa día y noche (1,1-3).\n\nEl Sal 119 (118) es el más largo: 176 versos en 22 estrofas, una por letra del alfabeto hebreo. Cada estrofa empieza sus ocho versos con la misma letra. Para el salmista, la ley no es carga: es lámpara para sus pasos (119,105).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía hace del estudio de la Torá una forma de oración y de gozo. En Simjat Torá, la fiesta de la alegría de la Torá, se termina y se vuelve a empezar su lectura anual."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La Liturgia de las Horas reparte el Sal 119 (118) entre las horas de media mañana, mediodía y media tarde."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición reformada, con Calvino, defiende un uso de la ley como guía del creyente, que la ama. El Sal 119 es uno de sus textos de apoyo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en los salmos 1 y 2 el pórtico editorial del libro. Unen la Torá y el rey. El Sal 119, acróstico alfabético, se data tarde, en época posexílica.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Psalms (Interpretation)",
+      "autor": "James Luther Mays",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

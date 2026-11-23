@@ -1,0 +1,59 @@
+{
+  "id": "filipenses-himno-de-cristo",
+  "libro_id": "filipenses",
+  "orden": 2,
+  "titulo": "¿Qué dice el himno de Filipenses sobre el abajamiento de Cristo?",
+  "pasaje": "Flp 2,5-11",
+  "que_dice": "Pablo pide a los filipenses tener los mismos sentimientos que Cristo y propone un himno. Cristo, siendo de condición divina, no se aferró a ella: se vació, tomó forma de siervo y murió en cruz.\n\nPor eso Dios lo exaltó y le dio el nombre que está sobre todo nombre. Ante él se doblará toda rodilla, y toda lengua confesará que Jesucristo es Señor (Flp 2,9-11).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía nota que el final recoge palabras que Is 45,23 refiere al Dios de Israel: ante él se doblará toda rodilla. Discute si aplicarlas a Jesús es compatible con el monoteísmo o lo coloca junto a Dios."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las lecturas católica, ortodoxa y protestante ven aquí la confesión de que Cristo, siendo Dios, se hizo hombre. El término *kénosis* (vaciamiento) ha sido central en la cristología desde los Padres."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten si Pablo cita un himno anterior a la carta y qué dice de Cristo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ralph Martin",
+        "texto": "Es un himno anterior a Pablo, de la liturgia de las primeras comunidades, sobre el descenso y la exaltación de Cristo."
+      },
+      {
+        "quien": "James Dunn",
+        "texto": "Contrasta a Adán, que quiso ser como Dios, con Cristo, que se humilló. No habla de existencia previa a su vida terrena."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Lo compuso Pablo, con Adán e Israel de fondo, y afirma que Cristo existía antes de venir."
+      }
+    ]
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Hymn of Christ: Philippians 2:5-11 in Recent Interpretation (IVP)",
+      "autor": "Ralph P. Martin",
+      "tradicion": "critica",
+      "url": "https://ivpress.com/a-hymn-of-christ"
+    },
+    {
+      "titulo": "Philippians (Word Biblical Commentary 43, ed. revisada)",
+      "autor": "Gerald F. Hawthorne y Ralph P. Martin",
+      "tradicion": "protestante",
+      "url": "https://bestcommentaries.com/book/4018"
+    },
+    {
+      "titulo": "The Climax of the Covenant",
+      "autor": "N. T. Wright",
+      "tradicion": "protestante"
+    }
+  ]
+}

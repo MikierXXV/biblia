@@ -1,0 +1,43 @@
+{
+  "id": "esdras-templo-entre-cartas-y-profetas",
+  "libro_id": "esdras",
+  "orden": 2,
+  "titulo": "El Templo se termina entre cartas, profetas y un archivo",
+  "pasaje": "Esd 4-6",
+  "que_dice": "Los vecinos del norte ofrecen ayudar y, rechazados, convierten la obra en un conflicto: escriben cartas a los reyes persas para que la detengan (Esd 4). Las obras se paran años. Los profetas Ageo y Zacarías animan a retomarlas (5,1-2).\n\nCuando las autoridades persas preguntan con qué permiso construyen, se busca en el archivo real y aparece el edicto de Ciro (6,1-5). El Templo se dedica hacia el 515 a. C. con sacrificios y una Pascua (6,15-22).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la obra avanza por la palabra de los profetas y por un decreto antiguo, no por la fuerza. Este Segundo Templo, ampliado después por Herodes, es el que conocen los evangelios."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si los documentos en arameo que cita el libro, como las cartas de Esd 4-6 y 7, son auténticos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Los considera copias fieles o casi fieles de cartas persas, por su formulario oficial y su lengua, el arameo imperial."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Los considera redactados o retocados por el autor, que los habría compuesto con el estilo de la cancillería persa para dar autoridad al relato."
+      }
+    ]
+  },
+  "temas": [
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

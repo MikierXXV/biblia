@@ -1,0 +1,60 @@
+{
+  "id": "oseas-esposa-infiel-y-esposo-fiel",
+  "libro_id": "oseas",
+  "orden": 1,
+  "titulo": "Un profeta casado con una mujer infiel: ¿hecho o imagen?",
+  "pasaje": "Os 1-3",
+  "que_dice": "Dios manda a Oseas casarse con una mujer descrita como prostituta y tener hijos con ella (1,2). A los hijos les pone nombres duros: Yezrael, «Dios siembra», «No-compadecida» y «No-mi-pueblo». Es una acusación contra Israel, que se ha ido con otros dioses.\n\nEn el capítulo 3 Dios le pide amar a una mujer querida por otro y adúltera, como Él ama a Israel. El castigo es una larga espera sin rey ni culto, y el final es volver al Señor (3,4-5). El texto no cuenta qué fue de Gomer.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica suele leer el matrimonio como un hecho real. El Talmud (Pesajim 87a) nombra a Gomer, hija de Diblaim. Maimónides (Guía de perplejos II,46) lo entendió como una visión profética, no como un hecho."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Jerónimo, en su Comentario a Oseas, lee el matrimonio en clave alegórica: Gomer es imagen del pueblo infiel y Oseas, de un Dios que no deja de amarlo. La exégesis cristiana antigua lo siguió en esto."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Renita J. Weems",
+      "texto": "Weems (Battered Love, 1995) advierte de que la imagen presenta a Dios como un marido que humilla y castiga a su esposa (Os 2). Para ella, ese lenguaje refleja la violencia contra las mujeres en el mundo del profeta y puede legitimarla hoy."
+    }
+  ],
+  "critica": {
+    "texto": "El texto no aclara si el matrimonio ocurrió ni qué significa «mujer de prostitución». La crítica discute las dos cosas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Wolff",
+        "texto": "Fue un matrimonio real, que sirvió de señal para el pueblo, y Gomer pertenecía al ambiente del culto cananeo de la fertilidad."
+      },
+      {
+        "quien": "Maimónides y quienes lo siguen",
+        "texto": "Fue una visión o una acción simbólica contada, sin matrimonio real."
+      }
+    ]
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hosea (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Battered Love: Marriage, Sex, and Violence in the Hebrew Prophets",
+      "autor": "Renita J. Weems",
+      "tradicion": "literaria"
+    }
+  ]
+}

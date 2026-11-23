@@ -1,0 +1,95 @@
+{
+  "id": "isaias",
+  "seccion_id": "profetas",
+  "orden": 1,
+  "nombre": "Isaías",
+  "abreviatura": "Is",
+  "capitulos": 66,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Reúne profecías de varias épocas, desde la Jerusalén del siglo VIII a. C. hasta el regreso del exilio. Incluye los «cantos del siervo».",
+  "presentacion": "Jerusalén, hacia el 734 a. C. El rey Ajaz revisa las defensas de la ciudad porque dos reyes vecinos preparan un asedio. Un profeta, Isaías, sale a su encuentro y le dice que la seguridad no está en las alianzas, sino en confiar en Dios (Is 7). Así arranca el libro.\n\nEs el más largo de los profetas: 66 capítulos que recorren más de dos siglos. Los capítulos 1-39 miran a la Jerusalén del siglo VIII a. C.; los 40-55, a los desterrados en Babilonia; los 56-66, a los que vuelven a una ciudad en ruinas. Por eso la mayoría de la crítica lo lee en tres partes.\n\nContiene la visión del Templo (Is 6), los «cantos del siervo» (Is 42; 49; 50; 52,13–53,12) y el niño Emmanuel (Is 7,14). Judíos y cristianos lo leen mucho, y distinto.",
+  "autoria": {
+    "tradicion": "Durante siglos, las tradiciones judía y cristianas atribuyeron todo el libro a Isaías de Jerusalén (s. VIII a. C.). El Talmud (Baba Batra 15a) dice que Ezequías y su círculo lo pusieron por escrito.",
+    "critica": "Casi toda la crítica distingue tres partes de épocas distintas. Una minoría, sobre todo conservadora y judía ortodoxa, defiende un solo autor. Las posturas están en la datación.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según Is 1,1, Isaías profetizó bajo los reyes Uzías, Jotán, Ajaz y Ezequías, en la segunda mitad del siglo VIII a. C.",
+    "critica": "Is 1-39 es en lo esencial del siglo VIII a. C., con adiciones. Is 40-55 es de hacia el 540 a. C.; Is 56-66, del regreso del exilio. El rollo completo de Qumrán (s. II a. C.) ya lo trae unido.",
+    "acuerdo": "discusion",
+    "rango": [
+      -740,
+      -450
+    ],
+    "rango_tradicion": [
+      -740,
+      -690
+    ],
+    "posturas": [
+      {
+        "quien": "La mayoría de la crítica (Duhm, Blenkinsopp, Sweeney)",
+        "texto": "Tres épocas: Isaías de Jerusalén (s. VIII), un profeta anónimo del exilio (hacia 540) y otro del regreso. Lo apoyan la historia que supone cada parte y su estilo."
+      },
+      {
+        "quien": "Oswalt, Motyer y el judaísmo ortodoxo",
+        "texto": "Un solo Isaías, que habría anunciado el exilio y el regreso, incluso a Ciro por su nombre (Is 44,28; 45,1). Subrayan la unidad de temas y de vocabulario."
+      },
+      {
+        "quien": "Williamson, Childs y Seitz",
+        "texto": "Aceptan varias épocas, pero leen el libro como un conjunto compuesto con intención: los capítulos 40-66 reinterpretan a los 1-39."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Profetas (Nevi'im), con Jeremías y Ezequiel. Sus capítulos de consuelo (40-66) se leen como lecturas proféticas durante las siete semanas que siguen al 9 de Av.",
+    "ortodoxa": "Es canónico. En el orden de la Septuaginta, la traducción griega antigua, los Doce Profetas van antes que Isaías.",
+    "protestante": "Es canónico y abre los libros proféticos, como en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Is 2,2-5",
+      "nota": "Las naciones suben a Jerusalén y convierten sus espadas en arados."
+    },
+    {
+      "pasaje": "Is 6,1-8",
+      "nota": "La visión del Templo y la vocación de Isaías."
+    },
+    {
+      "pasaje": "Is 7,14",
+      "nota": "La señal del niño Emmanuel, leída de modos muy distintos."
+    },
+    {
+      "pasaje": "Is 40,1-11",
+      "nota": "Comienza el «libro del consuelo» para los desterrados."
+    },
+    {
+      "pasaje": "Is 52,13–53,12",
+      "nota": "El cuarto canto del siervo, con varias identidades propuestas."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 1-39 (Anchor Bible 19)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Book of Isaiah (NICOT, 2 vols.)",
+      "autor": "John N. Oswalt",
+      "tradicion": "protestante"
+    }
+  ],
+  "para_recordar": [
+    "Es el libro profético más largo: 66 capítulos que abarcan más de dos siglos.",
+    "La mayoría de la crítica lo lee en tres partes: Jerusalén, exilio y regreso.",
+    "Algunos estudiosos, sobre todo conservadores y judíos ortodoxos, defienden un solo autor.",
+    "Judíos y cristianos leen distinto Is 7,14 y el cuarto canto del siervo (Is 53).",
+    "Is 40 abre el «libro del consuelo»: la voz que anuncia a los desterrados el fin del castigo."
+  ]
+}

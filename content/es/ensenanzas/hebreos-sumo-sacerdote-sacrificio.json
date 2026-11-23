@@ -1,0 +1,56 @@
+{
+  "id": "hebreos-sumo-sacerdote-sacrificio",
+  "libro_id": "hebreos",
+  "orden": 1,
+  "titulo": "¿Hace falta repetir cada año un sacrificio que ya se ofreció?",
+  "pasaje": "Heb 4,14-5,10",
+  "que_dice": "Cada año, en el día de la Expiación, el sumo sacerdote entraba solo al lugar más sagrado con la sangre de los animales. El autor de Hebreos compara esa escena con Jesús.\n\nSegún él, Jesús comparte la debilidad humana y por eso puede compadecerse (4,15). Su ofrenda se hizo una sola vez y no necesita repetirse (cap. 9-10). Su sacerdocio es el de *Melquisedec*, el rey-sacerdote de Salén que bendijo a Abrahán (Gn 14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no ve el culto del Templo como insuficiente. Tras el año 70, los rabinos enseñaron que la oración, el arrepentimiento y la caridad expían, y el Yom Kipur sigue esa vía. Levine y Brettler leen Hebreos como un debate interno con la Escritura de Israel."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el sacrificio de Cristo se hace presente en la misa, que no lo repite sino que lo actualiza. Hebreos funda el sacerdocio único de Cristo, del que participa el sacerdocio ministerial."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para los reformadores, Hebreos muestra que la obra de Cristo se cumplió una vez y no admite añadidos. Lutero y Calvino la leyeron así contra la misa entendida como sacrificio."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute quiénes eran los destinatarios, y de ello depende cómo se oye el argumento sobre el culto.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "William Lane",
+        "texto": "Eran cristianos de origen judío, quizá en Roma, tentados de volver a las prácticas de la sinagoga."
+      },
+      {
+        "quien": "Harold Attridge",
+        "texto": "El texto no permite decidir su origen: podían ser judíos o no judíos formados en la Escritura griega, y el argumento es sobre todo literario."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistle to the Hebrews (Hermeneia)",
+      "autor": "Harold W. Attridge",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Hebrews (Word Biblical Commentary 47A-B)",
+      "autor": "William L. Lane",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

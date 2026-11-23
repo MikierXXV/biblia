@@ -1,0 +1,65 @@
+{
+  "id": "filemon",
+  "seccion_id": "nuevo-testamento",
+  "orden": 18,
+  "nombre": "Filemón",
+  "abreviatura": "Flm",
+  "bloque": "cartas-paulinas",
+  "capitulos": 1,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "La carta más breve de Pablo: pide a un cristiano que reciba como hermano a su esclavo huido, Onésimo.",
+  "presentacion": "Es la carta más breve de Pablo, de una sola página, y la única dirigida a un particular. Pablo, preso, escribe a Filemón, un cristiano con casa propia y esclavos. Le envía de vuelta a Onésimo, un esclavo suyo, y le pide que lo reciba como a un hermano querido (Flm 15-16).\n\nLa carta no dice por qué Onésimo estaba con Pablo. La explicación tradicional es que huyó y se refugió con él. Otros piensan que lo envió el propio Filemón o que acudió a Pablo a pedirle mediación.\n\nPablo no ordena nada: ruega, se ofrece a pagar cualquier deuda y anuncia una visita. Hay estudiosos que ven aquí un texto que socava la esclavitud, y otros que ven la aceptación del orden. La carta se usó en el siglo XIX tanto a favor como en contra de la esclavitud.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que se nombra como autor junto a Timoteo (Flm 1).",
+    "critica": "Los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas, y su brevedad y su carácter personal dejan pocas dudas.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa durante el cautiverio de Pablo en Roma, hacia el 61-62 d. C., junto con Colosenses.",
+    "critica": "Los críticos la datan entre los años 55 y 62 d. C. Se discute si Pablo estaba preso en Éfeso, en Cesarea o en Roma.",
+    "acuerdo": "consenso",
+    "rango": [
+      55,
+      62
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen Filemón como testimonio de la vida de las comunidades del siglo I; The Jewish Annotated New Testament lo comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo. La Reforma la leyó sobre todo como ejemplo de caridad."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Flm 8-9",
+      "nota": "Pablo ruega por amor en lugar de mandar."
+    },
+    {
+      "pasaje": "Flm 15-16",
+      "nota": "Onésimo como hermano querido, no solo esclavo."
+    },
+    {
+      "pasaje": "Flm 17-22",
+      "nota": "La petición de acogida, la deuda y el anuncio de una visita."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Es la carta más breve de Pablo y la única dirigida a un particular.",
+    "Pablo pide a Filemón que reciba a Onésimo como hermano querido.",
+    "Se discute por qué estaba Onésimo con Pablo: huida, envío o mediación.",
+    "Se discute si la carta cuestiona la esclavitud o la acepta.",
+    "En el siglo XIX la citaron a la vez abolicionistas y defensores de la esclavitud."
+  ]
+}

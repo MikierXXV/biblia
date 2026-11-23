@@ -1,0 +1,49 @@
+{
+  "id": "oseas-padre-herido",
+  "libro_id": "oseas",
+  "orden": 3,
+  "titulo": "Un padre herido que no puede abandonar a su hijo",
+  "pasaje": "Os 11",
+  "que_dice": "Dios recuerda a Israel cuando era niño: lo sacó de Egipto, le enseñó a andar y lo tomó en brazos (11,1-4). Cuanto más lo llamaba, más se alejaba el hijo hacia Baal.\n\nViene el castigo: Asiria será su rey (11,5-6). Pero Dios duda. Se pregunta cómo podrá entregarlo, y su corazón se vuelve contra Él. No actuará con ira, porque es Dios y no un hombre (11,8-9).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía entiende al hijo de 11,1 como el pueblo de Israel: el capítulo habla del Éxodo y de la relación entre Dios y su pueblo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen Mt 2,15 como cumplimiento: Jesús vuelve de Egipto y recorre el camino de Israel. Hay que notar que Oseas habla del pasado."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Abraham J. Heschel",
+      "texto": "Heschel (The Prophets, 1962) habla del «pathos» de Dios: un Dios afectado por lo que hacen los hombres, que sufre y se compadece. Entre los textos que recoge para ello figura Os 11."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica atribuye el capítulo a Oseas, poco antes de la caída de Samaria. Subraya el giro de 11,8-9, donde la compasión vence a la ira.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hosea (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Prophets",
+      "autor": "Abraham J. Heschel",
+      "tradicion": "judia"
+    }
+  ]
+}

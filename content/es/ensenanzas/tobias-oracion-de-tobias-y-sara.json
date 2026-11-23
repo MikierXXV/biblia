@@ -1,0 +1,37 @@
+{
+  "id": "tobias-oracion-de-tobias-y-sara",
+  "libro_id": "tobias",
+  "orden": 3,
+  "titulo": "Una noche de bodas que empieza con una oración",
+  "pasaje": "Tob 6-8",
+  "que_dice": "Tobías sale de viaje con Azarías, que es Rafael con otra identidad. Un pez enorme intenta devorarle el pie. Rafael le dice que guarde el corazón, el hígado y la hiel: servirán para expulsar al demonio y devolver la vista a su padre (Tob 6).\n\nTobías se casa con Sara, su pariente. La noche de bodas reza antes de acostarse: da gracias a Dios por Adán y Eva y pide para los dos una vejez juntos (8,4-8). El demonio no vuelve a aparecer.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la oración de Tob 8 es fuente de la teología del matrimonio. El rito católico del matrimonio la ofrece entre las lecturas del Antiguo Testamento."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Los anglicanos leen los libros deuterocanónicos, según el artículo VI de los Treinta y Nueve Artículos, «para ejemplo de vida». Tobías, un libro de ejemplos familiares, encaja con ese uso."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica, el relato pertenece a un género conocido, la novela de la diáspora. Defiende casarse dentro del pueblo en una época en que eso se discutía (Esd 9-10).",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Tobit (Commentaries on Early Jewish Literature)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

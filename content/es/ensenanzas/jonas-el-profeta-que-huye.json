@@ -1,0 +1,53 @@
+{
+  "id": "jonas-el-profeta-que-huye",
+  "libro_id": "jonas",
+  "orden": 1,
+  "titulo": "¿Se puede huir de Dios? El profeta que embarca hacia Tarsis",
+  "pasaje": "Jon 1,1-2,11",
+  "que_dice": "Dios envía a Jonás a Nínive y Jonás baja a Jafa y se embarca hacia Tarsis, el extremo opuesto del mundo conocido (1,1-3). Estalla una tormenta. Los marineros paganos rezan a sus dioses mientras el profeta duerme en la bodega (1,4-6).\n\nTirado por la borda, Jonás es tragado por un gran pez y pasa tres días dentro. Desde allí reza un salmo de agradecimiento (2,1-10). El pez lo vomita en la playa.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee el libro cada Yom Kipur. Los rabinos veían en la huida de Jonás un modelo del arrepentimiento: quien se aleja de Dios puede volver, incluso desde el vientre del pez."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen la «señal de Jonás» de Mt 12,39-41 como anuncio de los tres días de Jesús en el sepulcro. Esa lectura convive con la judía; el evangelio retoma el relato desde su propio horizonte."
+    }
+  ],
+  "critica": {
+    "texto": "El género se acepta casi unánimemente como relato didáctico, pero se discute si hay un núcleo histórico en la figura del profeta de 2 Re 14,25.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Phyllis Trible y Hans Walter Wolff",
+        "texto": "Es una ficción teológica de época posterior al exilio, narrada con ironía. Wolff la lee como novela didáctica con rasgos satíricos. Su verdad está en lo que dice de Dios, no en los hechos."
+      },
+      {
+        "quien": "Douglas Stuart",
+        "texto": "Defiende la historicidad: un profeta real, el de 2 Re 14,25, que predicó en Nínive."
+      }
+    ]
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jonah (Anchor Bible)",
+      "autor": "Jack M. Sasson",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Rhetorical Criticism: Context, Method, and the Book of Jonah",
+      "autor": "Phyllis Trible",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Hosea–Jonah (Word Biblical Commentary)",
+      "autor": "Douglas Stuart",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "deuteronomio-elige-la-vida",
+  "libro_id": "deuteronomio",
+  "orden": 5,
+  "titulo": "Moisés pone ante el pueblo la vida y la muerte: elegid la vida",
+  "pasaje": "Dt 30,15-20",
+  "que_dice": "Al final de sus discursos, Moisés pone al pueblo ante una elección. Llama al cielo y a la tierra por testigos. Hay dos caminos: la vida y el bien, o la muerte y el mal.\n\nLa vida consiste en amar al Señor, caminar por sus caminos y cumplir sus mandatos. Quien lo haga vivirá y será bendecido en la tierra. Quien se aparte la perderá (30,15-20). Poco antes, Moisés dice que esa palabra no está lejos: está en la boca y en el corazón (30,11-14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Baba Metzía 59b) cuenta que Rabí Eliezer invocó milagros para defender su opinión. La mayoría respondió con Dt 30,12: la Torá no está en el cielo, y lo decide la comunidad."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Pablo cita Dt 30,12-14 en Rom 10,6-8. Lo aplica a la fe en Cristo: la palabra cercana es la que se predica."
+    }
+  ],
+  "critica": {
+    "texto": "Dt 30 cierra el marco del tratado de alianza con bendiciones y maldiciones. La mayoría de críticos ve en 30,1-10 una restauración tras la dispersión, y por eso data el capítulo en el exilio.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "alianza",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

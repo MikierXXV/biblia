@@ -1,0 +1,61 @@
+{
+  "id": "santiago-fe-y-obras",
+  "libro_id": "santiago",
+  "orden": 1,
+  "titulo": "¿Puede una fe sin obras salvar a alguien?",
+  "pasaje": "Sant 2,14-26",
+  "que_dice": "Un hermano pasa frío y hambre, y alguien le dice «vete en paz, abrígate y come». No le da ni un abrigo ni un plato. Así empieza Santiago su argumento.\n\nPara él, la fe que no se traduce en hechos está muerta (2,17). También los demonios creen que Dios es uno, y tiemblan (2,19). Abrahán y Rajab, la prostituta de Jericó, muestran su fe con actos y por eso son declarados justos (2,21-25). Pablo habla de esto en Rom 3,28; la enseñanza sobre Rom 3,21-28 lo trata.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Trento (1547) enseñó que la fe obra por la caridad y que se crece en justicia con las obras. Sant 2 se lee como confirmación: la fe viva es la que se manifiesta en amor."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero, en el prólogo de su Nuevo Testamento (1522), llamó a Santiago epístola de paja frente a los libros que muestran a Cristo. Después la tradición luterana y reformada la leyó como fruto de la fe, no como su condición."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si Santiago responde a Pablo y qué significa «justificar» en cada autor.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Martin Dibelius",
+        "texto": "Santiago no conoce a Pablo: reacciona contra una fe reducida a doctrina, una lectura vulgarizada del paulinismo."
+      },
+      {
+        "quien": "Dale Allison",
+        "texto": "Santiago conoce la fórmula paulina y la corrige: 2,14-26 responde a Pablo o a eslóganes paulinos, y las armonizaciones fáciles no resisten."
+      },
+      {
+        "quien": "Luke Timothy Johnson",
+        "texto": "Fe sin actos no es lo mismo que obras de la ley: Santiago habla de lo primero y Pablo de lo segundo, así que no se contradicen."
+      },
+      {
+        "quien": "Scot McKnight y Richard Bauckham",
+        "texto": "Santiago no ataca a Pablo y justificar es ser declarado justo en el juicio de Dios: los dos coinciden en lo esencial."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle of James (ICC)",
+      "autor": "Dale C. Allison Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "James (Hermeneia)",
+      "autor": "Martin Dibelius",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Letter of James (Anchor Bible 37A)",
+      "autor": "Luke Timothy Johnson",
+      "tradicion": "critica"
+    }
+  ]
+}

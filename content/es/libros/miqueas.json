@@ -1,0 +1,87 @@
+{
+  "id": "miqueas",
+  "seccion_id": "profetas",
+  "orden": 12,
+  "nombre": "Miqueas",
+  "abreviatura": "Miq",
+  "capitulos": 7,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Denuncia a los poderosos de Judá y anuncia un rey de Belén. Resume la vida buena en practicar la justicia y amar la misericordia.",
+  "presentacion": "Miqueas era de Moréshet, una aldea de la Sefelá, al pie de las colinas de Judá, lejos de la corte. Desde allí vio cómo los de Jerusalén codiciaban campos y los arrebataban, y cómo los jueces y los profetas de palacio se dejaban pagar (Miq 2,1-2; 3,9-11).\n\nPredica en el siglo VIII a. C., en tiempos de Ezequías, cuando Asiria arrasa el norte. Anuncia que Sión será un campo arado (Miq 3,12). Y a la vez promete que un rey nacerá en la pequeña Belén (Miq 5,1-4) y que los pueblos forjarán arados con sus espadas (Miq 4,1-4).\n\nEl pasaje más citado resume lo que Dios pide: practicar la justicia, amar la misericordia y caminar humildemente con él (Miq 6,8).",
+  "autoria": {
+    "tradicion": "Miq 1,1 presenta al profeta como Miqueas de Moréshet. Las tradiciones judía y cristiana le atribuyen el libro entero.",
+    "critica": "La crítica coincide en que los oráculos de los caps. 1-3 son del profeta y discute cuánto de los caps. 4-7 es suyo o fue añadido después.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Miq 1,1 sitúa el ministerio bajo Yotam, Ajaz y Ezequías, reyes de Judá, en la segunda mitad del siglo VIII a. C.",
+    "critica": "El núcleo es del siglo VIII a. C., hacia 740-700. Se discute si los caps. 4-7 son del profeta o se retocaron durante el exilio y después.",
+    "acuerdo": "discusion",
+    "rango": [
+      -740,
+      -450
+    ],
+    "posturas": [
+      {
+        "quien": "Hans Walter Wolff",
+        "texto": "Atribuye al profeta sobre todo los caps. 1-3 y algunos pasajes de 6-7. Data el resto, incluidos 4-5, en tiempos del exilio y después."
+      },
+      {
+        "quien": "Francis Andersen y David Noel Freedman",
+        "texto": "Ven en el libro una composición ordenada, con mucho material del siglo VIII a. C. Dudan de separar con tanta nitidez lo del profeta de lo posterior."
+      },
+      {
+        "quien": "Bruce K. Waltke",
+        "texto": "Defiende, en su comentario de 2007, que casi todo el libro procede de Miqueas y que los oráculos de esperanza forman parte de su mensaje."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el tercero.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Miq 2,1-5",
+      "nota": "Codician campos y casas, y los toman a quienes no pueden defenderse."
+    },
+    {
+      "pasaje": "Miq 4,1-4",
+      "nota": "Los pueblos suben a Sión; forjan arados con sus espadas."
+    },
+    {
+      "pasaje": "Miq 5,1-5",
+      "nota": "De Belén saldrá quien gobierne, un nuevo David."
+    },
+    {
+      "pasaje": "Miq 6,6-8",
+      "nota": "Dios no pide holocaustos, sino justicia, misericordia y humildad."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Micah (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Micah (Anchor Bible)",
+      "autor": "Francis I. Andersen y David Noel Freedman",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Miqueas, de Moréshet, un pueblo de la Sefelá de Judá, denuncia en el siglo VIII a. C. a los que se apropian de los campos (Miq 2,1-2).",
+    "Miq 6,8 resume lo que Dios pide: justicia, misericordia y humildad.",
+    "Miq 5,1 anuncia un gobernante de Belén; judíos y cristianos lo leen de modo distinto.",
+    "Miq 4,1-4 es casi igual a Is 2,2-4 y se discute quién depende de quién.",
+    "Se discute cuánto de los caps. 4-7 es del profeta y cuánto se añadió después."
+  ]
+}

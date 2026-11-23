@@ -1,0 +1,68 @@
+{
+  "id": "efesios-codigo-domestico",
+  "libro_id": "efesios",
+  "orden": 5,
+  "titulo": "¿Qué dice Efesios a las esposas, a los maridos y a los esclavos?",
+  "pasaje": "Ef 5,21-6,9",
+  "que_dice": "Una casa romana reunía al padre, la esposa, los hijos y los esclavos. La carta habla a cada grupo (Ef 5,21-6,9). Pide a las esposas someterse a sus maridos, y a los maridos amar a sus esposas como Cristo amó a la Iglesia (5,22-33).\n\nPide a los hijos obedecer a sus padres y a los esclavos obedecer a sus amos como a Cristo. A los amos les pide dejar las amenazas, porque el Señor de ambos es el mismo (6,1-9). El texto no pide acabar con la esclavitud.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Juan Pablo II (*Mulieris dignitatem*, 1988) lee 5,21 como sumisión mutua entre esposos y toma el amor de Cristo como medida del amor del marido."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Los complementarianos (Declaración de Danvers, 1987) ven una jerarquía querida por Dios: el marido dirige. Los igualitarios (Christians for Biblical Equality, 1989) leen la sumisión mutua de 5,21 como principio que corrige el orden de la época."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Los cristianos citaron lo dicho a los esclavos para defender la esclavitud y también para criticarla. Hoy las grandes Iglesias condenan la esclavitud y leen esos versículos como producto de su época."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "texto": "Elisabeth Schüssler Fiorenza ve en los códigos domésticos un retroceso: la Iglesia adopta el orden patriarcal del mundo romano para no parecer subversiva."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten de dónde viene el código y qué hace con él la carta con sus propias convicciones.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "David Balch",
+        "texto": "El código viene de la tradición grecorromana sobre el gobierno de la casa; las comunidades lo adoptaron para no parecer una amenaza al orden."
+      },
+      {
+        "quien": "Andrew Lincoln",
+        "texto": "La carta lo transforma: lo funda en el amor de Cristo, y la sumisión mutua de 5,21 y las exigencias al marido y al amo lo corrigen desde dentro."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mujeres-y-liderazgo",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Let Wives Be Submissive: The Domestic Code in I Peter (SBL Monograph Series 26)",
+      "autor": "David L. Balch",
+      "tradicion": "critica",
+      "url": "https://cart.sbl-site.org/books/060026P"
+    },
+    {
+      "titulo": "In Memory of Her: A Feminist Theological Reconstruction of Christian Origins",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "tradicion": "literaria",
+      "url": "https://www.librarything.com/work/92478"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    }
+  ]
+}

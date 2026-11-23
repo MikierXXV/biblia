@@ -1,0 +1,53 @@
+{
+  "id": "lamentaciones-oracion-sin-respuesta",
+  "libro_id": "lamentaciones",
+  "orden": 4,
+  "titulo": "El libro termina con una oración que no sabe si Dios responderá",
+  "pasaje": "Lam 5,1-22",
+  "que_dice": "El último poema es una oración de la comunidad: que Dios recuerde lo que les ha pasado (5,1). Describe una vida sin hogar. La herencia ha pasado a extraños, las casas a forasteros, los huérfanos no tienen padre, y hay que pagar el agua y la leña (5,2-4). Hay hambre, y han violado a las mujeres de Sión (5,10-11).\n\nEl poema pide a Dios que los haga volver y renueve sus días como antes (5,21). No acaba en la fe: el último versículo pregunta si Dios los ha rechazado del todo (5,22).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "En la sinagoga, al acabar Lamentaciones se repite en voz alta el versículo 21 («haznos volver») para no terminar con una nota de rechazo. La costumbre reconoce la dureza del final y el deseo de una última palabra de esperanza."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica reza estas lecturas en Semana Santa y las une al sufrimiento de Cristo. Las comunidades cristianas las han usado como modelo de oración ante una catástrofe."
+    }
+  ],
+  "critica": {
+    "texto": "Lam 5 es el único poema sin acróstico, aunque tiene 22 versos. La mayoría de críticos lo ve como oración comunitaria. Se discute el v. 22: pregunta sin respuesta o condición.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Tod Linafelt y otros",
+        "texto": "Una pregunta que queda abierta: el libro termina sin respuesta de Dios, y la oración sigue sin cerrarse."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Una condición: «a menos que nos hayas rechazado del todo». Es una forma de pedir que no sea así."
+      }
+    ]
+  },
+  "temas": [
+    "oracion",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Lamentations (Old Testament Library)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Surviving Lamentations: Catastrophe, Lament, and Protest in the Afterlife of a Biblical Book",
+      "autor": "Tod Linafelt",
+      "tradicion": "critica"
+    }
+  ]
+}

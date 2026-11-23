@@ -1,0 +1,60 @@
+{
+  "id": "juan-amaos-unos-a-otros",
+  "libro_id": "juan",
+  "orden": 4,
+  "titulo": "En la última cena, Jesús lava los pies y da un mandamiento nuevo",
+  "pasaje": "Jn 13,1-17.34-35",
+  "que_dice": "Antes de la cena de Pascua, Jesús se levanta, se ciñe una toalla y lava los pies de sus discípulos. Es una tarea de esclavos. Pedro protesta, y Jesús insiste: si no te lavo, no tienes parte conmigo.\n\nDespués les da un mandamiento nuevo: que os améis unos a otros como yo os he amado. En eso conocerán todos que sois discípulos míos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, amar al prójimo ya era un mandamiento de la Torá (Lv 19,18). Lo nuevo es la medida: «como yo os he amado». Se discute si el mandamiento se limita al círculo de los discípulos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el lavatorio y el mandamiento fundan el servicio como sello del cristiano. La liturgia del Jueves Santo repite el gesto de lavar los pies."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa recuerda el lavatorio en el Jueves Santo, y en algunos lugares el obispo lava los pies a doce clérigos."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchos protestantes, como los anabaptistas y los menonitas, practican el lavatorio de pies como ordenanza. Otros lo entienden solo como ejemplo de humildad."
+    }
+  ],
+  "critica": {
+    "texto": "En Juan, la última cena no es la de Pascua: no hay institución de la Eucaristía y sí lavatorio. Esa diferencia con los sinópticos se discute.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joachim Jeremias",
+        "texto": "Juan sitúa la cena un día antes de la Pascua para que Jesús muera cuando se sacrifican los corderos."
+      },
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "Los sinópticos adaptaron la fecha para presentar la cena como cena pascual, y Juan conserva la cronología original."
+      }
+    ]
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Eucharistic Words of Jesus (SCM, 1966)",
+      "autor": "Joachim Jeremias",
+      "tradicion": "protestante"
+    }
+  ]
+}

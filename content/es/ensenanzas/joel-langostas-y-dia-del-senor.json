@@ -1,0 +1,48 @@
+{
+  "id": "joel-langostas-y-dia-del-senor",
+  "libro_id": "joel",
+  "orden": 1,
+  "titulo": "Una plaga de langostas y la señal de un día temible",
+  "pasaje": "Jl 1-2",
+  "que_dice": "La cosecha ha desaparecido. Las langostas se han comido el grano, la vid y las higueras, y ya no hay ofrenda de cereal ni de vino para el Templo (1,4-12). Los sacerdotes se visten de saco y se lamentan.\n\nEl profeta toca el cuerno de alarma: el *día del Señor*, una jornada en que Dios interviene para juzgar, está cerca (2,1-2). Describe la plaga como un ejército que avanza sin romper filas (2,2-11).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la plaga es una advertencia para que el pueblo vuelva a Dios. El día del Señor se anuncia para que haya conversión (2,12)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué fue la plaga que describe el libro: si una invasión real de insectos o una imagen de otra cosa.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Wolff y Barton",
+        "texto": "Una plaga real de langostas, que el profeta lee como señal y anticipo del día del Señor."
+      },
+      {
+        "quien": "Jerónimo (siglo IV) y quienes lo siguen",
+        "texto": "Las langostas son imperios o ejércitos humanos que invaden la tierra, y la plaga es una imagen."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Joel and Amos (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ]
+}

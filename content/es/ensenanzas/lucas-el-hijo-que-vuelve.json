@@ -1,0 +1,53 @@
+{
+  "id": "lucas-el-hijo-que-vuelve",
+  "libro_id": "lucas",
+  "orden": 4,
+  "titulo": "Un padre corre al encuentro del hijo que lo había dado por muerto",
+  "pasaje": "Lc 15,11-32",
+  "que_dice": "Un joven pide a su padre la parte de la herencia, se va lejos y la gasta. Cuando llega el hambre acaba cuidando cerdos. Decide volver y pedir trabajo como jornalero. El padre lo ve a lo lejos, corre, lo abraza y organiza una fiesta.\n\nEl hermano mayor vuelve del campo, se enfada y no quiere entrar. El padre sale también a buscarlo. La parábola termina sin decir si entra.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía enseña que Dios acoge a quien se vuelve hacia él: el verbo hebreo *shuv* (volver, arrepentirse) da nombre a la *teshuvá*, la conversión. Un texto rabínico dice que la teshuvá estaba entre las cosas creadas antes del mundo (Pesajim 54a)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el padre es imagen de Dios. La parábola apoya el sacramento de la reconciliación y se lee en Cuaresma. Juan Pablo II la comentó en su encíclica sobre la misericordia, de 1980."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa dedica al Hijo Pródigo el segundo domingo del Triodión, el libro litúrgico que prepara y acompaña la Cuaresma. La parábola abre así el camino hacia el ayuno con una llamada a volver."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el padre ilustra la gracia sin mérito: el hijo no ha hecho nada para merecer la fiesta. Muchos reformadores veían en el hermano mayor la justicia propia."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Kenneth Bailey",
+      "texto": "Kenneth Bailey, que estudió la parábola desde la cultura de Oriente Medio, subraya que pedir la herencia en vida equivalía a desear la muerte del padre. El padre que corre rompe la dignidad esperada de un anciano."
+    }
+  ],
+  "critica": {
+    "texto": "Esta parábola solo está en Lucas. La mayoría de críticos cree que remonta a Jesús, aunque algunos ven en el hermano mayor un añadido de Lucas.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jesus Through Middle Eastern Eyes",
+      "autor": "Kenneth E. Bailey",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Short Stories by Jesus",
+      "autor": "Amy-Jill Levine",
+      "tradicion": "literaria"
+    }
+  ]
+}

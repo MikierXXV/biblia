@@ -1,0 +1,47 @@
+{
+  "id": "1-corintios-cena-del-senor",
+  "libro_id": "1-corintios",
+  "orden": 2,
+  "titulo": "¿Qué significa comer la cena del Señor sin discernir el cuerpo?",
+  "pasaje": "1 Cor 11,17-34",
+  "que_dice": "La comunidad de Corinto se reúne a comer en una casa particular. Pablo protesta porque unos comen y beben en abundancia mientras otros pasan hambre: así no se come la cena del Señor (11,20-22).\n\nLes recuerda lo que él mismo recibió: Jesús, la noche en que fue entregado, partió el pan y pasó la copa y pidió repetirlo en memoria suya. Quien come sin discernir el cuerpo come su propia condena (11,23-29).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, definida en Trento (1551), afirma la presencia real de Cristo por la transubstanciación: el pan y el vino se convierten en su cuerpo y su sangre. Lee la profanación de 11,27 desde esa presencia."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa también afirma la presencia real, pero no explica el modo con la categoría de transubstanciación. Habla de misterio y de cambio por la invocación del Espíritu Santo (*epíclesis*) en la liturgia."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero sostiene la presencia real de Cristo junto al pan y el vino; Calvino, una presencia espiritual recibida por la fe; Zuinglio, una comida conmemorativa. Muchas iglesias evangélicas siguen esta última."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que 11,17-22 critica una desigualdad social: era una comida real y las diferencias de clase la arruinaban. Gerd Theissen reconstruye que los ricos comían antes y los esclavos y jornaleros llegaban tarde, cuando ya no quedaba nada. En 11,23-25 Pablo recoge una de las formulaciones más antiguas de las palabras de Jesús sobre el pan y la copa.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "First Corinthians (Anchor Yale Bible 32)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NIGTC)",
+      "autor": "Anthony C. Thiselton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Social Setting of Pauline Christianity",
+      "autor": "Gerd Theissen",
+      "tradicion": "critica"
+    }
+  ]
+}

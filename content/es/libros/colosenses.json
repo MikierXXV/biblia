@@ -1,0 +1,90 @@
+{
+  "id": "colosenses",
+  "seccion_id": "nuevo-testamento",
+  "orden": 12,
+  "nombre": "Colosenses",
+  "abreviatura": "Col",
+  "bloque": "cartas-paulinas",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Corrige una doctrina que rebaja a Cristo y contiene un himno sobre su primacía. Su autoría paulina se discute.",
+  "presentacion": "Pablo, o alguien en su nombre, escribe a una comunidad de Frigia, en la actual Turquía, que él no conocía en persona (Col 2,1). Se llama Colosas y es una ciudad pequeña. La carta la avisa contra una *filosofía* (un modo de pensar con normas y poderes que rivalizan con Cristo, 2,8).\n\nLa respuesta es un texto muy citado, el himno a la primacía de Cristo sobre toda la creación (1,15-20). Sigue con una exhortación a dejar las prácticas que esclavizan (2,8-23) y a vestirse de compasión, humildad y amor (3,12-14). Cierra con el código doméstico, que se dirige a esposas, maridos, hijos, padres, esclavos y amos (3,18-4,1).\n\nNo se sabe quién era ese grupo ni, con certeza, quién escribió la carta. Los críticos están divididos sobre ambas cuestiones.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, preso, que saluda con su propia mano (Col 4,18).",
+    "critica": "Los críticos están divididos. Dunn, Wright y Moo la defienden como de Pablo, o escrita por Timoteo bajo su dirección. Lohse y MacDonald, entre otros, la tienen por obra de un discípulo, por su estilo y sus ideas.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió preso, hacia el 60-62 d. C., probablemente en Roma.",
+    "critica": "Según la autoría, la fecha va de la época de Pablo (años 50-60 d. C.) a la generación siguiente (hasta hacia el 80). Se discute también desde dónde se escribió.",
+    "acuerdo": "discusion",
+    "rango": [
+      60,
+      80
+    ],
+    "rango_tradicion": [
+      60,
+      62
+    ],
+    "posturas": [
+      {
+        "quien": "James Dunn, N. T. Wright y Douglas Moo",
+        "texto": "La carta es de la época de Pablo, preso, con él como autor o con Timoteo escribiendo bajo su dirección."
+      },
+      {
+        "quien": "Eduard Lohse y Margaret MacDonald",
+        "texto": "La escribió un discípulo, ya muerto Pablo, en una comunidad de la escuela paulina."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen Colosenses como testimonio de una comunidad de no judíos y de sus controversias; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Col 1,15-20",
+      "nota": "El himno a la primacía de Cristo."
+    },
+    {
+      "pasaje": "Col 2,8-23",
+      "nota": "Contra una filosofía y unas prácticas que esclavizan."
+    },
+    {
+      "pasaje": "Col 3,12-14",
+      "nota": "La vida nueva: compasión, perdón, amor."
+    },
+    {
+      "pasaje": "Col 3,18-4,1",
+      "nota": "El código doméstico, con las normas para esclavos y amos."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica",
+      "url": "https://faithlife.com/store/product/3462"
+    },
+    {
+      "titulo": "Colossians and Philemon (Hermeneia)",
+      "autor": "Eduard Lohse",
+      "tradicion": "critica",
+      "url": "https://vufind.daystar.ac.ke/Record/18858"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Colosenses contiene el himno a Cristo, imagen de Dios y primero de toda la creación (1,15-20).",
+    "Advierte contra una filosofía de la que no sabemos con certeza qué era: judía, pagana o mezclada.",
+    "Su autoría divide a la crítica: de Pablo, de Timoteo bajo su dirección o de un discípulo.",
+    "Pide vivir con compasión, perdón y amor (3,12-14).",
+    "El código doméstico pide a los esclavos obedecer y no pide acabar con la esclavitud (3,22-4,1)."
+  ]
+}

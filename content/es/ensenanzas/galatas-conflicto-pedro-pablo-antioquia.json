@@ -1,0 +1,57 @@
+{
+  "id": "galatas-conflicto-pedro-pablo-antioquia",
+  "libro_id": "galatas",
+  "orden": 3,
+  "titulo": "¿Por qué Pablo se enfrentó a Pedro en Antioquía?",
+  "pasaje": "Gál 2,11-14",
+  "que_dice": "En Antioquía, Pedro comía con creyentes no judíos. Cuando llegaron enviados de Santiago, el hermano del Señor, dejó la mesa común y los demás judíos lo imitaron, hasta Bernabé. Pablo se lo reprochó delante de todos: decía que Pedro no andaba rectamente según la verdad del Evangelio.\n\nPablo no cuenta cómo acabó la disputa. Es el único choque entre Pablo y Pedro que relata el Nuevo Testamento (Hch 15,36-40 cuenta otro, entre Pablo y Bernabé).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía recuerda que la comida compartida con no judíos planteaba problemas de pureza y de idolatría. Que Pedro, judío, siguiera guardando esas reglas no choca con la Torá, sino con la tesis de Pablo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el episodio no contradice el primado de Pedro. La tradición posterior lo vio como corrección fraterna que Pedro recibió con humildad."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino leyeron el choque como prueba de que ningún apóstol, ni Pedro, está por encima del Evangelio. Los reformadores lo citaron contra la autoridad papal."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute cómo acabó la disputa y, ya desde la Antigüedad, si el choque fue real.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Hans Dieter Betz y James Dunn",
+        "texto": "Pablo no convenció a Pedro: calla el final y no vuelve a Antioquía. Dunn (*The Incident at Antioch*, 1983) ve en Pedro un puente entre Pablo y Santiago."
+      },
+      {
+        "quien": "Jerónimo",
+        "texto": "El choque fue una escena pactada entre los dos apóstoles, para dar ejemplo, y acabó en concordia. Agustín lo rechazó: haría mentir a Pablo (Gál 1,20)."
+      }
+    ]
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Galatians (Anchor Bible 33A)",
+      "autor": "J. Louis Martyn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Incident at Antioch (Gal. 2:11-18), Journal for the Study of the New Testament 5.18 (1983)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "jeremias-llamada-de-un-profeta-reacio",
+  "libro_id": "jeremias",
+  "orden": 1,
+  "titulo": "Un muchacho dice que no sabe hablar y Dios lo hace profeta",
+  "pasaje": "Jr 1,4-19",
+  "que_dice": "Dios dice a un joven de Anatot que lo conocía antes de formarlo en el vientre y que lo ha destinado a ser profeta de las naciones (1,5). Jeremías protesta: es un muchacho y no sabe hablar (1,6). Dios no acepta la excusa. Le toca la boca y le promete sus palabras (1,7-9).\n\nLa llamada trae dos visiones. Una rama de almendro anuncia que Dios vela sobre su palabra (1,11-12). Una olla hirviendo, inclinada desde el norte, anuncia desgracia sobre el país (1,13-14). Jeremías será un muro de bronce frente a reyes, sacerdotes y pueblo (1,18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Jr 1 como la vocación de un profeta que resiste, como Moisés, que también se dijo incapaz de hablar (Éx 4,10). Jr 1,1–2,3 se lee en la sinagoga entre el 17 de Tamuz y el 9 de Av, las semanas de duelo por el Templo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Jr 1 es un modelo de vocación: Dios elige antes de que la persona pueda responder. También se cita este versículo en los debates sobre la vida antes de nacer."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica lee Jr 1 como relato de vocación, con el mismo patrón que Éx 3, Is 6 y Ez 1-3: un encuentro, una objeción y un encargo. Entiende «antes de formarte» como lenguaje de elección profética, no como tesis sobre el feto.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Jeremiah 1-20 (Anchor Bible 21A)",
+      "autor": "Jack R. Lundbom",
+      "tradicion": "critica"
+    }
+  ]
+}

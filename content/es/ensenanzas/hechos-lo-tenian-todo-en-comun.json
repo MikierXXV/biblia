@@ -1,0 +1,63 @@
+{
+  "id": "hechos-lo-tenian-todo-en-comun",
+  "libro_id": "hechos",
+  "orden": 2,
+  "titulo": "Los primeros creyentes lo ponen todo en común",
+  "pasaje": "Hch 2,42-47; 4,32-5,11",
+  "que_dice": "Jerusalén, los primeros meses. Los creyentes comen juntos, rezan en el Templo y venden sus campos. Lo recaudado se reparte según lo que cada uno necesita. Bernabé vende un terreno y deja el dinero a los pies de los apóstoles.\n\nAnanías y Safira venden también una finca, pero se guardan parte y fingen darlo todo. Pedro les reprocha la mentira, no el haberse quedado algo. Los dos caen muertos, uno tras otro.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el pasaje inspira la vida religiosa: monjes y órdenes mendicantes ponen los bienes en común. La doctrina social cita la escena para defender que los bienes tienen un destino universal, sin exigir a todos vender lo suyo."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lee la escena a través del monacato. Basilio de Cesarea, en el s. IV, organizó sus comunidades con este modelo y predicó que el pan que se guarda de más pertenece al hambriento."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Algunos grupos protestantes, como los huteritas desde el s. XVI, viven en comunidad de bienes por este pasaje. La mayoría de iglesias lo lee como generosidad voluntaria, no como un modelo económico obligatorio."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "liberacion",
+      "autor": "José Porfirio Miranda",
+      "texto": "Para José Porfirio Miranda, teólogo mexicano de la liberación, Hch 2 y 4 describen un comunismo cristiano que la Iglesia posterior suavizó. Su lectura fue muy discutida, también dentro de la teología latinoamericana."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si la escena describe una práctica real o un ideal que Lucas pinta con colores griegos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joseph A. Fitzmyer",
+        "texto": "Hubo en Jerusalén un fondo común real, y la colecta de Pablo para los pobres de Jerusalén lo hace verosímil."
+      },
+      {
+        "quien": "Richard I. Pervo y otros",
+        "texto": "Lucas idealiza: la frase de que todo era común repite el ideal griego de la amistad, que ya recogía Aristóteles."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Acts of the Apostles (Anchor Bible 31)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Acts: A Commentary (Hermeneia)",
+      "autor": "Richard I. Pervo",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Comunismo en la Biblia",
+      "autor": "José Porfirio Miranda",
+      "tradicion": "literaria"
+    }
+  ]
+}

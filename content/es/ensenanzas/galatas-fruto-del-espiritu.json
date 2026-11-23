@@ -1,0 +1,42 @@
+{
+  "id": "galatas-fruto-del-espiritu",
+  "libro_id": "galatas",
+  "orden": 4,
+  "titulo": "¿Qué es el fruto del Espíritu?",
+  "pasaje": "Gál 5,16-26",
+  "que_dice": "Pablo ha defendido la libertad frente a la ley y sabe que la palabra puede malentenderse. Opone entonces dos formas de vivir: las obras de la *carne*, como la envidia, los pleitos o la enemistad, y el fruto del Espíritu.\n\nEse fruto es amor, alegría, paz, paciencia, amabilidad, bondad, fidelidad, mansedumbre y dominio de sí (5,22-23). Pablo añade que contra tales cosas no hay ley.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía reconoce muchas de estas virtudes como la ética de la Torá, que se resume en amar al prójimo (Lv 19,18). Pablo mismo cita ese mandato como resumen de la ley en Gál 5,14."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica reconoce doce frutos del Espíritu, según la versión latina (Vulgata), y los asocia con los dones del Espíritu Santo. El Catecismo (n. 1832) los presenta como primicias de la gloria eterna."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino ven en el fruto la prueba de la fe viva, no un medio para ganarse la salvación. Las comunidades evangélicas lo usan a menudo como lista para examinar el carácter."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos advierte que Pablo habla de *fruto*, en singular: el resultado de una sola vida bajo el Espíritu. No es un catálogo de virtudes sueltas, aunque se parezca a las listas de la filosofía helenística.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Galatians (Anchor Bible 33A)",
+      "autor": "J. Louis Martyn",
+      "tradicion": "critica"
+    }
+  ]
+}

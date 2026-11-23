@@ -1,0 +1,51 @@
+{
+  "id": "lucas-el-reino-esta-entre-vosotros",
+  "libro_id": "lucas",
+  "orden": 3,
+  "titulo": "¿El reino de Dios está dentro de vosotros o entre vosotros?",
+  "pasaje": "Lc 17,20-21",
+  "que_dice": "Unos fariseos preguntan a Jesús cuándo llegará el reino de Dios. Él responde que no viene con signos que se puedan observar. No se dirá: está aquí o está allí. Y añade: el reino de Dios está *entós hymón*, una expresión griega que se traduce de dos formas.\n\nPuede significar «dentro de vosotros» o «entre vosotros». La diferencia importa: o es una realidad interior, o es algo que ya actúa en medio de ellos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La pregunta de los fariseos refleja la espera judía de un reino que llegaría con señales visibles. Los sabios tardíos discutieron si llegaría por mérito del pueblo o por decisión de Dios (Sanedrín 98a)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa, con una larga línea de padres espirituales, lee «dentro de vosotros» como la presencia de Dios en el corazón. De ahí su insistencia en la oración interior."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchos protestantes leen «entre vosotros»: el reino está presente en la persona de Jesús. Otros, sobre todo de tradición pietista, prefieren la lectura interior."
+    }
+  ],
+  "critica": {
+    "texto": "El griego admite las dos traducciones. Fitzmyer y otros comentaristas se inclinan por «en medio de vosotros», porque Jesús habla a fariseos hostiles. La discusión sigue abierta.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Fitzmyer y buena parte de los comentaristas",
+        "texto": "«Entre vosotros»: Jesús habla a fariseos a quienes difícilmente atribuiría un reino interior. El reino actúa ya en su ministerio."
+      },
+      {
+        "quien": "Una lectura minoritaria",
+        "texto": "«Dentro de vosotros»: el reino es una realidad interior, una lectura cercana a la espiritualidad cristiana de tradición mística."
+      }
+    ]
+  },
+  "temas": [
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to Luke X-XXIV (Anchor Bible 28A)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

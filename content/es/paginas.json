@@ -1,0 +1,71 @@
+{
+  "canon": {
+    "titulo": "Qué es el canon",
+    "entradilla": "El canon es la lista de libros que una tradición reconoce como Escritura. No es la misma para todas.",
+    "secciones": [
+      {
+        "titulo": "Una lista que se fue fijando",
+        "parrafos": [
+          "La palabra «canon» viene del griego *kanón*, «regla» o «medida». Ninguna tradición recibió la lista cerrada desde el principio: se fijó con el uso, con debates y, a veces, con la decisión de un concilio.",
+          "El Nuevo Testamento de 27 libros lo comparten católicos, ortodoxos y protestantes, aunque en la Antigüedad hubo dudas sobre Hebreos, Santiago, 2 Pedro, 2 y 3 Juan, Judas y Apocalipsis. Los judíos no consideran Escritura el Nuevo Testamento. La diferencia grande está en el Antiguo."
+        ]
+      },
+      {
+        "titulo": "El canon de este sitio",
+        "parrafos": [
+          "Este sitio sigue el canon católico de 73 libros, 46 del Antiguo Testamento y 27 del Nuevo. Lo hace porque es el más amplio y contiene todos los libros que reconocen las demás tradiciones, no porque lo considere el correcto: el sitio no toma partido.",
+          "Siete libros del Antiguo Testamento solo los reconocen católicos y ortodoxos: Tobías, Judit, 1 y 2 Macabeos, Sabiduría, Eclesiástico (Sirácida) y Baruc. A ellos se suman las adiciones griegas a Ester y Daniel. Aquí llevan la insignia «Deuterocanónico» o «Adiciones griegas»."
+        ]
+      },
+      {
+        "titulo": "Una cuestión de palabras",
+        "parrafos": [
+          "«Deuterocanónico» significa «de segundo canon» y es el término de la tradición católica. Las Biblias protestantes llaman «apócrifos» a esos mismos libros. En otras tradiciones esa palabra designa otros textos, y por eso el sitio solo la usa cuando atribuye el término a quien lo emplea."
+        ]
+      }
+    ],
+    "tabla": {
+      "titulo": "Qué dice cada tradición sobre los deuterocanónicos",
+      "columnas": ["Tradición", "Postura", "Notas"],
+      "filas": [
+        ["Católica", "Son canónicos. Los declaró el Concilio de Trento (1546), pero ya los admitían los concilios de Hipona y Cartago (siglo IV).", "Es el canon que ordena este sitio."],
+        ["Ortodoxa", "Son canónicos. Algunas Iglesias añaden otros: 1 Esdras, 3 Macabeos, el Salmo 151 y la Oración de Manasés.", "Los límites exactos varían entre Iglesias (griega, rusa…) y no hay una definición única."],
+        ["Judía", "No son canónicos. El canon hebreo se fijó en la práctica hacia los siglos I-II d. C.; cuándo se cerró del todo se discute.", "El Tanaj tiene 24 libros, que equivalen a los 39 del Antiguo Testamento protestante agrupados de otra forma. Ben Sira se cita en el Talmud y los Macabeos se ligan a Janucá."],
+        ["Protestante", "No son canónicos. Lutero los incluyó aparte como «útiles para leer»; los anglicanos, «para ejemplo de vida»; los reformados los rechazaron con más dureza.", "Desde el siglo XIX muchas ediciones los omiten. Hoy también hay ediciones protestantes que los incluyen aparte."]
+      ]
+    }
+  },
+  "acerca": {
+    "titulo": "Acerca de este sitio",
+    "entradilla": "Cómo está hecho, de dónde sale lo que se cuenta y qué no hace.",
+    "secciones": [
+      {
+        "titulo": "Qué es",
+        "parrafos": [
+          "Un recorrido por los 73 libros del canon católico, uno por uno. De cada libro cuenta qué enseña, cómo lo leen las distintas tradiciones y qué dice la crítica histórica. Los temas transversales, como el extranjero o el mesías, unen los libros entre sí.",
+          "Está escrito para un lector adulto y curioso, creyente o no, que no es especialista. No es catequesis ni polémica: describe quién lee qué, y no dice qué creer."
+        ]
+      },
+      {
+        "titulo": "Cómo se lee cada enseñanza",
+        "parrafos": [
+          "Cada enseñanza tiene tres capas, siempre en el mismo orden: lo que dice el texto, cómo lo leen las tradiciones que difieren en ese punto (judía, católica, ortodoxa, protestante) y lo que dice la crítica histórica. Todas se muestran con el mismo peso.",
+          "«Consenso amplio» indica que la crítica académica está de acuerdo en lo esencial. «En discusión» indica que hay al menos dos posturas serias, y entonces se dicen y se atribuyen. «Interpretación abierta» marca los textos cuyo sentido mismo se discute."
+        ]
+      },
+      {
+        "titulo": "Traducción y citas",
+        "parrafos": [
+          "En este piloto el sitio no reproduce texto bíblico: da el pasaje y lo explica con palabras propias. Las referencias siguen el formato español («Rut 1,16-17») y, en los salmos, la numeración hebrea con la griega entre paréntesis cuando difiere.",
+          "Las citas de autores son breves y van con su nombre."
+        ]
+      },
+      {
+        "titulo": "Aviso de rigor",
+        "parrafos": [
+          "Las fichas se redactan a partir de bibliografía académica y de las propias tradiciones. Cada fuente debe comprobarse antes de publicar, y este sitio es todavía un piloto: solo el libro de Rut está completo y el resto aparece como «En preparación»."
+        ]
+      }
+    ]
+  }
+}

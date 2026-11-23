@@ -1,0 +1,77 @@
+{
+  "id": "lamentaciones",
+  "seccion_id": "profetas",
+  "orden": 3,
+  "nombre": "Lamentaciones",
+  "abreviatura": "Lam",
+  "capitulos": 5,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cinco poemas de duelo por la destrucción de Jerusalén en el 587 a. C. Dan voz al dolor sin respuesta fácil.",
+  "presentacion": "Jerusalén, 587 a. C. La ciudad ha caído tras año y medio de asedio. El Templo arde, el rey ha sido cegado y deportado y los niños se desmayan de hambre en las plazas (Lam 2,11). Estos poemas, que no están firmados, nacieron entre las ruinas o poco después.\n\nLamentaciones son cinco poemas. Los cuatro primeros son acrósticos: cada estrofa empieza por una letra del alfabeto hebreo, de la primera a la última. El quinto no lo es, pero tiene 22 versos, como letras el alfabeto. Es una manera de decir el dolor entero, de la A a la Z.\n\nHablan varias voces: un narrador, la ciudad, un hombre que ha sufrido (Lam 3) y la comunidad. Reconocen la culpa del pueblo y reprochan a Dios su cólera. No ofrecen una explicación fácil.",
+  "autoria": {
+    "tradicion": "La tradición judía y la cristiana antigua lo atribuyen a Jeremías. El Talmud (Baba Batra 15a) lo dice, y la Septuaginta y la Vulgata añaden un prefacio que presenta a Jeremías llorando sobre Jerusalén.",
+    "critica": "Casi toda la crítica lo considera anónimo, y probablemente de varios autores. El texto hebreo no menciona a Jeremías.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Jeremías, lo escribió tras la caída de Jerusalén en el 587 a. C.",
+    "critica": "Se data entre el 587 y el 538 a. C., entre la destrucción de la ciudad y el regreso del exilio. Los poemas 1, 2 y 4 parecen más cercanos a los hechos.",
+    "acuerdo": "consenso",
+    "rango": [
+      -587,
+      -538
+    ],
+    "rango_tradicion": [
+      -587,
+      -580
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), como uno de los cinco rollos (megillot). Se lee con melodía de duelo la noche del 9 de Av. Su nombre hebreo, *Eijá*, «¡Cómo!», es su primera palabra.",
+    "ortodoxa": "Es canónico. En la Septuaginta, la traducción griega antigua, va después de Jeremías y Baruc.",
+    "protestante": "Es canónico y sigue a Jeremías, como en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Lam 1,1-2",
+      "nota": "El grito inicial: la ciudad, sola y viuda, llora sin consuelo."
+    },
+    {
+      "pasaje": "Lam 2,11-12",
+      "nota": "Los niños desfallecen de hambre en las plazas."
+    },
+    {
+      "pasaje": "Lam 3,22-23",
+      "nota": "La nota de esperanza en medio del dolor."
+    },
+    {
+      "pasaje": "Lam 5,19-22",
+      "nota": "El libro acaba con una pregunta a Dios."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Lamentations (Old Testament Library)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Lamentations (New Century Bible Commentary)",
+      "autor": "Iain W. Provan",
+      "tradicion": "protestante"
+    }
+  ],
+  "para_recordar": [
+    "Son cinco poemas de duelo por la caída de Jerusalén en el 587 a. C.",
+    "Cuatro son acrósticos: cada estrofa sigue una letra del alfabeto hebreo.",
+    "La tradición los atribuye a Jeremías; la crítica los ve anónimos y de varios autores.",
+    "Se leen cada 9 de Av, el día de duelo por la destrucción del Templo.",
+    "Lam 3,22-23 es la nota de esperanza en medio del dolor."
+  ]
+}

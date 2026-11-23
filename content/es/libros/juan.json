@@ -1,0 +1,78 @@
+{
+  "id": "juan",
+  "seccion_id": "nuevo-testamento",
+  "orden": 4,
+  "nombre": "Juan",
+  "abreviatura": "Jn",
+  "bloque": "evangelios",
+  "capitulos": 21,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "El evangelio más distinto: largos discursos, signos que se suelen contar como siete y la afirmación de que Jesús es la Palabra hecha carne.",
+  "presentacion": "Juan empieza con un himno: la Palabra estaba junto a Dios y se hizo carne (Jn 1,1-18). No cuenta parábolas ni exorcismos, y sus largos discursos suenan distinto a los de los otros evangelios.\n\nLa primera parte narra una serie de «signos» de Jesús, que se suelen contar como siete, como las bodas de Caná o la resurrección de Lázaro (Jn 2-12). La segunda cuenta la última cena, la pasión y la resurrección (Jn 13-21). En él Jesús dice «yo soy» varias veces: el pan de vida, la luz del mundo, el buen pastor.\n\nEl libro refleja también un conflicto con la sinagoga, y sus pasajes sobre «los judíos» se han leído a menudo de forma hostil. Hoy los comentaristas piden leerlos en ese contexto.",
+  "autoria": {
+    "tradicion": "La tradición cristiana lo atribuye a Juan, hijo de Zebedeo y discípulo de Jesús, que habría escrito en Éfeso. Se apoya en Ireneo, a finales del siglo II.",
+    "critica": "La crítica duda de esa atribución. Muchos hablan de una comunidad joánica, con un autor o una escuela, y distinguen entre el evangelista y un editor posterior que añadió el capítulo 21.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición lo escribió Juan en su vejez, hacia el final del siglo I, en Éfeso.",
+    "critica": "La mayoría de críticos lo data entre los años 90 y 110 d. C. El fragmento de papiro más antiguo (P52) indica que circulaba hacia mediados del siglo II.",
+    "acuerdo": "consenso",
+    "rango": [
+      90,
+      110
+    ],
+    "rango_tradicion": [
+      85,
+      100
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Se estudia como fuente del judaísmo del siglo I; The Jewish Annotated New Testament lo anota desde esa perspectiva.",
+    "ortodoxa": "Es canónico y ocupa el cuarto lugar entre los evangelios, como en las demás Biblias cristianas.",
+    "protestante": "Es canónico y ocupa el cuarto lugar entre los evangelios, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jn 1,1-18",
+      "nota": "El prólogo: la Palabra se hizo carne."
+    },
+    {
+      "pasaje": "Jn 3,1-8",
+      "nota": "Nicodemo y el nuevo nacimiento."
+    },
+    {
+      "pasaje": "Jn 11,1-44",
+      "nota": "La resurrección de Lázaro."
+    },
+    {
+      "pasaje": "Jn 14,15-26",
+      "nota": "La promesa del Espíritu de la verdad."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Juan es el más distinto de los sinópticos: discursos largos, signos que se suelen contar como siete y ninguna parábola.",
+    "Abre con el himno de la Palabra que se hizo carne.",
+    "Contiene los dichos «yo soy» y la promesa del Espíritu de la verdad.",
+    "La mayoría de críticos lo data hacia 90-110 d. C. y lo atribuye a una comunidad; la tradición, a Juan, hijo de Zebedeo.",
+    "Sus pasajes sobre «los judíos» se discuten: conflicto interno entre grupos judíos u hostilidad hacia el judaísmo."
+  ]
+}

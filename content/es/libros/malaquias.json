@@ -1,0 +1,73 @@
+{
+  "id": "malaquias",
+  "seccion_id": "profetas",
+  "orden": 18,
+  "nombre": "Malaquías",
+  "abreviatura": "Mal",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un debate con un pueblo escéptico: Dios reprocha un culto descuidado, matrimonios rotos y promete un mensajero. Cierra el Antiguo Testamento cristiano y anuncia a Elías.",
+  "presentacion": "Un sacerdote lleva al altar un animal ciego o cojo, porque total, ¿quién lo va a notar? Dios lo nota. El libro es una serie de disputas en las que Dios afirma algo, el pueblo replica «¿en qué?» y Dios responde (Mal 1,2-3,21).\n\nEl profeta reprocha a los sacerdotes un culto descuidado (Mal 1,6-2,9). Reprocha también a los hombres que repudian a la esposa de su juventud (Mal 2,10-16) y a quienes retienen los diezmos (Mal 3,6-12). Promete un mensajero que prepara el camino y un día en que se verá quién sirve a Dios (Mal 3,1; 3,13-21).\n\nTermina con la promesa de que Dios enviará a Elías antes del día del Señor (Mal 3,23-24). Es el último libro del Antiguo Testamento cristiano, pero no del canon hebreo, que acaba en Crónicas.",
+  "autoria": {
+    "tradicion": "Mal 1,1 presenta el libro como palabra de Dios por medio de Malaquías, que significa «mi mensajero». El targum, la traducción aramea antigua, lo identifica con Esdras el escriba.",
+    "critica": "Se discute si Malaquías es un nombre propio o un título. La Septuaginta traduce «por mano de su mensajero». Petersen lo lee como título anónimo; Glazier-McDonald, como nombre propio.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Mal 1,1 no da fecha ni rey. La tradición lo sitúa tras el Templo de Zorobabel, en el siglo V a. C., hacia la época de Esdras y Nehemías.",
+    "critica": "Casi toda la crítica lo data entre 500 y 450 a. C. Alude a un gobernador persa (Mal 1,8) y a un Templo ya reconstruido y funcionando.",
+    "acuerdo": "consenso",
+    "rango": [
+      -500,
+      -450
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo). Cierra los Profetas (Nevi'im); el canon hebreo acaba en Crónicas.",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el último de los Doce y cierra el Antiguo Testamento.",
+    "protestante": "Es canónico y, como en la Biblia católica, es el último libro del Antiguo Testamento."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Mal 1,6-14",
+      "nota": "Animales ciegos y cojos en el altar: ¿los aceptaría el gobernador?"
+    },
+    {
+      "pasaje": "Mal 2,10-16",
+      "nota": "La esposa de tu juventud y un texto difícil sobre el repudio."
+    },
+    {
+      "pasaje": "Mal 3,1",
+      "nota": "El mensajero que prepara el camino."
+    },
+    {
+      "pasaje": "Mal 3,23-24",
+      "nota": "Elías volverá antes del día del Señor."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Zechariah 9-14 and Malachi (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Malachi: The Divine Messenger",
+      "autor": "Beth Glazier-McDonald",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Malaquías (siglo V a. C.) discute con un pueblo escéptico: Dios reprocha un culto descuidado y sacerdotes infieles.",
+    "Se discute si Malaquías, «mi mensajero», es nombre propio o título.",
+    "Mal 2,16 sobre el repudio es un texto difícil y su traducción está discutida.",
+    "Mal 3,23-24 anuncia a Elías antes del día del Señor; el Nuevo Testamento lo vincula con Juan Bautista.",
+    "Cierra el Antiguo Testamento cristiano; el canon hebreo acaba en Crónicas."
+  ]
+}

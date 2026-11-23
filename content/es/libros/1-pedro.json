@@ -1,0 +1,88 @@
+{
+  "id": "1-pedro",
+  "seccion_id": "nuevo-testamento",
+  "orden": 21,
+  "nombre": "1 Pedro",
+  "abreviatura": "1 Pe",
+  "bloque": "cartas-catolicas",
+  "capitulos": 5,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Anima a comunidades que sufren hostilidad. Los creyentes aparecen como «extranjeros y peregrinos».",
+  "presentacion": "Unos creyentes de Asia Menor, la actual Turquía, son calumniados por sus vecinos. Los acusan de ser malos ciudadanos y raros en sus costumbres. La carta les escribe para decirles cómo vivir bajo esa presión (1 Pe 4,4; 4,12-16).\n\nSe presenta como obra de Pedro y está escrita «desde Babilonia», nombre que se dio a Roma tras el 70 (5,13). Su tema es la esperanza: los lectores son extranjeros en su sociedad, pero pueblo de Dios. De ahí pasa a consejos sobre la vida cotidiana, entre ellos los códigos para esclavos y mujeres de 2,18-3,7.\n\nEs una de las cartas más citadas en la liturgia y en la espiritualidad de la resistencia pacífica.",
+  "autoria": {
+    "tradicion": "La tradición la atribuye al apóstol Pedro, que escribiría desde Roma, la «Babilonia» de 5,13, antes del año 64.",
+    "critica": "La crítica está dividida. Karen Jobes la cree de Pedro, lee «por medio de Silvano» (5,12) como portador y no redactor, y defiende un griego de hablante semita; Selwyn veía en Silvano al secretario. John Elliott la cree pseudónima, obra de un círculo petrino de Roma.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Si es de Pedro, es anterior a su muerte, que la tradición sitúa en Roma hacia el año 64.",
+    "critica": "La fecha depende de la autoría: de los años 60 a mediados de los 90.",
+    "acuerdo": "discusion",
+    "rango": [
+      60,
+      95
+    ],
+    "rango_tradicion": [
+      60,
+      64
+    ],
+    "posturas": [
+      {
+        "quien": "Karen Jobes",
+        "texto": "Es de Pedro, escrita en los años 60, antes de la persecución de Nerón."
+      },
+      {
+        "quien": "John H. Elliott",
+        "texto": "Es pseudónima y fue escrita en Roma entre los años 73 y 92, en nombre de Pedro ya muerto."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica y se cuenta entre las siete cartas católicas.",
+    "protestante": "Es canónica. Fue aceptada desde muy pronto, sin las dudas que hubo con otras cartas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Pe 1,3-9",
+      "nota": "Una esperanza viva que se mantiene en medio del sufrimiento."
+    },
+    {
+      "pasaje": "1 Pe 2,9-10",
+      "nota": "Los creyentes como linaje elegido y sacerdocio real."
+    },
+    {
+      "pasaje": "1 Pe 2,18-3,7",
+      "nota": "Los códigos para esclavos y mujeres, texto incómodo y muy discutido."
+    },
+    {
+      "pasaje": "1 Pe 3,13-17",
+      "nota": "Responder al mal con el bien y dar razón de la esperanza."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Peter (Anchor Yale Bible 37B)",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "1 Peter (Baker Exegetical Commentary on the New Testament)",
+      "autor": "Karen H. Jobes",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "A Home for the Homeless",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "1 Pedro anima a comunidades que sufren calumnia y hostilidad en Asia Menor.",
+    "Llama a sus lectores extranjeros y peregrinos, y a la vez pueblo escogido.",
+    "Sus códigos para esclavos y mujeres son textos incómodos, leídos hoy de formas opuestas.",
+    "La carta propone responder al mal con el bien y dar razón de la esperanza.",
+    "La crítica discute si es de Pedro o pseudónima."
+  ]
+}

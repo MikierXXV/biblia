@@ -1,0 +1,54 @@
+{
+  "id": "2-samuel-rispa-vela-a-los-hijos-de-saul",
+  "libro_id": "2-samuel",
+  "orden": 5,
+  "titulo": "Siete descendientes de Saúl mueren y Rispá vela sus cuerpos",
+  "pasaje": "2 Sm 21,1-14",
+  "que_dice": "Tres años de hambre asolan el reino. David consulta a Dios, que explica: Saúl mató a gibeonitas, con quienes Israel tenía un pacto (21,1). Los gibeonitas piden siete descendientes de Saúl, y David se los entrega, menos a Mefibóset (21,6-7).\n\nLos siete son ejecutados y expuestos en un monte. Rispá, concubina de Saúl y madre de dos de ellos, extiende un saco sobre una roca. Vigila los cuerpos desde la cosecha hasta las lluvias, para que no los toquen aves ni fieras. Al saberlo, David entierra los huesos (21,8-14).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el texto subraya el gesto de Rispá, que vela a sus muertos, hasta que David lo conoce y reacciona. Ninguna tradición propone la ejecución como modelo."
+    }
+  ],
+  "critica": {
+    "texto": "El texto no cuenta cómo mató Saúl a los gibeonitas. La crítica discute el sentido de las ejecuciones.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "P. Kyle McCarter",
+        "texto": "Es un rito de expiación por una violación del pacto con los gibeonitas (Jos 9), que pudo ser real."
+      },
+      {
+        "quien": "Baruch Halpern",
+        "texto": "David aprovecha el hambre para eliminar a los herederos de Saúl, una acusación que Simeí repite en 16,7-8."
+      },
+      {
+        "quien": "Robert Alter",
+        "texto": "El relato deja abierta la cuestión: David actúa por motivos políticos y religiosos a la vez, y el texto calla qué pensaba."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "poder-monarquia-y-critica-politica",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Samuel (Anchor Bible 9)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "David's Secret Demons",
+      "autor": "Baruch Halpern",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

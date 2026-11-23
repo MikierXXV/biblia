@@ -1,0 +1,45 @@
+{
+  "id": "juan-nacer-de-nuevo-y-del-espiritu",
+  "libro_id": "juan",
+  "orden": 2,
+  "titulo": "Nicodemo oye que hay que nacer de nuevo, del agua y del Espíritu",
+  "pasaje": "Jn 3,1-8",
+  "que_dice": "Nicodemo, un fariseo, visita de noche a Jesús. Jesús le dice que nadie puede ver el reino de Dios si no nace de nuevo. Nicodemo no entiende: ¿cómo puede nacer un anciano?\n\nJesús responde que hay que nacer del agua y del Espíritu. El viento sopla donde quiere, y así es todo el que nace del Espíritu. La palabra griega *anóthen* (de nuevo, de arriba) admite los dos sentidos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, Nicodemo es un maestro de Israel que se acerca con respeto. El Espíritu de Dios que da vida es un tema de Ezequiel (Ez 36,25-27), que une agua y Espíritu."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, «agua y Espíritu» alude al bautismo. El Catecismo cita este texto para afirmar que el bautismo es necesario para la salvación (n.º 1257)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa ve en este pasaje el fundamento del bautismo y de la crismación, que se administran juntos y dan el Espíritu Santo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchos protestantes leen el «nuevo nacimiento» como la conversión personal, obra del Espíritu. De esa lectura viene la expresión cristianos nacidos de nuevo, muy usada en el mundo evangélico. Otras tradiciones reformadas lo vinculan también al bautismo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en la conversación con Nicodemo una composición del evangelista. Hay acuerdo en su patrón joánico: una frase de Jesús, un malentendido y una aclaración.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1-cronicas-promesa-a-david",
+  "libro_id": "1-cronicas",
+  "orden": 4,
+  "titulo": "La promesa a David pasa de «tu casa» a «mi casa»",
+  "pasaje": "1 Cr 17,1-27",
+  "que_dice": "David quiere construir un templo y el profeta Natán le responde con una promesa: Dios le edificará a él una casa, es decir, una dinastía. Un hijo suyo reinará y Dios será para él un padre (1 Cr 17,10-14).\n\nEl Cronista cuenta lo mismo que 2 Sm 7, con un cambio. Donde Samuel dice que el trono quedará firme en la casa de David, Crónicas dice que Dios colocará al hijo en su casa y en su reino (17,14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en esta promesa la base de la esperanza en un descendiente de David que restaure la dinastía. La forma de esa esperanza varía mucho entre corrientes."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en general la cristiana, el hijo de David de esta promesa se cumple en Jesús (Lc 1,32-33). Heb 1,5 cita la promesa de que Dios será padre del hijo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué significa el cambio de 1 Cr 17,14 para la esperanza en la dinastía de David.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Sara Japhet",
+        "texto": "Lee el cambio como un desplazamiento: lo que permanece es el reino de Dios, y la dinastía queda en segundo plano tras el exilio."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Ve en el libro una esperanza viva en un rey de la casa de David, y en el cambio un modo de subrayar que ese reino es de Dios."
+      }
+    ]
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

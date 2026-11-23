@@ -1,0 +1,61 @@
+{
+  "id": "2-samuel-tamar-y-absalon-la-casa-se-desangra",
+  "libro_id": "2-samuel",
+  "orden": 4,
+  "titulo": "La violencia entra en la casa de David: Tamar, Amnón y Absalón",
+  "pasaje": "2 Sm 13-18",
+  "que_dice": "Amnón, hijo de David, se obsesiona con su media hermana Tamar. Con un engaño la lleva a su cuarto y la viola. Después la odia y la echa. Tamar se rasga el vestido, se echa ceniza en la cabeza y vive aislada en casa de su hermano Absalón (13,1-20).\n\nDavid se enfurece y no hace nada. Dos años después, Absalón mata a Amnón (13,28-29). Luego se rebela contra su padre y lo obliga a huir de Jerusalén. Muere en la batalla, colgado de una encina (15-18).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: estos capítulos cumplen la sentencia de Natán, según la cual la espada no se apartaría de la casa de David (12,10-11)."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible dedica un capítulo de Texts of Terror a Tamar: «La violación real de la sabiduría». Para Trible, Tamar es una mujer sabia reducida al silencio."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute para qué se cuenta esta historia y de qué fuente antigua procede.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Leonhard Rost",
+        "texto": "Los capítulos 9-20, con 1 Re 1-2, forman una «historia de la sucesión» que explica cómo Salomón llegó al trono."
+      },
+      {
+        "quien": "P. Kyle McCarter",
+        "texto": "Es una apología: defiende a David y a Salomón de quienes los acusaban de haber tomado el trono por la fuerza."
+      },
+      {
+        "quien": "Robert Alter",
+        "texto": "No es propaganda: muestra a David con sus faltas, y su fuerza literaria nace de esa ambigüedad."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "mujeres-y-liderazgo",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Texts of Terror",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "II Samuel (Anchor Bible 9)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    }
+  ]
+}

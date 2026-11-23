@@ -1,0 +1,48 @@
+{
+  "id": "ester-purim-y-la-violencia-del-capitulo-9",
+  "libro_id": "ester",
+  "orden": 4,
+  "titulo": "Purim recuerda un rescate y manda regalar a los pobres",
+  "pasaje": "Est 9,1-32",
+  "que_dice": "Tras la caída de Amán, los judíos se defienden en todo el imperio y matan a miles de enemigos (Est 9,1-19). Después Mardoqueo escribe una carta: los días 14 y 15 del mes de Adar serán fiesta, con banquete, envío de comidas a los vecinos y regalos a los pobres (9,20-22).\n\nEs una fiesta que nace de un relato y no de la ley de Moisés. Aún hoy se lee el rollo de Ester, y los niños hacen ruido al oír el nombre de Amán.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía celebra Purim con cuatro obligaciones: leer el rollo, hacer un banquete, enviar porciones y dar a los pobres. El Talmud (Meguilá 7a) cuenta que Ester pidió a los sabios que su libro entrase en las Escrituras."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En una de sus Charlas de sobremesa, Lutero dijo que Ester y 2 Macabeos le parecían demasiado judaizantes. Un reparo semejante aparece en su obra De servo arbitrio (1525). Otras lecturas protestantes la ven como libro de la providencia."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo leer la matanza del capítulo 9, de unos 75.000 muertos según el texto (9,16).",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Es una fantasía literaria de revancha, sin base histórica: el libro exagera a propósito para invertir la suerte del pueblo."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Es defensa legítima: el edicto de Amán autorizó atacar a los judíos y el segundo edicto les permite defenderse (8,11)."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Character and Ideology in the Book of Esther",
+      "autor": "Michael V. Fox",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

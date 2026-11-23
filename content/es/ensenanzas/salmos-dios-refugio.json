@@ -1,0 +1,38 @@
+{
+  "id": "salmos-dios-refugio",
+  "libro_id": "salmos",
+  "orden": 3,
+  "titulo": "El orante llama refugio a Dios cuando todo se tambalea",
+  "pasaje": "Sal 23 (22); 46 (45); 91 (90)",
+  "que_dice": "En el Sal 23 (22), un pastor lleva a sus ovejas por una cañada oscura y no teme, porque va con ellas. En el 46 (45), otro orante ve temblar los montes y el mar, y llama a Dios su fortaleza. En el 91 (90), un tercero se siente a salvo bajo las alas de Dios.\n\nSon tres imágenes de seguridad: el pastor, la ciudad fortificada y el ave que cubre a sus crías. No prometen que no haya peligro. Prometen compañía dentro de él.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La liturgia judía canta el Sal 23 en la tercera comida del sábado y recita el 91 al terminar el sábado."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero se inspiró en el Sal 46 (45) para su himno «Ein feste Burg», una fortaleza es nuestro Dios, que se convirtió en el canto de la Reforma."
+    }
+  ],
+  "critica": {
+    "texto": "La imagen del rey como pastor es común en el Próximo Oriente antiguo, y reyes de Mesopotamia y de Egipto la aplican a sí mismos. En el Sal 23, ese lugar lo ocupa Dios.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Psalms (Interpretation)",
+      "autor": "James Luther Mays",
+      "tradicion": "protestante"
+    }
+  ]
+}

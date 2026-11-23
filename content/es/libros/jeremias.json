@@ -1,0 +1,91 @@
+{
+  "id": "jeremias",
+  "seccion_id": "profetas",
+  "orden": 2,
+  "nombre": "Jeremías",
+  "abreviatura": "Jr",
+  "capitulos": 52,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Sigue al profeta que anunció la caída de Jerusalén y vivió su hundimiento. Anuncia también una «nueva alianza».",
+  "presentacion": "Año 587 a. C. El ejército de Nabucodonosor cerca Jerusalén y Jeremías, preso en el patio de la guardia, compra un campo de su familia en Anatot (Jr 32). Es un gesto absurdo y una promesa: algún día se volverán a comprar campos en esta tierra.\n\nEl libro sigue a un profeta que anunció la caída de Jerusalén durante unos cuarenta años y la vivió. Mezcla poemas, sermones y relatos en prosa sobre su vida. Incluye las «confesiones», sus quejas ante Dios (Jr 11-20), y la promesa de una nueva alianza (Jr 31,31-34).\n\nSe conserva en dos formas. El texto hebreo tradicional (masorético) es más largo. La traducción griega antigua es una octava parte más breve y ordena distinto los oráculos contra las naciones.",
+  "autoria": {
+    "tradicion": "La tradición atribuye el libro a Jeremías, con ayuda de su secretario Baruc (Jr 36). El Talmud (Baba Batra 15a) dice que Jeremías escribió su libro, Reyes y Lamentaciones.",
+    "critica": "La crítica admite que los poemas proceden en buena parte de Jeremías. Se discute cuánto de la prosa es suyo y cuánto de editores posteriores, entre ellos los deuteronomistas. Bright y Lundbom la acercan al profeta o a Baruc; Carroll y McKane la ven sobre todo como obra de editores.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Jeremías empezó a profetizar en el año 13 del rey Josías (627 a. C.) y siguió después de la caída de Jerusalén en el 587 a. C. (Jr 1,2-3).",
+    "critica": "Se admite su actividad entre el 627 y hacia el 580 a. C. La redacción final es posterior y se discute por la existencia de dos formas del texto.",
+    "acuerdo": "discusion",
+    "rango": [
+      -627,
+      -400
+    ],
+    "rango_tradicion": [
+      -627,
+      -580
+    ],
+    "posturas": [
+      {
+        "quien": "Emanuel Tov y otros",
+        "texto": "La forma griega, más breve, refleja una edición hebrea anterior. El texto masorético es una edición ampliada. Manuscritos de Qumrán (4QJer-b y 4QJer-d) apoyan esa forma breve."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "La forma hebrea larga es la original y el traductor griego, o su modelo, abrevió el texto. Otros manuscritos de Qumrán (4QJer-a, 4QJer-c) coinciden con la forma larga."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Profetas posteriores (Nevi'im), el segundo de los tres libros proféticos mayores. Sigue la forma hebrea masorética.",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, da la forma breve y coloca los oráculos contra las naciones en medio del libro.",
+    "protestante": "Es canónico y sigue la forma hebrea, como la Biblia católica actual."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jr 1,4-10",
+      "nota": "La vocación de un joven que dice no saber hablar."
+    },
+    {
+      "pasaje": "Jr 7,1-15",
+      "nota": "El sermón a las puertas del Templo."
+    },
+    {
+      "pasaje": "Jr 20,7-9",
+      "nota": "La queja más dura de las «confesiones»."
+    },
+    {
+      "pasaje": "Jr 29,1-14",
+      "nota": "La carta a los desterrados en Babilonia."
+    },
+    {
+      "pasaje": "Jr 31,31-34",
+      "nota": "La promesa de una alianza nueva."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "A Commentary on Jeremiah: Exile and Homecoming",
+      "autor": "Walter Brueggemann",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Textual Criticism of the Hebrew Bible (3.ª ed.)",
+      "autor": "Emanuel Tov",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Jeremías profetizó unos cuarenta años y vio caer Jerusalén en el 587 a. C.",
+    "Sus «confesiones» (Jr 11-20) son quejas personales ante Dios.",
+    "Jr 31,31-34 anuncia una «alianza nueva»; judíos y cristianos la leen distinto.",
+    "El libro existe en dos formas: la hebrea y una griega más breve en un octavo.",
+    "La carta de Jr 29 pide a los desterrados que construyan su vida en Babilonia."
+  ]
+}

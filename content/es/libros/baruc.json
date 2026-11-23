@@ -1,0 +1,77 @@
+{
+  "id": "baruc",
+  "seccion_id": "profetas",
+  "orden": 4,
+  "nombre": "Baruc",
+  "abreviatura": "Bar",
+  "capitulos": 6,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Reúne oraciones y poemas del exilio en Babilonia, con una carta atribuida a Jeremías. Solo lo incluyen las Biblias católicas y ortodoxas.",
+  "presentacion": "Así se presenta el libro: Babilonia, cinco años después de la caída de Jerusalén. Baruc, el secretario de Jeremías, lee un libro ante el rey Joaquín y los desterrados. Ellos lloran, ayunan, rezan y juntan dinero para mandarlo a Jerusalén, al sumo sacerdote (Bar 1,1-10).\n\nAsí empieza un libro de seis capítulos con cuatro bloques. Hay una oración de confesión (1,15–3,8) y un poema que identifica la sabiduría con la ley de Moisés (3,9–4,4). Sigue otro de consuelo para Jerusalén (4,5–5,9). Cierra la Carta de Jeremías contra los ídolos (6).\n\nBaruc es deuterocanónico: lo incluyen las Biblias católicas y ortodoxas, no las judías ni las protestantes. La Carta de Jeremías es el capítulo 6 en muchas ediciones católicas, y libro aparte en otras.",
+  "autoria": {
+    "tradicion": "El libro se presenta como obra de Baruc, secretario de Jeremías (Jr 36; Bar 1,1).",
+    "critica": "Casi toda la crítica lo considera una obra compuesta y anónima, de varios autores y épocas. El nombre de Baruc procede del marco narrativo, no del contenido.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Si es obra de Baruc, es de los años posteriores a la caída de Jerusalén (587 a. C.), en el exilio.",
+    "critica": "Casi toda la crítica sitúa la composición entre los siglos II y I a. C., aunque algunas partes podrían ser anteriores.",
+    "acuerdo": "consenso",
+    "rango": [
+      -200,
+      -50
+    ],
+    "rango_tradicion": [
+      -587,
+      -570
+    ]
+  },
+  "canon": {
+    "judia": "No está en el canon judío ni se conserva un texto hebreo. Solo se conoce en griego y en las versiones que dependen de él.",
+    "ortodoxa": "Es canónico. En las ediciones griegas, la Carta de Jeremías figura como libro aparte, después de Baruc.",
+    "protestante": "No está en el canon. Las Biblias protestantes tradicionales lo llaman «apócrifo». Algunas ediciones antiguas, como la de Lutero de 1534, lo incluyeron en una sección aparte."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Bar 1,1-14",
+      "nota": "El marco: Baruc lee su libro a los desterrados en Babilonia."
+    },
+    {
+      "pasaje": "Bar 3,9–4,4",
+      "nota": "La sabiduría se identifica con la ley de Moisés."
+    },
+    {
+      "pasaje": "Bar 5,1-9",
+      "nota": "Jerusalén recibe a sus hijos de vuelta del destierro."
+    },
+    {
+      "pasaje": "Bar 6,1-7",
+      "nota": "Comienzo de la Carta de Jeremías, una sátira de los ídolos."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Introducing the Apocrypha (2.ª ed.)",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Literature Between the Bible and the Mishnah (2.ª ed.)",
+      "autor": "George W. E. Nickelsburg",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Septuagint Translation of Jeremiah and Baruch",
+      "autor": "Emanuel Tov",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Baruc es deuterocanónico: está en las Biblias católicas y ortodoxas, no en las judías ni protestantes.",
+    "Se presenta como obra del secretario de Jeremías, pero la crítica lo data entre los siglos II y I a. C.",
+    "Bar 3,9–4,4 identifica la sabiduría con la ley de Moisés.",
+    "Bar 4,5–5,9 es un poema de consuelo en el que Jerusalén recibe a sus hijos desterrados.",
+    "La Carta de Jeremías (Bar 6) es una sátira contra los ídolos de Babilonia."
+  ]
+}

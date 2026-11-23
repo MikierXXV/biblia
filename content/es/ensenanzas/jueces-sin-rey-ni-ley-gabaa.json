@@ -1,0 +1,56 @@
+{
+  "id": "jueces-sin-rey-ni-ley-gabaa",
+  "libro_id": "jueces",
+  "orden": 5,
+  "titulo": "Sin rey ni ley: la violación de Gabaá y la guerra entre tribus",
+  "pasaje": "Jue 19-21",
+  "que_dice": "Un levita y su concubina pasan la noche en Gabaá, ciudad de Benjamín. Los hombres del lugar quieren abusar del levita. El anfitrión ofrece a su hija y el levita entrega a su concubina: la violan toda la noche y muere (19,22-26). Él corta el cuerpo en doce partes y las envía a las tribus (19,29).\n\nLas tribus atacan a Benjamín y casi la exterminan (cap. 20). Para darle mujeres, raptan a las de Yabés de Galaad y de Siló (21,8-23). El libro cierra con una frase: en aquellos días no había rey y cada uno hacía lo que le parecía bien (21,25).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el relato retrata la degradación moral de Israel tras la muerte de Josué. Ninguna lo propone como ejemplo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible dedica un capítulo de Texts of Terror a esta concubina sin nombre: «el exceso de la violencia». Su lectura pide que el lector no pase de largo ante ella."
+    }
+  ],
+  "critica": {
+    "texto": "Los capítulos 17-21 repiten «no había rey», y la crítica discute qué defiende esa frase.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Marc Brettler",
+        "texto": "Es propaganda a favor de David: Gabaá es la ciudad de Saúl (1 Sm 10,26), y el relato desacredita a su tribu."
+      },
+      {
+        "quien": "Uwe Becker",
+        "texto": "Defiende la monarquía en general: sin un rey que imponga la ley, la sociedad se hunde en la violencia."
+      },
+      {
+        "quien": "W. J. Dumbrell",
+        "texto": "Lee el final como una crítica de todo Israel, no solo de la falta de rey."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "poder-monarquia-y-critica-politica",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Texts of Terror",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Book of Judges: Literature as Politics",
+      "autor": "Marc Z. Brettler",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "1-timoteo",
+  "seccion_id": "nuevo-testamento",
+  "orden": 15,
+  "nombre": "1 Timoteo",
+  "abreviatura": "1 Tim",
+  "bloque": "cartas-paulinas",
+  "capitulos": 6,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Instrucciones sobre el gobierno y la vida de la comunidad, dirigidas a un colaborador de Pablo. Es una de las cartas pastorales; la mayoría de críticos duda de que sea de Pablo.",
+  "presentacion": "La carta se presenta como escrita por Pablo a Timoteo, su colaborador, que está al frente de la comunidad de Éfeso (1 Tim 1,3). Se la llama pastoral, junto con 2 Timoteo y Tito, porque trata del gobierno y de la vida de las comunidades.\n\nTrata de cuatro asuntos. Uno es la doctrina sana frente a quienes enseñan otra cosa (1,3-11; 6,3-5). Otros son la oración y el orden de la asamblea (2), los requisitos de obispos y diáconos (3) y la conducta de viudas, ancianos, ricos y esclavos (5-6).\n\nSu autoría se discute. La mayoría de críticos cree que la escribió otra persona, una o dos generaciones después, en nombre de Pablo; otros la defienden como de Pablo. Contiene pasajes muy debatidos hoy, sobre todo el de las mujeres (2,11-15).",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que se nombra como autor (1 Tim 1,1) y escribe a su colaborador Timoteo. Para esa tradición, la habría escrito tras salir de su primer cautiverio en Roma.",
+    "critica": "La mayoría de críticos la considera pseudónima (escrita en nombre de Pablo por otra persona): así Raymond Brown, por su vocabulario y su organización eclesial. La defienden como de Pablo, o escrita con ayuda de un secretario, Philip Towner, George Knight, William Mounce y Luke Timothy Johnson.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió hacia el 62-64 d. C., después de su primer cautiverio romano.",
+    "critica": "La mayoría de críticos la data entre los años 90 y 120 d. C., una o dos generaciones después de la muerte de Pablo. Quienes lo defienden como autor la sitúan en los años 60 d. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      90,
+      120
+    ],
+    "rango_tradicion": [
+      62,
+      64
+    ],
+    "posturas": [
+      {
+        "quien": "Raymond Brown",
+        "texto": "La escribió alguien de la generación posterior a Pablo, hacia finales del siglo I o principios del II, para comunidades de Asia Menor."
+      },
+      {
+        "quien": "Philip Towner y William Mounce",
+        "texto": "La escribió Pablo en los años 60 d. C., tras su primer cautiverio romano, y Mounce admite la ayuda de un secretario."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen las cartas pastorales como testimonio de la organización de las primeras comunidades cristianas; The Jewish Annotated New Testament las comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Tim 2,1-4",
+      "nota": "La oración por todos, también por las autoridades."
+    },
+    {
+      "pasaje": "1 Tim 2,11-15",
+      "nota": "El texto sobre las mujeres y la enseñanza, muy discutido."
+    },
+    {
+      "pasaje": "1 Tim 3,1-13",
+      "nota": "Requisitos de obispos y diáconos."
+    },
+    {
+      "pasaje": "1 Tim 6,6-10",
+      "nota": "El contentarse con lo necesario y el amor al dinero."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    }
+  ],
+  "para_recordar": [
+    "La carta da instrucciones a Timoteo sobre el gobierno y la vida de una comunidad.",
+    "La mayoría de críticos la ve pseudónima y tardía; otros la defienden como de Pablo.",
+    "Pide orar por todos los hombres, incluidas las autoridades (1 Tim 2,1-4).",
+    "El pasaje sobre las mujeres (2,11-15) se lee hoy de modos enfrentados.",
+    "Advierte de que el amor al dinero es raíz de muchos males (6,10)."
+  ]
+}

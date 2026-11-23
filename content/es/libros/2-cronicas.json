@@ -1,0 +1,72 @@
+{
+  "id": "2-cronicas",
+  "seccion_id": "historicos",
+  "orden": 9,
+  "nombre": "2 Crónicas",
+  "abreviatura": "2 Cr",
+  "capitulos": 36,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta los reyes de Judá desde Salomón hasta el edicto de Ciro. Pone el Templo y el culto en el centro del relato.",
+  "presentacion": "Salomón construye el Templo en Jerusalén y lo dedica con una gran oración (2 Cr 6-7). El resto del libro sigue a los reyes de Judá, y casi solo a ellos. Los reyes del reino del norte apenas aparecen, y como adversarios.\n\nEl Cronista mide a cada rey por su fidelidad al Templo. Quien busca a Dios prospera y quien lo abandona cae. Ezequías y Josías celebran Pascuas multitudinarias (2 Cr 30; 35).\n\nEl libro termina en el 538 a. C. con el edicto de Ciro, que permite volver del exilio y reconstruir el Templo (2 Cr 36,22-23). La última frase queda abierta: invita a subir a Jerusalén.",
+  "autoria": {
+    "tradicion": "Como 1 Crónicas, el Talmud (Baba Batra 15a) lo vincula con Esdras.",
+    "critica": "Como 1 Crónicas, es obra del Cronista, un autor anónimo. La crítica discute si lo es también de Esdras y Nehemías: los versos casi iguales de 2 Cr 36,22-23 y Esd 1,1-3 alimentan el debate.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Si el autor es Esdras, el libro sería del siglo V a. C.",
+    "critica": "La mayoría de los críticos lo sitúa en el siglo IV a. C., a fines del dominio persa o al comienzo del helenístico.",
+    "acuerdo": "consenso",
+    "rango": [
+      -400,
+      -300
+    ],
+    "rango_tradicion": [
+      -450,
+      -400
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos y es la segunda mitad de un solo libro, Crónicas. Con él termina la Biblia hebrea.",
+    "ortodoxa": "Es canónico. En la Biblia griega figura como Paralipómenos II, tras 1 Paralipómenos.",
+    "protestante": "Es canónico y sigue a 1 Crónicas, entre los libros históricos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Cr 6,12-42",
+      "nota": "La oración de Salomón al dedicar el Templo."
+    },
+    {
+      "pasaje": "2 Cr 7,14",
+      "nota": "Si el pueblo se humilla, reza y busca a Dios, él lo escucha."
+    },
+    {
+      "pasaje": "2 Cr 33,10-20",
+      "nota": "Manasés, el peor rey de Reyes, se arrepiente y vuelve a Jerusalén."
+    },
+    {
+      "pasaje": "2 Cr 36,22-23",
+      "nota": "El edicto de Ciro, con el que termina la Biblia hebrea."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Pone el Templo y el culto en el centro de la historia de Judá.",
+    "Cada rey se juzga por su fidelidad: buscar a Dios trae prosperidad; abandonarlo, ruina.",
+    "Manasés, malvado en Reyes, se arrepiente en Crónicas: Dios responde a cada generación.",
+    "Termina con el edicto de Ciro, una invitación a volver del exilio.",
+    "En la Biblia hebrea es el último libro; Torres Amat lo llama Paralipómenos II."
+  ]
+}

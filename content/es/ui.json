@@ -1,0 +1,212 @@
+{
+  "sitio": {
+    "titulo": "Biblia, libro a libro",
+    "entradilla": "Los 73 libros de la Biblia: qué enseñan, cómo los leen las tradiciones y qué dice la crítica histórica.",
+    "titular": "Biblia, libro a libro",
+    "tema_claro": "Tema claro",
+    "tema_oscuro": "Tema oscuro"
+  },
+  "ui": {
+    "tema": "Cambiar tema",
+    "migas": "Dónde estás",
+    "principal": "Navegación principal"
+  },
+  "nav": {
+    "temas": "Temas",
+    "canon": "Canon",
+    "acerca": "Acerca de"
+  },
+  "portada": {
+    "mapa_titulo": "El mapa del canon",
+    "mapa_intro": "Cada bloque es un libro; su anchura sigue el número de capítulos y su color, la sección.",
+    "mapa_canon": "Qué libros entran en cada Biblia",
+    "libros_titulo": "Los 73 libros"
+  },
+  "seccion": {
+    "cuenta": "{libros} libros, {completos} con la ficha completa."
+  },
+  "catalogo": {
+    "buscar": "Buscar un libro, un tema o una enseñanza",
+    "buscar_en": "Buscar en esta lista",
+    "resultados": "{n} libros",
+    "libros": "{n} libros",
+    "capitulos": "{n} capítulos",
+    "sin_resultados": "Nada coincide con esos filtros.",
+    "campo": {
+      "seccion": "Sección",
+      "testamento": "Testamento",
+      "deuterocanonico": "Deuterocanónicos",
+      "tema": "Tema",
+      "estado": "Estado de la ficha"
+    },
+    "testamento": {
+      "AT": "Antiguo Testamento",
+      "NT": "Nuevo Testamento"
+    },
+    "deuterocanonico": {
+      "si": "Solo deuterocanónicos"
+    },
+    "estado": {
+      "completo": "Ficha completa",
+      "esbozo": "En preparación"
+    },
+    "limpiar": "Limpiar filtros",
+    "saltar": "Saltar a los libros",
+    "filtros": "Filtros",
+    "filtrar": "Filtrar",
+    "cerrar": "Cerrar",
+    "ver_resultados": "Ver {n} libros",
+    "quitar": "Quitar el filtro {valor}"
+  },
+  "ficha": {
+    "volver": "Volver a la portada",
+    "abreviatura": "Abreviatura: {abrev}",
+    "presentacion": "Presentación",
+    "autoria_datacion": "Autoría y datación",
+    "autoria": "Autoría",
+    "datacion": "Datación",
+    "segun_tradicion": "Según la tradición",
+    "segun_critica": "Según la crítica histórica",
+    "ensenanzas": "Enseñanzas",
+    "ensenanzas_intro": "Cada enseñanza se lee en capas del mismo peso: qué dice el texto, cómo lo leen las tradiciones, qué dicen las lecturas académicas y qué dice la crítica histórica.",
+    "en_esta_pagina": "En esta página",
+    "quien_cuando": "Quién y cuándo",
+    "para_recordar": "Para recordar",
+    "en_discusion": "En discusión",
+    "fuentes_n": "Fuentes · {n}",
+    "capa": "Capa {n}",
+    "enfoque": {
+      "literaria": "Lectura literaria",
+      "feminista": "Lectura feminista",
+      "liberacion": "Lectura de la liberación",
+      "judaismo-academico": "Judaísmo académico",
+      "otra": "Lectura académica"
+    },
+    "ensenanza_n": "Enseñanza {n}",
+    "capa1": "Qué dice el texto",
+    "capa2": "Cómo lo leen las tradiciones",
+    "capa3": "Lecturas académicas",
+    "capa4": "Qué dice la crítica histórica",
+    "lectura": {
+      "judia": "Lectura judía",
+      "catolica": "Lectura católica",
+      "ortodoxa": "Lectura ortodoxa",
+      "protestante": "Lectura protestante",
+      "comun": "Lectura común"
+    },
+    "abierta_aviso": "Las tradiciones no coinciden sobre cómo se lee este pasaje; aquí se exponen sin resolver el desacuerdo.",
+    "temas": "Temas de esta enseñanza",
+    "fuentes": "Fuentes",
+    "fuentes_ensenanza": "Fuentes de esta enseñanza",
+    "fuente_tradicion": {
+      "judia": "tradición judía",
+      "catolica": "tradición católica",
+      "ortodoxa": "tradición ortodoxa",
+      "protestante": "tradición protestante",
+      "critica": "crítica histórica",
+      "literaria": "estudio literario"
+    },
+    "pasajes": "Pasajes clave",
+    "biblias": {
+      "titulo": "En qué Biblias está",
+      "canonico": "Canónico.",
+      "deuterocanonico": "Es un libro deuterocanónico.",
+      "adiciones": "Incluye adiciones griegas: {pasajes}."
+    },
+    "en_preparacion": "En preparación. De este libro todavía solo está su nombre y su resumen.",
+    "reel": "Vídeo",
+    "reel_fuentes": "Fuentes:",
+    "reel_transcripcion": "Transcripción del vídeo",
+    "vecinos": "Libros contiguos en el canon",
+    "prev": "Anterior",
+    "next": "Siguiente"
+  },
+  "temas": {
+    "titulo": "Temas",
+    "entradilla": "Los temas recorren la Biblia de un libro a otro. Esta matriz muestra en qué secciones aparece cada uno.",
+    "matriz_titulo": "Temas por sección",
+    "lista_titulo": "Todos los temas",
+    "una_ensenanza": "1 enseñanza",
+    "n_ensenanzas": "{n} enseñanzas"
+  },
+  "tema": {
+    "introduccion": "Introducción",
+    "divergencias": "Dónde divergen las lecturas",
+    "pasajes": "Pasajes del tema",
+    "ensenanzas": "Enseñanzas ligadas a este tema",
+    "sin_ensenanzas": "Todavía no hay enseñanzas escritas para este tema.",
+    "en_preparacion": "En preparación. De este tema todavía solo está su resumen y sus pasajes.",
+    "relacionados": "Temas relacionados",
+    "para_recordar": "Para recordar"
+  },
+  "insignias": {
+    "deuterocanonico": "Deuterocanónico",
+    "deuterocanonico_nota": "Libro que las tradiciones católica y ortodoxa reciben como canónico y la judía y la protestante no.",
+    "adiciones": "Adiciones griegas",
+    "adiciones_nota": "Pasajes que existen en la versión griega y no en el texto hebreo o arameo.",
+    "consenso": "Consenso amplio",
+    "discusion": "En discusión",
+    "abierta": "Interpretación abierta",
+    "preparacion": "En preparación"
+  },
+  "tradiciones": {
+    "catolica": "Católica",
+    "ortodoxa": "Ortodoxa",
+    "judia": "Judía",
+    "protestante": "Protestante"
+  },
+  "pie": {
+    "derechos": "© {anio} Biblia, libro a libro",
+    "acerca": "Acerca de este sitio",
+    "creditos": "Tipografías Inter y Newsreader (licencia OFL). Licencias de lo prestado en assets-originales/CREDITOS.md"
+  },
+  "vis": {
+    "cargando": "Cargando…",
+    "error": "No se pudo mostrar esta visualización.",
+    "respaldo_3d": "Esta escena necesita 3D. Debajo tienes la explicación en texto.",
+    "secciones_cortas": {
+      "pentateuco": "Pentateuco",
+      "historicos": "Históricos",
+      "sapienciales": "Sapienciales",
+      "profetas": "Profetas",
+      "nuevo-testamento": "N. Testamento"
+    },
+    "mapa": {
+      "etiqueta": "Mapa del canon: un bloque por libro, agrupados por sección",
+      "conmutador": "Biblia que se resalta",
+      "tradicion": {
+        "catolica": "Católica",
+        "ortodoxa": "Ortodoxa",
+        "judia": "Judía",
+        "protestante": "Protestante"
+      },
+      "pista": "Pasa el cursor o el foco por un bloque para ver el libro.",
+      "libro_aria": "{nombre}, {n} capítulos",
+      "capitulos": "{n} capítulos",
+      "leyenda_deuterocanonico": "Trama rayada: libro deuterocanónico",
+      "leyenda_adiciones": "Borde discontinuo: libro con adiciones griegas",
+      "lista": "Ver el mapa como lista de libros",
+      "no_figura": "Fuera de esta Biblia",
+      "estado": "Biblia {tradicion}: {n} libros resaltados; {fuera} atenuados por no figurar en ella.",
+      "estado_todos": "Biblia {tradicion}: los {n} libros.",
+      "sin_adiciones": "En esta Biblia las adiciones griegas no forman parte del canon; el bloque del libro se muestra sin ellas."
+    },
+    "dataciones": {
+      "etiqueta": "Dataciones de {libro}: según la tradición y según la crítica",
+      "anio_ac": "{n} a. C.",
+      "anio_dc": "{n} d. C.",
+      "fila_tradicion": "Tradición",
+      "fila_critica": "Crítica",
+      "resolucion_solapa": "Las dos dataciones se solapan en parte.",
+      "resolucion_aparte": "Las dos dataciones no se solapan.",
+      "resolucion_sin_tradicion": "La tradición no fija una fecha; la barra muestra solo la datación de la crítica."
+    },
+    "matriz": {
+      "etiqueta": "Matriz de temas por sección",
+      "celda_aria": "{tema} en {seccion}: {n} enseñanzas",
+      "resolucion": "Una celda marcada indica que hay enseñanzas del tema en esa sección; pulsa para abrir el tema.",
+      "lista": "Ver la matriz como lista de temas",
+      "sin_libros": "sin enseñanzas todavía"
+    }
+  }
+}

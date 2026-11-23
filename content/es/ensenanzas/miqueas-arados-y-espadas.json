@@ -1,0 +1,44 @@
+{
+  "id": "miqueas-arados-y-espadas",
+  "libro_id": "miqueas",
+  "orden": 3,
+  "titulo": "¿Quién copió a quién: Miqueas o Isaías, y qué dice de la paz?",
+  "pasaje": "Miq 4,1-4",
+  "que_dice": "Al final de los tiempos el monte del Templo se alzará sobre los montes. Pueblos numerosos subirán a él para que Dios les enseñe sus caminos (4,1-2). El Señor juzgará entre ellos y forjarán arados con sus espadas (4,3).\n\nMiqueas añade algo que Isaías no dice: cada uno se sentará bajo su parra y su higuera, sin que nadie lo asuste (4,4). La paz no es solo el fin de la guerra, sino la seguridad cotidiana.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas leen el pasaje como visión de paz universal, y se cita en el pacifismo cristiano y judío. Is 2,4, su paralelo, está inscrito frente a la sede de la ONU en Nueva York."
+    }
+  ],
+  "critica": {
+    "texto": "El pasaje aparece casi igual en Is 2,2-4. La crítica discute cuál es el original.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Hans Walter Wolff",
+        "texto": "Miq 4,1-4 es una adición posexílica, que se apoya en Is 2. La versión de Miqueas añade el versículo 4."
+      },
+      {
+        "quien": "Hans Wildberger",
+        "texto": "El oráculo es de Isaías, y Miqueas lo toma de él."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Micah (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Micah (Anchor Bible)",
+      "autor": "Francis I. Andersen y David Noel Freedman",
+      "tradicion": "critica"
+    }
+  ]
+}

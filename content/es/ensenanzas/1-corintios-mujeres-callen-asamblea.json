@@ -1,0 +1,57 @@
+{
+  "id": "1-corintios-mujeres-callen-asamblea",
+  "libro_id": "1-corintios",
+  "orden": 5,
+  "titulo": "¿Manda Pablo que las mujeres callen en la asamblea?",
+  "pasaje": "1 Cor 14,34-35",
+  "que_dice": "En unas normas sobre el orden en las reuniones de Corinto, el texto dice que las mujeres callen en la asamblea. Si quieren aprender algo, que pregunten en casa a sus maridos (14,34-35).\n\nChoca con 11,5, donde Pablo da por supuesto que las mujeres oran y profetizan en la asamblea. El pasaje del velo (11,2-16) es también discutido. Choca además con las colaboradoras que Pablo saluda en Rom 16.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica suele entender la norma como una disposición de orden para una comunidad concreta. La reserva de la ordenación a varones no se apoya en este pasaje, sino en la práctica de Jesús y de los apóstoles (Ordinatio sacerdotalis, 1994)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las posturas protestantes difieren: la lectura complementarista ve aquí una limitación de ciertas funciones a los varones; la igualitaria y la liberal la entienden como disposición local o añadido posterior."
+    }
+  ],
+  "critica": {
+    "texto": "El sentido del pasaje está en discusión, y ninguna de las tres posturas principales ha logrado imponerse. Ningún manuscrito omite los versículos; algunos antiguos los colocan al final del capítulo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Gordon Fee y Philip Payne",
+        "texto": "Es una glosa posterior: algunos manuscritos occidentales lo desplazan y los versículos interrumpen el hilo entre 14,33 y 14,36."
+      },
+      {
+        "quien": "Craig Keener",
+        "texto": "Es una norma local para una asamblea desordenada: Pablo prohíbe las interrupciones de mujeres poco instruidas, no el hablar en público."
+      },
+      {
+        "quien": "D. W. Odell-Scott y Charles Talbert",
+        "texto": "Pablo cita una consigna de algunos corintios y la rechaza en 14,36."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Man and Woman, One in Christ (Zondervan, 2009)",
+      "autor": "Philip B. Payne",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Ordinatio sacerdotalis",
+      "autor": "Juan Pablo II (1994)",
+      "tradicion": "catolica"
+    }
+  ]
+}

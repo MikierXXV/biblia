@@ -1,0 +1,73 @@
+{
+  "id": "jonas",
+  "seccion_id": "profetas",
+  "orden": 11,
+  "nombre": "Jonás",
+  "abreviatura": "Jon",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta huye de su misión a Nínive y acaba enfadado porque Dios perdona a los asirios. Relato breve que termina con una pregunta.",
+  "presentacion": "Dios manda a Jonás a Nínive, la capital del imperio asirio, y Jonás toma un barco en dirección contraria (Jon 1,1-3). Una tormenta, un gran pez, una ciudad que se arrepiente y un profeta que se enfurruña bajo una planta: ningún otro libro profético es tan narrativo.\n\nNo reúne oráculos, sino un relato con ironía. El único profeta que obtiene un éxito total, la conversión de una ciudad entera, es el que menos lo desea (Jon 3-4). Jonás explica por qué huyó: sabía que Dios es compasivo y perdona (Jon 4,2).\n\nEn la tradición judía se lee entero en Yom Kipur, el Día de la Expiación. El libro termina con una pregunta de Dios que queda sin respuesta (Jon 4,11).",
+  "autoria": {
+    "tradicion": "El libro no dice quién lo escribió. Nombra a Jonás, hijo de Amitay (Jon 1,1), el profeta del siglo VIII que aparece en 2 Re 14,25, y la tradición lo asoció a él.",
+    "critica": "La crítica ve un relato anónimo, de un narrador que usa el nombre de un profeta antiguo. Su estilo y su lengua apuntan a una época posterior al exilio.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición lo sitúa en el siglo VIII a. C., en tiempos del rey Jeroboán II, cuando vivió el profeta que cita 2 Re 14,25.",
+    "critica": "La mayoría de la crítica lo data entre los siglos V y III a. C. Lo indican su hebreo tardío, sus arameísmos y un Dios compasivo con los extranjeros.",
+    "acuerdo": "consenso",
+    "rango": [
+      -450,
+      -250
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im). Se lee entero en la tarde de Yom Kipur.",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el sexto.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jon 1,1-16",
+      "nota": "Jonás huye hacia Tarsis y los marineros paganos son más piadosos que él."
+    },
+    {
+      "pasaje": "Jon 3,1-10",
+      "nota": "Nínive se arrepiente y Dios cambia de parecer."
+    },
+    {
+      "pasaje": "Jon 4,1-3",
+      "nota": "Jonás se enfada y cita la fórmula de compasión de Éx 34,6."
+    },
+    {
+      "pasaje": "Jon 4,10-11",
+      "nota": "Dios cierra con una pregunta sobre la ciudad y sus animales."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Rhetorical Criticism: Context, Method, and the Book of Jonah",
+      "autor": "Phyllis Trible",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jonah (Anchor Bible)",
+      "autor": "Jack M. Sasson",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Jonás es un relato didáctico y satírico, no una colección de oráculos.",
+    "El profeta huye de Nínive porque sabe que Dios perdona; su enfado es el tema del libro (Jon 4,2).",
+    "Jon 4,2 retoma la fórmula de compasión de Éx 34,6-7.",
+    "La tradición judía lo lee en Yom Kipur; la cristiana lo une a la «señal de Jonás» (Mt 12,39-41).",
+    "El libro acaba con una pregunta de Dios que el lector debe contestar (Jon 4,11)."
+  ]
+}

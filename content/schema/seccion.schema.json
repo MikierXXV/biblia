@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sección",
+  "description": "Una de las 5 secciones del canon.",
+  "type": "object",
+  "required": [
+    "id",
+    "orden",
+    "nombre",
+    "testamento",
+    "resumen",
+    "color_acento"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "orden": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "nombre": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 80
+    },
+    "testamento": {
+      "type": "string",
+      "enum": [
+        "AT",
+        "NT"
+      ]
+    },
+    "resumen": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 300
+    },
+    "color_acento": {
+      "type": "object",
+      "description": "Acento de la sección en cada tema; AA en ambos (check-contraste.mjs). Las tradiciones no tienen color.",
+      "required": [
+        "claro",
+        "oscuro"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "claro": {
+          "type": "string",
+          "pattern": "^#[0-9A-Fa-f]{6}$"
+        },
+        "oscuro": {
+          "type": "string",
+          "pattern": "^#[0-9A-Fa-f]{6}$"
+        }
+      }
+    }
+  }
+}

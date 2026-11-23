@@ -1,0 +1,56 @@
+{
+  "id": "lucas-los-discipulos-de-emaus",
+  "libro_id": "lucas",
+  "orden": 6,
+  "titulo": "Dos discípulos reconocen a Jesús al partir el pan",
+  "pasaje": "Lc 24,13-35",
+  "que_dice": "El domingo de Pascua, dos discípulos caminan de Jerusalén a Emaús, tristes. Un desconocido se les une y les explica las Escrituras, desde Moisés y los profetas.\n\nAl llegar, lo invitan a cenar. Él toma el pan, lo bendice y lo parte. Entonces lo reconocen, y desaparece.\n\nSe dicen que el corazón les ardía por el camino. Vuelven a Jerusalén a contarlo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, el relato cuenta cómo los primeros seguidores de Jesús releyeron la Torá y los profetas a la luz de su muerte. Un Mesías que sufre no era una lectura habitual en el judaísmo del siglo I."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el relato dibuja la estructura de la misa: primero la Palabra explicada, después el pan partido. El Catecismo lo cita al hablar de la Eucaristía (1347)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el pasaje enseña que Cristo se reconoce en la Escritura y en el pan partido. Calvino subrayó la Palabra como lo primero. Otras comunidades dan más peso a la mesa."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en este relato una composición de Lucas, con un esquema propio: el viaje, la explicación de las Escrituras y el reconocimiento al partir el pan. Se discute cuánto hay de tradición anterior.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Richard J. Dillon",
+        "texto": "Lucas compuso el relato con gran libertad para presentar la fe en la resurrección como una experiencia de Palabra y de comunidad."
+      },
+      {
+        "quien": "Joseph Fitzmyer",
+        "texto": "Lucas parte de una tradición anterior sobre una aparición a dos discípulos, que adaptó a su teología."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to Luke X-XXIV (Anchor Bible 28A)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "From Eye-Witnesses to Ministers of the Word (Biblical Institute Press, 1978)",
+      "autor": "Richard J. Dillon",
+      "tradicion": "catolica"
+    }
+  ]
+}

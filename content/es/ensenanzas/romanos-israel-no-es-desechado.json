@@ -1,0 +1,57 @@
+{
+  "id": "romanos-israel-no-es-desechado",
+  "libro_id": "romanos",
+  "orden": 4,
+  "titulo": "¿Ha rechazado Dios a su pueblo Israel?",
+  "pasaje": "Rom 9-11",
+  "que_dice": "Pablo, judío, escribe con dolor por sus hermanos de pueblo que no aceptan a Jesús como mesías. Se pregunta si Dios ha rechazado a Israel y responde que no: él mismo es israelita, y Dios no se arrepiente de sus dones ni de su llamada (11,29).\n\nCompara a los no judíos con ramas de olivo silvestre injertadas en el olivo de Israel y les advierte que no se jacten. Al final anuncia que todo Israel se salvará (11,26), frase cuyo sentido se discute.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no ve a Pablo como autoridad. Que estos capítulos afirmen que la elección de Israel no se revoca coincide con su propia convicción sobre la alianza, aunque no con el papel que Pablo da a Jesús."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Nostra Aetate (1965, n. 4) cita Rom 9-11: Dios no se arrepiente de su llamada, y la Iglesia no debe presentar a los judíos como rechazados ni malditos. Esta doctrina marcó un giro en la enseñanza católica."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute cómo se salvará «todo Israel» y si Pablo piensa en una vía propia para los judíos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Krister Stendahl",
+        "texto": "La carta trata de la relación entre judíos y no judíos, no de la conciencia culpable; Rom 11 habla de un misterio de Dios, no de un plan de conversión."
+      },
+      {
+        "quien": "Joseph Fitzmyer",
+        "texto": "Israel como pueblo se salvará al final, después de entrar los no judíos."
+      },
+      {
+        "quien": "Mark Nanos",
+        "texto": "Pablo habla a no judíos para que respeten a los judíos; no presenta a Cristo como condición para la salvación de Israel."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Romans (Anchor Bible 33)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Paul Among Jews and Gentiles and Other Essays",
+      "autor": "Krister Stendahl",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

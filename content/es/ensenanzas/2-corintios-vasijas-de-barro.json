@@ -1,0 +1,42 @@
+{
+  "id": "2-corintios-vasijas-de-barro",
+  "libro_id": "2-corintios",
+  "orden": 1,
+  "titulo": "¿Por qué lleva Pablo el tesoro en vasijas de barro?",
+  "pasaje": "2 Cor 4,7-12",
+  "que_dice": "Los corintios juzgan a Pablo débil y mal orador frente a otros misioneros. Él responde con una imagen. Lleva el tesoro del evangelio en vasijas de barro, frágiles y baratas, para que se vea que el poder viene de Dios y no de él (4,7).\n\nEnumera después sus pruebas: atribulado, pero no aplastado; perplejo, pero no desesperado; perseguido, pero no abandonado (4,8-9). Lleva en el cuerpo la muerte de Jesús para que también su vida se vea en él (4,10-12).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica une el pasaje a la espiritualidad del sufrimiento compartido con Cristo (Col 1,24; Flp 3,10). Las pruebas del apóstol se ofrecen por los demás."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lo lee como participación en la cruz de Cristo, unida a la esperanza de la resurrección que Pablo anuncia en 4,14."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero lee estas palabras desde su teología de la cruz (1518): Dios actúa escondido bajo lo débil y lo humillado, no en lo que parece fuerte."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que Pablo responde a rivales que presumían de éxito y de fuerza. La lista de pruebas imita un recurso de los filósofos estoicos y cínicos, que enumeraban sus adversidades para mostrar su carácter. Pablo lo usa para mostrar su debilidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Corinthians (Anchor Bible 32A)",
+      "autor": "Victor Paul Furnish",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Second Epistle to the Corinthians (NIGTC)",
+      "autor": "Murray J. Harris",
+      "tradicion": "protestante"
+    }
+  ]
+}

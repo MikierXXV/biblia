@@ -1,0 +1,91 @@
+{
+  "id": "numeros",
+  "seccion_id": "pentateuco",
+  "orden": 4,
+  "nombre": "Números",
+  "abreviatura": "Nm",
+  "capitulos": 36,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Recoge los censos y las marchas del pueblo por el desierto, entre quejas y rebeliones. Prepara la entrada en la tierra prometida.",
+  "presentacion": "Un censo abre el libro. El pueblo, acampado en el Sinaí, cuenta a sus hombres aptos para la guerra. Poco después se pone en marcha hacia la tierra prometida, ordenado por tribus y con el santuario en el centro.\n\nNo llega. El pueblo se queja de la comida, de Moisés y del desierto, y teme a los habitantes de Canaán. Quiere volver a Egipto, y como castigo vagará cuarenta años (13-14). El libro cuenta esos años y termina con un segundo censo.\n\nSu título viene de los censos (1 y 26). En hebreo se llama Bemidbar, «en el desierto». Importa porque muestra una fe forjada en la crisis, con un liderazgo compartido y una promesa que sobrevive al fracaso.",
+  "autoria": {
+    "tradicion": "La tradición judía y la cristiana clásica atribuyen el libro a Moisés. Su época se calcula distinto: la cronología judía tradicional lo sitúa en el siglo XIII a. C., y la cristiana clásica, por 1 Re 6,1, algo antes.",
+    "critica": "La crítica no lo atribuye a Moisés. Ve una mezcla de la fuente sacerdotal con materiales anteriores y discute cuándo se unieron.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Moisés lo escribió durante los cuarenta años del desierto, entre los siglos XIV y XIII a. C.",
+    "critica": "La mayoría de críticos sitúa la forma final tras el exilio, con materiales más antiguos. La fecha de cada parte está en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      -600,
+      -400
+    ],
+    "rango_tradicion": [
+      -1320,
+      -1200
+    ],
+    "posturas": [
+      {
+        "quien": "Modelo clásico (Wellhausen y sucesores)",
+        "texto": "Fecha la fuente sacerdotal y la forma final en el exilio o después (siglos VI-V a. C.)."
+      },
+      {
+        "quien": "Jacob Milgrom y la escuela israelí",
+        "texto": "Datan buena parte del material sacerdotal antes del exilio."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es el cuarto libro de la Torá, Bemidbar, «en el desierto».",
+    "ortodoxa": "Es canónico y sigue a Levítico, como en las Biblias católicas.",
+    "protestante": "Es canónico y sigue a Levítico, como en las Biblias católicas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Nm 6,24-26",
+      "nota": "La bendición sacerdotal, hallada en rollos de plata de hacia el 600 a. C."
+    },
+    {
+      "pasaje": "Nm 11,24-29",
+      "nota": "El espíritu de Moisés se reparte entre setenta ancianos."
+    },
+    {
+      "pasaje": "Nm 13,1–14,45",
+      "nota": "Los exploradores y la rebelión que condena a esa generación al desierto."
+    },
+    {
+      "pasaje": "Nm 22,22-30",
+      "nota": "La burra de Balaán ve al ángel que su amo no ve."
+    },
+    {
+      "pasaje": "Nm 24,17",
+      "nota": "Una estrella saldrá de Jacob."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Números cuenta los cuarenta años del pueblo en el desierto, entre censos y quejas.",
+    "Una generación pierde la tierra por falta de confianza (13-14).",
+    "Moisés comparte su espíritu con setenta ancianos y desea que todos profeticen (11,24-29).",
+    "La bendición de 6,24-26 aparece en rollos de plata de hacia el 600 a. C.",
+    "La mayoría de críticos no lee las cifras de los censos literalmente y discute cómo entenderlas."
+  ]
+}

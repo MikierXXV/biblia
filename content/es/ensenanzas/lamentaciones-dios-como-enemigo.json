@@ -1,0 +1,60 @@
+{
+  "id": "lamentaciones-dios-como-enemigo",
+  "libro_id": "lamentaciones",
+  "orden": 2,
+  "titulo": "El poeta se atreve a decir que Dios destruyó su propia ciudad",
+  "pasaje": "Lam 2,1-22",
+  "que_dice": "Lam 2 hace lo que otros textos evitan: acusa a Dios. Dios ha obrado como un enemigo. Ha derribado sin piedad las moradas de Jacob (2,2), ha tensado el arco (2,4) y ha dejado abandonado su propio altar (2,7).\n\nEntre las ruinas, los niños desfallecen y piden pan a sus madres (2,11-12). El poeta pregunta si las mujeres han de comerse a sus hijos (2,20). Lam 4,10 dice que lo hicieron. No hay explicación, solo la orden de llorar sin descanso y alzar las manos a Dios por los niños (2,18-19).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica no suaviza la acusación, pero añade que Dios comparte el exilio. El Talmud (Meguilá 29a) dice que la Presencia divina fue al destierro con Israel."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica lee Lamentaciones en el Oficio de lectura del Triduo pascual, de jueves a sábado santo, y une así el lamento del libro a la pasión de Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "Lam 2 es el poema más duro con Dios y apenas habla de culpa del pueblo (2,14). La crítica discute cómo se relaciona esa protesta con la confesión de culpa de otros poemas (1,18; 3,42; 5,16).",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Provan y otros",
+        "texto": "El libro admite a la vez culpa y dolor. La protesta es legítima porque el sufrimiento supera lo que el pueblo pueda merecer."
+      },
+      {
+        "quien": "Tod Linafelt",
+        "texto": "El libro no resuelve la tensión. Deja la protesta sin respuesta: Dios calla, y de eso trata el poema."
+      }
+    ]
+  },
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Walter Brueggemann",
+      "texto": "Walter Brueggemann lee los salmos de lamento como oración de protesta: que un pueblo se atreva a reclamar a Dios es señal de fe, no de falta de ella."
+    }
+  ],
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Lamentations (New Century Bible Commentary)",
+      "autor": "Iain W. Provan",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Surviving Lamentations: Catastrophe, Lament, and Protest in the Afterlife of a Biblical Book",
+      "autor": "Tod Linafelt",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Liturgia de las Horas (Oficio de lectura, Triduo pascual)",
+      "autor": "Iglesia católica",
+      "tradicion": "catolica"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "malaquias-elias-antes-del-dia",
+  "libro_id": "malaquias",
+  "orden": 3,
+  "titulo": "Elías volverá antes del día del Señor: de la copa de Pascua a Juan",
+  "pasaje": "Mal 3,19-24",
+  "que_dice": "Termina el libro, y con él los Profetas, con una promesa. Llega un día que arde como horno, pero para quienes temen a Dios saldrá un sol de justicia (3,19-20; en otras Biblias, 4,1-2). El pueblo debe recordar la ley de Moisés (3,22).\n\nAntes de ese día, Dios enviará al profeta Elías. Elías hará volver el corazón de los padres a los hijos y el de los hijos a los padres. Así Dios no herirá la tierra con anatema, la destrucción total (3,23-24; en otras Biblias, 4,5-6).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "En la cena de Pascua se sirve una copa para Elías y se abre la puerta, a la espera de que anuncie la redención. Mal 3,4-24 es además la haftará (lectura profética) del sábado anterior a Pascua."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante coinciden en que Mt 11,14 y 17,10-13 identifican a Juan Bautista con el Elías anunciado. Lc 1,17 retoma Mal 3,24 al hablar de Juan: hará volver los corazones de los padres a los hijos."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que Mal 3,22-24 funciona como cierre. Sweeney lo lee como final de los Doce y de todos los Profetas, que une a Moisés, la ley, con Elías, el profeta, antes del canon hebreo de los Escritos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Twelve Prophets (Berit Olam)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

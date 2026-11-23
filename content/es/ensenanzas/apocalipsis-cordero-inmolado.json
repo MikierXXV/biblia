@@ -1,0 +1,45 @@
+{
+  "id": "apocalipsis-cordero-inmolado",
+  "libro_id": "apocalipsis",
+  "orden": 2,
+  "titulo": "¿Por qué el vencedor es un Cordero degollado?",
+  "pasaje": "Ap 5,1-14",
+  "que_dice": "Un libro sellado, en la mano de quien está sentado en el trono, y nadie en el cielo ni en la tierra puede abrirlo. Juan llora. Un anciano le dice que ha vencido el León de Judá.\n\nJuan mira y no ve un león: ve un Cordero degollado, de pie. Él toma el libro y lo abre, y toda la creación lo aclama (Ap 5). La imagen de la fuerza se convierte en la de una víctima.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no ve en Jesús al Mesías y no lee el Cordero como figura mesiánica. La escena del trono recoge visiones de Ezequiel 1 y Daniel 7, que la tradición apocalíptica judía, como 1 Enoc, también desarrolló."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, el Cordero es Cristo, cuya muerte y resurrección dan sentido a la historia."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Richard Bauckham",
+      "texto": "Para Richard Bauckham, el León y el Cordero son una sola figura: Cristo vence como mesías guerrero, pero su victoria consiste en morir. Los suyos están llamados a vencer del mismo modo, con su testimonio."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos reconoce en el capítulo 5 el modelo de la corte celestial de Daniel 7 y la imagen del cordero de la tradición bíblica. El contraste entre el león anunciado y el cordero visto es deliberado.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Theology of the Book of Revelation",
+      "autor": "Richard Bauckham",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Revelation 1-5 (Word Biblical Commentary 52A)",
+      "autor": "David E. Aune",
+      "tradicion": "critica"
+    }
+  ]
+}

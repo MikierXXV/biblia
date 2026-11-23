@@ -1,0 +1,68 @@
+{
+  "id": "1-juan",
+  "seccion_id": "nuevo-testamento",
+  "orden": 23,
+  "nombre": "1 Juan",
+  "abreviatura": "1 Jn",
+  "bloque": "cartas-catolicas",
+  "capitulos": 5,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Carta sobre la comunión, el amor y la fe en Jesús. Muestra afinidades con el evangelio de Juan.",
+  "presentacion": "Una comunidad se ha partido en dos. Algunos de sus miembros se han ido (2,19), y los que quedan necesitan saber en qué se apoyan. A ellos escribe esta carta, que no tiene saludo ni despedida de carta al uso y más parece un sermón por escrito.\n\nSus ideas giran en espiral: Dios es luz y amor, y quien lo conoce ama a sus hermanos. Quien niega que Jesús vino en carne no está con Dios. El vocabulario es el del cuarto evangelio. Por eso la crítica la sitúa en la escuela joánica, el círculo que lo conservó.",
+  "autoria": {
+    "tradicion": "La tradición cristiana antigua la atribuyó a Juan, el apóstol, a quien identificaba con el autor del cuarto evangelio.",
+    "critica": "El texto es anónimo. La mayoría de críticos lo atribuye a un miembro de la escuela joánica, el mismo círculo que produjo el cuarto evangelio, sin identificarlo con el apóstol.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que la atribuye al apóstol, es de finales del siglo I, de su vejez en Éfeso.",
+    "critica": "La mayoría de críticos la data hacia el 90-110 d. C., poco después del evangelio.",
+    "acuerdo": "consenso",
+    "rango": [
+      90,
+      110
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica y se aceptó pronto en las iglesias.",
+    "protestante": "Es canónica, como en la tradición católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Jn 1,5-2,2",
+      "nota": "Dios es luz; reconocer el pecado abre el perdón."
+    },
+    {
+      "pasaje": "1 Jn 3,16-18",
+      "nota": "Amar con hechos y de verdad."
+    },
+    {
+      "pasaje": "1 Jn 4,2-3",
+      "nota": "Confesar que Jesucristo ha venido en carne."
+    },
+    {
+      "pasaje": "1 Jn 4,7-21",
+      "nota": "Dios es amor; Dios amó primero."
+    }
+  ],
+  "para_recordar": [
+    "1 Jn nace de una ruptura en la comunidad y quiere dar seguridad a los que quedan.",
+    "Dios es amor, y el amor se prueba con hechos.",
+    "Quien niega que Jesús vino en carne queda fuera de la comunión que la carta describe.",
+    "La crítica la atribuye a la escuela joánica, hacia el 90-110."
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

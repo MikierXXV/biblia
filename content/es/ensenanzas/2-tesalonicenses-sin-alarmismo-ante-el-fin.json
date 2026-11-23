@@ -1,0 +1,43 @@
+{
+  "id": "2-tesalonicenses-sin-alarmismo-ante-el-fin",
+  "libro_id": "2-tesalonicenses",
+  "orden": 1,
+  "titulo": "¿Por qué pide la carta no alarmarse ante el día del Señor?",
+  "pasaje": "2 Tes 2,1-12",
+  "que_dice": "Alguien ha dicho en Tesalónica que el día del Señor ya ha llegado, quizá con una profecía o una carta atribuida a Pablo (2,2). La comunidad está asustada, y la carta le pide no dejarse alterar.\n\nAntes de ese día, explica, vendrá la rebelión y se revelará el *hombre sin ley*, que se sienta en el templo y se proclama dios (2,3-4). Algo o alguien lo detiene ahora (2,6-7). El Señor lo destruirá con el soplo de su boca (2,8).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "El Catecismo (nn. 675-677) habla de una prueba final de la Iglesia, con una impostura religiosa, sin identificar a nadie con el *anticristo* (el enemigo final de Cristo)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La lectura ortodoxa sigue a Juan Crisóstomo: el *detenedor* (quien frena al mal) es el poder político del Imperio romano, que contiene el mal hasta que desaparezca."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y otros reformadores leyeron 2,3-4 como referencia al papado, lectura que la Iglesia católica rechaza. Hoy la mayoría de protestantes la ha abandonado."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el pasaje usa lenguaje apocalíptico judío, con ecos de Dn 11,36. Reconocen que el pasaje es oscuro: el detenedor y el hombre sin ley han recibido muchas identificaciones sin que ninguna se imponga.",
+    "acuerdo": "consenso"
+  },
+  "abierta": true,
+  "temas": [
+    "esperanza-y-consuelo",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    }
+  ]
+}

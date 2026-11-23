@@ -1,0 +1,37 @@
+{
+  "id": "nehemias-muralla-en-52-dias",
+  "libro_id": "nehemias",
+  "orden": 1,
+  "titulo": "Una muralla en 52 días, entre la oración y la espada",
+  "pasaje": "Neh 1-6",
+  "que_dice": "Nehemías reza cuatro meses y luego pide permiso al rey, que le da cartas y escolta (Neh 1-2). Llega a Jerusalén, recorre de noche las ruinas y convence a los notables de reconstruir (2,11-18).\n\nCada familia levanta un tramo (Neh 3). Los vecinos se burlan y amenazan con atacar, y la mitad de la gente trabaja mientras la otra vigila con armas (4,10-17). La muralla queda terminada en 52 días (6,15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Un pasaje del Talmud (Sanedrín 93b) explica que el libro no lleva el nombre de Nehemías porque se presentó como bienhechor. Él pedía a Dios que se acordara de él (Neh 5,19; 13,31)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En la tradición protestante, y sobre todo en la predicación evangélica, Nehemías es un modelo de liderazgo que une la oración y el trabajo."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos consideran las memorias de Nehemías una fuente cercana a los hechos. Tienen el tono de un informe al rey y a Dios, y son una de las pocas voces en primera persona de la Biblia hebrea.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

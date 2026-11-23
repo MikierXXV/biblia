@@ -1,0 +1,80 @@
+{
+  "id": "ester",
+  "seccion_id": "historicos",
+  "orden": 14,
+  "nombre": "Ester",
+  "abreviatura": "Est",
+  "capitulos": 16,
+  "deuterocanonico": false,
+  "adiciones_griegas": [
+    "Est 10,4–16,24"
+  ],
+  "estado": "completo",
+  "resumen": "En la corte persa, una joven judía llega a reina y evita la matanza de su pueblo. La versión griega añade oraciones y menciones de Dios.",
+  "presentacion": "Hay un banquete de siete días en el palacio de Susa. El rey Asuero (Jerjes) manda llamar a la reina Vasti, que se niega a venir y es destituida (Est 1). Para sustituirla se busca a jóvenes de todo el imperio, y gana una huérfana judía, Ester, criada por su primo Mardoqueo (Est 2).\n\nAmán, primer ministro, decide exterminar a los judíos del imperio. Echa a suertes el día (*pur*: la suerte, que da nombre a la fiesta de Purim). Ester arriesga la vida ante el rey, el plan se vuelve contra Amán y los judíos se defienden (Est 3-9).\n\nEn el texto hebreo no aparece el nombre de Dios ni una vez. La versión griega añade oraciones, sueños y edictos que sí lo nombran (Est 10,4–16,24 en la numeración de la Vulgata, que sigue Torres Amat).",
+  "autoria": {
+    "tradicion": "El Talmud (Baba Batra 15a) atribuye Ester a los hombres de la Gran Asamblea, el grupo de sabios que habría ordenado la vida del pueblo tras el exilio.",
+    "critica": "El libro es anónimo. Su autor conoce bien la corte persa y sus costumbres. Se piensa en un judío de la diáspora oriental.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa en el siglo V a. C., poco después de los hechos del reinado de Jerjes I (486-465 a. C.).",
+    "critica": "La mayoría de los críticos la sitúa entre los siglos IV y II a. C. Las fuentes persas no respaldan la historia, y se la lee como relato histórico-novelesco.",
+    "acuerdo": "consenso",
+    "rango": [
+      -400,
+      -150
+    ],
+    "rango_tradicion": [
+      -480,
+      -450
+    ]
+  },
+  "canon": {
+    "judia": "Es canónico, entre los Escritos (Ketuvim). Es uno de los cinco rollos y se lee en Purim. Solo reconoce el texto hebreo.",
+    "ortodoxa": "Es canónico, con las adiciones griegas incluidas.",
+    "protestante": "Es canónico en su texto hebreo. Las adiciones griegas no se reciben y a veces se imprimen aparte, entre los apócrifos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Est 1,10-12",
+      "nota": "Vasti rechaza comparecer ante el rey."
+    },
+    {
+      "pasaje": "Est 4,14",
+      "nota": "Mardoqueo pregunta si Ester ha llegado a reina para una ocasión como esta."
+    },
+    {
+      "pasaje": "Est 7,1-10",
+      "nota": "Amán cae en la trampa que había preparado."
+    },
+    {
+      "pasaje": "Est 9,20-32",
+      "nota": "Mardoqueo escribe la carta que instituye Purim."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Character and Ideology in the Book of Esther",
+      "autor": "Michael V. Fox",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Una joven judía llega a reina de Persia y evita la matanza de su pueblo.",
+    "El texto hebreo no nombra a Dios; la versión griega añade oraciones que lo nombran.",
+    "Las adiciones griegas son canónicas para católicos y ortodoxos, no para judíos y protestantes.",
+    "Explica el origen de Purim, la fiesta de la suerte.",
+    "La violencia del capítulo 9 se lee hoy como fantasía literaria o como defensa."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cantar-de-los-cantares-amor-erotico-don-bueno",
+  "libro_id": "cantar-de-los-cantares",
+  "orden": 1,
+  "titulo": "Dos amantes se buscan en un jardín y la Biblia lo canta sin pudor",
+  "pasaje": "Cant 2,4-7; 4,1-7",
+  "que_dice": "Ella dice que él la ha llevado a la sala del banquete y que su bandera sobre ella es el amor (2,4). Está enferma de amor y pide pasas y manzanas (2,5). Él la describe con frutas, rebaños y torres: sus pechos son como dos crías de gacela (4,5).\n\nNadie reza ni da órdenes. Los poemas celebran el cuerpo, el deseo y el encuentro, y avisan de que no hay que despertar el amor antes de tiempo (2,7).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía leyó el lenguaje erótico como imagen del amor entre Dios e Israel. Según la Tosefta, Rabí Akiba advirtió contra quien lo cantaba en las tabernas como canción profana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición cristiana lo leyó desde Orígenes como diálogo entre Cristo y la Iglesia o el alma. La liturgia católica usa Cant 2,8-10 y 8,6-7 en las bodas, aplicados al amor de los esposos."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Para Phyllis Trible, el Cantar vuelve al jardín de Gn 2 y rescata el amor sin dominio. Ella y él se desean por igual, y lo que Gn 3,16 rompió queda deshecho."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica compara el Cantar con canciones de amor del Egipto antiguo (siglos XIII-XII a. C.). Michael Fox señala rasgos comunes: llamarse «hermano» y «hermana», y el jardín como lugar del encuentro.",
+    "acuerdo": "consenso"
+  },
+  "abierta": true,
+  "temas": [
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Song of Songs and the Ancient Egyptian Love Songs",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

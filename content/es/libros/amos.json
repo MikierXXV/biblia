@@ -1,0 +1,73 @@
+{
+  "id": "amos",
+  "seccion_id": "profetas",
+  "orden": 9,
+  "nombre": "Amós",
+  "abreviatura": "Am",
+  "capitulos": 9,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un pastor de Judá viaja al santuario del reino del norte y denuncia a los ricos que aplastan al pobre. Para él, un culto sin justicia no vale nada.",
+  "presentacion": "Amós no era profeta de oficio. Cuidaba ganado y sicómoros en Tecoa, un pueblo de Judá, cuando Dios lo envió al reino del norte (Am 1,1; 7,14-15). Predica hacia el 760 a. C. en Betel, el santuario del rey, en tiempos de prosperidad bajo Jeroboán II.\n\nAllí denuncia a quienes venden al justo por dinero y al pobre por un par de sandalias (Am 2,6-7). Denuncia a las mujeres ricas de Samaria, que piden de beber a sus maridos (Am 4,1), y a un culto de fiestas y cantos que no cambia nada (Am 5,21-24). Anuncia que el día del Señor será oscuridad para Israel y no luz (Am 5,18-20).\n\nEl libro se cierra con cinco visiones, el choque con el sacerdote Amasías (Am 7,10-17) y una promesa de restauración (Am 9,11-15).",
+  "autoria": {
+    "tradicion": "Am 1,1 presenta a Amós entre los pastores de Tecoa, y Am 7,14 añade que cuidaba sicómoros. La tradición judía y la cristiana le atribuyen el libro.",
+    "critica": "La crítica coincide en que el núcleo es de Amós y discute cuánto se añadió después. Wolff distingue varias etapas de redacción; Paul defiende que casi todo es del profeta.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Am 1,1 sitúa el libro bajo Ozías de Judá y Jeroboán II de Israel, dos años antes de un terremoto.",
+    "critica": "Hacia 760-750 a. C. Es el primer profeta del que se conserva un libro con sus oráculos.",
+    "acuerdo": "consenso",
+    "rango": [
+      -765,
+      -745
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el segundo.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Am 2,6-8",
+      "nota": "Venden al justo por plata y pisotean la cabeza del débil."
+    },
+    {
+      "pasaje": "Am 5,21-24",
+      "nota": "Dios rechaza las fiestas y pide que el derecho corra como el agua."
+    },
+    {
+      "pasaje": "Am 7,10-17",
+      "nota": "El sacerdote Amasías expulsa a Amós de Betel."
+    },
+    {
+      "pasaje": "Am 9,7",
+      "nota": "Dios sacó a otros pueblos de su tierra, como a Israel de Egipto."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Amos (Hermeneia)",
+      "autor": "Shalom M. Paul",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Joel and Amos (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Amós, un pastor de Judá, predica hacia 760 a. C. en el reino del norte y denuncia a quienes oprimen al pobre.",
+    "Para Amós, un culto sin justicia no sirve: Dios rechaza fiestas y cantos mientras el derecho no corra (Am 5,21-24).",
+    "Israel no tiene privilegios: Dios también sacó de su tierra a otros pueblos (Am 9,7).",
+    "El día del Señor será oscuridad y no luz para Israel (Am 5,18-20).",
+    "Se discute si la promesa final (Am 9,11-15) es de Amós o posterior."
+  ]
+}

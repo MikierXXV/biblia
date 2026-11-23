@@ -1,0 +1,33 @@
+{
+  "id": "esdras-edicto-de-ciro-y-regreso",
+  "libro_id": "esdras",
+  "orden": 1,
+  "titulo": "Ciro abre la puerta del regreso, pero volver cuesta años",
+  "pasaje": "Esd 1-3",
+  "que_dice": "En el 538 a. C., Ciro decreta que los judíos deportados pueden volver a Jerusalén y reconstruir el Templo (Esd 1,1-4). Devuelve además los objetos de oro y plata que Nabucodonosor se había llevado (1,7-11).\n\nNo todos regresan. Los que suben levantan primero el altar y celebran la fiesta de las Cabañas (3,1-6). Al poner los cimientos del Templo, unos gritan de alegría y otros, los ancianos que vieron el primero, lloran (3,10-13).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el edicto cumple lo que Jeremías había anunciado (Esd 1,1; Jr 29,10). Is 45,1 llama a Ciro «ungido» de Dios, y las dos tradiciones lo leen como instrumento de Dios sin ser creyente."
+    }
+  ],
+  "critica": {
+    "texto": "El Cilindro de Ciro (539 a. C.) muestra que este rey devolvía imágenes y pueblos a sus lugares de origen. Encaja con la política que cuenta Esd 1, aunque no menciona a los judíos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

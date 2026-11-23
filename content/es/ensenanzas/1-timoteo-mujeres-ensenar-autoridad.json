@@ -1,0 +1,60 @@
+{
+  "id": "1-timoteo-mujeres-ensenar-autoridad",
+  "libro_id": "1-timoteo",
+  "orden": 2,
+  "titulo": "¿Qué prohíbe 1 Timoteo a las mujeres y por qué?",
+  "pasaje": "1 Tim 2,11-15",
+  "que_dice": "El pasaje ordena que la mujer aprenda en silencio y con plena sumisión. No permite que la mujer enseñe ni que ejerza autoridad sobre el varón (1 Tim 2,11-12). Lo justifica con Adán y Eva: Adán fue formado primero, y Eva fue la engañada (2,13-14). Añade que ella se salvará por la maternidad si permanece en fe, amor y santidad (2,15).\n\nEs un texto corto y de sentido difícil. El verbo traducido como ejercer autoridad (*authentein*, de significado discutido) aparece solo aquí en el Nuevo Testamento. Tampoco se sabe qué quiere decir la salvación por la maternidad.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La carta apostólica Ordinatio sacerdotalis (1994) reserva el sacerdocio a varones. No lo apoya sobre este pasaje, sino sobre la elección de los Doce por Jesús y la práctica de los apóstoles."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa reserva el sacerdocio a varones, y se apoya sobre todo en la tradición y la práctica de la Iglesia antigua."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Hay dos lecturas enfrentadas. Los complementaristas (Piper y Grudem, 1991) ven una norma permanente: la enseñanza y el gobierno de la Iglesia corresponden a varones. Los igualitarios (Craig Keener) la leen como respuesta a una situación de Éfeso y defienden que las mujeres enseñen."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten qué situación refleja el pasaje y quién lo escribe, y proponen lecturas distintas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Elisabeth Schüssler Fiorenza",
+        "texto": "Ve en 1 Timoteo un intento posterior de limitar el liderazgo de las mujeres, que en las primeras comunidades enseñaban y dirigían."
+      },
+      {
+        "quien": "Richard y Catherine Kroeger",
+        "texto": "Lo leen sobre el fondo de Éfeso, con el culto a Artemisa; otros estudiosos cuestionan que las fuentes antiguas respalden esa lectura."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism",
+      "autor": "John Piper y Wayne Grudem (eds.)",
+      "tradicion": "protestante",
+      "url": "https://www.librarything.com/work/11973"
+    },
+    {
+      "titulo": "Interpreting 1 Timothy 2:8-15 (Priscilla Papers)",
+      "autor": "Craig S. Keener",
+      "tradicion": "protestante",
+      "url": "https://www.galaxie.com/article/pp12-3-03"
+    },
+    {
+      "titulo": "I Suffer Not a Woman: Rethinking 1 Timothy 2:11-15 in Light of Ancient Evidence",
+      "autor": "Richard C. Kroeger y Catherine C. Kroeger",
+      "tradicion": "protestante",
+      "url": "https://verbum.com/product/43584/i-suffer-not-a-woman-rethinking-1-timothy-2-11-15-in-light-of-ancient-evidence"
+    }
+  ]
+}

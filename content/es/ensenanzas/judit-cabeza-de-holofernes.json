@@ -1,0 +1,49 @@
+{
+  "id": "judit-cabeza-de-holofernes",
+  "libro_id": "judit",
+  "orden": 3,
+  "titulo": "Judit corta la cabeza a Holofernes: ¿liberación o violencia?",
+  "pasaje": "Jdt 10-13",
+  "abierta": false,
+  "que_dice": "Judit sale de la ciudad con su criada, se presenta a los guardias asirios y es llevada ante Holofernes. Le promete mostrarle un camino para conquistar Judea. Durante tres noches sale a rezar al valle. Al cuarto día él da un banquete y bebe más que nunca (Jdt 10-12).\n\nCuando todos se retiran, queda sola con él, dormido por el vino. Reza, le corta la cabeza de dos golpes y la saca en la bolsa de la comida (13,1-10). El ejército, sin jefe, huye.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Una costumbre judía de Janucá, comer lácteos, se relaciona con Judit, que dio queso y vino a Holofernes. Es una tradición popular medieval, no un precepto."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la liturgia aplica a María las palabras de Jdt 15,9-10. La tradición ve también en Judit una figura de la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo leer hoy la violencia y el engaño del relato, y qué lugar ocupan en su mensaje.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Carey Moore y otros",
+        "texto": "Es un relato de resistencia de un pueblo oprimido, escrito en época macabea, que da voz a su esperanza de liberación."
+      },
+      {
+        "quien": "Varias lecturas feministas",
+        "texto": "Es un relato que justifica un asesinato mediante el engaño y el uso del cuerpo femenino. Se discute si subvierte o refuerza los papeles de género."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judith (Anchor Bible 40)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Artistry and Faith in the Book of Judith",
+      "autor": "Toni Craven",
+      "tradicion": "literaria"
+    }
+  ]
+}

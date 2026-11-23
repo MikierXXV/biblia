@@ -1,0 +1,58 @@
+{
+  "id": "1-samuel-saul-y-amalec",
+  "libro_id": "1-samuel",
+  "orden": 3,
+  "titulo": "Saúl pierde el trono por no cumplir el herem contra Amalec",
+  "pasaje": "1 Sm 15",
+  "que_dice": "Samuel transmite una orden de Dios: Saúl debe destruir a Amalec, con hombres, mujeres, niños y ganado, porque Amalec atacó a Israel en el desierto (15,1-3). Saúl vence, pero perdona al rey Agag y deja con vida lo mejor del ganado (15,7-9).\n\nDios se arrepiente de haber hecho rey a Saúl. Samuel lo reprende: Dios prefiere la obediencia a los sacrificios. Saúl admite su pecado, y Samuel despedaza a Agag. Desde entonces, Dios rechaza a Saúl como rey (15,10-35).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el relato presenta el rechazo de Saúl como fruto de su desobediencia."
+    },
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lo lee cada año antes de Purim, como haftará del sábado de Zajor. El Talmud (Yoma 22b) discute las razones de Saúl para perdonar al ganado."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Entre los protestantes la lectura se divide. Paul Copan ve en el mandato el lenguaje exagerado de la guerra antigua; Eric Seibert lo rechaza como violencia atribuida a Dios."
+    }
+  ],
+  "critica": {
+    "texto": "El mandato de aniquilar a Amalec es uno de los pasajes más difíciles de la Biblia. La crítica discute su sentido moral.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Paul Copan",
+        "texto": "Es lenguaje hiperbólico de la guerra antigua: los amalecitas reaparecen vivos en 1 Sm 27,8 y 30,1, tras haber sido destruidos."
+      },
+      {
+        "quien": "Eric Seibert",
+        "texto": "Es violencia atribuida a Dios que los lectores cristianos no deben aceptar como voluntad suya."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "violencia-guerra-y-paz",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Is God a Moral Monster?",
+      "autor": "Paul Copan",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Disturbing Divine Behavior",
+      "autor": "Eric A. Seibert",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "isaias-justicia-como-culto-verdadero",
+  "libro_id": "isaias",
+  "orden": 2,
+  "titulo": "Dios rechaza los sacrificios de quien oprime al pobre",
+  "pasaje": "Is 1,10-17; 58,1-12",
+  "que_dice": "En el Templo huele a sacrificio: corderos, ofrendas, fiestas de luna nueva, oraciones. Por boca de Isaías, Dios dice que está harto de todo eso (1,11-14).\n\nLo que pide es otra cosa: dejar de hacer el mal, buscar la justicia, ayudar al oprimido, hacer justicia al huérfano y defender a la viuda (1,16-17). Is 58 repite la idea con el ayuno. El ayuno que Dios quiere es repartir el pan con el hambriento, vestir al desnudo y soltar las cadenas del injusto (58,6-7).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Is 57,14–58,14 como lectura profética de la mañana de Yom Kippur, el Día del Perdón. Cada año, el día de ayuno más solemne recuerda que el ayuno solo vale si cambia el trato al prójimo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las otras cristianas, estos textos piden unir culto y caridad. La liturgia católica lee Is 58 en Cuaresma y lo relaciona con el ayuno, la limosna y la oración."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos, que divide el libro en tres partes, atribuye Is 1 al siglo VIII a. C. e Is 58 al regreso del exilio. Ven en ambos la misma crítica al culto sin justicia, que comparten Amós (5,21-24) y Miqueas (6,6-8). Entienden que no rechaza el culto, sino el que convive con la injusticia.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 1-39, with an Introduction to Prophetic Literature (FOTL 16)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    }
+  ]
+}

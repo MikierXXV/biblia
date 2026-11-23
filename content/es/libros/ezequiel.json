@@ -1,0 +1,91 @@
+{
+  "id": "ezequiel",
+  "seccion_id": "profetas",
+  "orden": 5,
+  "nombre": "Ezequiel",
+  "abreviatura": "Ez",
+  "capitulos": 48,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Profeta y sacerdote exiliado en Babilonia. Cuenta visiones extraordinarias, la caída de Jerusalén y la esperanza de un pueblo renovado.",
+  "presentacion": "Hacia el 593 a. C., junto al canal Quebar, en Babilonia. Ezequiel, un sacerdote de Jerusalén deportado con el rey Joaquín, ve venir una tormenta del norte. En ella hay fuego, ruedas dentro de ruedas y, encima, un trono con una figura como de hombre (Ez 1).\n\nEl libro tiene tres partes: condenas antes de la caída de Jerusalén (1-24), oráculos contra las naciones (25-32) y promesas de restauración (33-48). Ezequiel además actúa sus mensajes. Se tumba atado, se afeita la cabeza y no hace duelo cuando muere su esposa (Ez 4-5; 24,15-18).\n\nSus imágenes más conocidas son el carro de fuego, los huesos secos que reviven (Ez 37) y el Templo nuevo con un río que brota de él (Ez 40-48).",
+  "autoria": {
+    "tradicion": "La tradición atribuye el libro al sacerdote Ezequiel (Ez 1,3). El Talmud (Baba Batra 15a) dice que lo escribieron los hombres de la Gran Asamblea, un consejo posterior al exilio.",
+    "critica": "Casi toda la crítica admite que el núcleo procede de Ezequiel. Se discute cuánto añadió después su escuela, sobre todo en los capítulos 40-48.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según las fechas del propio libro, Ezequiel profetizó en Babilonia entre el 593 y el 571 a. C. (Ez 1,2; 29,17).",
+    "critica": "La mayoría de críticos acepta esas fechas para el núcleo. La redacción final pudo llegar hasta el siglo V a. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      -593,
+      -450
+    ],
+    "rango_tradicion": [
+      -593,
+      -571
+    ],
+    "posturas": [
+      {
+        "quien": "Moshe Greenberg y Daniel Block",
+        "texto": "El libro es en esencia obra de un solo autor, de gran unidad, con pocos añadidos posteriores."
+      },
+      {
+        "quien": "Walther Zimmerli y su escuela",
+        "texto": "Hay un núcleo del profeta y varias capas posteriores de su escuela, sobre todo en las promesas de restauración y en Ez 40-48."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Profetas posteriores (Nevi'im). La Misná (Jaguigá 2,1) limita la explicación de Ez 1, el «carro» (*merkavá*), a unos pocos estudiosos. Ez 1 se lee en Shavuot.",
+    "ortodoxa": "Es canónico. La liturgia ortodoxa lee Ez 44,1-4, la puerta cerrada del Templo, en las fiestas de la Virgen.",
+    "protestante": "Es canónico. Va tras Jeremías y Lamentaciones, como en la Biblia católica, sin Baruc."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Ez 1,1-28",
+      "nota": "La visión del carro de fuego junto al río Quebar."
+    },
+    {
+      "pasaje": "Ez 18,1-32",
+      "nota": "Cada persona responde de su propia culpa."
+    },
+    {
+      "pasaje": "Ez 34,1-31",
+      "nota": "Dios, pastor de un rebaño abandonado por sus pastores."
+    },
+    {
+      "pasaje": "Ez 37,1-14",
+      "nota": "El valle de los huesos secos."
+    },
+    {
+      "pasaje": "Ez 47,1-12",
+      "nota": "El río que brota del Templo y sana el mar."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezekiel 1-20 y Ezekiel 21-37 (Anchor Bible 22 y 22A)",
+      "autor": "Moshe Greenberg",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Ezekiel (NICOT, 2 vols.)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Ezekiel 1 y 2 (Hermeneia)",
+      "autor": "Walther Zimmerli",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Ezequiel era sacerdote y profetizó entre los desterrados en Babilonia.",
+    "Su visión del carro de fuego (Ez 1) inspiró siglos de mística judía.",
+    "Ez 18 afirma que cada persona responde de su propia culpa.",
+    "Los huesos secos (Ez 37) son una imagen del renacer del pueblo; más tarde se leen también como resurrección.",
+    "Ez 40-48 describe un Templo nuevo; se discute si es un plan, un símbolo o una visión."
+  ]
+}

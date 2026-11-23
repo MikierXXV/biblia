@@ -1,0 +1,52 @@
+{
+  "id": "daniel-susana-y-los-ancianos",
+  "libro_id": "daniel",
+  "orden": 5,
+  "titulo": "Susana, acusada en falso, se salva por un joven que interroga",
+  "pasaje": "Dn 13,1-64",
+  "que_dice": "Susana, esposa de un hombre rico de Babilonia, se baña en su jardín. Dos ancianos, jueces del pueblo, la espían y le exigen que se acueste con ellos, o dirán que la vieron con un joven (13,19-21). Susana prefiere caer en sus manos antes que pecar contra Dios (13,22-23). Los ancianos la acusan y la condenan a muerte (13,28-41).\n\nCuando la llevan a ejecutar, un joven, Daniel, grita que es inocente. Interroga a los ancianos por separado: bajo qué árbol la vieron. Uno dice un lentisco y el otro una encina (13,50-59). Los ancianos son ejecutados y Susana se salva.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no incluye Susana en su canon hebreo-arameo. El texto circuló en griego y no se conserva en hebreo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica y la ortodoxa reciben Susana como Escritura, como Dn 13 en la Vulgata. La liturgia católica la lee el lunes de la quinta semana de Cuaresma."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Biblias protestantes tradicionales no incluyen Susana en el canon y la llaman «apócrifa». Algunas ediciones antiguas la ponen en una sección aparte."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos data Susana entre los siglos II y I a. C. y la considera escrita en griego. Ya Julio Africano, autor cristiano del siglo III, notó que el juego de palabras entre árbol y castigo solo funciona en griego. Se discute si hubo un original semítico.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "El relato se compuso en griego, como lo muestra el juego de palabras entre los árboles y los castigos."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Hubo un original semítico perdido, que el traductor griego reelaboró y del que el juego de palabras no depende."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel, Esther, and Jeremiah: The Additions (Anchor Bible 44)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha (2.ª ed.)",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

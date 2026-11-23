@@ -1,0 +1,68 @@
+{
+  "id": "2-macabeos",
+  "seccion_id": "historicos",
+  "orden": 16,
+  "nombre": "2 Macabeos",
+  "abreviatura": "2 Mac",
+  "capitulos": 15,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Narra parte de la misma crisis con acento teológico: martirio, oración por los difuntos y resurrección. Resume una obra mayor perdida.",
+  "presentacion": "Dos cartas abren el libro e invitan a los judíos de Egipto a celebrar la dedicación del Templo (2 Mac 1-2). Después un autor anónimo dice que va a resumir en un solo libro los cinco de Jasón de Cirene (2,19-32).\n\nCuenta la misma crisis que 1 Macabeos, con otro foco: el Templo, la fidelidad de los mártires y la intervención de Dios desde el cielo. Incluye la historia de Eleazar y de una madre con siete hijos que mueren antes que quebrantar la ley (2 Mac 6-7).\n\nEstá escrito en griego, con estilo retórico. Cubre del 175 al 160 a. C. y no continúa 1 Macabeos: son obras independientes. Es el texto del Antiguo Testamento católico y ortodoxo donde la resurrección y la oración por los difuntos se afirman con más claridad.",
+  "autoria": {
+    "tradicion": "El propio libro dice que resume la obra de Jasón de Cirene (2 Mac 2,23). Ninguna tradición da el nombre del autor del resumen.",
+    "critica": "El libro es anónimo. Lo escribió en griego un judío de la diáspora, que resume a Jasón, cuya obra se perdió. Las dos cartas del comienzo pueden ser un añadido posterior.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Según el libro, la primera carta es del año 188 de la era seléucida, es decir, del 124 a. C. (2 Mac 1,9).",
+    "critica": "La obra de Jasón, hoy perdida, es del siglo II a. C. El resumen se hizo entre el 124 y el 63 a. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      -124,
+      -63
+    ]
+  },
+  "canon": {
+    "judia": "No es canónico: no está en la Biblia hebrea. Recuerda la dedicación del Templo, que da origen a Janucá (2 Mac 1,9; 10,1-8).",
+    "ortodoxa": "Es canónico en la Biblia griega, que lleva además 3 Macabeos y, como apéndice, 4 Macabeos.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo y lo dejan fuera del canon. Lutero lo juzgó con dureza en una conversación de sobremesa, y los anglicanos lo leen para ejemplo de vida."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Mac 6,18-31",
+      "nota": "Eleazar prefiere morir antes que comer carne prohibida."
+    },
+    {
+      "pasaje": "2 Mac 7",
+      "nota": "Siete hermanos y su madre mueren esperando resucitar."
+    },
+    {
+      "pasaje": "2 Mac 12,38-45",
+      "nota": "Judas manda ofrecer un sacrificio por los caídos."
+    },
+    {
+      "pasaje": "2 Mac 15,12-16",
+      "nota": "Onías y Jeremías rezan por el pueblo en un sueño de Judas."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "2 Maccabees (Hermeneia)",
+      "autor": "Robert Doran",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Es un resumen griego de la obra perdida de Jasón de Cirene sobre la revuelta macabea.",
+    "Es independiente de 1 Macabeos y pone el acento en el martirio y en Dios.",
+    "2 Mac 7 es el texto más explícito sobre la resurrección en el Antiguo Testamento católico y ortodoxo.",
+    "2 Mac 12,43-45 es la base bíblica católica de la oración por los difuntos; la ortodoxa se apoya sobre todo en la práctica litúrgica.",
+    "Católicos y ortodoxos lo cuentan como canónico; judíos y protestantes, no."
+  ]
+}

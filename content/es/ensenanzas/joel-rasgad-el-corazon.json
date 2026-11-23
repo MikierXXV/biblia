@@ -1,0 +1,38 @@
+{
+  "id": "joel-rasgad-el-corazon",
+  "libro_id": "joel",
+  "orden": 2,
+  "titulo": "Rasgar el corazón y no los vestidos",
+  "pasaje": "Jl 2,12-17",
+  "que_dice": "Dios mismo habla: todavía hay tiempo de volver a Él con ayuno, llanto y duelo (2,12). El profeta añade que no se rasguen los vestidos, el gesto del luto, sino el corazón (2,13).\n\nLa razón está en una frase que Israel conocía de memoria: el Señor es clemente y compasivo, lento a la ira y rico en amor, y puede arrepentirse del mal. Es la fórmula de Éx 34,6-7. Después se convoca a toda la comunidad, incluidos los recién casados, y los sacerdotes piden a Dios que se compadezca (2,15-17).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Jl 2,13 junto a Éx 34,6-7, la fórmula de los atributos divinos que la liturgia de penitencia recita en los días de ayuno y perdón."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica lee Jl 2,12-18 el Miércoles de Ceniza, que abre la Cuaresma, como llamada a la conversión interior."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica ve en Jl 2,13 una cita de la fórmula de Éx 34,6-7, que reaparece en Jon 4,2, en Sal 103 y en Neh 9,17. Aquí sirve de motivo de esperanza para quien se convierte.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

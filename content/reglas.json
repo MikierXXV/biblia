@@ -1,0 +1,227 @@
+{
+  "$comment": "Reglas del contenido de Biblia (DEC 5.6). scripts/validar-contenido.mjs es generico: lo que comprueba lo lee de aqui.",
+  "idiomas": [
+    "es"
+  ],
+  "paridad_idiomas": false,
+  "colecciones": {
+    "secciones": {
+      "fichero": "secciones.json",
+      "lista": "secciones",
+      "schema": "seccion.schema.json"
+    },
+    "libros": {
+      "directorio": "libros",
+      "schema": "libro.schema.json"
+    },
+    "ensenanzas": {
+      "directorio": "ensenanzas",
+      "schema": "ensenanza.schema.json"
+    },
+    "temas": {
+      "fichero": "temas.json",
+      "lista": "temas",
+      "schema": "tema.schema.json"
+    }
+  },
+  "referencias": [
+    {
+      "de": "libros",
+      "campo": "seccion_id",
+      "a": "secciones",
+      "exigir_uso": true
+    },
+    {
+      "de": "ensenanzas",
+      "campo": "libro_id",
+      "a": "libros"
+    },
+    {
+      "de": "ensenanzas",
+      "campo": "temas",
+      "a": "temas"
+    },
+    {
+      "de": "temas",
+      "campo": "relacionados",
+      "a": "temas"
+    }
+  ],
+  "orden": [
+    {
+      "coleccion": "secciones",
+      "campo": "orden"
+    },
+    {
+      "coleccion": "libros",
+      "agrupado_por": "seccion_id",
+      "campo": "orden"
+    },
+    {
+      "coleccion": "ensenanzas",
+      "agrupado_por": "libro_id",
+      "campo": "orden"
+    },
+    {
+      "coleccion": "temas",
+      "campo": "orden"
+    }
+  ],
+  "longitudes": {
+    "secciones": {
+      "nombre": [
+        3,
+        80
+      ],
+      "resumen": [
+        40,
+        300
+      ]
+    },
+    "libros": {
+      "nombre": [
+        3,
+        80
+      ],
+      "resumen": [
+        40,
+        300
+      ],
+      "presentacion": [
+        400,
+        1300
+      ]
+    },
+    "ensenanzas": {
+      "titulo": [
+        12,
+        70
+      ],
+      "que_dice": [
+        200,
+        700
+      ]
+    },
+    "temas": {
+      "nombre": [
+        3,
+        80
+      ],
+      "resumen": [
+        40,
+        300
+      ],
+      "introduccion": [
+        400,
+        1300
+      ],
+      "divergencias": [
+        80,
+        700
+      ]
+    }
+  },
+  "citas": null,
+  "cita_biblica": {
+    "coleccion": "ensenanzas",
+    "campo": "cita",
+    "max_palabras": 40,
+    "traducciones": [
+      "Torres Amat"
+    ]
+  },
+  "lecturas_minimas": {
+    "coleccion": "ensenanzas",
+    "campo": "lecturas",
+    "extra": "academica",
+    "abierta": "abierta",
+    "etiqueta_comun": "comun"
+  },
+  "completo_exige": [
+    {
+      "coleccion": "libros",
+      "campo": "estado",
+      "valor": "completo",
+      "exige": [
+        "presentacion",
+        "autoria",
+        "datacion",
+        "canon",
+        "fuentes"
+      ]
+    },
+    {
+      "coleccion": "temas",
+      "campo": "estado",
+      "valor": "completo",
+      "exige": [
+        "introduccion"
+      ]
+    }
+  ],
+  "conteo_hijos": [
+    {
+      "coleccion": "libros",
+      "hijos": "ensenanzas",
+      "campo_hijo": "libro_id",
+      "si": {
+        "estado": "completo"
+      },
+      "min": 3,
+      "max": 6
+    }
+  ],
+  "cobertura": [
+    {
+      "coleccion": "libros",
+      "campo": "estado",
+      "valor": "completo",
+      "esperados": 73
+    },
+    {
+      "coleccion": "temas",
+      "campo": "estado",
+      "valor": "completo"
+    }
+  ],
+  "lectura": {
+    "$comment": "DEC §13 Lectura amena. Se edita esto, no el guion. Párrafos separados por una línea en blanco (\\n\\n).",
+    "max_palabras_frase": 30,
+    "max_frases_parrafo": 4,
+    "max_car_parrafo": 420,
+    "glosa_cursiva": true,
+    "cursiva_sin_glosa": [],
+    "abreviaturas": ["a. C.", "d. C.", "p. ej.", "s.", "ss.", "eds.", "ed.", "cf.", "vv.", "n.º", "trad."],
+    "vetadas": [
+      "en realidad", "lo cierto es", "sin duda", "verdadera interpretación", "la palabra de dios nos",
+      "cabe destacar", "cabe señalar", "es importante señalar", "es importante destacar", "conviene señalar",
+      "en este sentido", "a lo largo de la historia", "no es casualidad"
+    ],
+    "campos": {
+      "ensenanzas": ["titulo", "que_dice", "lecturas[].texto", "academica[].texto", "critica.texto", "critica.posturas[].texto"],
+      "libros": ["resumen", "presentacion", "autoria.tradicion", "autoria.critica", "datacion.tradicion", "datacion.critica", "datacion.posturas[].texto", "pasajes_clave[].nota", "para_recordar[]"],
+      "temas": ["resumen", "introduccion", "divergencias", "para_recordar[]"]
+    },
+    "presupuesto": {
+      "ensenanzas": { "campos": ["que_dice", "lecturas[].texto", "academica[].texto", "critica.texto", "critica.posturas[].texto"], "max": 1800 }
+    },
+    "parrafos_minimos": {
+      "libros": { "presentacion": 2 },
+      "temas": { "introduccion": 2 }
+    },
+    "listas": [
+      { "coleccion": "libros", "si": { "estado": "completo" }, "campo": "para_recordar", "min": 3, "max": 5, "max_car_elemento": 140 },
+      { "coleccion": "temas", "si": { "estado": "completo" }, "campo": "para_recordar", "min": 2, "max": 4, "max_car_elemento": 140 },
+      { "coleccion": "ensenanzas", "en": "critica", "si": { "acuerdo": "discusion" }, "campo": "posturas", "min": 2, "max": 4, "max_car_elemento": 260, "motivo": "una disputa se pinta como caja con sus posturas" },
+      { "coleccion": "libros", "en": "datacion", "si": { "acuerdo": "discusion" }, "campo": "posturas", "min": 2, "max": 4, "max_car_elemento": 260, "motivo": "una disputa se pinta como caja con sus posturas" },
+      { "coleccion": "ensenanzas", "campo": "academica", "min": 0, "max": 2, "max_car_elemento": 450 },
+      { "coleccion": "ensenanzas", "campo": "lecturas", "min": 1, "max": 5, "max_car_elemento": 420 }
+    ]
+  },
+  "escenografia": null,
+  "visualizacion": null,
+  "acentos": {
+    "fichero": "secciones.json",
+    "lista": "secciones"
+  }
+}

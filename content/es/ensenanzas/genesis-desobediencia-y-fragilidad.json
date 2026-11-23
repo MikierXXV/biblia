@@ -1,0 +1,58 @@
+{
+  "id": "genesis-desobediencia-y-fragilidad",
+  "libro_id": "genesis",
+  "orden": 3,
+  "titulo": "Una desobediencia rompe la confianza con Dios y entre ellos",
+  "pasaje": "Gn 3,1-24",
+  "que_dice": "Una serpiente pregunta a la mujer si Dios ha prohibido comer de todos los árboles del jardín. La mujer y el hombre comen del fruto prohibido. Descubren que están desnudos y se esconden.\n\nDios los busca y los interroga, y cada uno culpa a otro. Anuncia consecuencias: trabajo duro, dolor en el parto, muerte y expulsión del jardín. A la serpiente le dice que habrá enemistad entre su descendencia y la de la mujer (3,15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica lee 3,15 sobre todo como una enemistad entre la serpiente y los humanos. Algunos targumim (traducciones arameas antiguas) añaden un remedio «en los días del Mesías». No hay doctrina de culpa heredada: la inclinación al mal se recibe, pero se puede dominar."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, desde Ireneo, ve en 3,15 el protoevangelio, cumplido en Cristo. La Vulgata dice «ella te aplastará la cabeza», y la tradición mariana lo aplicó a María. Desde Agustín, y en Trento (1546), lee en Gn 3 el origen del pecado original."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lee la caída como herencia de mortalidad y corrupción, no de culpa personal transmitida. El «pecado ancestral» debilita a la persona, pero no le quita la libertad."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La lectura protestante clásica, como la de Lutero y la de Calvino, también ve en 3,15 una promesa cristológica. Subraya que el sujeto es la descendencia de la mujer, no María."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible, en su lectura literaria y feminista, sostiene que el texto no culpa a la mujer ni manda someterla. La subordinación de 3,16 sería una consecuencia de la ruptura, no un mandato."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee Gn 3 como un relato de orígenes, no como una crónica. En 3,15 ve la explicación de la enemistad entre serpientes y humanos, más que una profecía mesiánica.",
+    "acuerdo": "consenso"
+  },
+  "abierta": true,
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

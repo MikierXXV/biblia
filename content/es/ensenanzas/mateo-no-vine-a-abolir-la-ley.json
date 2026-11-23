@@ -1,0 +1,57 @@
+{
+  "id": "mateo-no-vine-a-abolir-la-ley",
+  "libro_id": "mateo",
+  "orden": 2,
+  "titulo": "Jesús dice que no ha venido a abolir la Ley, sino a cumplirla",
+  "pasaje": "Mt 5,17-20",
+  "que_dice": "Un maestro judío habla a una multitud y empieza por tranquilizarla: no ha venido a abolir la Ley ni los profetas. Mientras dure el mundo no pasará de la Ley ni una letra. Quien enseñe a cumplir hasta el mandamiento más pequeño será grande en el reino de los cielos.\n\nLuego pone una condición: la justicia de sus oyentes ha de superar la de los escribas y fariseos (Mt 5,20). Las antítesis que siguen, desde 5,21, la ilustran con ejemplos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, el pasaje sitúa a Jesús dentro del debate sobre cómo cumplir la Torá. El judaísmo rabínico mantiene que la Torá sigue en vigor para Israel, de modo que la pregunta es si Mateo lo presenta como cumplidor o como reinterpretador con autoridad propia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Jesús lleva la Ley a su plenitud. Tomás de Aquino distingue en ella preceptos morales, que siguen vigentes, y rituales y judiciales, que cesan con Cristo (Suma Teológica I-II, q. 98-108)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero distinguía entre ley, que acusa, y evangelio, que justifica. Calvino defendió además un «tercer uso» de la ley: guiar a quien ya cree (Institución II, 7, 12). Ambos leen este texto desde esa distinción."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que la frase refleja la preocupación de Mateo por la continuidad con Israel. Discuten qué valor tenía la Ley para su comunidad.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Anthony Saldarini",
+        "texto": "Mateo y su comunidad siguen cumpliendo la Torá, leída a la luz de las enseñanzas de Jesús y del mandamiento del amor."
+      },
+      {
+        "quien": "Graham Stanton",
+        "texto": "Mateo escribe para una comunidad que ya se ha separado de la sinagoga y reinterpreta la Ley para creyentes judíos y gentiles."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Matthew's Christian-Jewish Community (University of Chicago Press, 1994)",
+      "autor": "Anthony J. Saldarini",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Gospel for a New People: Studies in Matthew (T&T Clark, 1992)",
+      "autor": "Graham N. Stanton",
+      "tradicion": "critica"
+    }
+  ]
+}

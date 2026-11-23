@@ -1,0 +1,49 @@
+{
+  "id": "2-reyes-naaman-el-extranjero-que-queda-limpio",
+  "libro_id": "2-reyes",
+  "orden": 2,
+  "titulo": "Naamán, un general extranjero, queda limpio de la lepra",
+  "pasaje": "2 Re 5",
+  "que_dice": "Naamán, general del rey de Aram, tiene lepra. Una niña israelita, cautiva en su casa, le dice que un profeta de Samaría podría curarlo. Eliseo ni sale a recibirlo: le manda lavarse siete veces en el Jordán. Naamán se enfurece, pero sus siervos lo convencen, y al bañarse su piel queda como la de un niño (5,1-14).\n\nNaamán confiesa que no hay Dios en toda la tierra sino en Israel. Pide llevarse tierra de Israel y pide perdón de antemano por acompañar a su rey al templo de Rimón. Eliseo le dice que se vaya en paz (5,15-19).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee en Naamán a un extranjero que reconoce al Dios de Israel sin hacerse israelita. Se discute si el saludo de despedida de Eliseo aprueba su conducta ante el templo de Rimón."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el bautismo de Naamán anuncia el bautismo cristiano. Jesús recuerda que, en tiempos de Eliseo, el único leproso curado fue Naamán, un extranjero (Lc 4,27)."
+    }
+  ],
+  "critica": {
+    "texto": "El relato destaca por quiénes ayudan a Naamán: una niña cautiva y unos siervos. Se discute por qué Eliseo permite a Naamán entrar en el templo de Rimón.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de los comentaristas",
+        "texto": "Eliseo concede una excepción a un extranjero que no es israelita y no está obligado a su culto exclusivo."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "El texto no aprueba ni condena: deja a Naamán a solas con su conciencia, con un saludo cordial y sin sentencia."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "profecia-y-llamada",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Kings (Anchor Bible 11)",
+      "autor": "Mordechai Cogan y Hayim Tadmor",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

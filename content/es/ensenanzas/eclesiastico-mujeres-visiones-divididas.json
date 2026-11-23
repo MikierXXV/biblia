@@ -1,0 +1,47 @@
+{
+  "id": "eclesiastico-mujeres-visiones-divididas",
+  "libro_id": "eclesiastico",
+  "orden": 3,
+  "titulo": "Ben Sira alaba a la buena esposa y teme a la mala: una visión dividida",
+  "pasaje": "Sir 25,13-26,18; 42,9-14",
+  "que_dice": "Ben Sira dedica páginas a las mujeres. De la buena esposa dice que alegra a su marido y le da larga vida (26,1-4). De la mala, que es una desgracia: iracunda, celosa o de lengua afilada (25,13-26). Y escribe que por una mujer empezó el pecado y por ella morimos todos (25,24).\n\nEn el capítulo 42 advierte de que una hija es motivo de insomnio para su padre y hay que vigilarla (42,9-11). Y en 42,14 llega a decir que la maldad de un hombre es preferible a la bondad de una mujer, frase que muchas traducciones suavizan o callan. El texto muestra a la vez respeto y desconfianza.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Sanedrín 100b) discute si se puede leer a Ben Sira y cita justo su dicho sobre las hijas como causa de insomnio para el padre."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica propone el elogio de la buena esposa (26,1-4.13-16) para las bodas. No proclama los versículos más duros."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute si estos textos son misoginia o consejo propio de una sociedad patriarcal que valora a la esposa virtuosa.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Ve misoginia: culpa a la mujer del pecado (25,24) y mide su valor por el honor del marido o del padre."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Ve ambivalencia: critica conductas concretas y elogia con entusiasmo a la esposa virtuosa, sin atacar a la mujer en general."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "efesios-unidad-de-la-iglesia",
+  "libro_id": "efesios",
+  "orden": 4,
+  "titulo": "¿Qué une a la Iglesia en un solo cuerpo, según Efesios?",
+  "pasaje": "Ef 4,1-16",
+  "que_dice": "Quien escribe se presenta como prisionero y pide a sus lectores vivir a la altura de su llamada: con humildad, paciencia y apoyo mutuo (Ef 4,1-3). Después enumera siete unidades: un cuerpo, un Espíritu, una esperanza, un Señor, una fe, un bautismo, un Dios (4,4-6).\n\nLa unidad convive con la variedad. Cristo ha dado dones distintos, entre ellos apóstoles, profetas, evangelistas, pastores y maestros, para que todos crezcan hasta formar un cuerpo maduro (4,7-16).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica entiende la unidad como visible, con ministerios que la sirven: los apóstoles y sus sucesores, los obispos. El Vaticano II cita estos versículos al hablar de la Iglesia como cuerpo de Cristo (*Lumen gentium*, 7)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa subraya la unidad de fe y de eucaristía y la comunión de las Iglesias locales con sus obispos, sin una cabeza visible única sobre todas ellas."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas tradiciones protestantes entienden la unidad como unidad de fe y bautismo entre iglesias distintas, sin una estructura común. El movimiento ecuménico cita a menudo 4,4-6."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten qué dicen los ministerios de 4,11 sobre la época de la carta.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ernst Käsemann",
+        "texto": "La lista de ministerios muestra un «protocatolicismo»: una Iglesia que ya se organiza en cargos, propia de la generación posterior a Pablo."
+      },
+      {
+        "quien": "Harold Hoehner",
+        "texto": "Los ministerios son dones de Cristo para edificar el cuerpo, no cargos jerárquicos; no obligan a datar la carta tras Pablo."
+      }
+    ]
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ephesians (Word Biblical Commentary 42)",
+      "autor": "Andrew T. Lincoln",
+      "tradicion": "critica",
+      "url": "https://www.accordancebible.com/product/wbc-vol-42-ephesians-by-andrew-t-lincoln/"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary (Baker Academic, 2002)",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    }
+  ]
+}

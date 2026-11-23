@@ -1,0 +1,38 @@
+{
+  "id": "isaias-vocacion-en-el-templo",
+  "libro_id": "isaias",
+  "orden": 1,
+  "titulo": "Un profeta ve a Dios en el Templo y se ofrece a ir",
+  "pasaje": "Is 6,1-13",
+  "que_dice": "El año en que muere el rey Uzías, Isaías ve en el Templo a Dios sentado en un trono. Seres alados gritan: «Santo, santo, santo» (6,1-3). El umbral tiembla y el recinto se llena de humo. El profeta se cree perdido: es un hombre de labios impuros y ha visto al Rey (6,5).\n\nUn serafín (ser alado de fuego) le toca los labios con una brasa del altar y le anuncia que su culpa queda quitada. Entonces Isaías oye a Dios preguntar a quién enviará. Se ofrece él mismo (6,8). La misión es ingrata: hablar a un pueblo que no va a escuchar (6,9-13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Is 6 como visión del trono divino. El «Santo, santo, santo» entra en la *Qedushá*, la «santificación» que se recita en la oración de la sinagoga. El Talmud (Yebamot 49b) cuenta que Isaías murió mártir por haber dicho que vio a Dios."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica canta el «Santo» de Is 6,3 en el *Sanctus*, el himno que precede a la plegaria eucarística; la ortodoxa tiene un uso parecido. Algunos Padres de la Iglesia vieron en las tres repeticiones una alusión a la Trinidad."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica lee Is 6 como el relato de vocación de Isaías, fechado hacia el 740 a. C., año de la muerte de Uzías. Lo compara con los de Moisés (Éx 3), Jeremías (Jr 1) y Ezequiel (Ez 1-3): un encuentro con Dios, una objeción y un encargo. Es un patrón que se repite.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 1-39 (Anchor Bible 19)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    }
+  ]
+}

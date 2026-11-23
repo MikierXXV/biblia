@@ -1,0 +1,38 @@
+{
+  "id": "josue-dios-cumple-la-promesa-de-la-tierra",
+  "libro_id": "josue",
+  "orden": 1,
+  "titulo": "Dios cumple su promesa: Israel recibe la tierra",
+  "pasaje": "Jos 1,1-9; 21,43-45",
+  "que_dice": "Josué recibe el mando con una orden repetida: ser fuerte y valiente. Debe cumplir la ley de Moisés y no apartarse de ella (1,7-9). Al final de los repartos, el narrador resume que Dios dio a Israel toda la tierra jurada a los antepasados y que ninguna promesa falló (21,43-45).\n\nPero el libro no cierra la cuestión. Más adelante admite que quedan tierras por conquistar (13,1) y pueblos que siguen viviendo entre los israelitas (16,10; 23,12-13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en Josué el cumplimiento de la promesa hecha a Abrahán (Gn 15,18-21). La tierra sigue siendo central en su oración y en su calendario después de siglos de exilio."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, desde Bernabé y Justino (s. II), Josué es figura de Jesús: introduce al pueblo en el descanso que Moisés no pudo dar. Heb 4,8 ya distingue el descanso de Josué del que Dios promete."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en esa tensión la huella de varias capas de redacción: una cuenta una conquista completa (11,23; 21,43) y otra reconoce tierras sin tomar (13,1; 23,12-13).",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "alianza",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

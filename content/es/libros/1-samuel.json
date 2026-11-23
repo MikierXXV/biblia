@@ -1,0 +1,87 @@
+{
+  "id": "1-samuel",
+  "seccion_id": "historicos",
+  "orden": 4,
+  "nombre": "1 Samuel",
+  "abreviatura": "1 Sm",
+  "capitulos": 31,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta el paso de los jueces a la monarquía con Samuel, Saúl y David. Muestra el coste de pedir un rey y el ascenso de un pastor al trono.",
+  "presentacion": "Ana llora en el santuario de Siló: no tiene hijos y el sacerdote la toma por borracha. Reza, y nace Samuel. Con él empieza un libro que cuenta una generación decisiva: el último juez, el primer rey y el ascenso de David.\n\nTres figuras ocupan el libro. Samuel (capítulos 1-7) es profeta, sacerdote y juez. Saúl (capítulos 8-15), el primer rey, es ungido y luego rechazado. David (capítulos 16-31) sube de pastor a jefe de guerra, perseguido por Saúl.\n\nEl texto hebreo de Samuel es de los peor conservados de la Biblia. Los rollos de Qumrán y la traducción griega antigua guardan a veces una lectura mejor. Por eso los comentarios discuten palabras sueltas y episodios enteros, como el de Goliat.\n\nOjo con la numeración. La Septuaginta y la Vulgata llaman 1-4 Reinos, o 1-4 Reyes, a los libros de Samuel y Reyes. Torres Amat, que sigue la Vulgata, titula «1-2 Reyes» lo que aquí es 1-2 Samuel.",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b-15a) atribuye el libro a Samuel hasta su muerte, y el resto a los profetas Natán y Gad.",
+    "critica": "El libro es anónimo. La mayoría de la crítica lo incluye en la Historia deuteronomista. Cree que reúne fuentes antiguas: una historia de la subida de David, una narración del arca y relatos sobre Saúl.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Samuel, el libro es del siglo XI a. C., con retoques posteriores.",
+    "critica": "Los hechos se sitúan hacia 1050-1000 a. C., y la forma actual es deuteronomista (siglos VII-VI a. C.). Se discute la fecha de las fuentes más antiguas, entre los siglos X y VIII a. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      -950,
+      -550
+    ],
+    "rango_tradicion": [
+      -1050,
+      -1000
+    ],
+    "posturas": [
+      {
+        "quien": "P. Kyle McCarter",
+        "texto": "Fuentes como la historia de la subida de David serían del siglo X a. C., escritas para defender a David de las acusaciones de sus rivales."
+      },
+      {
+        "quien": "Israel Finkelstein",
+        "texto": "Los relatos de Saúl conservan recuerdos del norte antiguo, pero la forma actual refleja sobre todo la Judá del siglo VII a. C."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es un solo libro con 2 Samuel, entre los Profetas anteriores. La división en dos viene de la traducción griega y pasó a las Biblias cristianas.",
+    "ortodoxa": "Es canónico. La Septuaginta lo llama 1 Reinos y cuenta Samuel y Reyes como cuatro libros de los Reinos.",
+    "protestante": "Es canónico, con la división en dos libros que viene de la Septuaginta."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Sm 1-2",
+      "nota": "Ana reza en Siló, nace Samuel y ella canta un cántico a un Dios que cambia la suerte de los pobres."
+    },
+    {
+      "pasaje": "1 Sm 8",
+      "nota": "Los ancianos piden un rey y Samuel avisa de lo que costará."
+    },
+    {
+      "pasaje": "1 Sm 16,7",
+      "nota": "Dios no mira las apariencias, sino el corazón: así elige a David."
+    },
+    {
+      "pasaje": "1 Sm 17",
+      "nota": "David, un pastor con honda, vence al campeón filisteo Goliat."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Samuel es el último juez, un profeta y quien unge a los dos primeros reyes de Israel.",
+    "Pedir un rey (1 Sm 8) se lee como necesidad o como rechazo de Dios: el texto da ambas voces.",
+    "David sube de pastor a jefe de guerra, y el relato admite sus sombras.",
+    "El texto hebreo está mal conservado: Qumrán y la Septuaginta ayudan a leerlo.",
+    "Torres Amat llama «1-2 Reyes» a 1-2 Samuel, porque sigue la numeración de la Vulgata."
+  ]
+}

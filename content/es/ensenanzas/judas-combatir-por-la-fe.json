@@ -1,0 +1,32 @@
+{
+  "id": "judas-combatir-por-la-fe",
+  "libro_id": "judas",
+  "orden": 1,
+  "titulo": "¿Qué es la fe que hay que defender de una vez para siempre?",
+  "pasaje": "Jds 3-4",
+  "que_dice": "Judas quería escribir sobre la salvación que todos comparten, pero se ve obligado a escribir otra cosa. Pide a sus lectores que combatan por la fe transmitida a los santos de una vez para siempre (v. 3).\n\nLa causa son unos intrusos que se han colado en la comunidad (v. 4). Según Judas, son impíos que convierten la gracia de Dios en excusa para una vida sin freno y que niegan al único Señor.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la fe transmitida de una vez para siempre se corresponde con el depósito de la fe que custodia la Iglesia."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas protestantes la entienden como la enseñanza apostólica, hoy fijada en la Escritura."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos lee la carta como una polémica interna contra maestros itinerantes, con muchas imágenes judías. Lo que se dice de los intrusos sale de la propia carta, y poco más se sabe de ellos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2-samuel-la-promesa-a-david",
+  "libro_id": "2-samuel",
+  "orden": 1,
+  "titulo": "Dios promete a David una casa y un reino que no acabarán",
+  "pasaje": "2 Sm 7,1-17",
+  "que_dice": "David vive en un palacio de cedro y piensa construir una casa para Dios, que sigue en una tienda. El profeta Natán le dice que adelante. Esa noche, Dios responde: no será David quien le construya una casa, sino Dios quien le hará una casa a David (7,1-11).\n\nDios promete un hijo que edificará el templo y un reino para siempre. Será para él un padre, y él para Dios un hijo. Si peca, lo corregirá, pero no le retirará su fidelidad, como se la retiró a Saúl (7,12-15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en 2 Sm 7 el fundamento de la dinastía davídica. Con el tiempo, de ahí nace la esperanza en un Mesías descendiente de David (Maimónides, Leyes de los reyes 11). Comentaristas medievales como Radak aplican los versículos 13-14 a Salomón."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la promesa se cumple en Jesús, descendiente de David (Lc 1,32-33; Hch 13,22-23). Heb 1,5 aplica a Jesús las palabras de 2 Sm 7,14 sobre el padre y el hijo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Iglesias protestantes siguen en general la lectura cristológica. Muchos comentaristas distinguen un cumplimiento inmediato en Salomón y otro definitivo en Jesús."
+    }
+  ],
+  "critica": {
+    "texto": "El capítulo juega con la palabra «casa»: palacio, templo y dinastía. La crítica discute cuánto de él es antiguo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "P. Kyle McCarter",
+        "texto": "Hay un núcleo de la época de David o Salomón, ampliado después por el redactor deuteronomista."
+      },
+      {
+        "quien": "Frank M. Cross",
+        "texto": "La promesa a David es un tema central del redactor deuteronomista, y el capítulo recibió su forma bajo Josías."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "alianza",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Samuel (Anchor Bible 9)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Canaanite Myth and Hebrew Epic",
+      "autor": "Frank Moore Cross",
+      "tradicion": "critica"
+    }
+  ]
+}

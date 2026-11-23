@@ -1,0 +1,72 @@
+{
+  "id": "abdias",
+  "seccion_id": "profetas",
+  "orden": 10,
+  "nombre": "Abdías",
+  "abreviatura": "Abd",
+  "capitulos": 1,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "El libro más breve del Antiguo Testamento: veintiún versículos contra Edom, el pueblo hermano que se alegró cuando Jerusalén cayó.",
+  "presentacion": "Jerusalén arde, el Templo es un montón de piedras y los supervivientes huyen por los caminos. Desde las colinas de Edom, el pueblo vecino, hay quien mira y se queda con lo que puede (Abd 1,10-14). De ese dolor nace este libro.\n\nAbdías (su nombre significa «siervo del Señor») es el libro más corto del Antiguo Testamento: un solo capítulo de 21 versículos. Anuncia la caída de Edom, una nación emparentada con Israel por Esaú, y proclama que el día del Señor alcanzará a todos los pueblos (Abd 15).\n\nEs un texto incómodo, escrito desde la herida. Cierra con la esperanza de que el monte Sión recobre lo perdido y el reino sea del Señor (Abd 17-21).",
+  "autoria": {
+    "tradicion": "Abd 1 lo presenta como «visión de Abdías», sin más datos. La tradición judía lo identificó con un converso edomita o con el mayordomo de Ajab de 1 Re 18.",
+    "critica": "Nada seguro se sabe del autor. La crítica lo ve como un profeta anónimo de Judá, y varios estudiosos creen que los versículos finales se añadieron después.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición judía, que lo une al Abdías de 1 Re 18, lo sitúa en época monárquica, antes del exilio.",
+    "critica": "La crítica data el oráculo poco después de la caída de Jerusalén en 587 a. C., porque Abd 11-14 presupone que la ciudad ya fue saqueada.",
+    "acuerdo": "consenso",
+    "rango": [
+      -585,
+      -450
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el quinto.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Abd 1,3-4",
+      "nota": "El orgullo de quien vive en las alturas de las rocas."
+    },
+    {
+      "pasaje": "Abd 1,10-14",
+      "nota": "Edom, hermano de Jacob, se alegra y saquea el día de la ruina."
+    },
+    {
+      "pasaje": "Abd 1,15",
+      "nota": "El día del Señor llega para todas las naciones: lo que hiciste se te hará."
+    },
+    {
+      "pasaje": "Abd 1,17-21",
+      "nota": "Sión recobra lo suyo y el reino será del Señor."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Abdías, con 21 versículos, es el libro más breve del Antiguo Testamento.",
+    "Es un oráculo contra Edom, que se alegró de la caída de Jerusalén en 587 a. C. (Abd 10-14).",
+    "El día del Señor alcanza a todas las naciones: lo que hiciste se te hará (Abd 15).",
+    "Es un texto de dolor y de desquite; la tradición rabínica leyó en Edom a Roma."
+  ]
+}

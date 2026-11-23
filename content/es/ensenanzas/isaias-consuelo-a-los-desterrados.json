@@ -1,0 +1,57 @@
+{
+  "id": "isaias-consuelo-a-los-desterrados",
+  "libro_id": "isaias",
+  "orden": 5,
+  "titulo": "Una voz manda consolar a los desterrados en Babilonia",
+  "pasaje": "Is 40,1-11",
+  "que_dice": "Los desterrados de Judá llevan décadas en Babilonia, sin Templo, sin rey y sin tierra. De pronto una voz ordena consolar al pueblo: la condena ha terminado y la culpa está pagada (40,1-2). Otra voz manda abrir en el desierto un camino para que Dios vuelva con ellos (40,3-5).\n\nEl poema admite que toda carne es como la hierba: se seca y se marchita. Solo la palabra de Dios permanece (40,6-8). Acaba con una imagen de pastor: Dios llega con fuerza, lleva en brazos a los corderos y guía con cuidado a las madres (40,10-11).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Is 40,1-26 como la primera de las siete lecturas proféticas de consuelo que siguen al 9 de Av, el duelo por el Templo. Ese sábado se llama Shabat Najamu, «sábado del consuelo», por la primera palabra del poema."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Los cuatro evangelios aplican Is 40,3 a Juan el Bautista, la voz que prepara el camino (Mc 1,2-3; Mt 3,3; Lc 3,4-6; Jn 1,23). La liturgia católica lo lee en Adviento."
+    }
+  ],
+  "critica": {
+    "texto": "Is 40 abre lo que casi toda la crítica llama Segundo Isaías (Is 40-55), compuesto hacia 540 a. C., poco antes de que Ciro de Persia conquistara Babilonia. Que el libro tenga tres autores o épocas es lo más discutido.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Bernhard Duhm, Joseph Blenkinsopp y la mayoría de la crítica",
+        "texto": "Tres partes (1-39, 40-55, 56-66) con historia, estilo y destinatarios distintos: Asiria, Babilonia y el regreso."
+      },
+      {
+        "quien": "Oswalt, Motyer y otros",
+        "texto": "Un solo Isaías, que habría visto de antemano el exilio y a Ciro (44,28; 45,1)."
+      },
+      {
+        "quien": "Williamson, Childs, Seitz",
+        "texto": "Varias épocas, pero un libro compuesto como unidad: 40-55 reinterpreta a 1-39."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 40-55 (Anchor Bible 19A)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Book Called Isaiah",
+      "autor": "H. G. M. Williamson",
+      "tradicion": "critica"
+    }
+  ]
+}

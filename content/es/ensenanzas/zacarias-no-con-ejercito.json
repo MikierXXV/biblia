@@ -1,0 +1,43 @@
+{
+  "id": "zacarias-no-con-ejercito",
+  "libro_id": "zacarias",
+  "orden": 2,
+  "titulo": "Ni ejército ni fuerza: el espíritu de Dios acabará el Templo",
+  "pasaje": "Zac 4,1-14",
+  "que_dice": "Zacarías despierta de golpe, como quien duerme, y ve un candelabro de oro con siete lámparas y dos olivos a sus lados (4,1-3). Pregunta qué significan, y el ángel responde con un mensaje para Zorobabel: no con ejército ni con fuerza, sino con mi espíritu (4,6).\n\nZorobabel puso los cimientos del Templo y será quien lo termine. Hasta la montaña que le estorba se volverá llanura (4,7-9). Quien desprecie el día de las cosas pequeñas se alegrará al ver la plomada en su mano (4,10).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Zac 4 forma parte de la haftará (lectura profética) del sábado de Janucá, la fiesta que recuerda la victoria macabea. Se suele leer allí Zac 4,6 como contrapunto: la victoria última no vendría de las armas."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante encuentran el eco de Zac 4,3.11-14 en Ap 11,4, donde los dos olivos son los dos testigos de Dios."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica sitúa la visión en el 519 a. C. y la ve ligada a la refundación del Templo, terminado en el 515 a. C. (Esd 6,15). Petersen ve en 4,6b-10a un añadido sobre Zorobabel, intercalado en la visión.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Haggai and Zechariah 1-8 (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Apocalipsis 11,4",
+      "autor": "Nuevo Testamento",
+      "tradicion": "catolica"
+    }
+  ]
+}

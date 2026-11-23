@@ -1,0 +1,54 @@
+{
+  "id": "job-amigos-reprendidos",
+  "libro_id": "job",
+  "orden": 3,
+  "titulo": "Dios reprende a los amigos que lo defendían y da la razón a Job",
+  "pasaje": "Job 42,7-9",
+  "que_dice": "Tres amigos vienen a consolar a Job y acaban acusándolo. Su argumento es sencillo: Dios es justo, así que Job habrá pecado. Le piden que se arrepienta. Job rechaza la acusación y se queda solo.\n\nAl final habla Dios, pero no a Job. Dice a Elifaz que está irritado con él y con sus compañeros, porque no han hablado de Dios con rectitud como Job (42,7). Job debe orar por ellos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los sabios del Talmud no coinciden sobre la actitud de Job. Unos le reprochan palabras excesivas contra Dios (Baba Batra 16a) y otros lo defienden. Otro pasaje (16b) pone a sus amigos como modelo: o compañeros como los de Job, o la muerte."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Gregorio Magno ve en los amigos de Job a quienes defienden a Dios con un discurso que no está a su altura. La tradición cristiana los cita a menudo como ejemplo de quien juzga el dolor ajeno con fórmulas hechas."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "liberacion",
+      "autor": "Gustavo Gutiérrez",
+      "texto": "Para Gutiérrez, los amigos encarnan la teología de la retribución, que culpa a la víctima. Quien sufre algo, lo merece. Esa lógica justifica la pobreza como castigo."
+    }
+  ],
+  "critica": {
+    "texto": "Un cuarto personaje, Elihú, habla en 32-37. No aparece en el prólogo ni en 42,7-9. Se discute si es una adición.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "La mayoría de críticos",
+        "texto": "Ve en Elihú una adición posterior: interrumpe la secuencia entre Job y Dios, y su estilo y vocabulario difieren."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Defienden la unidad del libro: Elihú prepara la respuesta de Dios y presenta el dolor como enseñanza."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Hablar de Dios desde el sufrimiento del inocente",
+      "autor": "Gustavo Gutiérrez",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Book of Job: A Contest of Moral Imaginations",
+      "autor": "Carol A. Newsom",
+      "tradicion": "critica"
+    }
+  ]
+}

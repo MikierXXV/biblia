@@ -1,0 +1,34 @@
+{
+  "id": "nahum-dios-paciente-pero-no-deja-impune",
+  "libro_id": "nahum",
+  "orden": 1,
+  "titulo": "¿Puede ser paciente un Dios que no deja impune al culpable?",
+  "pasaje": "Nah 1,2-8",
+  "que_dice": "El libro abre con una pregunta que incomoda: ¿cómo es el Dios que hablará contra Nínive? El poema lo presenta celoso y vengador, pero también lento a la ira y grande en poder (1,2-3). Su paso seca el mar y los ríos, y hace temblar los montes (1,4-5).\n\nEl contraste llega al final. El Señor es bueno, refugio en el día de angustia y protector de quien confía en él (1,7). A sus enemigos los persigue la oscuridad (1,8).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas leen este poema como la afirmación de que la paciencia de Dios no es indiferencia ante la violencia. El mismo Dios es refugio para quien confía y adversario de quien oprime."
+    }
+  ],
+  "critica": {
+    "texto": "Roberts y Sweeney ven en Nah 1,3 una cita parcial de la fórmula de Éx 34,6-7, la misma que cita Jon 4,2 para explicar el perdón de Nínive. Nahúm deja fuera la compasión y subraya que Dios no deja impune al culpable, que es también parte de Éx 34,7.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Twelve Prophets (Berit Olam)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    }
+  ]
+}

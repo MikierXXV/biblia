@@ -1,0 +1,38 @@
+{
+  "id": "habacuc-aunque-la-higuera-no-florezca",
+  "libro_id": "habacuc",
+  "orden": 3,
+  "titulo": "Aunque la higuera no florezca, me alegraré en el Señor",
+  "pasaje": "Hab 3,17-19",
+  "que_dice": "Una huerta vacía: la higuera no da brotes y la vid no da uvas. El olivo falla, los campos no dan comida, y no hay ovejas en el redil ni vacas en el establo (3,17).\n\nAun así, el profeta dice que se alegrará en el Señor, el Dios que lo salva (3,18). Es el final de un himno que describe a Dios avanzando como tormenta (3,3-15). Le da pies de gacela para caminar por las alturas (3,19).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "En muchas comunidades judías, Hab 3 se lee como haftará, la lectura profética, del segundo día de Shavuot, la fiesta que recuerda el don de la Torá en el Sinaí."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La Liturgia de las Horas católica reza partes de Hab 3 como cántico de la oración de la mañana."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica ve en Hab 3 una composición con forma de salmo: lleva título (3,1) y una nota musical final (3,19). Sus imágenes de Dios como guerrero de la tormenta recuerdan poemas antiguos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

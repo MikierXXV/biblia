@@ -1,0 +1,36 @@
+{
+  "id": "1-timoteo-oracion-por-todos",
+  "libro_id": "1-timoteo",
+  "orden": 1,
+  "titulo": "¿Por quién manda orar la carta, incluso por los gobernantes?",
+  "pasaje": "1 Tim 2,1-4",
+  "que_dice": "Una comunidad pequeña, mirada con recelo por la ciudad, recibe una instrucción sobre cómo orar. La carta pide súplicas y acciones de gracias por todos los hombres, y en particular por los reyes y por quienes tienen autoridad (1 Tim 2,1-2). Da dos motivos: vivir en paz y quietud, y que Dios quiere que todos se salven (2,3-4).\n\nEl texto no dice que esas autoridades sean justas, ni que haya que callar ante ellas. Pide rezar por ellas, y eso incluye a gobernantes que no compartían la fe de la comunidad.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las Iglesias católica y ortodoxa incluyen peticiones por los gobernantes en su liturgia, y muchas Iglesias protestantes hacen lo mismo en su culto. Esa práctica se apoya en este pasaje."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en situar la petición en una comunidad que busca vivir sin conflicto con el Imperio romano. Rezar por el emperador no equivalía a darle culto.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    }
+  ]
+}

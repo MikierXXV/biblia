@@ -1,0 +1,40 @@
+{
+  "id": "colosenses-vida-nueva",
+  "libro_id": "colosenses",
+  "orden": 3,
+  "titulo": "¿Cómo se vive, según Colosenses, la vida nueva en Cristo?",
+  "pasaje": "Col 3,12-14",
+  "que_dice": "La carta describe la vida nueva con la imagen de la ropa: dejar la vieja y ponerse la nueva (Col 3,9-10). Muchos comentaristas ven en ella un eco del bautismo. Los creyentes, elegidos y amados, han de vestirse de compasión, bondad, humildad, mansedumbre y paciencia (3,12).\n\nDeben soportarse y perdonarse como el Señor los perdonó. Sobre todo han de vestirse del amor, que lo une todo en armonía perfecta (3,13-14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía reconoce en la lista rasgos que la Biblia hebrea atribuye a Dios, compasivo y paciente (Ex 34,6). El Talmud pide imitarlo: vestir al desnudo, visitar al enfermo (*Sotá* 14a)."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el pasaje como retrato del bautizado y lo usan en la ética del perdón. Difieren en cómo se logra: por gracia, por esfuerzo o por ambos."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en la lista un catálogo de virtudes con paralelos en la ética judía y helenística. Coinciden en que la carta funda esa conducta en lo que Cristo ya hizo, no en una norma.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica",
+      "url": "https://faithlife.com/store/product/3462"
+    },
+    {
+      "titulo": "The Letters to the Colossians and to Philemon (Pillar New Testament Commentary)",
+      "autor": "Douglas J. Moo",
+      "tradicion": "protestante",
+      "url": "https://search.worldcat.org/title/192083021"
+    }
+  ]
+}

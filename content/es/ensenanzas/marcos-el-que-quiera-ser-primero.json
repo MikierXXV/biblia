@@ -1,0 +1,51 @@
+{
+  "id": "marcos-el-que-quiera-ser-primero",
+  "libro_id": "marcos",
+  "orden": 2,
+  "titulo": "Quien quiera ser el primero debe ser servidor de todos",
+  "pasaje": "Mc 10,35-45",
+  "que_dice": "Santiago y Juan se acercan a Jesús con una petición: sentarse a su derecha y a su izquierda cuando llegue su gloria. Los otros diez se indignan.\n\nJesús los reúne. Los gobernantes de las naciones mandan con dureza, les dice, pero entre vosotros no será así. Quien quiera ser grande será servidor. El propio Hijo del hombre vino a servir y a dar su vida en rescate por muchos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no lee en el siervo que sufre de Is 53 a un mesías que muere por otros: Rashi ve en él al pueblo de Israel. En la Torá, el rescate es el precio que libera una vida (Éx 21,30), y la lectura judía lo entiende en ese sentido legal."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica ve aquí el fundamento del servicio como forma de autoridad en la Iglesia: según el Catecismo, la autoridad es servicio (876)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa entiende el rescate como liberación de la muerte. Gregorio Nacianceno rechazó que se pagara al diablo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante clásica, «rescate por muchos» expresa que Cristo paga por otros. Otras voces protestantes subrayan el servicio como modelo de liderazgo."
+    }
+  ],
+  "critica": {
+    "texto": "La escena sigue al tercer anuncio de la pasión (Mc 10,32-34). Marcos contrapone la incomprensión de los discípulos y la enseñanza de Jesús, un esquema que se repite desde 8,31. Muchos críticos buscan el fondo del rescate por muchos en Is 53 y en 4 Mac 6,28-29, donde un mártir ofrece su vida por el pueblo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "reino-de-dios",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Mark 8-16 (Anchor Bible 27A)",
+      "autor": "Joel Marcus",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Mark: A Commentary (Hermeneia)",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

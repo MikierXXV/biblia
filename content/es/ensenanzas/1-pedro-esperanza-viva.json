@@ -1,0 +1,29 @@
+{
+  "id": "1-pedro-esperanza-viva",
+  "libro_id": "1-pedro",
+  "orden": 1,
+  "titulo": "¿Cómo se alegra uno en medio de la prueba?",
+  "pasaje": "1 Pe 1,3-9",
+  "que_dice": "Unos cristianos de Asia Menor sufren burlas y pérdidas por no seguir las costumbres de su ciudad. La carta empieza por bendecir a Dios, no por consolarlos.\n\nSegún el autor, Dios los ha hecho nacer a una esperanza viva por la resurrección de Jesús (1,3). La herencia que esperan no se pudre ni se marchita. La prueba afina su fe como el fuego afina el oro, y por eso pueden alegrarse aunque duela (1,6-7).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el pasaje se lee como consuelo para quien sufre. La tradición judía, que no recibe esta carta, conoce el mismo motivo del oro purificado por el fuego en Zac 13,9, Mal 3,3 y Prov 17,3."
+    }
+  ],
+  "critica": {
+    "texto": "John Elliott ve en el himno inicial una bendición modelada sobre las de la liturgia judía, adaptada a creyentes en situación de minoría. La mayoría de los críticos acepta que la prueba son hostilidades locales y no una persecución general.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Peter (Anchor Yale Bible 37B)",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    }
+  ]
+}

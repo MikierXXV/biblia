@@ -1,0 +1,56 @@
+{
+  "id": "juan-yo-soy-la-resurreccion-y-la-vida",
+  "libro_id": "juan",
+  "orden": 3,
+  "titulo": "Jesús llora ante la tumba de Lázaro y dice: yo soy la resurrección",
+  "pasaje": "Jn 11,1-44",
+  "que_dice": "Lázaro, amigo de Jesús, ha muerto en Betania. Cuando Jesús llega, lleva cuatro días en la tumba. Marta le dice que su hermano no habría muerto si él hubiera estado allí.\n\nJesús responde: yo soy la resurrección y la vida. Llora ante la tumba y grita: Lázaro, sal fuera. El muerto sale, atado con vendas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, Marta expresa la fe farisea en la resurrección de los muertos «en el último día». La novedad del relato es que Jesús la sitúa en su persona y en el presente."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la resurrección de Lázaro anuncia la de Cristo y la de todos los creyentes. Se lee en el quinto domingo de Cuaresma del ciclo A, antes de la Pascua."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa celebra el sábado de Lázaro la víspera del Domingo de Ramos, como anticipo de la Pascua. Lo considera un signo de la victoria de Cristo sobre la muerte."
+    }
+  ],
+  "critica": {
+    "texto": "Este episodio solo aparece en Juan, y los demás evangelios no lo mencionan. Se discute si es un recuerdo histórico o una composición teológica.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Rudolf Bultmann",
+        "texto": "El relato viene de la fuente de signos y Juan lo reelaboró como un signo: anticipa la resurrección de Jesús y el desenlace de su ministerio."
+      },
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "Detrás hay una tradición local de Betania, con un hecho extraordinario que Juan reelaboró."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Gospel of John: A Commentary (Westminster, 1971)",
+      "autor": "Rudolf Bultmann",
+      "tradicion": "protestante"
+    }
+  ]
+}

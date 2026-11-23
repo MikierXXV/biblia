@@ -1,0 +1,56 @@
+{
+  "id": "esdras-matrimonios-mixtos",
+  "libro_id": "esdras",
+  "orden": 4,
+  "titulo": "Despedir a las esposas extranjeras: ¿fidelidad o exclusión?",
+  "pasaje": "Esd 9-10",
+  "abierta": false,
+  "que_dice": "Esdras llega a Jerusalén y le informan: muchos judíos, incluidos sacerdotes y levitas, se han casado con mujeres de los pueblos vecinos (Esd 9,1-2). Esdras se rasga el manto, se arranca pelo y reza de rodillas ante el Templo (9,3-15). El pueblo llora con él.\n\nLa solución es una asamblea. Los hombres se comprometen a despedir a esas mujeres y a los hijos nacidos de ellas, y una comisión revisa los casos durante tres meses (10,1-17). El libro enumera a los afectados (10,18-44).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía admira a Esdras como restaurador de la Torá. Con el tiempo, la ley rabínica permitió que una extranjera entrase en el pueblo por conversión, y Rut se tomó como modelo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante suelen leer Esd 9-10 junto a 1 Co 7,12-14. Allí Pablo pide que el creyente no repudie a su cónyuge no creyente."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Christine Hayes",
+      "texto": "Christine Hayes sostiene que Esdras amplía la prohibición de Dt 7, que nombra siete pueblos, a todos los pueblos, con un lenguaje de «linaje santo» (Esd 9,2)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute por qué se pidió algo tan duro y cómo se relaciona con Rut y Jonás.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Muchos comentaristas",
+        "texto": "Fue una medida de supervivencia de una comunidad pequeña y amenazada, que protegía así su identidad."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Fue una medida de un grupo, el de los repatriados, frente a la población local. Rut y Jonás serían entonces la réplica de quienes no la compartían."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Gentile Impurities and Jewish Identities",
+      "autor": "Christine E. Hayes",
+      "tradicion": "judia"
+    }
+  ]
+}

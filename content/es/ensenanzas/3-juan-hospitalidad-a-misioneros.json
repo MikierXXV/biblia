@@ -1,0 +1,37 @@
+{
+  "id": "3-juan-hospitalidad-a-misioneros",
+  "libro_id": "3-juan",
+  "orden": 1,
+  "titulo": "Acoger a quien llega sin nada es colaborar con la verdad",
+  "pasaje": "3 Jn 5-8",
+  "que_dice": "Gayo recibe en su casa a unos misioneros que llegan sin dinero. Han salido por el Nombre y no aceptan nada de los paganos (vv. 5-7). El Anciano ha oído hablar de esa generosidad.\n\nLe pide que los despida bien, como merece Dios. Apoyarlos, concluye, es colaborar con la verdad (v. 8).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía tiene la hospitalidad por deber religioso. La llama *hajnasat orjim* (acoger huéspedes), y el Talmud (Shabat 127a) la valora muy alto. 3 Jn aplica ese valor a misioneros cristianos."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: 3 Jn 5-8 pide acoger a los misioneros itinerantes, y la Didaché (11-12) regula esa acogida con normas parecidas."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve aquí la red de misioneros itinerantes del cristianismo primitivo, que dependían de casas amigas para alojarse y para ser sostenidos. Es uno de los pocos textos que muestran ese sistema desde dentro.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Didaché",
+      "autor": "Anónimo (siglos I-II)",
+      "tradicion": "catolica"
+    }
+  ]
+}

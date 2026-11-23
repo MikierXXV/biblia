@@ -1,0 +1,48 @@
+{
+  "id": "ester-ester-arriesga-la-vida",
+  "libro_id": "ester",
+  "orden": 2,
+  "titulo": "Ester arriesga la vida: entrar sin ser llamada ante el rey",
+  "pasaje": "Est 4,1-17",
+  "que_dice": "Amán ha publicado el edicto: los judíos del imperio morirán el mismo día. Mardoqueo se viste de saco y pide a Ester que intervenga. Ella contesta que entrar sin ser llamada ante el rey se paga con la muerte (Est 3,12–4,11).\n\nMardoqueo responde: si callas, la liberación vendrá de otro lugar, y tú y tu familia desapareceréis. Y pregunta si no habrás llegado a reina para una ocasión como esta. Ester pide tres días de ayuno y dice que irá, aunque muera (4,12-16).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve aquí el punto de giro: Ester pasa de obedecer a Mardoqueo (2,10) a darle órdenes (4,17). En Purim se lee el rollo entero, la Meguilá, de noche y de día."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, que recibe la versión griega, añade la oración de Ester (Est 14): sola, en angustia, pide a Dios que la ayude a hablar."
+    }
+  ],
+  "critica": {
+    "texto": "Los comentaristas discuten a quién se refiere la expresión «otro lugar» que usa Mardoqueo (4,14).",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Lectura teológica",
+        "texto": "Es la de la tradición rabínica (Ester Rabá) y de muchos comentaristas: alude a Dios sin nombrarlo, por eso el libro se lee como relato de providencia oculta."
+      },
+      {
+        "quien": "Lectura secular",
+        "texto": "Es la de algunos críticos: Mardoqueo calcula que los judíos tienen otros apoyos, y el texto no quiere decir nada más."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Character and Ideology in the Book of Esther",
+      "autor": "Michael V. Fox",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

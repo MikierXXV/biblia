@@ -1,0 +1,68 @@
+{
+  "id": "1-macabeos",
+  "seccion_id": "historicos",
+  "orden": 15,
+  "nombre": "1 Macabeos",
+  "abreviatura": "1 Mac",
+  "capitulos": 16,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Relata la revuelta judía contra el rey seléucida Antíoco IV y el origen de la dinastía asmonea, en el siglo II a. C.",
+  "presentacion": "Hacia el 167 a. C., el rey seléucida Antíoco IV Epífanes prohíbe en Judea la circuncisión, el sábado y las ofrendas del Templo. Los seléucidas eran la dinastía griega que gobernaba Siria. Coloca además un ídolo sobre el altar, la «abominación de la desolación» (1 Mac 1,54).\n\nEn el pueblo de Modín, el sacerdote Matatías mata a un judío que va a ofrecer un sacrificio pagano y a un oficial del rey. Después huye con sus hijos a los montes (1 Mac 2). Su hijo Judas, llamado Macabeo, dirige la revuelta y recupera el Templo en el 164 a. C. (1 Mac 4).\n\nDespués gobiernan sus hermanos Jonatán y Simón, y la familia funda la dinastía asmonea. El libro llega hasta el 134 a. C. (1 Mac 16) y defiende a esa familia como la elegida por Dios para salvar a Israel.",
+  "autoria": {
+    "tradicion": "Ninguna tradición le da un autor. Orígenes y Jerónimo atestiguan que existió un original en hebreo.",
+    "critica": "El libro es anónimo. La crítica ve a un autor favorable a los asmoneos, que escribió en hebreo. El libro se conserva en griego.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición no fija una fecha. Los hechos que cuenta van del 175 al 134 a. C.",
+    "critica": "La mayoría de los críticos lo sitúa hacia el 100 a. C., poco después del reinado de Juan Hircano.",
+    "acuerdo": "consenso",
+    "rango": [
+      -130,
+      -70
+    ]
+  },
+  "canon": {
+    "judia": "No es canónico. Los judíos celebran Janucá, que este libro narra, pero el libro no entró en la Biblia hebrea.",
+    "ortodoxa": "Es canónico en la Biblia griega, que usa la tradición ortodoxa.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo y lo dejan fuera del canon. Algunas ediciones lo imprimen aparte."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Mac 1,41-64",
+      "nota": "El decreto de Antíoco y la profanación del Templo."
+    },
+    {
+      "pasaje": "1 Mac 2,19-28",
+      "nota": "Matatías se niega a ofrecer sacrificio pagano."
+    },
+    {
+      "pasaje": "1 Mac 4,36-59",
+      "nota": "Purificación del altar y origen de Janucá."
+    },
+    {
+      "pasaje": "1 Mac 14,41",
+      "nota": "Simón es jefe y sumo sacerdote hasta que surja un profeta fiel."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Maccabees (Anchor Bible 41)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Cuenta la revuelta judía contra Antíoco IV entre el 167 y el 134 a. C.",
+    "Matatías y sus hijos resisten la prohibición de la ley y deciden defenderse en sábado.",
+    "El libro narra la purificación del Templo, origen de la fiesta de Janucá.",
+    "Su autor defiende a los asmoneos, cuya legitimidad no todos aceptaron.",
+    "Católicos y ortodoxos lo cuentan como canónico; judíos y protestantes, no."
+  ]
+}

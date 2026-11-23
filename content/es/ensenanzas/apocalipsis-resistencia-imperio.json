@@ -1,0 +1,54 @@
+{
+  "id": "apocalipsis-resistencia-imperio",
+  "libro_id": "apocalipsis",
+  "orden": 3,
+  "titulo": "Resistir al Imperio sin tomar las armas",
+  "pasaje": "Ap 13,1-18; 18,1-24",
+  "que_dice": "Una bestia sale del mar con diez cuernos y siete cabezas, y la gente se postra ante ella y pregunta quién puede combatirla. Más adelante cae una gran ciudad, Babilonia, y mercaderes y navieros lloran por su negocio perdido (Ap 13; 18).\n\nJuan escribe bajo el Imperio romano y no lo nombra. Su respuesta no es una insurrección: pide aguante y fidelidad, y negarse a adorar a la bestia.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La literatura judía posterior al año 70, como 4 Esdras y 2 Baruc, también llama Babilonia a Roma tras la destrucción del Templo. El nombre funciona como clave para el imperio que arrasó Jerusalén."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, desde Ticonio y Agustín, ve en el libro el conflicto entre la ciudad de Dios y la terrena. Ese conflicto abarca toda la historia, no solo el tiempo de Roma."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La lectura histórica de la Reforma identificó al papado con el Anticristo y con la bestia. Hal Lindsey, en el ámbito evangélico dispensacionalista (que espera los acontecimientos finales en un futuro), la lee como un gobernante venidero, no como Roma."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "texto": "Para Elisabeth Schüssler Fiorenza, el libro es retórica de resistencia: ofrece a comunidades marginadas una visión en la que el poder de Roma no tiene la última palabra."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos identifica a la bestia con el poder imperial y a Babilonia con Roma, la ciudad de las siete colinas (17,9). Adela Yarbro Collins sostiene que la crisis fue más sentida que una persecución masiva.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Book of Revelation: Justice and Judgment",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Crisis and Catharsis: The Power of the Apocalypse",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Late Great Planet Earth",
+      "autor": "Hal Lindsey",
+      "tradicion": "protestante"
+    }
+  ]
+}

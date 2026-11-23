@@ -1,0 +1,48 @@
+{
+  "id": "2-corintios-colecta-para-jerusalen",
+  "libro_id": "2-corintios",
+  "orden": 3,
+  "titulo": "¿Cómo pide Pablo ayuda para los pobres de Jerusalén?",
+  "pasaje": "2 Cor 8,1-15",
+  "que_dice": "Pablo organiza una colecta entre sus comunidades para los pobres de Jerusalén (Rom 15,26; 1 Cor 16,1-4). A los corintios les pone de ejemplo a los macedonios, que dieron más de lo que podían pese a su propia pobreza (8,1-5).\n\nNo manda, aconseja. Cada uno ha de dar según lo que tiene, de modo que haya igualdad: ahora lo que sobra a unos cubre lo que falta a otros (8,12-15). En el capítulo 9 añade que Dios ama a quien da con alegría (9,7).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen la colecta como modelo de ayuda mutua entre comunidades. Estudiosos de varias tradiciones señalan que unía además a las iglesias de no judíos con la comunidad judía de Jerusalén."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Algunas corrientes evangélicas de la llamada teología de la prosperidad leen 9,6-11 como promesa de que dar a la iglesia trae riqueza material. Otras lecturas, incluidas muchas protestantes, lo leen como justicia con los pobres."
+    }
+  ],
+  "critica": {
+    "texto": "Los capítulos 8 y 9 tratan la misma colecta con tonos distintos. Los capítulos 10-13 cambian de tono. Por eso se discute si 2 Corintios es una carta o varias.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Murray J. Harris",
+        "texto": "La carta es una unidad: Pablo pudo recibir malas noticias entre los capítulos 9 y 10 y por eso cambia de tono."
+      },
+      {
+        "quien": "Laurence L. Welborn",
+        "texto": "Los capítulos 10-13 son la carta dura anterior a los capítulos 1-9 y fueron añadidos al final por un editor."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Corinthians (Anchor Bible 32A)",
+      "autor": "Victor Paul Furnish",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Second Epistle to the Corinthians (NIGTC)",
+      "autor": "Murray J. Harris",
+      "tradicion": "protestante"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "juan-el-espiritu-de-la-verdad",
+  "libro_id": "juan",
+  "orden": 5,
+  "titulo": "Jesús promete a sus discípulos otro Defensor: el Espíritu de la verdad",
+  "pasaje": "Jn 14,15-26",
+  "que_dice": "Jesús está a punto de irse y promete que no dejará huérfanos a sus discípulos. Pedirá al Padre que les dé otro Defensor (*paráclito*), el Espíritu de la verdad, que estará con ellos para siempre.\n\nEse Espíritu les enseñará todo y les recordará lo que Jesús les dijo. Jesús les deja la paz.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, el Espíritu de Dios que guía y consuela tiene raíces en las Escrituras (Is 63,10-14). Que sea una persona distinta y enviada por Jesús es una creencia cristiana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la promesa funda la doctrina del Espíritu Santo como tercera persona de la Trinidad. El Catecismo lo llama «el Espíritu de la verdad» (243)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa subraya que el Espíritu procede del Padre (Jn 15,26). Esa fórmula está en el origen del desacuerdo con Occidente sobre el *Filioque*, «y del Hijo»."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el Espíritu guía al creyente a entender la Escritura. Los pentecostales subrayan además su acción presente en dones y sanaciones."
+    }
+  ],
+  "critica": {
+    "texto": "En el Nuevo Testamento, el paráclito solo aparece en Juan y en 1 Jn 2,1, donde designa a Jesús. Se discute de dónde viene el término y qué papel tenía en la comunidad.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "El paráclito es el Espíritu que mantiene vivo el recuerdo de Jesús en la comunidad, tras su muerte."
+      },
+      {
+        "quien": "Otto Betz",
+        "texto": "El término jurídico lo presenta como defensor ante un tribunal, en un contexto de conflicto con la sinagoga."
+      }
+    ]
+  },
+  "temas": [
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Der Paraklet (Brill, 1963)",
+      "autor": "Otto Betz",
+      "tradicion": "protestante"
+    }
+  ]
+}

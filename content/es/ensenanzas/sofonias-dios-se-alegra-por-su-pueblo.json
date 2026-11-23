@@ -1,0 +1,48 @@
+{
+  "id": "sofonias-dios-se-alegra-por-su-pueblo",
+  "libro_id": "sofonias",
+  "orden": 3,
+  "titulo": "¿Un Dios que canta de alegría por su pueblo?",
+  "pasaje": "Sof 3,14-17",
+  "que_dice": "Una ciudad recibe la orden de cantar: Hija de Sión, grita de gozo, alégrate con todo el corazón (3,14). El Señor ha retirado la condena y ha echado al enemigo. El rey de Israel está en medio de ti (3,15).\n\nLuego llega el giro: Dios mismo se alegra por su pueblo, lo renueva con su amor y se regocija por él con gritos de júbilo (3,17). Es la última imagen de un libro que empezó con ira.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ha recogido Sof 3,17 en su liturgia, donde el verso sobre un Dios que salva y se alegra se canta como alabanza."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica lee Sof 3,14-18 el tercer domingo de Adviento del ciclo C. Algunos comentaristas católicos oyen en «alégrate» un eco de la Anunciación (Lc 1,28), con María como Hija de Sión."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si el cierre, 3,14-20, pertenece al profeta o se añadió después.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ehud Ben Zvi",
+        "texto": "Al menos 3,18-20 supone un pueblo ya disperso, y es de la época del destierro o posterior."
+      },
+      {
+        "quien": "Robertson y la crítica conservadora evangélica",
+        "texto": "El cierre es de Sofonías: el libro pasa del juicio a la esperanza sin cambio de autor."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Zephaniah (Anchor Bible)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Books of Nahum, Habakkuk, and Zephaniah (NICOT)",
+      "autor": "O. Palmer Robertson",
+      "tradicion": "critica"
+    }
+  ]
+}

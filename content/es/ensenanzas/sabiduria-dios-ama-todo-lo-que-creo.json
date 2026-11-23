@@ -1,0 +1,49 @@
+{
+  "id": "sabiduria-dios-ama-todo-lo-que-creo",
+  "libro_id": "sabiduria",
+  "orden": 4,
+  "titulo": "Dios ama todo lo que creó y por eso se contiene al castigar",
+  "pasaje": "Sab 11,23-12,2",
+  "que_dice": "El autor repasa el Éxodo y se detiene en un problema: Dios castigó a los egipcios y mandó destruir a los cananeos. ¿No es crueldad? Responde que Dios todo lo puede y por eso se compadece de todos: ama todo lo que existe y no aborrece nada de lo que hizo (11,23-24).\n\nCorrige poco a poco a los que caen y les recuerda sus faltas para que dejen la maldad (12,2). A los pueblos de Canaán los fue castigando por grados, para darles ocasión de convertirse (12,10).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Un pasaje parecido del Talmud (Meguilá 10b) cuenta que Dios impidió a los ángeles cantar cuando se ahogaban los egipcios, porque eran obra de sus manos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica cita Sab 11,24-26 al hablar del amor de Dios por toda criatura. El papa Francisco recoge este pasaje en Laudato si' (2015)."
+    }
+  ],
+  "critica": {
+    "texto": "Sab 10-19 relee el Éxodo al modo de los midrases, los comentarios judíos que cuentan los relatos para enseñar. Se discute qué hace con la conquista de Canaán.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Suaviza la tradición del herem (la destrucción total de Dt 7): la conquista se vuelve paciencia divina."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "No la corrige, la defiende: sigue sosteniendo que la maldad de los cananeos justificaba el castigo (12,3-6)."
+      }
+    ]
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "creacion-y-cuidado-del-mundo",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Solomon (Anchor Bible 43)",
+      "autor": "David Winston",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

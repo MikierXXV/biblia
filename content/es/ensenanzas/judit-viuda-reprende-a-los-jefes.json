@@ -1,0 +1,37 @@
+{
+  "id": "judit-viuda-reprende-a-los-jefes",
+  "libro_id": "judit",
+  "orden": 1,
+  "titulo": "Una viuda reprende a los jefes que ponen plazo a Dios",
+  "pasaje": "Jdt 8",
+  "que_dice": "Tras cuatro semanas de asedio, el pueblo muere de sed. Ozías, jefe de Betulia, promete rendirse en cinco días. Judit, viuda desde hace más de tres años, lo manda llamar (Jdt 8,1-11).\n\nLes dice que no se puede poner plazos a Dios ni someterlo a prueba. El sufrimiento es una prueba para el pueblo, como lo fue para los patriarcas. Pide que la dejen salir esa noche sin decir el plan (8,12-34).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no recibió Judit en la Biblia hebrea. Aun así, relatos hebreos medievales de Janucá reelaboran la historia, y Judit se convirtió en figura de resistencia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Judit es modelo de fe confiada. Los Padres de la Iglesia la citan como ejemplo de mujer valiente: Clemente de Roma lo hace hacia el año 96 (1 Clemente 55)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica lee el discurso de Judit como el centro teológico del libro: a Dios no se le dan plazos. El pueblo de Betulia, que fija una fecha límite, representa a quienes dudan; Judit, a quien confía.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judith (Anchor Bible 40)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

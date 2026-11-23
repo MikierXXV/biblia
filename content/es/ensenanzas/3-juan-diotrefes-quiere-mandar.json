@@ -1,0 +1,43 @@
+{
+  "id": "3-juan-diotrefes-quiere-mandar",
+  "libro_id": "3-juan",
+  "orden": 2,
+  "titulo": "Diótrefes, al que le gusta ser el primero",
+  "pasaje": "3 Jn 9-10",
+  "que_dice": "El Anciano había escrito a la comunidad, pero un hombre llamado Diótrefes, que quiere ser el primero, no lo acepta (v. 9). Según el Anciano, habla contra él con palabras malignas, no recibe a los hermanos y expulsa de la iglesia a quienes quieren hacerlo (v. 10).\n\nEs uno de los pocos casos del Nuevo Testamento en que un conflicto de autoridad aparece con nombre propio.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: Diótrefes se ha tomado como ejemplo del dirigente que busca el primer puesto, frente al servicio que pide Mc 10,43-44."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute quién es Diótrefes y qué se juega. Solo se lo conoce por la versión del Anciano.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ernst Käsemann",
+        "texto": "Diótrefes, como obispo, excomulga al Anciano por hereje: la carta es la queja de un perdedor, y la versión del Anciano es la de una parte."
+      },
+      {
+        "quien": "Raymond Brown",
+        "texto": "Es un dirigente local con poder de decisión que se niega a acoger a los emisarios del Anciano; la carta no lo acusa de falsa doctrina."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Ketzer und Zeuge: Zum johanneischen Verfasserproblem (ZThK 48, 1951)",
+      "autor": "Ernst Käsemann",
+      "tradicion": "critica"
+    }
+  ]
+}

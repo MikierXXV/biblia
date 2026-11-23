@@ -1,0 +1,722 @@
+/*
+ * La variante app: cabecera, panel de filtros, tarjetas, fichas y páginas de lectura.
+ *
+ * CARÁCTER: lectura sobria. Papel cálido apagado (claro) o tinta azul-negra (oscuro), serif para
+ * leer y sans para la interfaz; enlaces y acciones en tinta, sin color por tradición. El color de la
+ * sección (--acento) solo refuerza filetes y puntos; nunca es la única señal.
+ */
+
+/*
+ * Sin serifa también en los titulares. El token sigue existiendo —la plantilla base lo usa con
+ * Newsreader para los sitios divulgativos—; aquí se redefine para toda la variante en vez de
+ * repetir `font-family` en cada regla, que es como se acaba con un h2 que no cambió.
+ */
+:root {
+  --fuente-titulo: "Newsreader", "Newsreader respaldo", ui-serif, Georgia, serif;
+  /* La serif no desaparece: se reserva para lo que no es interfaz —la frase de la portada—, que es
+     lo que hace que destaque. Usada también en los h2 volvía a ser el sitio divulgativo de antes. */
+  --fuente-serif: "Newsreader", "Newsreader respaldo", ui-serif, Georgia, serif;
+  /* El ancho del panel y el alto de la barra, en tokens: los usan la rejilla, el panel pegajoso y
+     el cajón del móvil, y tres números sueltos se desincronizan a la primera corrección. */
+  --ancho-filtros: 16rem;
+  --alto-barra: 3.75rem;
+  --ancho-pagina: 72rem;
+}
+
+h1, h2, h3 { letter-spacing: -0.02em; font-weight: var(--peso-semibold); }
+
+/* --------------------------------------------------------------------- barra -- */
+
+/*
+ * La cabecera se queda arriba al bajar. En un catálogo se baja mucho, y volver al principio para
+ * cambiar de idioma o abrir los favoritos era un viaje de tres pantallas.
+ *
+ * El desenfoque va con `@supports`: donde no existe, el fondo queda opaco y se ve igual de bien;
+ * sin la guarda, el navegador que no lo soporta se come una barra translúcida ilegible.
+ */
+.barra {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: color-mix(in oklab, var(--fondo) 86%, transparent);
+  border-bottom: 1px solid var(--separador);
+}
+@supports (backdrop-filter: blur(1px)) {
+  .barra { backdrop-filter: blur(12px) saturate(140%); }
+}
+.barra > div {
+  display: flex;
+  align-items: center;
+  gap: var(--e4);
+  min-height: var(--alto-barra);
+  max-width: var(--ancho-pagina);
+  margin-inline: auto;
+  padding-inline: var(--e4);
+}
+
+/*
+ * La marca NO es un titular. Era un h1 con el nombre del sitio y la portada repetía el mismo nombre
+ * debajo, en grande: se leía dos veces antes de ver un solo ejercicio, y la página se quedaba sin
+ * un titular que dijera de qué va. Aquí es una marca —un punto de acento y el nombre—, y el h1 es
+ * el titular de la página.
+ */
+.marca {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--e2);
+  margin-right: auto;
+  color: var(--texto);
+  font-weight: var(--peso-semibold);
+  font-size: 1.0625rem;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+}
+.marca::before {
+  content: '';
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: var(--radio-pildora);
+  background: var(--accion);
+}
+
+.barra nav { display: flex; align-items: center; gap: var(--e2); }
+
+/* ------------------------------------------------------------------ controles -- */
+
+/*
+ * UN SOLO COMPONENTE. Todo lo que se pulsa —botón o enlace— tiene el mismo alto, el mismo borde y
+ * el mismo radio. Un «volver al catálogo» subrayado al lado de píldoras es lo que hace que una
+ * página parezca a medio hacer, y encima da un objetivo táctil de 27 px de alto.
+ */
+.boton,
+.barra nav a,
+.barra nav button,
+.vecinos a,
+.vacio a,
+.quitar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--e2);
+  min-height: 40px;
+  padding: 0 var(--e3);
+  border: 1px solid var(--separador);
+  border-radius: var(--radio-medio);
+  background: var(--fondo-elevado);
+  color: var(--texto);
+  font: inherit;
+  font-size: var(--t-pequeno);
+  font-weight: var(--peso-medio);
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color var(--m-instantaneo) var(--curva-suave),
+              background-color var(--m-instantaneo) var(--curva-suave),
+              color var(--m-instantaneo) var(--curva-suave);
+}
+.boton:hover,
+.barra nav a:hover,
+.barra nav button:hover,
+.vecinos a:hover,
+.vacio a:hover,
+.quitar:hover {
+  border-color: var(--borde-interactivo);
+  /* 94 % y no 82: la mezcla se comporta distinto en cada tema. Un 18 % de texto sobre el elevado
+     del oscuro es un realce sutil; sobre el blanco del claro es un gris de #d0d0d3 que parecía un
+     botón pulsado o deshabilitado. Con 6 % se levanta en los dos sin gritar en ninguno. */
+  background: color-mix(in oklab, var(--fondo-elevado) 94%, var(--texto));
+}
+
+/* El botón que lleva la acción principal de la pantalla. Uno por pantalla, por definición. */
+.boton.principal {
+  background: var(--accion);
+  border-color: var(--accion);
+  /* El texto sobre el acento lo pone el TEMA, no una constante: el naranja del tema claro es
+     oscuro y el del oscuro es claro, así que un solo color encima falla en uno de los dos. Con el
+     negro fijo que había antes, en claro se quedaba en 1,9:1. */
+  color: var(--sobre-accion);
+  font-weight: var(--peso-semibold);
+}
+.boton.principal:hover {
+  background: color-mix(in oklab, var(--accion) 88%, white);
+  border-color: color-mix(in oklab, var(--accion) 88%, white);
+}
+
+/* Sin caja: acciones secundarias dentro de una fila que ya tiene botones de verdad. */
+.boton.plano { background: none; border-color: transparent; color: var(--texto-secundario); }
+.boton.plano:hover { background: var(--fondo-elevado); border-color: var(--separador); color: var(--texto); }
+
+/* El icono, centrado y sin línea base que lo descuadre respecto al texto. */
+.icono {
+  display: inline-grid;
+  place-items: center;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  font-size: 1.1em;
+}
+
+/*
+ * La insignia: una pastilla con un número DENTRO Y CENTRADO.
+ *
+ * Estaba resuelta con relleno y línea base, y el número quedaba un pelo alto dentro del círculo:
+ * de esas cosas que no se sabe nombrar pero se ven. Con una rejilla centrada y alto fijo, el número
+ * cae en el centro tenga la cifra que tenga.
+ */
+.contador {
+  display: inline-grid;
+  place-items: center;
+  min-width: 1.4em;
+  height: 1.4em;
+  padding-inline: 0.35em;
+  border-radius: var(--radio-pildora);
+  background: var(--accion);
+  color: var(--sobre-accion);
+  font-size: var(--t-micro);
+  font-weight: var(--peso-semibold);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+/* Sin nada que contar, la insignia es una mancha naranja que no informa de nada. */
+.contador:empty { display: none; }
+
+.barra nav a[aria-current='page'] { border-color: var(--borde-interactivo); }
+
+/* --------------------------------------------------------------------- página -- */
+
+#sitio {
+  max-width: var(--ancho-pagina);
+  margin-inline: auto;
+  padding-inline: var(--e4);
+}
+
+/*
+ * El titular de la página: una frase, centrada y en una línea.
+ *
+ * Es lo único de todo el sitio compuesto con la serif, y por eso destaca: el resto —barra, filtros,
+ * tarjetas, botones— es interfaz y va en la de palo. Una frase en el mismo tipo que los botones no
+ * es una frase, es otro rótulo más.
+ *
+ * Sigue siendo el h1 y lo primero que pinta el navegador, y por eso vive escrito en index.html.
+ */
+.portada { padding-block: var(--e12) var(--e8); }
+.portada h1 {
+  margin: 0;
+  max-width: none;
+  text-align: center;
+  font-family: var(--fuente-serif);
+  font-weight: var(--peso-regular);
+  font-size: clamp(1.5rem, 1rem + 2.4vw, 2.75rem);
+  line-height: var(--il-titulo);
+  letter-spacing: -0.01em;
+}
+/* En una línea SOLO cuando cabe. A 360 px, forzarla dejaba la frase a doce píxeles de alto para
+   que entrara entera, que es peor que partirla en dos. */
+@media (min-width: 34rem) {
+  .portada h1 { white-space: nowrap; }
+}
+.portada p { max-width: var(--medida-corta); margin: var(--e3) auto 0; text-align: center; color: var(--texto-secundario); }
+
+/* ------------------------------------------------------------------ buscador -- */
+
+.buscador { position: relative; }
+.buscador input {
+  width: 100%;
+  min-height: 46px;
+  padding: 0 var(--e4) 0 2.5rem;
+  border: 1px solid var(--separador);
+  border-radius: var(--radio-medio);
+  background: var(--fondo-elevado);
+  color: inherit;
+  font: inherit;
+}
+.buscador input::placeholder { color: var(--texto-secundario); }
+/* A 360 px el marcador entero no cabía y se cortaba a media frase. */
+@media (max-width: 40rem) {
+  .buscador input { font-size: 0.8125rem; padding-right: var(--e3); }
+}
+.buscador input:focus-visible { border-color: var(--borde-interactivo); }
+/*
+ * La lupa, decorativa y fuera del flujo: metida dentro del campo desplazaba el texto del marcador.
+ *
+ * Dibujada, no escrita: el carácter ⌕ de la tipografía sale minúsculo y descolgado de la línea, y
+ * cambia de forma en cada sistema. Como máscara, hereda el color del tema sin dos versiones.
+ */
+.buscador::before {
+  content: '';
+  position: absolute;
+  left: var(--e4);
+  top: 50%;
+  translate: 0 -50%;
+  width: 1rem;
+  height: 1rem;
+  background: var(--texto-secundario);
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M20 20l-4.2-4.2'/%3E%3C/svg%3E") center / contain no-repeat;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------------------- reparto -- */
+
+/*
+ * Filtros a la izquierda, resultados a la derecha. Antes eran cuatro campos de píldoras apilados
+ * ENCIMA de la rejilla: veinticinco músculos por delante de la primera ficha, y en el móvil dos
+ * pantallas de píldoras antes de ver un solo ejercicio. Un panel lateral deja ver los resultados
+ * mientras se filtra, que es de lo que va filtrar.
+ */
+.reparto { display: grid; gap: var(--e8); align-items: start; }
+@media (min-width: 60rem) {
+  .reparto { grid-template-columns: var(--ancho-filtros) minmax(0, 1fr); }
+}
+
+.resultados { display: grid; gap: var(--e4); }
+
+.barra-resultados { display: flex; align-items: center; gap: var(--e3); flex-wrap: wrap; }
+.cuenta {
+  margin: 0;
+  color: var(--texto-secundario);
+  font-size: var(--t-pequeno);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Los filtros puestos, a la vista y quitables de un toque. Un filtro activo que no se ve es la
+   causa número uno de «no aparece nada y no sé por qué». */
+.activos { display: flex; flex-wrap: wrap; gap: var(--e2); }
+.activos:empty { display: none; }
+.quitar { min-height: 32px; border-radius: var(--radio-pildora); color: var(--texto-secundario); }
+.quitar .icono { font-size: 0.9em; }
+.quitar:hover { color: var(--texto); }
+
+/* --------------------------------------------------------------------- panel -- */
+
+/*
+ * El panel es un <dialog> SIEMPRE, y en escritorio se le quita la condición de diálogo por CSS.
+ *
+ * Así el móvil se lleva gratis lo que cuesta caro a mano: el foco atrapado dentro, el cierre con
+ * Escape y el fondo inerte. La alternativa era pintar el panel dos veces —una en la columna y otra
+ * en el cajón—, y dos copias del mismo marcado divergen a la primera corrección.
+ */
+.panel {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  max-width: none;
+  max-height: none;
+}
+.panel::backdrop { background: rgba(0, 0, 0, 0.6); }
+.panel-cabeza, .panel-pie { display: none; }
+.panel-grupos { display: grid; gap: var(--e2); }
+
+@media (min-width: 60rem) {
+  /* En escritorio está siempre abierto y no es modal: es una columna más. Pegajoso, para que los
+     filtros sigan a mano después de bajar por la rejilla. */
+  .panel {
+    display: block;
+    position: sticky;
+    top: calc(var(--alto-barra) + var(--e4));
+    max-height: calc(100svh - var(--alto-barra) - var(--e8));
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+  .abrir-filtros { display: none; }
+}
+@media (max-width: 59.99rem) {
+  .panel[open] {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    inset: auto 0 0 0;
+    width: 100%;
+    max-height: 88svh;
+    border-radius: var(--radio-grande) var(--radio-grande) 0 0;
+    background: var(--fondo);
+    box-shadow: var(--sombra);
+  }
+  .panel-cabeza {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--e4);
+    padding: var(--e4);
+    border-bottom: 1px solid var(--separador);
+  }
+  .panel-cabeza h2 { margin: 0; font-size: var(--t-medio); }
+  .panel-grupos { overflow-y: auto; padding: var(--e4); }
+  .panel-pie {
+    display: block;
+    padding: var(--e4);
+    /* El botón no se mete debajo de la barra del teléfono. */
+    padding-bottom: calc(var(--e4) + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid var(--separador);
+  }
+  .panel-pie .boton { width: 100%; min-height: 48px; }
+}
+
+/* Cada faceta, plegable. Solo el grupo —el filtro que de verdad se usa— viene abierto. */
+.faceta {
+  border: 1px solid var(--separador);
+  border-radius: var(--radio-medio);
+  background: var(--fondo-elevado);
+}
+.faceta > summary {
+  display: flex;
+  align-items: center;
+  gap: var(--e2);
+  min-height: 44px;
+  padding-inline: var(--e3);
+  list-style: none;
+  cursor: pointer;
+  font-size: var(--t-pequeno);
+  font-weight: var(--peso-semibold);
+}
+.faceta > summary::-webkit-details-marker { display: none; }
+/* La flecha, al final y girando: sin ella no se ve que el bloque se puede abrir. */
+.faceta > summary::after {
+  content: '▾';
+  margin-left: auto;
+  color: var(--texto-secundario);
+  transition: rotate var(--m-instantaneo) var(--curva-suave);
+}
+.faceta[open] > summary::after { rotate: 180deg; }
+/*
+ * Con insignia, empuja ella hasta el final y la flecha va pegada detrás.
+ *
+ * Las dos llevaban `margin-left: auto` y el hueco sobrante se repartía entre ambas: la cuenta se
+ * quedaba flotando en mitad del rótulo, a cien píxeles de la flecha y de todo lo demás.
+ */
+.faceta > summary .contador { margin-left: auto; }
+.faceta > summary:has(.contador)::after { margin-left: var(--e2); }
+
+.opciones { list-style: none; margin: 0; padding: 0 var(--e2) var(--e2); display: grid; gap: 1px; }
+/* Con muchos valores —veinticinco músculos—, la lista se desplaza dentro en vez de estirar la
+   columna hasta que el panel deja de caber en la pantalla. */
+.opciones.larga { max-height: 15rem; overflow-y: auto; overscroll-behavior: contain; }
+
+.opciones label {
+  display: flex;
+  align-items: center;
+  gap: var(--e2);
+  min-height: 36px;
+  padding-inline: var(--e2);
+  border-radius: var(--radio-pequeno);
+  font-size: var(--t-pequeno);
+  cursor: pointer;
+}
+.opciones label:hover { background: var(--fondo-hundido); }
+.opciones input { accent-color: var(--accion); width: 1rem; height: 1rem; flex: none; }
+.opciones .nombre { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.opciones .cuantas { color: var(--texto-secundario); font-size: var(--t-micro); font-variant-numeric: tabular-nums; }
+/* Un valor que no daría ningún resultado se apaga, pero no se esconde: saber que existe y que ahora
+   no lleva a nada es información; que desaparezca parece un fallo del sitio. */
+.opciones label[data-vacia='si'] { opacity: 0.45; }
+
+/* El punto del color del grupo, el mismo que en la tarjeta: es lo que ata el filtro con lo filtrado. */
+.opciones .punto {
+  width: 0.5rem;
+  height: 0.5rem;
+  flex: none;
+  border-radius: var(--radio-pildora);
+  background: var(--acento-chip, var(--separador));
+}
+
+/* Buscar dentro de la propia faceta. Veinticinco músculos no se recorren con la vista. */
+.buscar-faceta {
+  width: calc(100% - var(--e4));
+  margin: 0 var(--e2) var(--e2);
+  min-height: 34px;
+  padding-inline: var(--e2);
+  border: 1px solid var(--separador);
+  border-radius: var(--radio-pequeno);
+  background: var(--fondo);
+  color: inherit;
+  font: inherit;
+  font-size: var(--t-pequeno);
+}
+
+/* -------------------------------------------------------------------- rejilla -- */
+
+.rejilla {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+  gap: var(--e3);
+  margin: 0;
+  padding: 0;
+}
+
+/* Tarjeta de libro: filete de la sección a la izquierda (forma, no solo color: es una barra). */
+.tarjeta { position: relative; }
+.tarjeta a {
+  display: grid;
+  align-content: start;
+  gap: var(--e1);
+  height: 100%;
+  padding: var(--e3) var(--e3) var(--e3) var(--e4);
+  border: 1px solid var(--separador);
+  border-left: 4px solid var(--acento, var(--borde-interactivo));
+  border-radius: var(--radio-medio);
+  background: var(--fondo-elevado);
+  color: var(--texto);
+  text-decoration: none;
+  transition: border-color var(--m-instantaneo) var(--curva-suave),
+              background-color var(--m-instantaneo) var(--curva-suave);
+}
+.tarjeta a:hover {
+  border-color: var(--borde-interactivo);
+  border-left-color: var(--acento, var(--borde-interactivo));
+  background: color-mix(in oklab, var(--fondo-elevado) 94%, var(--texto));
+}
+.t-nombre { font-family: var(--fuente-titulo); font-weight: var(--peso-semibold); font-size: var(--t-base); line-height: var(--il-titulo); }
+.t-meta { color: var(--texto-secundario); font-size: var(--t-micro); }
+.t-resumen { color: var(--texto-secundario); font-size: var(--t-pequeno); line-height: 1.45; }
+.tarjeta .insignias { margin-top: var(--e1); }
+
+.seccion-bloque { margin-bottom: var(--e8); }
+.seccion-bloque > header { display: flex; align-items: baseline; gap: var(--e3); flex-wrap: wrap; border-bottom: 2px solid var(--acento); padding-bottom: var(--e2); margin-bottom: var(--e3); }
+.seccion-bloque h3 { margin: 0; font-size: var(--t-medio); }
+.seccion-bloque h3 a { color: var(--texto); text-decoration: none; }
+.seccion-bloque h3 a:hover { text-decoration: underline; }
+.sec-resumen { margin: 0 0 var(--e3); max-width: var(--medida-texto); color: var(--texto-secundario); font-size: var(--t-pequeno); }
+
+.mapa { margin-bottom: var(--e8); }
+.intro { max-width: var(--medida-texto); color: var(--texto-secundario); }
+
+/* ------------------------------------------------------------------ insignias -- */
+
+/*
+ * Texto + forma. La forma la pone un ::before según el tipo; el color solo refuerza y NUNCA es la
+ * única diferencia. Ninguna insignia depende de una tradición.
+ */
+.insignias { display: flex; flex-wrap: wrap; gap: var(--e1) var(--e2); margin: 0; }
+.insignias:empty { display: none; }
+.ins {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  min-height: 1.5rem;
+  padding: 0 0.6em 0 0.5em;
+  border: 1px solid var(--borde-interactivo);
+  border-radius: var(--radio-pequeno);
+  background: var(--fondo);
+  color: var(--texto);
+  font-size: var(--t-micro);
+  font-weight: var(--peso-medio);
+  line-height: 1.2;
+  white-space: nowrap;
+}
+.ins::before { content: ''; width: 0.7em; height: 0.7em; flex: none; box-sizing: border-box; background: currentColor; }
+.ins[data-tipo='deuterocanonico']::before { background: repeating-linear-gradient(45deg, currentColor 0 2px, transparent 2px 4px); border: 1px solid currentColor; }
+.ins[data-tipo='adiciones'] { border-style: dashed; }
+.ins[data-tipo='adiciones']::before { background: none; border: 2px dashed currentColor; }
+.ins[data-tipo='consenso']::before { border-radius: 50%; }
+.ins[data-tipo='discusion']::before { border-radius: 50%; background: none; border: 2px solid currentColor; }
+.ins[data-tipo='abierta']::before { background: none; border: 2px solid currentColor; transform: rotate(45deg) scale(0.85); }
+.ins[data-tipo='preparacion'] { border-style: dotted; color: var(--texto-secundario); }
+.ins[data-tipo='preparacion']::before { background: none; border: 2px dotted currentColor; }
+
+.aviso-preparacion {
+  display: flex; align-items: baseline; flex-wrap: wrap; gap: var(--e2);
+  margin: var(--e2) 0 0; padding: var(--e3);
+  border: 1px solid var(--separador); border-left: 4px solid var(--borde-interactivo);
+  border-radius: var(--radio-medio); background: var(--fondo-hundido);
+  font-size: var(--t-pequeno);
+}
+/* Aviso de interpretación abierta (DEC §13.3): una banda fina bajo el titular, no una caja. */
+.aviso-abierta {
+  grid-column: 1 / -1; display: flex; align-items: baseline; flex-wrap: wrap; gap: var(--e2);
+  margin: var(--e2) 0 0; padding: var(--e1) 0 var(--e1) var(--e3);
+  border-left: 3px solid var(--borde-interactivo); font-size: var(--t-pequeno);
+}
+.solo-lector { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+
+/* ------------------------------------------------------------------- páginas -- */
+
+.pagina { padding-block: var(--e4) var(--e8); }
+.migas { margin-bottom: var(--e4); }
+.migas a {
+  display: inline-flex; align-items: center; gap: var(--e2); min-height: 40px;
+  color: var(--texto-secundario); font-size: var(--t-pequeno); text-decoration: none;
+}
+.migas a:hover { color: var(--texto); text-decoration: underline; }
+
+.cab-pagina { display: grid; gap: var(--e2); margin-bottom: var(--e6); }
+.cab-pagina h1 { margin: 0; font-family: var(--fuente-titulo); font-size: var(--t-grande); line-height: var(--il-apretado); }
+.rotulo-seccion {
+  display: flex; align-items: center; gap: var(--e2); margin: 0;
+  color: var(--texto-secundario); font-size: var(--t-micro); font-weight: var(--peso-medio);
+  text-transform: uppercase; letter-spacing: 0.08em;
+}
+.rotulo-seccion::before { content: ''; width: 1.5rem; height: 4px; background: var(--acento, var(--borde-interactivo)); }
+.entradilla { max-width: var(--medida-texto); margin: 0; font-size: var(--t-base); color: var(--texto-secundario); }
+.resumen-libro { max-width: var(--medida-texto); margin: 0 auto var(--e6); font-family: var(--fuente-titulo); font-size: var(--t-medio); line-height: var(--il-titulo); color: var(--texto); }
+.meta-pagina { margin: 0; color: var(--texto-secundario); font-size: var(--t-pequeno); }
+
+.pagina h2 { font-family: var(--fuente-titulo); font-size: var(--t-medio); margin: 0 0 var(--e3); }
+.pagina h3 { font-size: var(--t-base); margin: var(--e4) 0 var(--e2); }
+.bloque { margin-bottom: var(--e8); max-width: var(--medida-texto); }
+.bloque:has(.vis-hueco) { max-width: none; }
+.lectura-larga, .capa, .caja, .quien-cuando dd { font-family: var(--fuente-titulo); font-size: var(--t-base); line-height: var(--il-texto); }
+.lectura-larga p { margin: 0 0 var(--e4); }
+.lectura-larga p:last-child { margin-bottom: 0; }
+.lectura-larga ol, .lectura-larga ul, .capa ol, .capa ul:not(.posturas) { margin: 0 0 var(--e4); padding-left: var(--e6); }
+
+/* La ficha es una sola columna de lectura, centrada (DEC §13.2). Solo las mecánicas salen a ancho de página. */
+.ficha > .migas, .ficha > .cab-pagina, .ficha > .bloque, .ficha > .en-pagina, .ficha > .vecinos { max-width: var(--medida-texto); margin-inline: auto; }
+.ficha > .bloque-vis { max-width: none; }
+.ficha > .vecinos { margin-top: var(--e8); }
+
+/* «En esta página»: los titulares seguidos cuentan el libro. */
+.en-pagina { margin-bottom: var(--e6); font-size: var(--t-pequeno); }
+/* list-item y no flex: con flex el navegador quita el triángulo y en móvil, plegado, parece un rótulo suelto. */
+.en-pagina summary { cursor: pointer; display: list-item; padding-block: var(--e3); font-weight: var(--peso-semibold); }
+.en-pagina ol { margin: var(--e2) 0 0; padding-left: var(--e6); }
+.en-pagina li { margin-bottom: var(--e2); }
+
+/* Una sola clase de caja para disputa y «Para recordar» (DEC §13.3). Nunca una dentro de otra. */
+.caja { padding: var(--e4); border: 1px solid var(--separador); border-radius: var(--radio-medio); background: var(--fondo-elevado); }
+.caja > :last-child { margin-bottom: 0; }
+.caja p { margin: 0 0 var(--e3); }
+.caja-rotulo { font-family: var(--fuente-texto); }
+.posturas { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--e3); }
+.posturas li strong { font-family: var(--fuente-texto); font-weight: var(--peso-semibold); }
+.recordar h2 { margin: 0 0 var(--e3); }
+.recordar ul { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--e3); }
+.recordar li { padding-left: var(--e4); border-left: 3px solid var(--acento, var(--borde-interactivo)); }
+
+.biblias, .dos-lecturas { display: grid; gap: var(--e4); margin: 0; }
+/* Sin tarjetas: un filete fino a la izquierda separa las lecturas, igual para todas. */
+.dos-lecturas > div { display: grid; gap: var(--e1); padding-left: var(--e3); border-left: 2px solid var(--separador); }
+.biblias > div { display: grid; gap: var(--e1); padding-block: var(--e3); border-top: 1px solid var(--separador); }
+.biblias dt, .dos-lecturas dt { font-family: var(--fuente-texto); font-weight: var(--peso-semibold); font-size: var(--t-pequeno); color: var(--texto); display: flex; flex-wrap: wrap; gap: var(--e2); align-items: center; }
+.biblias dd, .dos-lecturas dd { margin: 0; }
+.quien-cuando h3 { font-family: var(--fuente-texto); font-size: var(--t-pequeno); font-weight: var(--peso-semibold); text-transform: uppercase; letter-spacing: 0.08em; color: var(--texto-secundario); }
+.quien-cuando .caja { margin-top: var(--e4); }
+@media (min-width: 40rem) {
+  .dos-lecturas { grid-template-columns: 1fr 1fr; }
+  .biblias > div { grid-template-columns: 9rem 1fr; gap: var(--e4); }
+}
+
+/* ---------------------------------------------------------------- enseñanzas -- */
+
+/* Cada enseñanza es un capítulo (DEC §13.2): titular con su número, capas sin tarjeta, filete entre capítulos. */
+.ensenanza { margin-bottom: var(--e12); padding-top: var(--e6); border-top: 1px solid var(--separador); scroll-margin-top: calc(var(--alto-barra) + var(--e4)); }
+.ensenanza > header { display: grid; grid-template-columns: auto 1fr; column-gap: var(--e4); align-items: start; margin-bottom: var(--e4); }
+.ens-num { margin: 0; font-family: var(--fuente-titulo); font-size: var(--t-titulo); line-height: 1; color: var(--acento, var(--texto)); }
+.ens-cab { display: grid; gap: var(--e1); }
+.ensenanza h3 { margin: 0; font-family: var(--fuente-titulo); font-size: var(--t-medio); line-height: var(--il-titulo); scroll-margin-top: calc(var(--alto-barra) + var(--e4)); }
+.ens-pasaje { color: var(--texto-secundario); font-size: var(--t-pequeno); margin: 0; }
+.capas { display: grid; gap: var(--e8); }
+.capa h4 { display: flex; align-items: center; flex-wrap: wrap; gap: var(--e2); margin: 0 0 var(--e3); font-family: var(--fuente-texto); font-size: var(--t-micro); font-variant-caps: all-small-caps; font-weight: var(--peso-semibold); letter-spacing: 0.08em; color: var(--texto); }
+.capa-n {
+  display: inline-grid; place-items: center; width: 1.6rem; height: 1.6rem;
+  border: 2px solid var(--texto); border-radius: 50%; font-size: var(--t-micro); font-weight: var(--peso-semibold);
+}
+.capa p { margin: 0 0 var(--e4); }
+.capa p:last-child { margin-bottom: 0; }
+.rotulo-acuerdo { font-family: var(--fuente-texto); }
+.cita { margin: var(--e4) 0 0; padding-left: var(--e4); border-left: 3px solid var(--acento, var(--borde-interactivo)); font-family: var(--fuente-titulo); font-size: var(--t-medio); font-style: italic; }
+.cita p { margin: 0; }
+.cita footer { margin-top: var(--e1); font-family: var(--fuente-texto); font-style: normal; color: var(--texto-secundario); font-size: var(--t-micro); }
+/* Todas las lecturas, mismo rótulo, mismo filete neutro y mismo tamaño: ninguna tradición lleva color propio. */
+.lectura { padding-left: var(--e3); border-left: 2px solid var(--separador); }
+.lectura + .lectura { margin-top: var(--e4); }
+.lectura h5 { margin: 0 0 var(--e1); font-family: var(--fuente-texto); font-size: var(--t-pequeno); font-weight: var(--peso-semibold); color: var(--texto); }
+.ens-pie { display: grid; gap: var(--e3); margin-top: var(--e3); }
+.etiquetas { display: flex; flex-wrap: wrap; gap: var(--e2); list-style: none; margin: 0; padding: 0; }
+.etiqueta {
+  display: inline-flex; align-items: center; min-height: 36px; padding: 0 var(--e3);
+  border: 1px solid var(--borde-interactivo); border-radius: var(--radio-pildora);
+  color: var(--texto); font-size: var(--t-pequeno); text-decoration: none;
+}
+.etiqueta:hover { background: var(--fondo-hundido); }
+.fuentes, .pasajes-clave, .pasajes-lista { padding-left: var(--e4); color: var(--texto-secundario); font-size: var(--t-pequeno); }
+.fuentes li, .pasajes-clave li, .pasajes-lista li { margin-bottom: var(--e2); }
+.pasajes-clave strong { color: var(--texto); }
+details.fuentes-ens summary, details.transcripcion summary { cursor: pointer; min-height: 40px; display: flex; align-items: center; font-size: var(--t-pequeno); font-weight: var(--peso-medio); }
+/* En móvil, a todo el ancho, el vídeo vertical ocupa casi una pantalla: se queda en el 60 %. */
+.reel video { display: block; width: 100%; max-width: min(24rem, 60vw); aspect-ratio: 9 / 16; background: var(--fondo-hundido); border-radius: var(--radio-medio); }
+.reel-cols { display: grid; gap: var(--e4); }
+.reel figure { margin: 0; }
+@media (min-width: 48rem) { .reel-cols { grid-template-columns: minmax(0, 18rem) 1fr; align-items: start; } }
+.reel figcaption, .reel-fuentes { color: var(--texto-secundario); font-size: var(--t-pequeno); }
+
+.grupo-libro { margin-bottom: var(--e4); padding-left: var(--e3); border-left: 4px solid var(--acento, var(--separador)); }
+.grupo-libro h3 { margin: 0 0 var(--e2); }
+.grupo-libro ul { margin: 0; padding-left: var(--e4); }
+.grupo-libro li { margin-bottom: var(--e2); }
+.divergencias h2 { font-family: var(--fuente-titulo); }
+.rejilla.temas { grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); }
+
+.tabla-caja { overflow-x: auto; border: 1px solid var(--separador); border-radius: var(--radio-medio); }
+.tabla-caja { max-width: 100%; }
+.tabla-caja:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; }
+.tabla-caja table { border-collapse: collapse; width: 100%; font-size: var(--t-pequeno); }
+/* En móvil la tabla conserva un ancho legible y se desplaza dentro de su caja (la página no). */
+@media (max-width: 40rem) {
+  .tabla-caja table { min-width: 42rem; }
+  .tabla-caja th:first-child, .tabla-caja td:first-child { min-width: 8rem; }
+}
+.tabla-caja th, .tabla-caja td { padding: var(--e2) var(--e3); text-align: left; vertical-align: top; border-bottom: 1px solid var(--separador); }
+.tabla-caja thead th { background: var(--fondo-hundido); }
+
+.vecinos { display: flex; justify-content: space-between; gap: var(--e4); flex-wrap: wrap; margin-top: var(--e8); }
+.vecinos a { white-space: normal; text-align: left; }
+.vecino-texto { display: grid; }
+.vecino-texto small { color: var(--texto-secundario); font-size: var(--t-micro); }
+
+/* ---------------------------------------------------------------- lo que falta -- */
+
+.vacio { display: grid; justify-items: start; gap: var(--e4); padding-block: var(--e8); color: var(--texto-secundario); }
+.vacio p { margin: 0; max-width: var(--medida-corta); }
+.vacio-texto { color: var(--texto-secundario); }
+
+.pie {
+  margin-block: var(--e12) var(--e8);
+  padding-top: var(--e6);
+  border-top: 1px solid var(--separador);
+  color: var(--texto-secundario);
+  font-size: var(--t-pequeno);
+}
+.pie .legal { display: flex; flex-wrap: wrap; gap: var(--e2) var(--e4); align-items: baseline; margin: 0; font-size: var(--t-micro); }
+.pie a { color: var(--texto); }
+
+.saltar:not(:focus-visible) {
+  position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+.saltar:focus-visible { display: inline-flex; margin-block: var(--e2); }
+
+.oculto {
+  position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+
+/* Con el dedo, 44 px; va al final para que nada lo pise. */
+@media (pointer: coarse) {
+  .boton, .barra nav a, .barra nav button, .vecinos a, .vacio a, .migas a,
+  .faceta > summary, .opciones label, .etiqueta { min-height: 44px; }
+  .quitar { min-height: 36px; }
+}
+
+/* Objetivos de 44 px a anchos de móvil (B6.T). Solo el alto/ancho: el aspecto en escritorio no cambia. */
+@media (pointer: coarse), (max-width: 40rem) {
+  .marca, .barra nav a, .barra nav button, .faceta > summary, .opciones label { min-height: 44px; }
+  .pie a, .vis-lista li a { display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; }
+  .barra nav button { min-width: 44px; }
+  .seccion-bloque h3 a { display: inline-flex; align-items: center; min-height: 44px; }
+  .boton-tema { min-width: 44px; }
+  .etiqueta, .quitar, .boton, .migas a, .vecinos a { min-height: 44px; }
+  details.fuentes-ens summary, details.transcripcion summary, .vis-lista summary { min-height: 44px; }
+  .en-pagina li a { display: flex; align-items: center; min-height: 44px; }
+  .en-pagina summary { min-height: 44px; display: flex; align-items: center; }
+  .buscar-faceta, .mapa-conmutador button { min-height: 44px; }
+}
+
+/* Cabecera en pantallas estrechas: la marca no se parte y los botones bajan de línea en vez de salirse. */
+.marca { white-space: nowrap; }
+@media (max-width: 40rem) {
+  .barra > div { flex-wrap: wrap; row-gap: var(--e2); padding-block: var(--e2); }
+  .barra nav { flex-wrap: wrap; gap: var(--e1, 0.25rem); }
+}
+
+/* El titular recibe el foco al navegar (para lectores de pantalla): no es interactivo y no lleva contorno. */
+h1[tabindex='-1']:focus { outline: none; }

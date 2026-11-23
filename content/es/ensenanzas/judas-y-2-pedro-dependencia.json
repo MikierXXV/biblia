@@ -1,0 +1,28 @@
+{
+  "id": "judas-y-2-pedro-dependencia",
+  "libro_id": "judas",
+  "orden": 3,
+  "titulo": "¿Por qué 2 Pedro 2 suena casi igual que Judas?",
+  "pasaje": "Jds 4-16",
+  "que_dice": "Quien lee Judas y después 2 Pedro 2 tiene la impresión de oír el mismo discurso dos veces. Ambas cartas hablan de ángeles que pecaron, de Sodoma y de maestros que desprecian a las autoridades (Jds 6-8; 2 Pe 2,4-10).\n\nJudas lo expone con ejemplos en serie y con citas de textos judíos no bíblicos. 2 Pedro lo reordena y quita la cita de Enoc. Una carta reutiliza a la otra.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: que un autor inspirado use una fuente anterior no le quita autoridad. Los evangelios de Mateo y Lucas hacen lo mismo con Marcos."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos sostiene que 2 Pe depende de Judas y no al revés. Judas es más breve, su hilo es más coherente y 2 Pe omite lo más apócrifo. Bauckham defiende esta prioridad en su comentario.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    }
+  ]
+}

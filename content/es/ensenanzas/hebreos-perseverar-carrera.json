@@ -1,0 +1,29 @@
+{
+  "id": "hebreos-perseverar-carrera",
+  "libro_id": "hebreos",
+  "orden": 3,
+  "titulo": "¿Cómo se sigue corriendo cuando uno está agotado?",
+  "pasaje": "Heb 12,1-3",
+  "que_dice": "Un estadio lleno y un corredor que se quita todo lo que le pesa. La imagen del capítulo 12 es una carrera con gradas: los testigos del capítulo 11 miran desde arriba.\n\nEl autor pide soltar el lastre y correr con paciencia, con la vista puesta en Jesús, que soportó la cruz y la hostilidad de los pecadores (12,2-3). Quiere que sus oyentes no se rindan por cansancio.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: han leído la imagen del atleta que resiste como ánimo para no ceder ante la presión. Las diferencias empiezan al decir quién es Jesús, no en la llamada a perseverar."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos ve aquí el centro de la exhortación: la carta quiere sostener a una comunidad que sufre. La comparación con el atleta era habitual en la filosofía popular de la época, que hablaba de la vida como un combate.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Hebrews (Word Biblical Commentary 47A-B)",
+      "autor": "William L. Lane",
+      "tradicion": "protestante"
+    }
+  ]
+}

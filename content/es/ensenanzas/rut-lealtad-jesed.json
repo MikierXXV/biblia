@@ -1,0 +1,45 @@
+{
+  "id": "rut-lealtad-jesed",
+  "libro_id": "rut",
+  "orden": 1,
+  "titulo": "La lealtad que va más allá del deber",
+  "pasaje": "Rut 1,16-17",
+  "que_dice": "Tres viudas en el camino de Moab a Belén. Noemí ha perdido al marido y a sus dos hijos, y pide a sus nueras que vuelvan con sus familias. Orpá se despide con un beso. Rut se queda.\n\nRut le promete ir adonde ella vaya y morir donde ella muera: su pueblo y su Dios serán los suyos (1,16-17). Nadie le pedía tanto. Ninguna ley obligaba a una nuera viuda a seguir a su suegra. El libro llama a esa lealtad *jésed*: la fidelidad generosa, la que nadie puede exigir (1,8; 2,20; 3,10).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee estas palabras como el modelo de la conversión. El midrás (comentario antiguo) Rut Rabá pone en boca de Noemí las obligaciones del converso, y en boca de Rut su aceptación. Una de las razones por las que Rut se lee en Shavuot, la fiesta de la entrega de la Torá, es esa: la extranjera elige el pacto por decisión propia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Rut es ejemplo de fidelidad y de la acción discreta de Dios en vidas corrientes. Mt 1,5 la nombra en la genealogía de Jesús, algo que se trata en la enseñanza 2."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica literaria, el diálogo de 1,8-18 es el núcleo del primer capítulo. En él Rut pasa de personaje secundario a protagonista.\n\nLa mayoría de los críticos coincide en que *jésed* (la fidelidad generosa) es la clave teológica del libro.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible, en su lectura literaria y feminista, subraya que la promesa de 1,16-17 la hace una mujer a otra mujer, sin la mediación de ningún hombre."
+    }
+  ]
+}

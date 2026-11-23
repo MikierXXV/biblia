@@ -1,0 +1,61 @@
+{
+  "id": "apocalipsis-violencia-del-libro",
+  "libro_id": "apocalipsis",
+  "orden": 4,
+  "titulo": "¿Celebra el Apocalipsis la violencia o la denuncia?",
+  "pasaje": "Ap 6,1-17; 19,11-21",
+  "que_dice": "Se abren los sellos y salen cuatro jinetes: guerra, hambre y muerte recorren la tierra. Más tarde, un jinete sobre un caballo blanco juzga y combate, y las aves devoran a sus enemigos (Ap 6,1-8; 19,11-21).\n\nEs uno de los libros más violentos de la Biblia. La espada sale de su boca (19,15). Los mártires piden justicia a gritos (6,9-10).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición apocalíptica judía, de Daniel a 1 Enoc, ya esperaba que Dios juzgara a los opresores y diera la razón a los perseguidos. El Apocalipsis se inscribe en esa tradición."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, el jinete de Ap 19 es Cristo, y el juicio es obra suya."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Hal Lindsey, desde el dispensacionalismo, lee Ap 19 como el regreso literal de Cristo y una batalla futura en Armagedón, con la violencia del texto como acontecimiento por venir."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute qué hace el libro con la violencia: si la desactiva, la canaliza o la reproduce.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Adela Yarbro Collins",
+        "texto": "Las imágenes de venganza son una catarsis: canalizan el resentimiento de una minoría sin poder y lo entregan a Dios."
+      },
+      {
+        "quien": "Richard Bauckham",
+        "texto": "El Cordero vence muriendo, y los creyentes vencen igual. El jinete de Ap 19 combate con su palabra."
+      },
+      {
+        "quien": "Tina Pippin",
+        "texto": "Lee como misógina la violencia contra Babilonia, la mujer a la que se desnuda y devora (Ap 17,16): el libro hace de ella el objeto del castigo."
+      }
+    ]
+  },
+  "temas": [
+    "violencia-guerra-y-paz",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Crisis and Catharsis: The Power of the Apocalypse",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Theology of the Book of Revelation",
+      "autor": "Richard Bauckham",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Death and Desire: The Rhetoric of Gender in the Apocalypse of John",
+      "autor": "Tina Pippin",
+      "tradicion": "critica"
+    }
+  ]
+}

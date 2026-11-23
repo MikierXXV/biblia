@@ -1,0 +1,44 @@
+{
+  "id": "marcos-amar-a-dios-y-al-projimo",
+  "libro_id": "marcos",
+  "orden": 4,
+  "titulo": "Un escriba pregunta por el primer mandamiento, y Jesús junta dos",
+  "pasaje": "Mc 12,28-34",
+  "que_dice": "Un escriba oye discutir a Jesús con otros maestros y le pregunta cuál es el primero de todos los mandamientos. Jesús cita el *Shemá*, la oración con que cada día un judío proclama que Dios es uno: amarás al Señor con todo el corazón (Dt 6,4-5).\n\nAñade un segundo: amarás a tu prójimo como a ti mismo (Lv 19,18). El escriba contesta que eso vale más que todos los sacrificios. Jesús le dice que no está lejos del reino de Dios.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, la respuesta de Jesús es la de un maestro más: une dos textos de la Torá. Hilel resumió la Torá en no hacer a otro lo que no quieres para ti (Shabat 31a), y Rabí Akiva llamó a Lv 19,18 un gran principio de la Torá."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica ve en el doble mandamiento el núcleo de la ley moral cristiana. Agustín, en De doctrina christiana (I, 35-36), lo presenta como el fin de toda la Escritura."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Amy-Jill Levine",
+      "texto": "Amy-Jill Levine insiste en que unir esos dos mandamientos no distingue a Jesús del judaísmo. Contraponer una ley judía fría a un amor cristiano es, para ella, un tópico falso."
+    }
+  ],
+  "critica": {
+    "texto": "Mt 22,34-40 y Lc 10,25-28 recogen la escena con otro tono: más polémico en Mateo y con la pregunta del maestro en Lucas. En Lucas recita los mandamientos el maestro, y Jesús lo aprueba. Solo en Marcos el escriba elogia a Jesús y oye que no está lejos del reino.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Misunderstood Jew",
+      "autor": "Amy-Jill Levine",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Mark 8-16 (Anchor Bible 27A)",
+      "autor": "Joel Marcus",
+      "tradicion": "critica"
+    }
+  ]
+}

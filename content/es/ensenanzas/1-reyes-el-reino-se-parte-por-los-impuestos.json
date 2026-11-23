@@ -1,0 +1,51 @@
+{
+  "id": "1-reyes-el-reino-se-parte-por-los-impuestos",
+  "libro_id": "1-reyes",
+  "orden": 3,
+  "titulo": "El reino se parte porque el rey rechaza aligerar la carga",
+  "pasaje": "1 Re 12,1-33",
+  "que_dice": "Muere Salomón y su hijo Roboán va a Siquén para ser proclamado rey. Las tribus del norte le piden que aligere el yugo y el trabajo forzado de su padre. Los ancianos le aconsejan ceder. Los jóvenes le dicen que responda con más dureza (12,1-11).\n\nRoboán sigue a los jóvenes. Las tribus del norte lo rechazan y proclaman rey a Jeroboán. Jeroboán levanta dos becerros de oro en Betel y Dan, para que el pueblo no vaya a Jerusalén (12,16-33).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el texto mismo explica la división como castigo por la infidelidad de Salomón (11,9-13) y como fruto de la dureza de Roboán."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Walter Brueggemann",
+      "texto": "Walter Brueggemann, en La imaginación profética, lee el reinado de Salomón como un régimen de opulencia y trabajo forzado que adormece al pueblo. El grito de las tribus (12,4) rompe esa calma."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si la división tuvo causas económicas y qué eran los becerros de Jeroboán.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Mordechai Cogan",
+        "texto": "Los impuestos y el trabajo forzado bajo Salomón explican la revuelta. Adoniram, jefe de los trabajos, fue apedreado (12,18)."
+      },
+      {
+        "quien": "William F. Albright y otros",
+        "texto": "Los becerros serían pedestales del Señor, como los querubines del arca. La condena vendría de redactores de Judá."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Kings (Anchor Bible 10)",
+      "autor": "Mordechai Cogan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Prophetic Imagination",
+      "autor": "Walter Brueggemann",
+      "tradicion": "protestante"
+    }
+  ]
+}

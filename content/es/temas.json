@@ -1,0 +1,748 @@
+{
+  "temas": [
+    {
+      "id": "creacion-y-cuidado-del-mundo",
+      "orden": 1,
+      "nombre": "Creación y cuidado del mundo",
+      "estado": "completo",
+      "resumen": "Cómo la Biblia habla del origen del mundo y de la tarea humana de cuidarlo, del Génesis al Apocalipsis.",
+      "pasajes": [
+        "Gn 1-2",
+        "Sal 8",
+        "Sal 104",
+        "Job 38-41",
+        "Prov 8,22-31",
+        "Is 40",
+        "Col 1,15-20",
+        "Rom 8,19-22",
+        "Ap 21"
+      ],
+      "introduccion": "El Génesis abre la Biblia con un mundo ordenado en siete días, donde Dios separa la luz de la oscuridad y el agua de la tierra seca. Después de cada obra repite que es buena, y al final del sexto día, que es muy buena (Gn 1).\n\nEl segundo relato cuenta lo mismo de otro modo. Dios modela al hombre del polvo y lo pone en el jardín para cultivarlo y guardarlo (Gn 2,15). Muchas lecturas ven en ello una tarea de cuidar, y no solo de usar; otras subrayan el «dominad» de Gn 1,28.\n\nOtros textos amplían la mirada. El Salmo 104 (103 en la numeración griega) canta la creación como una casa que Dios mantiene viva día a día. En Job 38-41, Dios responde al sufrimiento mostrando un mundo que el ser humano no controla. Prov 8,22-31 presenta a la Sabiduría como compañera de Dios al crear.\n\nEl Nuevo Testamento lleva la creación hacia su meta. Col 1,15-20 la une a Cristo, Rom 8,19-22 dice que gime esperando ser liberada y Ap 21 anuncia cielos nuevos y una tierra nueva.",
+      "divergencias": "La tradición judía y las cristianas leen Gn 1 como afirmación de que el mundo es bueno y depende de Dios. Muchos Padres de la Iglesia leyeron los días de modo alegórico, y hoy los creyentes discrepan sobre cómo conciliar el texto con la ciencia.\n\nLa crítica histórica compara Gn 1 con relatos mesopotámicos como el Enuma Elish. Discute si el texto los refuta o los reutiliza, y si Gn 1 es del exilio o es anterior.",
+      "relacionados": [
+        "imagen-de-dios-y-dignidad-humana",
+        "sabiduria-y-vida-buena",
+        "sentido-y-finitud"
+      ],
+      "para_recordar": [
+        "Gn 1 repite que lo creado es bueno; el sexto día, que es muy bueno.",
+        "En Gn 2,15 el ser humano recibe el jardín para cultivarlo y guardarlo.",
+        "Los Salmos, Job y Proverbios ven la creación como obra continua de Dios.",
+        "El Nuevo Testamento la dirige hacia una renovación final (Rom 8; Ap 21)."
+      ]
+    },
+    {
+      "id": "imagen-de-dios-y-dignidad-humana",
+      "orden": 2,
+      "nombre": "Imagen de Dios y dignidad humana",
+      "estado": "completo",
+      "resumen": "Qué significa que el ser humano sea «imagen de Dios» y qué consecuencias se sacan para la dignidad de cada persona.",
+      "pasajes": [
+        "Gn 1,26-27",
+        "Gn 9,6",
+        "Sal 8",
+        "Sab 2,23",
+        "Sant 3,9"
+      ],
+      "introduccion": "En Gn 1,26-27, Dios dice: hagamos al ser humano a nuestra imagen y semejanza. El texto lo repite en tres frases y añade «varón y mujer los creó». La imagen no se reserva a reyes ni a sacerdotes: se atribuye a todo el género humano.\n\nEl Salmo 8 se pregunta qué es el hombre para que Dios se acuerde de él. Responde que lo ha hecho poco inferior a un dios y lo ha coronado de gloria y dignidad.\n\nLa Biblia saca consecuencias prácticas. Gn 9,6 prohíbe el homicidio porque el ser humano es imagen de Dios. Sant 3,9 aplica lo mismo a la lengua: no se puede bendecir a Dios y maldecir a quienes están hechos a su semejanza.\n\nEl Nuevo Testamento llama a Cristo imagen de Dios (Col 1,15; 2 Cor 4,4) y dice que los creyentes se renuevan según esa imagen.",
+      "divergencias": "Las tradiciones discrepan sobre en qué consiste la imagen. Unas la ven en la razón y la libertad, otras en la relación con Dios y en la tarea de gobernar con cuidado el mundo. La ortodoxa distingue entre imagen, que no se pierde, y semejanza, que se alcanza.\n\nLa crítica histórica señala que en Egipto y Mesopotamia solo el rey se llamaba imagen del dios. Gn 1 extendería ese título a todos.",
+      "relacionados": [
+        "creacion-y-cuidado-del-mundo",
+        "sentido-y-finitud",
+        "justicia-social-y-defensa-del-pobre"
+      ],
+      "para_recordar": [
+        "Gn 1,26-27 atribuye la imagen de Dios a todo ser humano, varón y mujer.",
+        "Gn 9,6 y Sant 3,9 sacan de ella consecuencias para la vida y la palabra.",
+        "Las tradiciones discuten si la imagen es razón, relación o tarea.",
+        "En Egipto y Mesopotamia la imagen era un título real; Gn 1 lo extiende a todos."
+      ]
+    },
+    {
+      "id": "alianza",
+      "orden": 3,
+      "nombre": "Alianza",
+      "estado": "completo",
+      "resumen": "El pacto entre Dios y su pueblo, con Noé, Abrahán, Moisés y David, y la «nueva alianza» anunciada por Jeremías.",
+      "pasajes": [
+        "Gn 9",
+        "Gn 15",
+        "Gn 17",
+        "Éx 19-24",
+        "Dt 29",
+        "Jos 24",
+        "2 Sm 7",
+        "Jr 31,31-34",
+        "Ez 36",
+        "Lc 22,20",
+        "Heb 8-9"
+      ],
+      "introduccion": "Un pacto con Dios recorre la Biblia entera. Con Noé, tras el diluvio, Dios promete no destruir la tierra y pone el arco en las nubes como señal (Gn 9). Con Abrahán promete descendencia y tierra, y le pide caminar en su presencia (Gn 15; 17).\n\nEn el Sinaí la alianza se hace con todo un pueblo. Dios recuerda lo que hizo en Egipto y propone: si guardáis mi alianza, seréis mi pueblo elegido (Éx 19,3-8). El pueblo responde que cumplirá todo, y se sella con sangre (Éx 24,3-8).\n\nDeuteronomio presenta la alianza como un tratado y pide renovarla en Moab (Dt 29) y en Siquén (Jos 24). A David se le promete una dinastía (2 Sm 7).\n\nEn vísperas del exilio, Jeremías anuncia una alianza nueva escrita en el corazón (Jr 31,31-34). Lc 22,20 y Heb 8-9 la leen cumplida en Cristo.",
+      "divergencias": "Para el judaísmo, la alianza del Sinaí sigue vigente: la Torá no ha sido sustituida. Muchas Iglesias cristianas leen la nueva alianza como cumplimiento. Hoy discuten si eso implica sustituir o ampliar la primera. *Nostra aetate* (1965) recordó con Rom 11,29 que los dones de Dios a Israel son irrevocables. Juan Pablo II habló en 1980 de una alianza «nunca revocada».\n\nLa crítica histórica compara la forma de la alianza sinaítica con tratados hititas y asirios. Discute cuándo se adoptó la idea en Israel: algunos la fechan en el siglo VII a. C., otros, mucho antes.",
+      "relacionados": [
+        "ley-libertad-y-gracia",
+        "exilio-y-retorno",
+        "mesias-y-esperanza-mesianica"
+      ],
+      "para_recordar": [
+        "La Biblia cuenta varias alianzas: Noé, Abrahán, Sinaí, David y la nueva de Jeremías.",
+        "En el Sinaí la alianza une a todo un pueblo con Dios (Éx 19-24).",
+        "Jr 31,31-34 anuncia una alianza escrita en el corazón.",
+        "Judíos y cristianos discrepan sobre cómo se relacionan la antigua y la nueva."
+      ]
+    },
+    {
+      "id": "justicia-social-y-defensa-del-pobre",
+      "orden": 4,
+      "nombre": "Justicia social y defensa del pobre",
+      "estado": "completo",
+      "resumen": "Leyes, profetas y evangelios que ponen al pobre, la viuda y el huérfano en el centro de lo que Dios exige.",
+      "pasajes": [
+        "Dt 15",
+        "Lv 25",
+        "Am 2",
+        "Am 5",
+        "Is 1",
+        "Is 58",
+        "Miq 6,8",
+        "Prov 14,31",
+        "Sir 4",
+        "Lc 4,18",
+        "Lc 6,20-26",
+        "Sant 2,1-9",
+        "Sant 5,1-6",
+        "Miq 2,1-2",
+        "Sof 3,12-13",
+        "Zac 7,9-10",
+        "Mal 3,5"
+      ],
+      "introduccion": "Un campesino llega al borde de un campo ya segado. El dueño ha dejado sin cortar las esquinas y no ha vuelto a por las espigas caídas. Así lo manda la ley: lo que queda es para el pobre y el extranjero (Lv 19,9-10). Rut sobrevive espigando de ese modo (Rut 2).\n\nLas leyes de Israel ponen a tres figuras en el centro: el huérfano, la viuda y el extranjero, los que no tienen quien los defienda (Dt 24,17-22). El año sabático perdona deudas y el jubileo devuelve la tierra a su familia (Dt 15; Lv 25).\n\nLos profetas convierten esas leyes en denuncia. Amós acusa a quienes venden al pobre por un par de sandalias (Am 2,6). Miqueas, a quienes codician campos y los roban (Miq 2,1-2). Isaías y Miqueas resumen lo que Dios pide: practicar el derecho y amar la lealtad (Is 1,17; Miq 6,8).\n\nEl Nuevo Testamento recoge la herencia. Jesús abre su predicación en Nazaret anunciando la buena noticia a los pobres (Lc 4,18). La carta de Santiago reprocha a una comunidad que sienta al rico delante y al pobre en el suelo (Sant 2,1-9).",
+      "divergencias": "La tradición judía lee estas leyes como deberes concretos: la *tsedaká*, la justicia que se practica dando, no es un favor. La doctrina social católica nace con *Rerum novarum*, la encíclica de 1891 sobre la cuestión obrera. La «opción preferencial por los pobres» viene de los obispos latinoamericanos en Medellín (1968) y Puebla (1979).\n\nLa teología de la liberación, con Gustavo Gutiérrez, lee los profetas como crítica de estructuras injustas. Otros autores advierten contra trasladar sin más textos agrarios a la economía actual. La crítica histórica discute cuánto se aplicaron estas leyes, sobre todo el jubileo.",
+      "relacionados": [
+        "culto-verdadero-y-sacrificio",
+        "extranjero-y-hospitalidad",
+        "ley-libertad-y-gracia",
+        "poder-monarquia-y-critica-politica"
+      ],
+      "para_recordar": [
+        "Las leyes de Israel protegen al huérfano, la viuda y el extranjero, los que no tienen quien los defienda.",
+        "Los profetas del s. VIII, como Amós y Miqueas, denuncian a los ricos que oprimen al pobre.",
+        "Miq 6,8 resume la exigencia: practicar el derecho, amar la lealtad y caminar humilde con Dios.",
+        "La crítica discute cuánto se aplicaron leyes como el jubileo (Lv 25)."
+      ]
+    },
+    {
+      "id": "extranjero-y-hospitalidad",
+      "orden": 5,
+      "nombre": "Extranjero, migrante y hospitalidad",
+      "estado": "completo",
+      "resumen": "Del mandato de amar al forastero a la hospitalidad de los primeros cristianos: cómo trata la Biblia a quien viene de fuera.",
+      "pasajes": [
+        "Lv 19,33-34",
+        "Dt 10,18-19",
+        "Rut",
+        "Mt 25,35",
+        "Heb 13,2",
+        "3 Jn 5-8"
+      ],
+      "introduccion": "Abrahán emigra. La familia de Jacob baja a Egipto y el pueblo sale de allí esclavo. Después vienen el desierto y el exilio. Buena parte de la Biblia nace de esos desplazamientos.\n\nEsa memoria funda un mandato que se repite en la ley: no oprimir al forastero, «porque forasteros fuisteis en Egipto». Se lee en Éx 22,20 (en la numeración de las Biblias españolas actuales), Lv 19,33-34 y Dt 10,18-19. En Deuteronomio el extranjero aparece junto a la viuda y el huérfano, los tres bajo la protección especial de Dios.\n\nPero el tema no es unánime. Esdras y Nehemías exigen separarse de las mujeres extranjeras (Esd 9-10; Neh 13,23-27), y Dt 23,4 excluye a amonitas y moabitas de la asamblea. Rut y Jonás ofrecen otra perspectiva: una moabita es bisabuela de David y Dios se compadece de Nínive.\n\nEn el Nuevo Testamento la hospitalidad es una virtud de las comunidades: «fui forastero y me acogisteis» (Mt 25,35). Heb 13,2 habla de quienes «hospedaron ángeles sin saberlo», con eco de Gn 18, y 3 Jn 5-8 pide acoger a los misioneros itinerantes. 1 Pe 2,11 llama a los creyentes «extranjeros y peregrinos».",
+      "divergencias": "La tradición rabínica lee a veces al extranjero residente, el *guer*, como converso, y así entiende a Rut. Las tradiciones cristianas añaden un sentido espiritual: en 1 Pe 2,11 la extranjería es también imagen de la vida del creyente.\n\nLa crítica histórica discute cómo se relacionan los textos de exclusión (Esdras, Nehemías) y los de apertura (Rut, Jonás). Algunos críticos ven una polémica entre grupos de la época persa. Otros ven textos de épocas e intenciones distintas.",
+      "relacionados": [
+        "justicia-social-y-defensa-del-pobre",
+        "mujeres-y-liderazgo",
+        "exilio-y-retorno"
+      ],
+      "para_recordar": [
+        "La ley manda proteger al forastero, porque Israel fue forastero en Egipto (Lv 19,33-34).",
+        "Esdras y Nehemías excluyen a las extranjeras; Rut y Jonás acogen. La crítica discute cómo se relacionan.",
+        "En el Nuevo Testamento la acogida es una virtud de las comunidades (Mt 25,35; Heb 13,2)."
+      ]
+    },
+    {
+      "id": "perdon-y-reconciliacion",
+      "orden": 6,
+      "nombre": "Perdón y reconciliación",
+      "estado": "completo",
+      "resumen": "Cómo se perdona y se repara una relación rota: entre hermanos, entre el pueblo y Dios, entre comunidades.",
+      "pasajes": [
+        "Gn 33",
+        "Gn 45",
+        "Gn 50",
+        "Sal 51",
+        "Sal 103",
+        "Os 11",
+        "Mt 6,12",
+        "Mt 18,21-35",
+        "Lc 15",
+        "Col 3,13",
+        "2 Cor 5,18-20"
+      ],
+      "introduccion": "José llora delante de los hermanos que lo vendieron como esclavo. Les dice que no teman: lo que ellos pensaron para mal, Dios lo pensó para bien (Gn 50,20). Antes, Esaú había corrido a abrazar a Jacob, el hermano que le robó la bendición (Gn 33). El Génesis se cierra con hermanos reconciliados.\n\nEntre el pueblo y Dios, el perdón pasa por reconocer la culpa. El Sal 51 pide un corazón limpio. En Os 11, Dios no puede dejar de amar a su hijo infiel. El Sal 103 dice que aleja las culpas como dista el oriente del occidente.\n\nLos evangelios unen los dos perdones. En el padrenuestro se pide perdón como se perdona (Mt 6,12). Jesús manda perdonar setenta veces siete (Mt 18,21-35) y cuenta la parábola del hijo que vuelve (Lc 15). En la cruz pide perdón para quienes lo matan (Lc 23,34), y Esteban repite su oración (Hch 7,60).\n\nPablo habla de reconciliación: Dios reconcilia el mundo consigo y confía ese mensaje a la comunidad (2 Cor 5,18-20).",
+      "divergencias": "La tradición judía distingue dos tipos de falta. Las faltas contra Dios las perdona el *Yom Kipur*, el día de la Expiación. Las faltas contra el prójimo exigen antes pedir perdón al ofendido (Misná, Yoma 8,9). Católicos y ortodoxos tienen el sacramento de la confesión; la mayoría de protestantes confiesa directamente a Dios.\n\nLa crítica discute si Mt 18 pide un perdón sin límites o regula la disciplina de una comunidad concreta. También discute si Lc 23,34 estaba en el texto original de Lucas, porque falta en manuscritos antiguos.",
+      "relacionados": [
+        "misericordia-y-compasion-de-dios",
+        "amor-al-projimo-y-a-los-enemigos",
+        "alianza"
+      ],
+      "para_recordar": [
+        "El Génesis se cierra con hermanos que se reconcilian (Gn 33; Gn 50).",
+        "El padrenuestro une el perdón de Dios al perdón entre personas (Mt 6,12).",
+        "La tradición judía exige pedir perdón al ofendido antes del Yom Kipur."
+      ]
+    },
+    {
+      "id": "misericordia-y-compasion-de-dios",
+      "orden": 7,
+      "nombre": "Misericordia y compasión de Dios",
+      "estado": "completo",
+      "resumen": "La fórmula de Éxodo 34,6-7 y sus ecos: un Dios «clemente y compasivo» y las tensiones que eso plantea.",
+      "pasajes": [
+        "Éx 34,6-7",
+        "Sal 103",
+        "Jon 4,2",
+        "Os 6,6",
+        "Lc 6,36",
+        "Lc 10,25-37",
+        "Jl 2,13",
+        "Nah 1,2-3",
+        "Miq 7,18-20"
+      ],
+      "introduccion": "Moisés está en lo alto del Sinaí, después de que el pueblo haya adorado un becerro de oro. Dios pasa ante él y se presenta con una fórmula: clemente y compasivo, lento a la ira, rico en amor y fidelidad (Éx 34,6-7). Esa frase reaparece, entera o en parte, en más de diez lugares de la Biblia.\n\nLos profetas la repiten en momentos de crisis. Joel la usa para llamar a volver a Dios (Jl 2,13). Jonás se queja con ella: sabía que Dios perdonaría a Nínive, la capital enemiga (Jon 4,2). Nahúm la recorta: Dios no deja impune al culpable (Nah 1,3).\n\nOseas pinta a Dios como un padre que no puede dejar de querer a su hijo rebelde (Os 11).\n\nLos salmos la rezan: el Salmo 103 (102 en la numeración griega) dice que Dios no trata a su pueblo según sus culpas. El Nuevo Testamento la lleva al centro. Jesús pide ser compasivos como el Padre (Lc 6,36), y la parábola del hijo que vuelve muestra a un padre que corre a abrazarlo (Lc 15).",
+      "divergencias": "La tradición judía ve en Éx 34,6-7 los trece atributos de misericordia, que se rezan en las fiestas penitenciales y en Yom Kipur. Las tradiciones cristianas leen la misericordia a la luz de Cristo, y la discusión entre católicos y protestantes sobre la gracia toca también este punto.\n\nLa tensión está dentro del propio texto: la fórmula dice a la vez que Dios perdona y que castiga la culpa hasta la cuarta generación. Jonás y Nahúm, leídos juntos, muestran las dos caras ante la misma ciudad. La crítica estudia cómo la fórmula se reinterpreta de libro en libro.",
+      "relacionados": [
+        "perdon-y-reconciliacion",
+        "alianza",
+        "amor-al-projimo-y-a-los-enemigos",
+        "culto-verdadero-y-sacrificio"
+      ],
+      "para_recordar": [
+        "Éx 34,6-7 presenta a Dios como clemente y compasivo; la fórmula reaparece en Joel, Jonás, Nahúm y los Salmos.",
+        "Jonás se enfada porque Dios perdona a Nínive, la ciudad enemiga (Jon 4,2).",
+        "La propia fórmula une perdón y castigo, y cada libro subraya una de las dos caras.",
+        "En Lc 6,36 Jesús pide ser compasivos como lo es el Padre."
+      ]
+    },
+    {
+      "id": "amor-al-projimo-y-a-los-enemigos",
+      "orden": 8,
+      "nombre": "Amor al prójimo y a los enemigos",
+      "estado": "completo",
+      "resumen": "Del «amarás a tu prójimo» de Levítico a la exigencia de amar al enemigo en los evangelios y las cartas.",
+      "pasajes": [
+        "Lv 19,18",
+        "Dt 6,5",
+        "Mt 5,43-48",
+        "Mt 22,34-40",
+        "Lc 10",
+        "1 Cor 13",
+        "1 Jn 4"
+      ],
+      "introduccion": "Un experto en la Ley pregunta a Jesús cuál es el mandamiento principal. Jesús responde con dos frases de la Torá: amar a Dios con todo el corazón (Dt 6,5) y amar al prójimo como a uno mismo (Lv 19,18). De esos dos, dice, dependen la Ley y los profetas (Mt 22,34-40).\n\nEn Levítico, el prójimo es en primer lugar el compatriota. Pero el mismo capítulo extiende el mandato al forastero (Lv 19,34). En Lucas, la pregunta de quién es mi prójimo recibe como respuesta la parábola de un samaritano, alguien de un pueblo enemistado con los judíos (Lc 10,25-37).\n\nEl sermón del monte va más lejos: amar a los enemigos y rezar por quienes persiguen (Mt 5,43-48). En la última cena, Juan da al amor la medida de Jesús, que lava los pies a los suyos (Jn 13,34-35). Pablo describe el amor que todo lo soporta (1 Cor 13), y 1 Jn 4 afirma que Dios es amor.",
+      "divergencias": "La tradición judía recuerda que el odio al enemigo no está en la Torá, aunque Mt 5,43 lo cite así: Lv 19,17-18 prohíbe la venganza y el rencor. Hillel resumió la Ley en no hacer a otro lo que uno odia (Talmud, Shabat 31a). Las iglesias de paz, como los menonitas, leen el amor al enemigo como rechazo de toda violencia. Católicos, ortodoxos y la mayoría de protestantes admiten la legítima defensa.\n\nLa crítica discute a quién apunta Mt 5,43. Unos piensan en los esenios de Qumrán, que mandaban odiar a los hijos de las tinieblas. Otros ven una interpretación popular o un recurso retórico de Mateo.",
+      "relacionados": [
+        "perdon-y-reconciliacion",
+        "extranjero-y-hospitalidad",
+        "violencia-guerra-y-paz"
+      ],
+      "para_recordar": [
+        "Jesús resume la Ley con dos frases de la Torá: Dt 6,5 y Lv 19,18.",
+        "Lv 19,34 extiende el amor al forastero, y Lc 10 lo lleva hasta un samaritano.",
+        "El amor al enemigo (Mt 5,44) se aplica distinto: rechazo de toda violencia o legítima defensa."
+      ]
+    },
+    {
+      "id": "sufrimiento-del-inocente-y-lamento",
+      "orden": 9,
+      "nombre": "Sufrimiento del inocente y lamento",
+      "estado": "completo",
+      "resumen": "La queja ante Dios del que sufre sin culpa: Job, los salmos de lamento y Lamentaciones, hasta las cartas del Nuevo Testamento.",
+      "pasajes": [
+        "Job",
+        "Sal 22 (21)",
+        "Sal 88 (87)",
+        "Lam",
+        "Ecl 4",
+        "Jr 20",
+        "Heb 12",
+        "1 Pe 4"
+      ],
+      "introduccion": "Un hombre íntegro lo pierde todo y pregunta por qué. Esa pregunta recorre la Biblia. Job la lleva al extremo: sus amigos le dicen que sufre por algo que hizo, y él lo niega. Dios acaba dando la razón a Job y no a los amigos (Job 42,7).\n\nLos salmos de lamento ponen palabras al dolor. El Sal 22 (21) grita el abandono y el 88 (87) termina sin consuelo. Eclesiastés mira al oprimido sin ocultar que nadie lo consuela (Ecl 4,1), y Jeremías se queja de haber sido seducido por Dios (Jr 20,7).\n\nEl Nuevo Testamento añade otra voz: el sufrimiento disciplina (Heb 12) o se comparte con Cristo (1 Pe 4). La Biblia no da una sola explicación del dolor. Guarda varias, y deja hablar a quien reclama.",
+      "divergencias": "El Talmud está dividido sobre Job (Baba Batra 15b-16a). Lectores judíos modernos, como Elie Wiesel, lo leen como modelo de quien interpela a Dios. La tradición cristiana elogió durante siglos su paciencia (Sant 5,11), y hoy muchos lectores subrayan que Job protesta más que aguanta. Los católicos y los ortodoxos suman Sabiduría 3, donde las almas de los justos están en manos de Dios.\n\nLa crítica discute si el libro de Job tiene una tesis. Carol Newsom lo lee como un choque de voces sin solución. Gustavo Gutiérrez, desde la teología de la liberación, ve en los amigos la lógica que culpa a la víctima. También se discute si Job 19,25 habla de esperanza tras la muerte o de vindicación en vida.",
+      "relacionados": [
+        "esperanza-y-consuelo",
+        "oracion",
+        "resurreccion-y-vida-despues-de-la-muerte"
+      ],
+      "para_recordar": [
+        "Job sufre sin culpa y el libro lo dice desde el principio: no es castigo.",
+        "Dios reprende a los amigos que defendían la retribución (Job 42,7).",
+        "Los salmos de lamento, como el 22 (21) y el 88 (87), enseñan a reclamar a Dios sin dejar de dirigirse a él.",
+        "Eclesiastés ve la injusticia y no la explica (Ecl 4,1; 8,14)."
+      ]
+    },
+    {
+      "id": "esperanza-y-consuelo",
+      "orden": 10,
+      "nombre": "Esperanza y consuelo",
+      "estado": "completo",
+      "resumen": "Palabras de aliento en tiempos de derrota: los profetas del exilio, los salmos y las promesas del Nuevo Testamento.",
+      "pasajes": [
+        "Is 40",
+        "Jr 29,11",
+        "Lam 3,22-23",
+        "Bar 4,5–5,9",
+        "Ez 37,1-14",
+        "Dn 12,1-3",
+        "Sal 23",
+        "Rom 8",
+        "1 Tes 4,13-18",
+        "Ap 21,4"
+      ],
+      "introduccion": "Babilonia, siglo VI a. C. Los desterrados cuelgan las arpas de los sauces y no pueden cantar (Sal 137). Jerusalén ha caído y el Templo arde. Entonces una voz anónima dice: «Consolad, consolad a mi pueblo» (Is 40,1).\n\nLa Biblia no ofrece aliento barato. Lamentaciones llora la ciudad sin que nadie la consuele, y solo en medio del abismo recuerda que la misericordia de Dios no se acaba (Lam 3,22-23). Jeremías manda a los desterrados construir casas y plantar huertos, porque el exilio será largo, y les promete un futuro de esperanza (Jr 29,5-11).\n\nEzequiel ve un valle de huesos secos que vuelven a la vida (Ez 37). Baruc imagina a Jerusalén vistiéndose de fiesta para recibir a sus hijos (Bar 5,1-9).\n\nEl consuelo se amplía hasta la vida más allá de la muerte. Daniel anuncia que los que duermen en el polvo despertarán (Dn 12,2). El Salmo 23 habla de un pastor que acompaña en el valle oscuro. El Nuevo Testamento promete que nada podrá separar de Dios (Rom 8,38-39), que los muertos resucitarán (1 Tes 4,13-18) y que Dios enjugará toda lágrima (Ap 21,4).",
+      "divergencias": "Los textos de Is 40-55 se leen de modo distinto. La tradición judía los lee como promesa para Israel, y se proclaman como haftarot de consuelo tras el 9 de Av. Las tradiciones cristianas los leen también como anuncio de Cristo. La crítica histórica los atribuye a un profeta anónimo del exilio, hacia el 540 a. C., aunque la unidad del libro de Isaías se discute.\n\nBaruc, citado aquí, está en las Biblias católicas y ortodoxas, no en las judías ni en las protestantes.\n\nSobre Ez 37 y Dn 12, Jon Levenson ve la resurrección como desarrollo de la esperanza de restauración de Israel; otros críticos piensan en influencia persa o helenística.",
+      "relacionados": [
+        "exilio-y-retorno",
+        "sufrimiento-del-inocente-y-lamento",
+        "resurreccion-y-vida-despues-de-la-muerte"
+      ],
+      "para_recordar": [
+        "Is 40 abre un consuelo dirigido a los desterrados en Babilonia.",
+        "Lamentaciones encuentra esperanza en medio del dolor (Lam 3,22-23), no antes.",
+        "Ez 37 y Dn 12 llevan la esperanza hasta la vida después de la muerte.",
+        "El Nuevo Testamento la resume en Rom 8 y Ap 21,4."
+      ]
+    },
+    {
+      "id": "exilio-y-retorno",
+      "orden": 11,
+      "nombre": "Exilio y retorno",
+      "estado": "completo",
+      "resumen": "La deportación a Babilonia y el regreso: cómo la experiencia del destierro cambió la fe y los textos de Israel.",
+      "pasajes": [
+        "2 Re 25",
+        "Sal 137",
+        "Jr 29",
+        "Is 40-55",
+        "Ez 37",
+        "Esd",
+        "Neh",
+        "Bar"
+      ],
+      "introduccion": "En el 587 a. C. Nabucodonosor destruye Jerusalén y su Templo, y deporta a parte de la población a Babilonia (2 Re 25). Para un pueblo que creía que Dios vivía en su ciudad y protegía a su dinastía, fue una crisis de fe. El Salmo 137 la recuerda: «junto a los ríos de Babilonia nos sentamos a llorar».\n\nLos textos responden de maneras distintas. Jeremías escribe a los deportados que construyan casas, planten huertos y busquen el bienestar de la ciudad donde viven (Jr 29). Ezequiel ve un valle de huesos secos que revive (Ez 37). El libro de Isaías 40-55 anuncia consuelo y un nuevo éxodo, y Baruc reúne oraciones de arrepentimiento.\n\nEl retorno, bajo el edicto de Ciro (Esd 1), fue más modesto que lo anunciado. Esdras y Nehemías cuentan la reconstrucción del Templo, de la muralla y de la comunidad. Crónicas termina con el mismo edicto: la historia queda abierta hacia la vuelta (2 Cr 36,22-23).",
+      "divergencias": "Las tradiciones difieren en lo que hacen del exilio. La judía lo recuerda cada año en el ayuno del 9 de Av, por la destrucción de los dos Templos, y entiende la Diáspora como un exilio que continúa. Las tradiciones cristianas, con matices propios, leen con frecuencia el exilio y el retorno como imagen de la salvación y del creyente peregrino.\n\nLa crítica histórica discute cuánto cambió la vida de Judá, porque la mayoría de la población no fue deportada. Discute también cuánto de la Biblia se escribió o se reelaboró en el destierro. Discute además el tono del retorno: restauración gozosa o proyecto exigente, con tensiones como las que muestran Esd 9-10 y Rut.",
+      "relacionados": [
+        "extranjero-y-hospitalidad",
+        "oracion",
+        "poder-monarquia-y-critica-politica"
+      ],
+      "para_recordar": [
+        "En el 587 a. C. cae Jerusalén y parte del pueblo es deportado a Babilonia (2 Re 25).",
+        "Jeremías aconseja a los deportados construir y buscar el bien de la ciudad (Jr 29).",
+        "El retorno bajo Ciro fue modesto, y Esdras y Nehemías cuentan cómo se rehízo la comunidad.",
+        "La tradición judía lo recuerda en el ayuno del 9 de Av; la cristiana lo lee a menudo como imagen espiritual."
+      ]
+    },
+    {
+      "id": "poder-monarquia-y-critica-politica",
+      "orden": 12,
+      "nombre": "Poder, monarquía y crítica política",
+      "estado": "completo",
+      "resumen": "Los libros bíblicos desconfían del poder: reyes criticados por profetas, imperios retratados como bestias.",
+      "pasajes": [
+        "1 Sm 8",
+        "2 Sm 11-12",
+        "1 Re 21",
+        "Prov 29",
+        "Dn 3",
+        "Dn 6",
+        "Mc 10,42-45",
+        "Rom 13",
+        "Ap 13"
+      ],
+      "introduccion": "Israel pide un rey igual que el de las demás naciones. Samuel le avisa de lo que costará: hijos en el ejército, hijas en la corte, tierras y tributos (1 Sm 8). Dt 17,14-20 ya pedía un rey limitado: sin muchos caballos, mujeres ni oro, y sometido a la ley.\n\nLos libros históricos muestran ese ideal incumplido. Natán acusa a David por Betsabé y Urías (2 Sm 11-12). Salomón acumula caballos y oro, y a su muerte el norte se separa cuando Roboán se niega a aligerar la carga (1 Re 12). Elías acusa a Ajab por la viña de Nabot (1 Re 21).\n\nEn tiempos de imperios, Daniel muestra a judíos leales en la corte extranjera. Se niegan a adorar la estatua (Dn 3) o a dejar de orar (Dn 6). Jesús dice a sus discípulos que entre ellos mande quien sirva (Mc 10,42-45).\n\nRom 13 manda someterse a las autoridades, y Ap 13 describe un imperio como una bestia que exige adoración. Ambos textos conviven en el canon.",
+      "divergencias": "La tradición rabínica fija límites al rey: el Talmud (Sanedrín 20b) discute si el rey puede tomar lo que describe 1 Sm 8. El amora Shmuel y rabí Yosé dicen que sí; Rav y rabí Yehudá, que solo quería asustar al pueblo. Maimónides (Leyes de los reyes 4) falla que puede, pagando.\n\nRom 13,1-7 se lee de modos opuestos. Unos lo toman como llamada a obedecer al poder establecido. Otros lo leen a la luz de Ap 13 y de Hch 5,29, y ven en él una obediencia con límites. La crítica discute además si Samuel está a favor o en contra de la monarquía, porque 1 Sm 8-12 mezcla dos visiones, una positiva y otra negativa.",
+      "relacionados": [
+        "profecia-y-llamada",
+        "justicia-social-y-defensa-del-pobre",
+        "alianza"
+      ],
+      "para_recordar": [
+        "Dt 17 y 1 Sm 8 piden un rey limitado y avisan de lo que costará uno sin límites.",
+        "Natán ante David y Elías ante Ajab son los modelos del profeta que habla al poder.",
+        "Rom 13 y Ap 13 miran al poder de modos distintos, y las tradiciones los leen de formas diversas."
+      ]
+    },
+    {
+      "id": "sabiduria-y-vida-buena",
+      "orden": 13,
+      "nombre": "Sabiduría y vida buena",
+      "estado": "completo",
+      "resumen": "Qué es vivir bien según los sabios de Israel y cómo evoluciona la figura de la Sabiduría, personificada como mujer.",
+      "pasajes": [
+        "Prov 1-9",
+        "Job 28",
+        "Ecl",
+        "Sab 7-9",
+        "Sir 24",
+        "Sant 3,13-18"
+      ],
+      "introduccion": "Un padre habla a su hijo: escucha, no sigas a quien te invita a robar. Así empieza Proverbios, y con él una tradición que no habla de milagros sino de cómo vivir bien. El sabio observa el mundo, aprende de los mayores y cuida su palabra. El principio de todo es el temor del Señor (Prov 1,7).\n\nLa Sabiduría aparece como una mujer que llama en la plaza (Prov 8-9) y que estaba con Dios al crear el mundo. Job 28 pregunta dónde se halla y responde que solo Dios conoce su camino. Eclesiastés cuestiona las certezas del sabio, y Sabiduría y Sirácida, escritos después, la identifican con el espíritu de Dios (Sab 7) y con la Torá (Sir 24).\n\nEn el Nuevo Testamento, Santiago pide la sabiduría de lo alto, pacífica y llena de buenos frutos (Sant 3,13-18).",
+      "divergencias": "El judaísmo rabínico identificó la sabiduría de Prov 8 y Sir 24 con la Torá. Los Padres de la Iglesia, y las tradiciones católica y ortodoxa, la leyeron como el Hijo o el Verbo de Dios. Sabiduría y Sirácida son deuterocanónicos: católicos y ortodoxos los reciben, y judíos y protestantes no.\n\nLa crítica discute cuánto tiene la sabiduría bíblica de sabiduría de la región. Prov 22,17-24,22 depende de un texto egipcio, Amenemope. También se discute si Prov 8,22 dice que la Sabiduría fue creada o poseída. Para Claudia Camp, la mujer sabia refleja el prestigio de mujeres reales.",
+      "relacionados": [
+        "creacion-y-cuidado-del-mundo",
+        "ley-libertad-y-gracia",
+        "sentido-y-finitud"
+      ],
+      "para_recordar": [
+        "El principio del saber es el temor del Señor (Prov 1,7).",
+        "La Sabiduría aparece como una mujer que llama en la plaza (Prov 8-9).",
+        "Job 28 dice que la sabiduría solo la conoce Dios, y Eclesiastés discute las certezas del sabio.",
+        "Ben Sira la identifica con la Torá (Sir 24) y Sabiduría con un aliento del poder de Dios (Sab 7)."
+      ]
+    },
+    {
+      "id": "sentido-y-finitud",
+      "orden": 14,
+      "nombre": "Sentido y finitud",
+      "estado": "completo",
+      "resumen": "Qué hacer con la brevedad de la vida: la mirada escéptica de Eclesiastés y las respuestas de otros libros.",
+      "pasajes": [
+        "Ecl 1",
+        "Ecl 3",
+        "Ecl 12",
+        "Sal 90 (89)",
+        "Sab 3",
+        "1 Cor 15"
+      ],
+      "introduccion": "Un anciano mira su vida y dice que todo es aliento: algo que existe y no se agarra. Es Qohélet, y su pregunta recorre el tema: qué le queda al hombre de tanto afán (Ecl 1,3). Ve que al sabio y al necio les espera la misma muerte y que el tiempo no está en manos humanas (Ecl 3).\n\nSu respuesta no es la nada. Recomienda comer, beber y amar con gratitud, mientras hay tiempo (Ecl 9,7-10), y termina recordando al Creador antes de que vuelva el polvo (Ecl 12). El Sal 90 (89) pide aprender a contar los días para ganar un corazón sabio. El Cantar dice que el amor es fuerte como la muerte (Cant 8,6).\n\nSabiduría 3 responde con la esperanza de que las almas de los justos estén en manos de Dios, y 1 Cor 15 con la resurrección.",
+      "divergencias": "Los sabios del Talmud discutieron si debía retirarse Eclesiastés por sus contradicciones, y lo conservaron. Muchas comunidades lo leen en Sucot, la fiesta de la alegría. La tradición cristiana, con Jerónimo, lo leyó como desprecio de un mundo que pasa. Lutero lo leyó como llamada a aceptar los dones de cada día.\n\nLa crítica discute qué significa *hebel*: Michael Fox propone «absurdo», y otros subrayan lo fugaz. Se discute si los versículos sobre el juicio de Dios (Ecl 3,17; 11,9) y el epílogo (12,9-14) son del autor o de un redactor. Y cómo leer *olam*, «eternidad» o «mundo», en 3,11.",
+      "relacionados": [
+        "resurreccion-y-vida-despues-de-la-muerte",
+        "sabiduria-y-vida-buena",
+        "esperanza-y-consuelo"
+      ],
+      "para_recordar": [
+        "Qohélet llama hebel a todo: aliento que existe y no se agarra.",
+        "Al sabio y al necio les espera la misma muerte (Ecl 2,14-16).",
+        "Su consejo es disfrutar con gratitud de comer, trabajar y amar (Ecl 9,7-10).",
+        "El Sal 90 (89) pide contar los días para tener un corazón sabio."
+      ]
+    },
+    {
+      "id": "ley-libertad-y-gracia",
+      "orden": 15,
+      "nombre": "Ley, libertad y gracia",
+      "estado": "completo",
+      "resumen": "La Torá como don y como camino, y cómo Pablo, Santiago y los evangelios se sitúan ante ella.",
+      "pasajes": [
+        "Dt 4-6",
+        "Sal 1",
+        "Sal 119",
+        "Jr 31",
+        "Mt 5,17-20",
+        "Rom 3-8",
+        "Gál 2-5",
+        "Sant 2"
+      ],
+      "introduccion": "Los Diez Mandamientos empiezan recordando una liberación: «yo soy el Señor, que te saqué de Egipto» (Éx 20,2). Para muchas lecturas cristianas, la ley llega después de la gracia: no compra la libertad, la protege.\n\nDeuteronomio pide al pueblo meditar la ley y amarla (Dt 6). El Salmo 1 llama feliz a quien medita la Torá de día y de noche. El Salmo 119 (118 en la numeración griega) la canta durante 176 versículos como luz y alegría. Jr 31 anuncia que un día estará escrita en el corazón.\n\nEl Nuevo Testamento la discute con pasión. Jesús dice que no ha venido a abolir la ley, sino a cumplirla (Mt 5,17-20). Pablo sostiene que nadie se justifica por las obras de la ley, sino por la fe (Rom 3; Gál 2). Santiago escribe que la fe sin obras está muerta (Sant 2).",
+      "divergencias": "El judaísmo ve en la ley un don y un camino de vida, y en sus preceptos la manera de vivir la alianza. Las Iglesias protestantes subrayan la justificación por la fe sin obras. La católica y la ortodoxa insisten en que la fe actúa por el amor.\n\nDesde los años setenta, la llamada nueva perspectiva sobre Pablo discute si el apóstol criticaba un legalismo judío o la exigencia de la ley a los paganos. La defienden Sanders, Dunn y Wright con matices distintos.",
+      "relacionados": [
+        "alianza",
+        "amor-al-projimo-y-a-los-enemigos",
+        "culto-verdadero-y-sacrificio"
+      ],
+      "para_recordar": [
+        "El Decálogo empieza con la liberación de Egipto; muchas lecturas ven en ello la ley siguiendo a la gracia.",
+        "Los Salmos 1 y 119 celebran la ley como luz y alegría.",
+        "Pablo y Santiago hablan de fe y obras con acentos distintos.",
+        "Las tradiciones y la crítica discrepan sobre qué criticaba Pablo."
+      ]
+    },
+    {
+      "id": "culto-verdadero-y-sacrificio",
+      "orden": 16,
+      "nombre": "Culto verdadero y sacrificio",
+      "estado": "completo",
+      "resumen": "Qué quiere Dios del culto: sacrificios, profetas que lo cuestionan y la relectura del Nuevo Testamento.",
+      "pasajes": [
+        "Lv 16",
+        "1 Sm 15,22",
+        "Sal 50",
+        "Sal 51",
+        "Is 1",
+        "Os 6,6",
+        "Am 5,21-24",
+        "Mt 9,13",
+        "Jn 4,23",
+        "Heb 9-10",
+        "Miq 6,6-8",
+        "Ag 1",
+        "Mal 1,6-14"
+      ],
+      "introduccion": "Un israelita sube al santuario con un novillo para el sacrificio. Miqueas pone en su boca la pregunta: ¿con qué me presentaré ante Dios, con miles de carneros, con mi primogénito? La respuesta no es una ofrenda mayor: practicar el derecho, amar la lealtad y caminar humilde con Dios (Miq 6,6-8).\n\nEl Levítico regula el culto con detalle: holocaustos, ofrendas y el gran día de la expiación, Yom Kipur (Lv 16). Los profetas no lo ignoran, pero lo ponen a prueba. Samuel antepone obedecer a sacrificar (1 Sm 15,22), y Oseas, la lealtad a los sacrificios (Os 6,6). Amós pide que el derecho corra como el agua (Am 5,24).\n\nTras el exilio el péndulo vuelve. Ageo urge a reconstruir el Templo (Ag 1) y Malaquías reprocha ofrecer animales cojos y enfermos (Mal 1,8).\n\nEl Nuevo Testamento relee el tema. Jesús cita Os 6,6 (Mt 9,13) y habla de adorar en espíritu y verdad (Jn 4,23). La carta a los Hebreos presenta su muerte como el sacrificio definitivo (Heb 9-10).",
+      "divergencias": "Tras la destrucción del Templo en el 70 d. C., el judaísmo rabínico sustituyó el sacrificio por la oración, el estudio y las obras de misericordia. Las tradiciones cristianas leen Hebreos de modo distinto. La católica y la ortodoxa entienden la eucaristía como el mismo sacrificio de Cristo hecho presente. Las protestantes subrayan que su sacrificio es único y no se repite.\n\nLa crítica discute si los profetas rechazaban el culto en sí, como pensaba Wellhausen, o un culto separado de la justicia, como sostiene hoy la mayoría.",
+      "relacionados": [
+        "justicia-social-y-defensa-del-pobre",
+        "misericordia-y-compasion-de-dios",
+        "alianza",
+        "oracion"
+      ],
+      "para_recordar": [
+        "Levítico regula los sacrificios; los profetas los miden por la justicia y la lealtad.",
+        "Os 6,6, Am 5,24 y Miq 6,8 piden algo más que ofrendas.",
+        "Ageo y Malaquías, tras el exilio, defienden un Templo reconstruido y un culto digno.",
+        "La crítica discute si los profetas rechazaban el culto o solo un culto sin justicia."
+      ]
+    },
+    {
+      "id": "profecia-y-llamada",
+      "orden": 17,
+      "nombre": "Profecía y llamada",
+      "estado": "completo",
+      "resumen": "Cómo se cuenta la vocación de profetas y apóstoles: la llamada, la resistencia y la misión.",
+      "pasajes": [
+        "Éx 3",
+        "Is 6",
+        "Jr 1",
+        "Ez 1–3",
+        "Am 7",
+        "Lc 4",
+        "Hch 9"
+      ],
+      "introduccion": "Un arbusto arde sin consumirse y una voz llama a Moisés por su nombre (Éx 3). Él pone excusas: no sabe hablar. Así empieza un patrón que se repite en la Biblia.\n\nIsaías ve a Dios en el Templo, se siente impuro y un serafín le purifica los labios con un carbón (Is 6). Jeremías dice que es un muchacho que no sabe hablar, y Dios le toca la boca (Jr 1,6-9). Ezequiel cae rostro en tierra ante un carro de fuego y come un rollo (Ez 1–3). Amós responde que no era profeta, sino pastor (Am 7,14-15).\n\nEn el Nuevo Testamento, Jesús se aplica en Nazaret las palabras de Isaías: «El Espíritu del Señor está sobre mí» (Lc 4,18). A Saulo lo llama una voz camino de Damasco (Hch 9).\n\nEl esquema tiene casi siempre los mismos pasos: la llamada, la resistencia, una señal y el encargo. La misión rara vez es cómoda: Jeremías la vive como una carga y Jonás huye de ella.",
+      "divergencias": "La tradición rabínica sostiene que la profecía cesó con Hageo, Zacarías y Malaquías (Talmud, Yomá 9b). Las tradiciones cristianas ven profecía en el Nuevo Testamento, y algunas, en la Iglesia posterior. La crítica histórica estudia los relatos de vocación como un género literario, con partes comunes, y discute cuánto reflejan una experiencia personal y cuánto una composición posterior.",
+      "relacionados": [
+        "mujeres-y-liderazgo",
+        "espiritu-de-dios",
+        "esperanza-y-consuelo"
+      ],
+      "para_recordar": [
+        "Los relatos de vocación siguen un patrón: llamada, resistencia, señal y encargo.",
+        "Isaías, Jeremías y Ezequiel viven la llamada como un encuentro que los desborda.",
+        "El Nuevo Testamento aplica el patrón a Jesús (Lc 4) y a Pablo (Hch 9)."
+      ]
+    },
+    {
+      "id": "mujeres-y-liderazgo",
+      "orden": 18,
+      "nombre": "Mujeres y liderazgo",
+      "estado": "completo",
+      "resumen": "Débora, Rut, Ester, Judit, las mujeres de los evangelios y de las cartas, y los textos que restringen su papel y se discuten hoy.",
+      "pasajes": [
+        "Jue 4-5",
+        "Rut",
+        "Est",
+        "Jdt",
+        "1 Sm 1-2",
+        "Prov 31",
+        "Cant",
+        "Lc 1-2",
+        "Lc 8,1-3",
+        "Jn 20,11-18",
+        "Rom 16",
+        "1 Cor 11",
+        "1 Cor 14,34-35",
+        "1 Tim 2"
+      ],
+      "introduccion": "Débora es jueza y profetisa (Jue 4-5), aunque la Biblia nace en sociedades patriarcales. Ana ora ante el santuario, y su cántico (1 Sm 2) tiene eco en el Magníficat de Lucas. Rut y Noemí cambian su suerte con un plan propio.\n\nEster arriesga la vida por su pueblo y Judit lo salva. Este último libro solo está en las Biblias católicas y ortodoxas. Los libros sapienciales muestran a la Sabiduría personificada como mujer (Prov 1-9) y elogian a la «mujer fuerte» (Prov 31).\n\nEl Cantar da la palabra a la amada. En los evangelios, algunas mujeres acompañan a Jesús y lo sostienen (Lc 8,1-3). Según Jn 20,11-18, María Magdalena es la primera en ver al resucitado.\n\nEn las cartas de Pablo hay mujeres con funciones de colaboración, como Febe, llamada *diákonos*: servidora o diaconisa, y se discute si designa un cargo (Rom 16,1).\n\nOtros pasajes limitan su papel. 1 Cor 14,34-35 manda callar a las mujeres en la asamblea, y 1 Tim 2,11-15 les prohíbe enseñar. Su sentido se discute.",
+      "divergencias": "La tradición rabínica cuenta a Débora y a Ester entre las siete profetisas de Israel (Talmud, Megilá 14a). Las tradiciones cristianas difieren sobre los textos restrictivos. Las Iglesias católica y ortodoxa reservan el sacerdocio a varones y apelan a la tradición apostólica. Muchas Iglesias protestantes ordenan mujeres, y algunas leen 1 Cor 14,34-35 como una norma local.\n\nSobre 1 Cor 14,34-35, parte de la crítica piensa que es una añadidura posterior a Pablo, y otra parte piensa que es suyo. La mayoría de la crítica no atribuye 1 Tim a Pablo. Según las lecturas feministas, como la de Phyllis Trible, la tradición había dejado en segundo plano varios de esos relatos.",
+      "relacionados": [
+        "extranjero-y-hospitalidad",
+        "profecia-y-llamada"
+      ],
+      "para_recordar": [
+        "Débora, Rut, Noemí, Ester y Judit deciden y actúan en una Biblia nacida en sociedades patriarcales.",
+        "1 Cor 14,34-35 y 1 Tim 2,11-15 limitan su papel; las Iglesias los leen de modo distinto.",
+        "La crítica discute si 1 Cor 14,34-35 es de Pablo o una añadidura posterior."
+      ]
+    },
+    {
+      "id": "reino-de-dios",
+      "orden": 19,
+      "nombre": "Reino de Dios",
+      "estado": "completo",
+      "resumen": "La idea de que Dios reina: de los salmos de entronización a las parábolas de Jesús y a la visión final del Apocalipsis.",
+      "pasajes": [
+        "Sal 93-99",
+        "Dn 2",
+        "Dn 7",
+        "Mc 1,15",
+        "Mt 13",
+        "Lc 17,20-21",
+        "1 Cor 15,24-28",
+        "Ap 11,15"
+      ],
+      "introduccion": "Galilea, hacia el año 28. Jesús empieza a predicar con una frase: el tiempo se ha cumplido y el reino de Dios está cerca (Mc 1,15). No define qué es el reino. Lo cuenta con parábolas: una semilla de mostaza, levadura en la masa, un tesoro escondido en un campo (Mt 13).\n\nLa idea venía de antes. Los salmos de entronización aclaman que el Señor reina (Sal 93-99). En Daniel, que la crítica fecha en la crisis del s. II a. C., los imperios caen uno tras otro. Al final, Dios da un reino eterno a uno como hijo de hombre (Dn 2; Dn 7).\n\nLos evangelios dejan una tensión abierta. Unas frases ponen el reino en el futuro y otras lo dan por presente: el reino de Dios está entre vosotros, o dentro de vosotros, según se traduzca (Lc 17,20-21). Pablo lo sitúa al final, cuando Cristo entregue el reino al Padre (1 Cor 15,24-28). El Apocalipsis lo canta como victoria final (Ap 11,15).",
+      "divergencias": "La tradición judía habla de aceptar el yugo del reino de los cielos al recitar el *Shemá*, la profesión de fe diaria (Dt 6,4). Para esa tradición, el reino pleno llegará con el mesías, en un mundo aún no redimido. Las tradiciones cristianas difieren en el acento: la Iglesia como anticipo del reino, la vida interior o la transformación social.\n\nLa crítica discute la escatología de Jesús, es decir, su visión del fin. Albert Schweitzer vio en él a un profeta que esperaba un fin inminente. Charles Dodd habló de un reino ya presente. Muchos críticos hablan hoy de un reino que ya ha empezado y todavía no se ha cumplido.",
+      "relacionados": [
+        "mesias-y-esperanza-mesianica",
+        "poder-monarquia-y-critica-politica",
+        "esperanza-y-consuelo"
+      ],
+      "para_recordar": [
+        "Jesús abre su predicación anunciando que el reino de Dios está cerca (Mc 1,15).",
+        "Los evangelios presentan el reino a la vez como presente y como futuro.",
+        "La crítica discute si Jesús esperaba un fin inminente (Schweitzer) o un reino ya presente (Dodd)."
+      ]
+    },
+    {
+      "id": "mesias-y-esperanza-mesianica",
+      "orden": 20,
+      "nombre": "Mesías y esperanza mesiánica",
+      "estado": "completo",
+      "resumen": "La esperanza de un rey ungido, leída de modo distinto por judíos y cristianos desde los salmos y los profetas.",
+      "pasajes": [
+        "2 Sm 7",
+        "Sal 2",
+        "Sal 72",
+        "Sal 110",
+        "Is 7",
+        "Is 9",
+        "Is 11",
+        "Is 53",
+        "Mi 5",
+        "Ez 34",
+        "Dn 7",
+        "Zac 9",
+        "Mt 1-2",
+        "Lc 24",
+        "Hch 2"
+      ],
+      "introduccion": "A un rey de Israel se le ungía con aceite. «Mesías» significa justo eso: «ungido». Según 2 Sm 7, la promesa a David es su origen: su casa y su trono durarán. Los salmos reales (Sal 2; 72; 110) retratan al rey ideal.\n\nYa en el siglo VIII a. C., Is 7, 9 y 11 y Mi 5 hablan de un niño o de un rey que traerá justicia y paz. Tras la caída de la monarquía en el 587 a. C., esa esperanza se proyecta hacia el futuro. Zac 9 habla de un rey humilde montado en un asno. En época helenista y romana conviven expectativas distintas: un rey de la casa de David, un sacerdote, un profeta.\n\nEl Nuevo Testamento aplica esa esperanza a Jesús. Mt 1-2 lo hace descender de David y cita a los profetas. Lc 24 y Hch 2 releen los textos a la luz de la resurrección. Is 7,14 y Is 53 son los dos pasajes más discutidos.",
+      "divergencias": "La tradición judía no lee en Is 7,14 ni en Is 53 al mesías de los cristianos. En Is 53, Rashi, comentarista judío medieval, ve al pueblo de Israel que sufre, aunque el Targum de Jonatán, una traducción aramea antigua, habla del «mesías, mi siervo». En Is 7,14, Rashi ve a una joven de la época del rey Ajaz.\n\nLas tradiciones cristianas leen esos textos como anuncio de Jesús: así Mt 1,23 para Is 7,14 y Hch 8,32-35 para Is 53. Hay consenso amplio en la crítica histórica en que Is 7,14 hablaba en origen de un niño de tiempos de Ajaz. Sobre si hubo relecturas mesiánicas dentro de la propia Biblia hay posturas distintas.",
+      "relacionados": [
+        "alianza",
+        "reino-de-dios",
+        "esperanza-y-consuelo"
+      ],
+      "para_recordar": [
+        "«Mesías» significa «ungido»: en el Antiguo Testamento es sobre todo el rey.",
+        "Según 2 Sm 7, la esperanza arranca de la promesa a David; crece tras la caída de la monarquía.",
+        "Judíos y cristianos leen de modo distinto Is 7,14 e Is 53: los cristianos ven a Jesús; la tradición judía, no."
+      ]
+    },
+    {
+      "id": "resurreccion-y-vida-despues-de-la-muerte",
+      "orden": 21,
+      "nombre": "Resurrección y vida después de la muerte",
+      "estado": "completo",
+      "resumen": "Una idea que aparece tarde en el Antiguo Testamento y se vuelve central en el Nuevo.",
+      "pasajes": [
+        "Is 26,19",
+        "Dn 12,2-3",
+        "2 Mac 7",
+        "Sab 3",
+        "Mc 12,18-27",
+        "1 Cor 15",
+        "Jn 11",
+        "Ap 20-21"
+      ],
+      "introduccion": "En gran parte del Antiguo Testamento los muertos bajan al *Sheol*, la morada de los muertos, donde no hay alabanza a Dios (Sal 6,6). En los textos más antiguos no suele aparecer una esperanza de vida después de la muerte, aunque se discute en salmos como el 49 y el 73. Se busca la bendición en los hijos y en una vejez plena.\n\nLa esperanza de resurrección aparece tarde. Is 26,19 dice que los muertos de Dios vivirán, aunque se discute si habla del pueblo o de personas. Dn 12,2-3 es el primer texto claro: muchos de los que duermen en el polvo despertarán, unos para vida eterna y otros para vergüenza. 2 Mac 7 la afirma en el martirio de siete hermanos, y Sab 3 habla de las almas de los justos en la mano de Dios.\n\nEn tiempos de Jesús los fariseos creían en la resurrección y los saduceos no, y Jesús responde a estos últimos en Mc 12,18-27. El Nuevo Testamento la hace central: Pablo la defiende en 1 Cor 15 y Jn 11 la une a Jesús, «resurrección y vida». Ap 20-21 anuncia un cielo nuevo y una tierra nueva.",
+      "divergencias": "El judaísmo rabínico afirma la resurrección de los muertos como principio de fe, y la oración diaria la nombra. Las tradiciones cristianas la apoyan en la de Jesús. Los católicos apoyan en 2 Mac 12,43-45 la oración por los difuntos, y los ortodoxos la mantienen por la práctica litúrgica. Las protestantes se apoyan sobre todo en Dn 12 y en el Nuevo Testamento.\n\nLa crítica discute el origen de la idea. Jon Levenson la ve como desarrollo de la esperanza israelita de restauración del pueblo (Ez 37; Is 26). Otros críticos subrayan la influencia persa o griega. También se discute si un texto como Is 26,19 habla de individuos o es una imagen colectiva.",
+      "relacionados": [
+        "sufrimiento-del-inocente-y-lamento",
+        "exilio-y-retorno",
+        "creacion-y-cuidado-del-mundo"
+      ],
+      "para_recordar": [
+        "En buena parte del Antiguo Testamento los muertos van al Sheol, sin alabanza a Dios.",
+        "Dn 12,2-3 es el primer texto claro sobre la resurrección, y 2 Mac 7 la une al martirio.",
+        "En tiempos de Jesús los fariseos creían en la resurrección y los saduceos no (Mc 12,18-27).",
+        "La crítica discute su origen: raíz israelita (Levenson) o influencia persa y griega."
+      ]
+    },
+    {
+      "id": "espiritu-de-dios",
+      "orden": 22,
+      "nombre": "Espíritu de Dios",
+      "estado": "completo",
+      "resumen": "El soplo o espíritu de Dios: creador, inspirador de profetas, prometido para el futuro y derramado en Pentecostés.",
+      "pasajes": [
+        "Gn 1,2",
+        "Nm 11",
+        "Jue 3-16",
+        "Ez 36-37",
+        "Jl 3",
+        "Lc 1",
+        "Jn 14-16",
+        "Hch 2",
+        "Rom 8",
+        "Gál 5"
+      ],
+      "introduccion": "Al principio, sobre las aguas oscuras, se mueve el espíritu de Dios, la *rúaj*: una palabra hebrea que significa a la vez viento, aliento y espíritu (Gn 1,2). Sin ese soplo, dice el Sal 104,29-30, las criaturas vuelven al polvo.\n\nDespués el espíritu reparte dones a personas concretas. Cae sobre los setenta ancianos, y Moisés desea que todo el pueblo profetice (Nm 11,29). Empuja a los jueces a la batalla, como a Otoniel (Jue 3,10). En el exilio, Ezequiel ve huesos secos que reviven cuando entra en ellos el espíritu (Ez 37).\n\nJoel anuncia que el espíritu se derramará sobre toda carne: hijos e hijas, ancianos y esclavos (Jl 3,1-2). Lucas abre su obra con el espíritu sobre María (Lc 1,35) y la continúa con Pentecostés, donde Pedro cita a Joel (Hch 2). Juan lo llama Paráclito, el que defiende y consuela (Jn 14-16). Pablo enumera sus frutos: amor, alegría y paz (Gál 5,22).",
+      "divergencias": "La tradición judía lee la *rúaj ha-qódesh*, el espíritu de santidad, como una fuerza de Dios que inspira a profetas y sabios, no como una persona divina. Las tradiciones cristianas lo confiesan como tercera persona de la Trinidad desde el concilio de Constantinopla (381). Católicos y ortodoxos se separaron en parte por el *filioque*: la fórmula latina según la cual el Espíritu procede del Padre y del Hijo.\n\nLa crítica histórica estudia cómo se desarrolló la idea. En los textos más antiguos, la *rúaj* es el poder de Dios en acción. La doctrina trinitaria, que las iglesias leen como explicitación de lo que ya decía el Nuevo Testamento, se formula en los siglos IV y V.",
+      "relacionados": [
+        "profecia-y-llamada",
+        "creacion-y-cuidado-del-mundo",
+        "resurreccion-y-vida-despues-de-la-muerte"
+      ],
+      "para_recordar": [
+        "En hebreo, la misma palabra significa viento, aliento y espíritu (Gn 1,2).",
+        "Joel anuncia el espíritu para todos; Hechos lee Pentecostés a la luz de esa promesa.",
+        "La tradición judía ve en el espíritu una fuerza de Dios; las cristianas, la tercera persona de la Trinidad."
+      ]
+    },
+    {
+      "id": "oracion",
+      "orden": 23,
+      "nombre": "Oración",
+      "estado": "completo",
+      "resumen": "Cómo se reza en la Biblia: el lenguaje de los Salmos, las plegarias de los personajes y el padrenuestro.",
+      "pasajes": [
+        "Sal",
+        "Gn 18",
+        "Éx 33",
+        "1 Sm 1",
+        "1 Re 8",
+        "Dn 9",
+        "Lc 11,1-13",
+        "Mt 6,5-15",
+        "Rom 8,26",
+        "Flp 4,6"
+      ],
+      "introduccion": "Abrahán negocia con Dios por Sodoma (Gn 18). Moisés le habla cara a cara (Éx 33,11). Ana reza tan bajo que el sacerdote cree que está borracha (1 Sm 1). En la Biblia se reza discutiendo, pidiendo, dando gracias y callando.\n\nEl libro de oración de la Biblia son los Salmos. Allí hay alabanza y acción de gracias, pero sobre todo lamento. El orante dice a Dios lo que siente, incluso rabia, como en los salmos 22 (21), 88 (87) y 137 (136). Job lleva ese lenguaje al límite, Salomón y Daniel rezan por el pueblo (1 Re 8; Dn 9), y Ben Sira pide rezar y llamar al médico (Sir 38).\n\nEn el Nuevo Testamento, Jesús enseña el padrenuestro (Lc 11,1-13; Mt 6,5-15). Pablo dice que el Espíritu ayuda a rezar cuando no sabemos hacerlo (Rom 8,26).",
+      "divergencias": "Los judíos rezan los salmos cada día en la sinagoga y en casa. La Liturgia de las Horas católica omite algunos salmos imprecatorios. Los ortodoxos rezan con los salmos según la Septuaginta, con su numeración, y los protestantes los cantan en la tradición del salterio.\n\nSe discute qué hacer con los salmos que piden castigo como el 109 (108) y el 137 (136). Erich Zenger los lee como oraciones de víctimas sin poder. Otros ven un odio real que la Biblia recoge sin aprobar. Walter Brueggemann propone que el lamento es la voz de la desorientación y que la fe lo necesita.",
+      "relacionados": [
+        "sufrimiento-del-inocente-y-lamento",
+        "esperanza-y-consuelo",
+        "culto-verdadero-y-sacrificio"
+      ],
+      "para_recordar": [
+        "Los Salmos son 150 oraciones hechas para cantar y rezar, con lamentos, alabanzas y acciones de gracias.",
+        "El lamento es el género más frecuente: se puede rezar con queja.",
+        "Job y los salmos de lamento hablan con Dios sin callar su protesta.",
+        "Los salmos imprecatorios se rezan, se omiten o se leen como protesta de víctimas, según la tradición."
+      ]
+    },
+    {
+      "id": "violencia-guerra-y-paz",
+      "orden": 24,
+      "nombre": "Violencia, guerra y paz",
+      "estado": "completo",
+      "resumen": "Textos incómodos de guerra y venganza, su lectura crítica y las visiones de paz de profetas y evangelios.",
+      "pasajes": [
+        "Jos 6-11",
+        "Jue",
+        "Sal 137",
+        "Is 2",
+        "Is 11",
+        "Miq 4",
+        "Mt 5,9",
+        "Rom 12,17-21",
+        "Ap"
+      ],
+      "introduccion": "La Biblia contiene relatos de guerra que hoy resultan difíciles. Dt 7 y 20 mandan aplicar el *herem*, la destrucción total de pueblos cananeos, y Josué cuenta su ejecución en Jericó y otras ciudades (Jos 6-11).\n\nLa arqueología no confirma esa destrucción general, y parte de la crítica la ve como un ideal escrito siglos después. Paul Copan la lee como lenguaje exagerado de guerra, y otros ven hechos reales de alcance limitado.\n\nJueces y Samuel no esconden la violencia dentro del pueblo. Lo muestran la hija de Jefté (Jue 11), la mujer de Gabaá (Jue 19) y los siete descendientes de Saúl (2 Sm 21). El Sal 137 clama venganza desde el exilio.\n\nFrente a eso, los profetas sueñan con paz: espadas hechas arados (Is 2,4; Miq 4,3) y un reino sin daño (Is 11). Jesús llama bienaventurados a los que trabajan por la paz (Mt 5,9), y Pablo pide no devolver mal por mal (Rom 12,17-21).",
+      "divergencias": "Los textos de herem se leen de modos distintos. Orígenes los entiende como lucha espiritual contra el pecado, y Agustín los defiende como mandato divino y saca de ahí criterios para la guerra justa. El Talmud de Jerusalén (Shevi'it 6,1) cuenta que Josué ofreció paz antes de combatir.\n\nMaimónides (Leyes de los reyes 5,4) cree que el mandato ya no se aplica, porque no se sabe quién es cananeo (Mishná, Yadayim 4,4). Las Iglesias de paz, como menonitas y cuáqueros, leen Mt 5 como llamada a la no violencia. La tradición católica y gran parte de la protestante admiten la guerra justa bajo condiciones estrictas.",
+      "relacionados": [
+        "alianza",
+        "exilio-y-retorno",
+        "justicia-social-y-defensa-del-pobre"
+      ],
+      "para_recordar": [
+        "El herem de Josué es un texto difícil, y la arqueología no confirma la destrucción total que cuenta.",
+        "Jueces y Samuel narran violencia contra mujeres y enemigos, y 1 Sm 15 la presenta como mandato de Dios.",
+        "Isaías, Miqueas y Jesús abren otra visión: paz, espadas hechas arados y amor a los enemigos."
+      ]
+    }
+  ]
+}

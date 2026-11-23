@@ -1,0 +1,59 @@
+{
+  "secciones": [
+    {
+      "id": "pentateuco",
+      "orden": 1,
+      "nombre": "Pentateuco",
+      "testamento": "AT",
+      "resumen": "Los cinco primeros libros: orígenes, salida de Egipto, ley y alianza. En la tradición judía es la Torá, el centro de la Escritura.",
+      "color_acento": {
+        "claro": "#8A5A00",
+        "oscuro": "#D9A441"
+      }
+    },
+    {
+      "id": "historicos",
+      "orden": 2,
+      "nombre": "Libros históricos",
+      "testamento": "AT",
+      "resumen": "Del ingreso en la tierra al regreso del exilio y a la crisis macabea. Relatos de reyes, jueces, mujeres y comunidades.",
+      "color_acento": {
+        "claro": "#A23B22",
+        "oscuro": "#E58A70"
+      }
+    },
+    {
+      "id": "sapienciales",
+      "orden": 3,
+      "nombre": "Libros sapienciales y poéticos",
+      "testamento": "AT",
+      "resumen": "Oración, sentencias, poesía y preguntas sobre el sentido: Job, Salmos, Proverbios, Eclesiastés, Cantar, Sabiduría y Eclesiástico.",
+      "color_acento": {
+        "claro": "#5B6B12",
+        "oscuro": "#B5C760"
+      }
+    },
+    {
+      "id": "profetas",
+      "orden": 4,
+      "nombre": "Libros proféticos",
+      "testamento": "AT",
+      "resumen": "Voces que denuncian la injusticia, anuncian la caída y la restauración y sostienen la esperanza en el exilio y después.",
+      "color_acento": {
+        "claro": "#1F5A99",
+        "oscuro": "#7FB0EC"
+      }
+    },
+    {
+      "id": "nuevo-testamento",
+      "orden": 5,
+      "nombre": "Nuevo Testamento",
+      "testamento": "NT",
+      "resumen": "Cuatro evangelios, los Hechos, las cartas y el Apocalipsis: los textos de las primeras comunidades cristianas.",
+      "color_acento": {
+        "claro": "#6D3FA0",
+        "oscuro": "#B99AE8"
+      }
+    }
+  ]
+}

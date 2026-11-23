@@ -1,0 +1,38 @@
+{
+  "id": "miqueas-belen-el-pueblo-pequeno",
+  "libro_id": "miqueas",
+  "orden": 2,
+  "titulo": "¿Quién es el gobernante que saldrá de la pequeña Belén?",
+  "pasaje": "Miq 5,1-5",
+  "que_dice": "Jerusalén está cercada y su juez es golpeado en la mejilla. Entonces el texto mira a Belén, aldea pequeña entre los clanes de Judá, la tierra de David (5,1). De ella saldrá quien gobierne Israel, de origen antiguo.\n\nHasta que dé a luz la que ha de dar a luz, el pueblo será entregado. Después, el gobernante pastoreará con la fuerza del Señor y la paz llegará hasta los confines (5,2-4).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Targum Jonatán, una traducción aramea antigua, dice que de Belén saldrá «el Mesías». Rashí y otros comentaristas medievales leyeron al gobernante como el rey de la casa de David."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante notan que Mt 2,5-6 cita Miq 5,1 para el nacimiento de Jesús en Belén, y que Jn 7,42 recoge la expectativa. Entienden esa cita como lectura evangélica del profeta."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica lee el texto como promesa de un nuevo David nacido en la aldea humilde de su linaje, no en Jerusalén. Wolff lo vincula a la crisis de 701 a. C. o a una época posterior.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Micah (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

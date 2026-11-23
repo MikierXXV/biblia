@@ -1,0 +1,43 @@
+{
+  "id": "isaias-siervo-sufriente",
+  "libro_id": "isaias",
+  "orden": 1,
+  "titulo": "El siervo que sufre por otros",
+  "pasaje": "Is 52,13–53,12",
+  "que_dice": "El cuarto «canto del siervo» describe a un siervo del Señor despreciado, herido y condenado, que sufre sin haber hecho mal. El texto dice que carga con las dolencias y las culpas de «muchos» (53,4-6.11-12). Habla de él en tercera persona; en 53,1-6 quienes hablan parecen testigos que reconocen su error. El poema acaba con su exaltación (52,13; 53,10-12). No dice quién es el siervo, y esa pregunta, la más debatida del libro, ha recibido respuestas muy distintas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía no es única. Rashi lee al siervo como el pueblo de Israel, que sufre entre las naciones. El Targum de Jonatán, la traducción aramea antigua, habla del «mesías, mi siervo» y le aplica la parte gloriosa del poema. Otros comentaristas medievales lo ven como los justos de Israel. Ninguna de estas lecturas ve en el texto una profecía de Jesús."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, como las demás cristianas, lee el poema desde muy pronto como anuncio de Jesús. Mt 8,17 aplica 53,4 a las curaciones de Jesús, y Hch 8,32-35 cuenta cómo Felipe explica el pasaje a un eunuco etíope diciéndole que habla de Jesús. La lectura católica entiende que el sufrimiento del siervo anticipa la muerte de Cristo por los demás."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las lecturas protestantes difieren entre sí. Para la lectura evangélica, Is 53 es una profecía directa de la muerte de Cristo. Para la protestante liberal, el poema se refiere ante todo a una figura de su tiempo, el exilio, y solo después los cristianos lo releyeron en clave de Jesús."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica atribuye el poema al «Segundo Isaías» (Is 40-55), escrito entre los exiliados en Babilonia hacia el 540 a. C. La identidad del siervo está en discusión: Israel entero, un resto fiel de Israel, el propio profeta, un rey como Joaquín o una figura individual del pasado como Moisés. Cada postura tiene defensores serios, y ninguna logra el acuerdo general.",
+    "acuerdo": "discusion"
+  },
+  "abierta": true,
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 40-55 (Anchor Bible 19A)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    }
+  ]
+}

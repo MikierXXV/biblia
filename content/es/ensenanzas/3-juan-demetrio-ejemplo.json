@@ -1,0 +1,28 @@
+{
+  "id": "3-juan-demetrio-ejemplo",
+  "libro_id": "3-juan",
+  "orden": 3,
+  "titulo": "Demetrio: una carta de recomendación en tres líneas",
+  "pasaje": "3 Jn 11-12",
+  "que_dice": "Al final, el Anciano recomienda a un hombre llamado Demetrio. Dice que todos hablan bien de él, que la verdad misma lo avala y que el propio Anciano da fe (v. 12). Probablemente es quien lleva la carta.\n\nAntes ha pedido a Gayo que imite el bien y no el mal (v. 11). Así queda enfrentado a Diótrefes.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el texto da un modelo de conducta apoyado en el testimonio de la comunidad. Otras cartas del Nuevo Testamento hacen lo mismo con recomendaciones personales (Rom 16,1-2; 2 Cor 3,1)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos reconoce aquí una carta de recomendación, un género corriente en el mundo grecorromano. Demetrio sería el portador de la carta y el misionero al que Gayo debe acoger.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "levitico-yom-kipur",
+  "libro_id": "levitico",
+  "orden": 2,
+  "titulo": "Un día al año, el sumo sacerdote limpia el santuario y al pueblo",
+  "pasaje": "Lv 16,1-34",
+  "que_dice": "Un solo día al año, el sumo sacerdote entra en el lugar santísimo del santuario. Lleva incienso y sangre de un toro y de un macho cabrío. Con ella purifica el santuario de las impurezas y faltas del pueblo.\n\nSobre un segundo macho cabrío, Aarón confiesa las faltas de los israelitas y lo manda al desierto, cargado con ellas (16,1-34). De ahí viene la expresión «chivo expiatorio».",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Yom Kipur es hoy el día más solemne del calendario judío. Sin Templo, el ayuno, la oración y el arrepentimiento sustituyen a los sacrificios. La Misná (Yoma 8,9) enseña que antes hay que reconciliarse con el prójimo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Heb 9,11-14 lee el ritual como imagen del sacrificio de Cristo. Cristo entra una vez para siempre en el santuario del cielo."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven en Lv 16 un ritual de purificación del santuario más que de castigo. El sentido de Azazel, al que va el segundo macho cabrío, se discute.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jacob Milgrom y otros",
+        "texto": "Azazel es una figura demoníaca del desierto, a la que se devuelve la impureza del pueblo."
+      },
+      {
+        "quien": "Otros críticos, que siguen la lectura medieval de Rashi",
+        "texto": "Es un lugar o una montaña áspera, sin carácter demoníaco."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Leviticus 1-16 (Anchor Bible 3)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

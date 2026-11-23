@@ -1,0 +1,46 @@
+{
+  "id": "hechos-esteban-perdona",
+  "libro_id": "hechos",
+  "orden": 3,
+  "titulo": "Esteban muere apedreado y pide que no se les tenga en cuenta",
+  "pasaje": "Hch 6,8-8,3",
+  "que_dice": "Esteban es uno de los siete elegidos para atender a las viudas de habla griega. Lo acusan de hablar contra el Templo y la Ley. Ante el Sanedrín, el consejo supremo judío, repasa la historia de Israel y acusa a sus jueces de resistir siempre al Espíritu.\n\nLo sacan de la ciudad y lo apedrean. Muere de rodillas y pide a Dios que no les tenga en cuenta ese pecado. Los testigos dejan sus mantos a los pies de un joven llamado Saulo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Comentaristas judíos del Nuevo Testamento advierten del uso que se dio al discurso de Esteban: durante siglos alimentó la imagen de los judíos como asesinos de profetas. Señalan también que el juicio no sigue los procedimientos que la Misná atribuye al Sanedrín."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Esteban es el protomártir, el primer mártir cristiano. Su oración copia la de Jesús en la cruz (Lc 23,34). Un sermón atribuido a Agustín ve en ella la semilla de la conversión de Saulo."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lo llama protomártir y archidiácono, y lo celebra el 27 de diciembre. Su perdón se propone como modelo del mártir que no maldice."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La lectura protestante ha subrayado su crítica al Templo: Dios no habita en casas hechas por manos humanas (Hch 7,48). Se lee como un paso hacia una fe sin lugar sagrado."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que Lucas modela la muerte de Esteban sobre la de Jesús: falsos testigos, acusación contra el Templo y perdón final. Muchos ven en los siete el liderazgo de un grupo propio, los helenistas, más que unos simples servidores de mesa.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Acts of the Apostles (Anchor Bible 31)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

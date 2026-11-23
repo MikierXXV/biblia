@@ -1,0 +1,53 @@
+{
+  "id": "abdias-el-reino-sera-del-senor",
+  "libro_id": "abdias",
+  "orden": 3,
+  "titulo": "¿Qué esperanza cierra un libro tan duro con Edom?",
+  "pasaje": "Abd 1,17-21",
+  "que_dice": "Los versículos finales cambian el tono. En el monte Sión quedará un resto a salvo, y el pueblo de Jacob recobrará lo que le fue quitado (1,17). Jacob arderá como fuego y Esaú será como paja (1,18).\n\nLos desterrados volverán a ocupar el Négueb, la Sefelá y las tierras vecinas (1,19-20). El libro acaba con una imagen de gobierno: salvadores subirán al monte Sión para juzgar el monte de Esaú, y el reino será del Señor (1,21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía leyó estos versículos como promesa de restauración al final de los tiempos, cuando el poder que oprime a Israel, nombrado como Edom o Roma, dejará de dominar."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen el final como promesa de un reino de Dios que juzga y restaura. Otros comentaristas insisten en que el texto habla de la restauración territorial de Judá."
+    }
+  ],
+  "critica": {
+    "texto": "Varios críticos, como Barton, ven los vv. 15a y 16-21 como una ampliación posterior que da al oráculo una esperanza de restauración de la que carecía.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John Barton",
+        "texto": "Separa un oráculo de hacia 587 a. C. (vv. 1-14 y 15b) de una ampliación sobre el día del Señor (vv. 15a y 16-21). Esta convierte la condena de Edom en promesa para Sión."
+      },
+      {
+        "quien": "Paul R. Raabe",
+        "texto": "Defiende la unidad del libro: la condena de Edom y la esperanza de restauración forman un único mensaje."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Obadiah (Anchor Bible)",
+      "autor": "Paul R. Raabe",
+      "tradicion": "critica"
+    }
+  ]
+}

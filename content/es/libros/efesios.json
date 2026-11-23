@@ -1,0 +1,90 @@
+{
+  "id": "efesios",
+  "seccion_id": "nuevo-testamento",
+  "orden": 10,
+  "nombre": "Efesios",
+  "abreviatura": "Ef",
+  "bloque": "cartas-paulinas",
+  "capitulos": 6,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Habla de la unidad de judíos y no judíos en un solo cuerpo. Muchos críticos dudan de que sea de Pablo; otros la defienden.",
+  "presentacion": "Una carta sin saludos personales y sin problemas concretos que resolver. Habla de un plan de Dios que abarca el cielo y la tierra (Ef 1,3-14) y de un solo pueblo formado por judíos y no judíos (2,11-22). Quien la escribe se presenta como prisionero por Cristo (3,1; 4,1).\n\nLa primera mitad es una larga alabanza y una explicación del plan de Dios (Ef 1-3). La segunda es una exhortación a vivir en unidad (4,1-16), a dejar la vida anterior y a ordenar la casa (5,21-6,9). Termina con la imagen de la armadura de Dios (6,10-18).\n\nSu autoría es una de las discusiones más vivas del Nuevo Testamento. La mayoría de críticos la considera de un discípulo de Pablo; otros la defienden como de Pablo. El código doméstico (5,21-6,9), sobre esposas, hijos y esclavos, se lee hoy con mucha atención crítica.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que habla de sí como prisionero (Ef 3,1; 6,20). Por eso se ha contado entre las cartas escritas desde la cárcel, junto con Filipenses, Colosenses y Filemón.",
+    "critica": "La mayoría de críticos la tiene por deuteropaulina (obra de un discípulo, no del propio Pablo): así Lincoln, por su vocabulario, su estilo y su cercanía a Colosenses. La defiende como de Pablo Hoehner, entre otros.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió preso en Roma, hacia el 60-62 d. C.",
+    "critica": "La mayoría de críticos la data hacia el 80-90 d. C., tras la muerte de Pablo, en una comunidad de Asia Menor. Quienes defienden a Pablo como autor la sitúan en su cautiverio, hacia el 60-62 d. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      80,
+      90
+    ],
+    "rango_tradicion": [
+      60,
+      62
+    ],
+    "posturas": [
+      {
+        "quien": "Andrew Lincoln",
+        "texto": "La escribió un discípulo de Pablo después de su muerte, hacia el 80-90 d. C., para comunidades de Asia Menor."
+      },
+      {
+        "quien": "Harold Hoehner",
+        "texto": "La escribió Pablo preso en Roma, hacia el 60-62 d. C., como carta circular para varias comunidades."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen Efesios como testimonio de cómo se pensó la relación entre judíos y no judíos; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas. Se lee en la liturgia, por ejemplo en el rito del matrimonio.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo. Muchos comentaristas protestantes de la Reforma la usaron para hablar de la gracia (Ef 2,8-10)."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Ef 1,3-14",
+      "nota": "El plan de Dios: reunir todo en Cristo."
+    },
+    {
+      "pasaje": "Ef 2,8-10",
+      "nota": "La salvación por gracia y las buenas obras."
+    },
+    {
+      "pasaje": "Ef 2,11-22",
+      "nota": "Judíos y no judíos, un solo pueblo."
+    },
+    {
+      "pasaje": "Ef 5,21-6,9",
+      "nota": "El código doméstico: esposas, hijos, esclavos."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ephesians (Word Biblical Commentary 42)",
+      "autor": "Andrew T. Lincoln",
+      "tradicion": "critica",
+      "url": "https://www.accordancebible.com/product/wbc-vol-42-ephesians-by-andrew-t-lincoln/"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary (Baker Academic, 2002)",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    }
+  ],
+  "para_recordar": [
+    "Efesios habla de un plan de Dios que reúne todo en Cristo y de un solo pueblo de judíos y no judíos.",
+    "La mayoría de críticos la ve de un discípulo de Pablo; otros la defienden como de Pablo.",
+    "Dice que la salvación es don de Dios, y que las buenas obras vienen después (Ef 2,8-10).",
+    "El código doméstico (5,21-6,9) pide sumisión a esposas y esclavos, y hoy se lee de modos enfrentados.",
+    "Acaba con la armadura de Dios (6,10-18)."
+  ]
+}

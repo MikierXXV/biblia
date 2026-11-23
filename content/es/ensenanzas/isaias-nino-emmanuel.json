@@ -1,0 +1,62 @@
+{
+  "id": "isaias-nino-emmanuel",
+  "libro_id": "isaias",
+  "orden": 3,
+  "titulo": "Una señal para un rey asustado: el niño Emmanuel",
+  "pasaje": "Is 7,1-17",
+  "que_dice": "Hacia el 734 a. C., el rey de Siria y el de Israel marchan contra Jerusalén para cambiar al rey de Judá. Ajaz tiembla con todo su pueblo. Isaías le ofrece una señal de Dios y Ajaz la rechaza con una excusa piadosa (7,10-12).\n\nEl profeta se la da igualmente: una joven está embarazada y dará a luz un hijo, al que pondrá por nombre Emmanuel, «Dios con nosotros» (7,14). Antes de que el niño distinga el bien del mal, los dos reyes enemigos habrán desaparecido (7,16). El hebreo dice *almá*, «mujer joven»; el griego antiguo dice *parthenos*, «virgen».",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía traduce *almá* por «joven», no por «virgen». Rashi, comentarista medieval, ve en la madre a una joven de la época de Ajaz y en el niño una señal para aquel rey. Para esta lectura, el texto no anuncia al mesías de los cristianos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Mt 1,22-23 cita el versículo según el texto griego (*parthenos*) y lo aplica al nacimiento de Jesús. Para la lectura católica, y en lo esencial para la ortodoxa, el texto tuvo sentido para Ajaz y alcanza su plenitud en Jesús, nacido de María virgen."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las lecturas protestantes se dividen. La evangélica suele ver una profecía de Jesús, a veces con un doble cumplimiento. La liberal ve ante todo una señal para Ajaz, que Mateo relee después."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de la crítica coincide en que el versículo hablaba de un niño de tiempos de Ajaz, en plena guerra contra Siria e Israel (734-732 a. C.). La identidad de la madre y del niño está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "La madre es una esposa del rey Ajaz y el niño, su hijo Ezequías, el rey que luego confiará en Dios."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "La madre es la esposa del profeta y el niño, un hijo de Isaías, como los de 8,1-4."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Una joven cualquiera, sin nombre. Importan el nombre del niño, «Dios con nosotros», y el plazo de la señal."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Isaiah 1-39 (Anchor Bible 19)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Isaiah 1-39, with an Introduction to Prophetic Literature (FOTL 16)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1-pedro-forasteros-y-pueblo-escogido",
+  "libro_id": "1-pedro",
+  "orden": 2,
+  "titulo": "¿Forasteros en su tierra y a la vez pueblo escogido?",
+  "pasaje": "1 Pe 2,9-10",
+  "que_dice": "Los destinatarios viven en ciudades donde no encajan. La carta los llama forasteros y peregrinos (1,1; 2,11), y de pronto les aplica títulos que Israel recibió en el Sinaí: linaje elegido, sacerdocio real, nación santa.\n\nEl autor les dice que ya no son nadie y ahora son pueblo de Dios (2,10). Esas palabras recogen Ex 19,5-6 y Os 2,25. La carta convierte la exclusión social en identidad.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee Ex 19,6 como la vocación de Israel, el pueblo al que se dirigen esos títulos. La tradición judía advierte que aquí se ven títulos de Israel transferidos a no judíos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el sacerdocio real es el de todos los bautizados, distinto del sacerdocio ministerial. Lo enseña el Concilio Vaticano II (Lumen gentium, 10)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para Lutero, este pasaje funda el sacerdocio de todos los creyentes: todos pueden acceder a Dios sin mediadores. Muchas iglesias protestantes lo toman como base de su organización."
+    }
+  ],
+  "critica": {
+    "texto": "John Elliott, en A Home for the Homeless, sostiene que «forasteros y peregrinos» describe una condición social real: gente sin pleno derecho en las ciudades de Asia Menor. Otros leen la expresión como metáfora de la vida cristiana.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "John H. Elliott",
+        "texto": "Eran forasteros en sentido social y legal, y la carta les ofrece una casa: la comunidad como familia de Dios."
+      },
+      {
+        "quien": "Karen Jobes",
+        "texto": "Eran desplazados reales: la colonización romana había desarraigado a gente de sus tierras en Asia Menor, y el exilio de Israel les servía de modelo."
+      },
+      {
+        "quien": "Reinhard Feldmeier",
+        "texto": "La expresión es metáfora: la fe los vuelve extraños en su entorno, sin que fueran forasteros por su condición legal."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Home for the Homeless",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "1 Peter (Baker Exegetical Commentary on the New Testament)",
+      "autor": "Karen H. Jobes",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Die Christen als Fremde",
+      "autor": "Reinhard Feldmeier",
+      "tradicion": "critica"
+    }
+  ]
+}

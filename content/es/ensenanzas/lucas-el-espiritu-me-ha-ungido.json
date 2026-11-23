@@ -1,0 +1,57 @@
+{
+  "id": "lucas-el-espiritu-me-ha-ungido",
+  "libro_id": "lucas",
+  "orden": 1,
+  "titulo": "En la sinagoga de Nazaret, Jesús anuncia un año de gracia",
+  "pasaje": "Lc 4,16-21",
+  "que_dice": "Es sábado en Nazaret y Jesús se levanta a leer en la sinagoga. Le dan el rollo de Isaías. Lee que el Espíritu del Señor está sobre él y lo ha ungido. Lo envía a llevar buenas noticias a los pobres, anunciar libertad a los cautivos y devolver la vista a los ciegos (Is 61,1-2).\n\nLuego se sienta y dice: hoy se cumple esta Escritura. Es su primera aparición pública en Lucas, y fija el programa de todo el evangelio.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, Is 61 habla de un profeta, o de todo el pueblo, ungido para consolar a Sión tras el exilio. El «año de gracia» evoca el jubileo (Lv 25), que devolvía la tierra y la libertad. Que se cumpla «hoy» en una persona es lectura cristiana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Jesús es el ungido (*Cristo*, en griego «ungido») de quien habla Isaías. La Iglesia hereda su misión de anunciar la buena noticia a los pobres (Catecismo, 544)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa ve en la unción por el Espíritu una señal de que Jesús es Dios hecho hombre, y la une a su bautismo en el Jordán."
+    }
+  ],
+  "critica": {
+    "texto": "Lucas cambia el orden de Marcos y coloca esta escena al comienzo. La crítica discute si el «año de gracia» remite de verdad al jubileo, el año de perdón de deudas de Lv 25.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Sharon Ringe y John H. Yoder",
+        "texto": "Lucas alude al jubileo de Lv 25: Jesús anuncia una liberación social, de deudas y de tierras, además de religiosa."
+      },
+      {
+        "quien": "Joseph Fitzmyer",
+        "texto": "Is 61 habla de una liberación figurada, del exilio y de la opresión, sin implicar un programa económico concreto."
+      }
+    ]
+  },
+  "temas": [
+    "reino-de-dios",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to Luke I-IX (Anchor Bible 28)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Jesus, Liberation, and the Biblical Jubilee (Fortress, 1985)",
+      "autor": "Sharon H. Ringe",
+      "tradicion": "critica"
+    }
+  ]
+}

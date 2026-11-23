@@ -1,0 +1,61 @@
+{
+  "id": "mateo-tuve-hambre-y-me-disteis-de-comer",
+  "libro_id": "mateo",
+  "orden": 5,
+  "titulo": "El juicio final se decide por quién dio de comer al hambriento",
+  "pasaje": "Mt 25,31-46",
+  "que_dice": "Un rey se sienta en su trono y separa a las naciones como un pastor separa las ovejas de las cabras. A unos les dice: tuve hambre y me disteis de comer, estuve desnudo y me vestisteis, enfermo o en la cárcel y me visitasteis. Ellos preguntan cuándo. Responde: cada vez que lo hicisteis con uno de estos mis hermanos más pequeños, lo hicisteis conmigo.\n\nA los otros les dice lo contrario: no lo hicieron. Ninguno de los dos grupos sabía a quién servía o negaba. El criterio que enuncia el texto son las obras de misericordia.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lista recuerda actos que la tradición rabínica llama *guemilut jasadim*, «actos de bondad». Son vestir al desnudo, visitar al enfermo y enterrar a los muertos, a imitación de Dios (Sotá 14a)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el pasaje es la base de las obras de misericordia corporales. La tradición añadió a las del texto la de enterrar a los muertos, hasta completar siete."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "En la liturgia ortodoxa, dos domingos antes de la Cuaresma se celebra el domingo del Juicio Final. Se lee este pasaje, que prepara el ayuno con una llamada a la caridad."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante clásica, las obras de este pasaje son fruto y señal de la fe, no su causa. El texto no enseñaría la salvación por mérito, sino cómo es la fe viva."
+    }
+  ],
+  "critica": {
+    "texto": "Esta escena solo está en Mateo. Se discute quiénes son los «hermanos más pequeños» con los que Jesús se identifica.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Sherri Brown Gray, que estudia la historia de esta lectura",
+        "texto": "Son los discípulos de Jesús, en especial los misioneros itinerantes: el juicio depende de cómo se los acoge (cf. Mt 10,40-42)."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "Son todos los necesitados: el juicio alcanza a «todas las naciones», y los que lo superan no conocían a Jesús."
+      }
+    ]
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Least of My Brothers: Matthew 25:31-46, A History of Interpretation (Scholars Press, 1989)",
+      "autor": "Sherri Brown Gray",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Gospel according to Saint Matthew, vol. 3 (ICC, T&T Clark, 1997)",
+      "autor": "W. D. Davies y Dale C. Allison Jr.",
+      "tradicion": "critica"
+    }
+  ]
+}

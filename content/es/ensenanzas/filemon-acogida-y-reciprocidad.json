@@ -1,0 +1,44 @@
+{
+  "id": "filemon-acogida-y-reciprocidad",
+  "libro_id": "filemon",
+  "orden": 3,
+  "titulo": "¿Qué pide Pablo a Filemón: acogida, deuda y hospedaje?",
+  "pasaje": "Flm 17-22",
+  "que_dice": "Pablo pide a Filemón que reciba a Onésimo como lo recibiría a él. Si el esclavo le ha causado daño o le debe algo, que lo ponga en su cuenta: Pablo lo pagará, aunque le recuerda que Filemón le debe su propia vida.\n\nTermina pidiendo que le preparen alojamiento, porque espera ser liberado y visitarlos. Es un dato práctico que hace más difícil que Filemón ignore la petición.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas ven en la acogida de Onésimo un ejemplo de hospitalidad y de perdón. Los debates sobre esclavitud modernos, del siglo XIX en Estados Unidos, usaron la carta por ambos bandos."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute si la petición implica la liberación del esclavo y cómo interpretar la «deuda».",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Allen Callahan",
+        "texto": "Onésimo era hermano de sangre de Filemón, no esclavo; Pablo habla de reconciliar a dos hermanos y no de una deuda de esclavo fugitivo, lectura que Callahan ve posterior."
+      },
+      {
+        "quien": "John Barclay",
+        "texto": "Pablo pide mucho sin concretar: sugiere más que manumisión, pero deja la decisión a Filemón."
+      }
+    ]
+  },
+  "temas": [
+    "extranjero-y-hospitalidad",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Embassy of Onesimus: The Letter of Paul to Philemon",
+      "autor": "Allen Dwight Callahan",
+      "tradicion": "critica"
+    }
+  ]
+}

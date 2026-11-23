@@ -1,0 +1,34 @@
+{
+  "id": "abdias-lo-que-hiciste-se-te-hara",
+  "libro_id": "abdias",
+  "orden": 2,
+  "titulo": "El día del Señor llega para todos: lo que hiciste se te hará",
+  "pasaje": "Abd 1,1-9.15-16",
+  "que_dice": "Edom vive seguro en las alturas de las rocas y se cree intocable. El Señor le dice que lo hará bajar desde allí, aunque anide entre las estrellas (1,3-4). Sus aliados lo traicionarán y sus sabios no sabrán qué hacer (1,7-9).\n\nEl versículo 15 amplía el foco: el día del Señor está cerca para todas las naciones, y a cada una se le devolverá lo que hizo. La medida con que se trató a otros será la medida con que se la trate.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas coinciden en leer Abd 15 como una afirmación de justicia universal: ningún pueblo queda fuera del juicio."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica señala que Abd 1-9 se parece mucho a Jer 49,7-22. Muchos suponen un oráculo común más antiguo que ambos textos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

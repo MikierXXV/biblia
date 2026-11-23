@@ -1,0 +1,78 @@
+{
+  "id": "1-corintios",
+  "seccion_id": "nuevo-testamento",
+  "orden": 7,
+  "nombre": "1 Corintios",
+  "abreviatura": "1 Cor",
+  "bloque": "cartas-paulinas",
+  "capitulos": 16,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Pablo responde a divisiones, litigios y dudas de la comunidad de Corinto. Incluye el himno al amor y el capítulo sobre la resurrección.",
+  "presentacion": "Pablo fundó la comunidad de Corinto, puerto comercial de Acaya, hacia el 50 d. C. Después, desde Éfeso, le llegan malas noticias por gente de la casa de Cloe. Le llega también una carta con preguntas de los propios corintios (1 Cor 1,11; 7,1). La carta responde punto por punto.\n\nTrata las divisiones (1-4), un caso de inmoralidad y los pleitos entre hermanos (5-6), y el matrimonio y la soltería (7). Sigue con la carne ofrecida a los ídolos (8-10), el culto y la cena del Señor (11) y los dones del Espíritu, con el himno al amor (12-14). Habla de la resurrección (15) y cierra con la colecta para Jerusalén (16).\n\nEs la carta que mejor deja ver cómo era una comunidad cristiana de la primera generación. Contiene también pasajes delicados sobre las mujeres (11,2-16; 14,34-35) y sobre el matrimonio (cap. 7), que las tradiciones y la crítica leen de modo distinto.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que la escribe con Sóstenes (1 Cor 1,1) y la firma de su mano (16,21).",
+    "critica": "Los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas. Algunos ven en 14,34-35 un añadido posterior; se trata en la enseñanza sobre ese pasaje.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa hacia el 54-57 d. C., escrita desde Éfeso durante la estancia de Pablo de más de dos años en la ciudad (Hch 19).",
+    "critica": "La crítica coincide: hacia el 54-55 d. C., desde Éfeso, unos cuatro años después de fundar la comunidad. Es anterior a Romanos y a 2 Corintios.",
+    "acuerdo": "consenso",
+    "rango": [
+      53,
+      55
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen 1 Corintios como testimonio de una comunidad de no judíos en el siglo I; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas. Se lee 1 Cor 15 en la liturgia pascual y los funerales.",
+    "protestante": "Es canónica. Los reformadores discutieron a partir de ella la cena del Señor (1 Cor 11) y el lugar de los dones del Espíritu (12-14)."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Cor 1,10-17",
+      "nota": "Las divisiones de la comunidad por bandos."
+    },
+    {
+      "pasaje": "1 Cor 11,17-34",
+      "nota": "La cena del Señor y el desorden de las comidas."
+    },
+    {
+      "pasaje": "1 Cor 12,12-27",
+      "nota": "Un cuerpo con muchos miembros."
+    },
+    {
+      "pasaje": "1 Cor 13",
+      "nota": "El himno al amor."
+    },
+    {
+      "pasaje": "1 Cor 15",
+      "nota": "La resurrección de Cristo y de los muertos."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "First Corinthians (Anchor Yale Bible 32)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Pablo escribe desde Éfeso hacia el 54-55 d. C. a una comunidad que fundó en Corinto.",
+    "Responde a divisiones, pleitos, dudas sobre el matrimonio y desórdenes en el culto.",
+    "Contiene el himno al amor (cap. 13) y la imagen del cuerpo con muchos miembros (cap. 12).",
+    "El capítulo 15 es el texto más extenso de Pablo sobre la resurrección.",
+    "1 Cor 14,34-35 se discute: glosa posterior, norma local o cita de una consigna."
+  ]
+}

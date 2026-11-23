@@ -1,0 +1,53 @@
+{
+  "id": "daniel-resurreccion-de-los-justos",
+  "libro_id": "daniel",
+  "orden": 4,
+  "titulo": "Muchos de los que duermen en el polvo despertarán",
+  "pasaje": "Dn 12,1-3",
+  "que_dice": "El último capítulo de Daniel anuncia un tiempo de angustia como no lo ha habido desde que existen las naciones, y la salvación de los inscritos en el libro (12,1). Entonces muchos de los que duermen en el polvo despertarán: unos para vida eterna y otros para vergüenza y horror eternos (12,2).\n\nLos sabios brillarán como el resplandor del cielo. Quienes enseñaron a muchos a ser justos brillarán como las estrellas, siempre (12,3). Daniel recibe la orden de guardar el libro sellado hasta el tiempo del fin (12,4).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica pone la resurrección de los muertos entre los principios de la fe. La Misná (Sanedrín 10,1) la menciona, y la oración diaria (la Amidá) la nombra. Dn 12,2 es uno de los textos bíblicos que se citan en ese sentido."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Jn 5,28-29 retoma la imagen de Dn 12,2: llega la hora en que los que están en los sepulcros oirán su voz. Para la lectura católica, y en lo esencial para las demás cristianas, Dn 12 anticipa la resurrección en Cristo y el juicio final."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en Dn 12,2-3, escrito hacia el 165 a. C., el texto más claro del Antiguo Testamento sobre la resurrección de personas. Su origen está en discusión.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Jon Levenson",
+        "texto": "Es un desarrollo de la esperanza israelita de restauración, como Ez 37 e Is 26. No viene de fuera."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Hay influencia persa (zoroastrismo) o helenística, que dio forma a una idea ya presente en Israel."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Daniel (Hermeneia)",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Resurrection and the Restoration of Israel",
+      "autor": "Jon D. Levenson",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

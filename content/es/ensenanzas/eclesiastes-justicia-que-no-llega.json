@@ -1,0 +1,48 @@
+{
+  "id": "eclesiastes-justicia-que-no-llega",
+  "libro_id": "eclesiastes",
+  "orden": 4,
+  "titulo": "Qohélet ve al malvado honrado y al justo olvidado, y lo dice",
+  "pasaje": "Ecl 4,1-3; 8,10-14",
+  "que_dice": "Qohélet pasea por la ciudad y mira. Ve las lágrimas de los oprimidos, y que nadie los consuela, y que el poder está del lado de sus opresores (4,1). Dice que son más felices los muertos que los vivos, y mejor que ambos quien no ha nacido (4,2-3).\n\nHay algo peor: justos tratados como malvados, y malvados como justos (8,14). Para Qohélet eso también es *hebel*, aliento que no se agarra. No lo arregla con una explicación. El libro deja la injusticia a la vista.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Berajot 7a) cuenta que Moisés hizo a Dios la misma pregunta: por qué algunos justos prosperan y otros sufren. La tradición no da una respuesta única."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Muchos comentaristas cristianos leen la injusticia del presente a la luz del juicio de Dios, que Qohélet menciona en 3,17 y 11,9."
+    }
+  ],
+  "critica": {
+    "texto": "Los versículos sobre un juicio final de Dios (3,17; 8,12-13; 11,9) parecen contradecir el resto. Se discute si son de Qohélet.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Son glosas de un redactor posterior, que corrige un libro demasiado escéptico."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Son del propio Qohélet: afirma el juicio de Dios y a la vez duda de entenderlo. La tensión es suya."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    }
+  ]
+}

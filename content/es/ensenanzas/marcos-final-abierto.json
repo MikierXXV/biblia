@@ -1,0 +1,51 @@
+{
+  "id": "marcos-final-abierto",
+  "libro_id": "marcos",
+  "orden": 5,
+  "titulo": "El evangelio más antiguo acaba con unas mujeres que huyen asustadas",
+  "pasaje": "Mc 16,1-8",
+  "que_dice": "Al amanecer del domingo, tres mujeres van al sepulcro con aromas. La piedra está corrida. Dentro, un joven vestido de blanco les anuncia que Jesús ha resucitado y que los espera en Galilea. Ellas salen huyendo, temblando, y no dicen nada a nadie, porque tenían miedo.\n\nAhí acaba el texto en los manuscritos más antiguos. Mc 16,9-20, con apariciones del resucitado, es un añadido posterior, y algunos manuscritos traen otro final más breve.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, la resurrección de los muertos es una creencia farisea y rabínica (Mishná, Sanedrín 10,1). Lo que anuncia el relato es otra cosa: la resurrección de una sola persona antes del fin de los tiempos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La Iglesia católica recibe el final largo (16,9-20) como texto canónico, aunque la crítica lo considere posterior. Las apariciones de los otros evangelios completan el relato."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "En la liturgia ortodoxa, este relato se lee el domingo de las Mirróforas, las mujeres que llevaban perfumes al sepulcro."
+    }
+  ],
+  "critica": {
+    "texto": "Que 16,9-20 es posterior es un consenso amplio. Lo que se discute es si el evangelio acabó de verdad en 16,8.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joel Marcus",
+        "texto": "Marcos acabó en 16,8 a propósito: el final abierto deja al lector la tarea de responder a la noticia."
+      },
+      {
+        "quien": "Bruce M. Metzger",
+        "texto": "Se perdió el final original, quizá por daño del rollo, y 16,8 es un corte accidental."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Textual Commentary on the Greek New Testament",
+      "autor": "Bruce M. Metzger",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Mark 8-16 (Anchor Bible 27A)",
+      "autor": "Joel Marcus",
+      "tradicion": "critica"
+    }
+  ]
+}

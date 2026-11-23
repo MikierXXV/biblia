@@ -1,0 +1,72 @@
+{
+  "id": "sabiduria",
+  "seccion_id": "sapienciales",
+  "orden": 6,
+  "nombre": "Sabiduría",
+  "abreviatura": "Sab",
+  "capitulos": 19,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Escrito en griego, probablemente en Alejandría, anima a la fidelidad en un ambiente helenista. Habla de la sabiduría y de la vida tras la muerte.",
+  "presentacion": "Un maestro judío de Alejandría escribe en griego a sus compatriotas y a los gobernantes del mundo: amad la justicia (1,1). Habla como Salomón, sin firmar con su nombre. Su público es un judaísmo minoritario en una gran ciudad helenizada y, a veces, hostil.\n\nEl libro tiene tres partes. Los capítulos 1-5 cuentan el destino del justo perseguido. Los capítulos 6-9 elogian la Sabiduría y piden que Dios la dé. Los capítulos 10-19 releen la historia de Israel, sobre todo el Éxodo, con una crítica de la idolatría (13-15).\n\nInfluyó en el Nuevo Testamento: Jn 1, Col 1 y Heb 1 tienen ecos suyos.",
+  "autoria": {
+    "tradicion": "El libro se presenta como de Salomón (7,7-14; 9,7-8), y algunos Padres lo aceptaron así; otros, como Jerónimo, lo dudaron.",
+    "critica": "El autor es anónimo: un judío helenizado que escribe en griego. Hablar como Salomón es un recurso literario.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Salomón, el libro es del siglo X a. C.",
+    "critica": "Se escribió en griego, en Alejandría. La mayoría de críticos lo sitúa entre el siglo I a. C. y el siglo I d. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      -100,
+      50
+    ],
+    "rango_tradicion": [
+      -970,
+      -930
+    ]
+  },
+  "canon": {
+    "judia": "No está en la Biblia hebrea. Se conserva en griego y no entró en el canon rabínico.",
+    "ortodoxa": "Es canónico y figura entre los libros sapienciales de la Septuaginta.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo. Los anglicanos lo leen como ejemplo de vida, no para fundar doctrina (Artículos de religión, VI)."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Sab 3,1-9",
+      "nota": "Las almas de los justos están en la mano de Dios."
+    },
+    {
+      "pasaje": "Sab 7,22-8,1",
+      "nota": "La Sabiduría, aliento del poder de Dios."
+    },
+    {
+      "pasaje": "Sab 11,24",
+      "nota": "Dios ama todo lo que existe."
+    },
+    {
+      "pasaje": "Sab 13,1-9",
+      "nota": "De la belleza de las criaturas se llega a su Creador."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Solomon (Anchor Bible 43)",
+      "autor": "David Winston",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Sabiduría se escribió en griego, en Alejandría, hacia el cambio de era.",
+    "Dice que las almas de los justos están en la mano de Dios y tienen esperanza de inmortalidad (3,1-9).",
+    "Presenta la Sabiduría como aliento del poder de Dios y espejo de su obra (7,22-8,1).",
+    "Es deuterocanónico: católicos y ortodoxos lo reciben, y judíos y protestantes no.",
+    "Su lenguaje influyó en Jn 1, Col 1 y Heb 1."
+  ]
+}

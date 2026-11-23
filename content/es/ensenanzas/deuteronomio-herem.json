@@ -1,0 +1,53 @@
+{
+  "id": "deuteronomio-herem",
+  "libro_id": "deuteronomio",
+  "orden": 4,
+  "titulo": "El herem: la orden de exterminar pueblos y cómo se lee hoy",
+  "pasaje": "Dt 7,1-5; 20,10-18",
+  "que_dice": "Antes de entrar en la tierra, Moisés da órdenes de guerra. A las ciudades lejanas se les ofrece la paz y, si la rechazan, se las ataca (20,10-15). En las ciudades de los pueblos de Canaán no se deja con vida nada que respire. Es el *herem*: destruir por completo lo que se consagra a Dios (20,16-18).\n\nTampoco se pacta con ellos, ni se casa con sus hijas, ni se toleran sus altares (7,1-5).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica limitó el *herem*. Maimónides (Leyes de los reyes 5-6) entiende que se ofrecía la paz antes de atacar. Sostiene que el mandato ya no se aplica, porque, según la Misná (Yadayim 4,4), Senaquerib mezcló a los pueblos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Orígenes lee estos relatos como alegoría: los cananeos son los vicios que el creyente debe destruir."
+    }
+  ],
+  "critica": {
+    "texto": "La estela del rey Mesá de Moab (siglo IX a. C.) usa la misma palabra para dedicar a su dios las ciudades conquistadas. El *herem* era un uso de guerra de la región. Se discute si Dt 20 describe una práctica o un ideal.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "K. L. Younger",
+        "texto": "Los relatos de conquista del Oriente antiguo usan lenguaje exagerado: Dt 20 no describiría un exterminio real."
+      },
+      {
+        "quien": "Thomas Römer",
+        "texto": "Es una ideología escrita siglos después, que marca fronteras de identidad y nunca se aplicó así."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ancient Conquest Accounts",
+      "autor": "K. Lawson Younger",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

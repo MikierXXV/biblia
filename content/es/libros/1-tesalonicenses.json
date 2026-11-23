@@ -1,0 +1,78 @@
+{
+  "id": "1-tesalonicenses",
+  "seccion_id": "nuevo-testamento",
+  "orden": 13,
+  "nombre": "1 Tesalonicenses",
+  "abreviatura": "1 Tes",
+  "bloque": "cartas-paulinas",
+  "capitulos": 5,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Probablemente el escrito más antiguo del Nuevo Testamento (hacia el 50 d. C.). Consuela a una comunidad por sus difuntos.",
+  "presentacion": "Pablo acaba de salir de Tesalónica, capital de Macedonia, donde predicó pocas semanas y tuvo que marcharse por la oposición (Hch 17,1-10). Desde Corinto, envía a Timoteo a ver cómo está la comunidad, y esta carta responde a su informe (1 Tes 3,6).\n\nEs una carta cálida, escrita a una comunidad joven, formada sobre todo por gente que había dejado los ídolos. Les agradece su fe, su amor y su esperanza, les recuerda cómo vivió entre ellos y les pide trabajar con sus manos y vivir con serenidad.\n\nSu parte más conocida consuela a quienes han perdido a creyentes queridos y habla de la venida del Señor (4,13-18). Es, con probabilidad, el escrito cristiano más antiguo que se conserva, anterior a los evangelios.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que escribe junto a Silvano y Timoteo (1 Tes 1,1).",
+    "critica": "Los críticos aceptan que es de Pablo: es una de las siete cartas llamadas indiscutidas. Para 2,13-16 se propone que es una interpolación posterior (Birger Pearson, 1971); es una opinión minoritaria.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa hacia el 50-51 d. C., escrita desde Corinto tras la primera visita de Pablo a Tesalónica.",
+    "critica": "La mayoría de críticos la data hacia el 50-51 d. C., desde Corinto, lo que la hace probablemente el escrito más antiguo del Nuevo Testamento. La fecha se apoya en la estancia de Pablo ante el procónsul Galión (Hch 18,12).",
+    "acuerdo": "consenso",
+    "rango": [
+      50,
+      51
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen 1 Tesalonicenses como un testimonio temprano del cristianismo entre no judíos; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica. En el siglo XIX algunas corrientes protestantes, con Darby, vieron en 4,17 un arrebatamiento previo a la gran tribulación."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Tes 1,2-10",
+      "nota": "Fe, amor y esperanza de la comunidad."
+    },
+    {
+      "pasaje": "1 Tes 4,9-12",
+      "nota": "Amor fraterno y trabajo con las propias manos."
+    },
+    {
+      "pasaje": "1 Tes 4,13-18",
+      "nota": "La esperanza ante los difuntos y la venida del Señor."
+    },
+    {
+      "pasaje": "1 Tes 5,1-11",
+      "nota": "El día del Señor y la vigilancia."
+    },
+    {
+      "pasaje": "1 Tes 2,13-16",
+      "nota": "Habla de «los judíos que mataron al Señor». Unos lo tienen por interpolación posterior (Pearson, 1971); otros, como Malherbe y Wanamaker, lo defienden como de Pablo."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Es probablemente el escrito más antiguo del Nuevo Testamento, hacia el 50-51 d. C.",
+    "Pablo escribe desde Corinto a una comunidad joven de Macedonia que lo preocupa.",
+    "Resume la vida cristiana en fe, amor y esperanza (1,3).",
+    "Consuela a quienes lloran a sus muertos con la esperanza de la resurrección.",
+    "El «arrebatamiento» de 4,17 lo leen de modo distinto las tradiciones."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mateo-parabolas-del-reino",
+  "libro_id": "mateo",
+  "orden": 3,
+  "titulo": "El reino de los cielos se parece a una semilla minúscula",
+  "pasaje": "Mt 13",
+  "que_dice": "Un sembrador sale a sembrar y la semilla cae en cuatro terrenos: el camino, las piedras, las espinas y la tierra buena (Mt 13,1-9). Después Jesús compara el reino de los cielos con un grano de mostaza, con levadura, con un tesoro escondido y con una red llena de peces.\n\nSon imágenes cortas, de la vida diaria. Casi ninguna dice qué es el reino: dice a qué se parece. Mateo escribe «reino de los cielos» donde Marcos y Lucas dicen «reino de Dios». Se suele explicar como una forma judía de evitar pronunciar el nombre divino.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía reconoce el género en los *meshalim*, las parábolas rabínicas, posteriores a Jesús, en las que un rey y sus siervos representan a Dios y a su pueblo. Para la lectura judía, el reino de Dios es el reinado de Dios sobre Israel y el mundo, una idea ya presente en los salmos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el reino está ya presente en Cristo y en la Iglesia, pero no se identifica del todo con ella (Catecismo, 541-546). La cizaña de Mt 13,24-30 recuerda que trigo y cizaña crecen juntos hasta el final."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa subraya que el reino se anticipa en la liturgia. La Divina Liturgia empieza con la bendición del reino del Padre, del Hijo y del Espíritu Santo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Amy-Jill Levine",
+      "texto": "Amy-Jill Levine propone leer cada parábola en su contexto judío del siglo I, sin convertirla en una alegoría contra el judaísmo ni en un consejo moral genérico."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos cree que las parábolas están entre lo más cercano al Jesús histórico. Para ellos, las explicaciones alegóricas (13,18-23 y 13,36-43) son de la comunidad que transmitió el texto.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "reino-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Short Stories by Jesus",
+      "autor": "Amy-Jill Levine",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Matthew 8-20 (Hermeneia)",
+      "autor": "Ulrich Luz",
+      "tradicion": "critica"
+    }
+  ]
+}

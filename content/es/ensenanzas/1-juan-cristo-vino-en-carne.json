@@ -1,0 +1,29 @@
+{
+  "id": "1-juan-cristo-vino-en-carne",
+  "libro_id": "1-juan",
+  "orden": 4,
+  "titulo": "¿Quién niega que Jesucristo ha venido en carne?",
+  "pasaje": "1 Jn 4,1-6",
+  "que_dice": "Algunos han dejado la comunidad (2,19). La carta pide entonces examinar los espíritus, porque muchos falsos profetas andan por el mundo (4,1). El criterio es confesar que Jesucristo ha venido en carne (4,2-3).\n\nQuien lo niega tiene, según el autor, el espíritu del anticristo. Para la carta no hay fe sin un Jesús real: el que se confiesa es el que se vio y se tocó (1,1).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: 4,2-3 defiende la encarnación real. La tradición posterior lo aplicó contra el docetismo, la idea de que Cristo solo parecía tener un cuerpo humano."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve aquí un conflicto interno de la escuela joánica. Brown reconstruyó, en su comentario, una ruptura entre dos grupos que leían el evangelio de modo distinto. Cuánto se sabe de la doctrina de los oponentes, conocida solo por esta carta, es objeto de debate.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

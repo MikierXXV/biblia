@@ -1,0 +1,36 @@
+{
+  "id": "2-timoteo-fidelidad-en-el-sufrimiento",
+  "libro_id": "2-timoteo",
+  "orden": 2,
+  "titulo": "¿Qué pide 2 Timoteo a quien sufre por su fe?",
+  "pasaje": "2 Tim 1,8-14; 2,3-13",
+  "que_dice": "La carta, atribuida a Pablo, lo presenta preso, y en Asia muchos lo han abandonado (2 Tim 1,15). Aun así, la carta pide a Timoteo no avergonzarse del testimonio ni del preso, y sufrir su parte por el evangelio (1,8). Onesíforo, que no se avergonzó de sus cadenas, es el ejemplo contrario (1,16-18).\n\nEn el capítulo 2, el autor usa las imágenes de soldado, atleta y labrador: oficios que exigen disciplina y esfuerzo antes del fruto (2,3-6). Recoge además un himno: si morimos con Cristo, viviremos con él; si perseveramos, reinaremos con él (2,11-12).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las Iglesias cristianas leen estas páginas como aliento para los perseguidos y como retrato del pastor fiel."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos señalan que las imágenes del soldado y del atleta eran comunes entre los moralistas de la época.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    },
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    }
+  ]
+}

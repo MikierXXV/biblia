@@ -1,0 +1,57 @@
+{
+  "id": "galatas-libertad-frente-a-la-circuncision",
+  "libro_id": "galatas",
+  "orden": 1,
+  "titulo": "¿Debían circuncidarse los creyentes no judíos?",
+  "pasaje": "Gál 5,1-6",
+  "que_dice": "En las comunidades de Galacia han llegado maestros que dicen a los convertidos no judíos que, para ser del pueblo de Dios, deben circuncidarse y guardar la Torá. Pablo reacciona con dureza: Cristo ha liberado para que haya libertad, y quien se circuncida para justificarse queda obligado a toda la ley (5,1-3).\n\nPara él, lo que cuenta es una fe que actúa por amor (5,6). Pablo no pide a los judíos que dejen de circuncidar a sus hijos: su discusión es sobre lo que se exige a los no judíos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía mantiene que la circuncisión es señal de la alianza con Abrahán (Gn 17) y obliga a los judíos. Que no se exija a los no judíos concuerda con la idea rabínica de que los justos de las naciones tienen parte en el mundo futuro."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el texto afirma que los ritos de la ley antigua no obligan a los cristianos. El Concilio de Florencia (1442) enseñó que, tras el Evangelio, circuncidarse como obligación pone en peligro la salvación."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero escribió su comentario de Gálatas en 1519 y 1535 y lo tuvo por la carta de su libertad cristiana: la ley no justifica. Los comentarios luteranos y reformados la aplican a toda confianza en las propias obras."
+    }
+  ],
+  "critica": {
+    "texto": "Casi todos los críticos coinciden en que Pablo responde a maestros que exigían la circuncisión a los no judíos. Discuten quiénes eran.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "J. Louis Martyn",
+        "texto": "Eran misioneros judeocristianos que llegaron después de Pablo y presentaban la Torá como parte del Evangelio."
+      },
+      {
+        "quien": "Mark Nanos",
+        "texto": "Eran judíos no cristianos, que presionaban a los no judíos para integrarlos en las sinagogas y protegerlos frente al Imperio."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Anchor Bible 33A)",
+      "autor": "J. Louis Martyn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

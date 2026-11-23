@@ -1,0 +1,45 @@
+{
+  "id": "ester-dios-oculto-y-adiciones-griegas",
+  "libro_id": "ester",
+  "orden": 3,
+  "titulo": "Un libro sin el nombre de Dios y una versión que lo añade",
+  "pasaje": "Est 4,14; 10,4–16,24",
+  "que_dice": "Ni «Dios» ni «Señor» aparecen una sola vez en el texto hebreo de Ester. Tampoco hay oración, templo ni sacrificio. Un insomnio del rey (Est 6,1) y un banquete dan el giro. Para algunos lectores, esa ausencia es el mensaje.\n\nLa versión griega, de los siglos II o I a. C., añade seis bloques. Son un sueño con su interpretación, dos edictos, las oraciones de Mardoqueo y Ester y una escena más larga ante el rey. En ellos Dios actúa y es invocado.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recibe solo el texto hebreo. El Talmud (Julín 139b) encuentra en el nombre de Ester la expresión de Dt 31,18, ocultaré mi rostro: Dios está presente, pero escondido."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las adiciones son canónicas para la Iglesia católica desde Trento. Las Biblias actuales las colocan en su lugar; Torres Amat, que sigue la Vulgata, las deja al final."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "Las Iglesias ortodoxas leen Ester en griego, con las adiciones incluidas dentro del libro."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Biblias protestantes suelen traer solo el texto hebreo. Algunas ediciones con apócrifos imprimen las adiciones aparte."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el texto hebreo es anterior a las adiciones griegas y en que estas introducen la religiosidad explícita que el hebreo omite.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Character and Ideology in the Book of Esther",
+      "autor": "Michael V. Fox",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

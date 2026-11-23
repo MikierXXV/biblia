@@ -1,0 +1,43 @@
+{
+  "id": "1-corintios-resurreccion-de-cristo-y-de-los-muertos",
+  "libro_id": "1-corintios",
+  "orden": 6,
+  "titulo": "¿Cómo defiende Pablo la resurrección de los muertos?",
+  "pasaje": "1 Cor 15,12-23",
+  "que_dice": "Algunos corintios dicen que no hay resurrección de los muertos. Pablo les recuerda lo que recibió y transmitió. Cristo murió, fue sepultado, resucitó al tercer día y se apareció a Pedro, a los Doce, a más de quinientos y, por último, a él (15,3-8).\n\nSi no hay resurrección, argumenta, tampoco Cristo resucitó y la fe es vana (15,12-19). Describe después un cuerpo *espiritual*, es decir, transformado por el Espíritu, distinto del actual como la planta de la semilla (15,35-49).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía sitúa el capítulo ante Dn 12,2, donde muchos de los que duermen en el polvo despertarán. Lo sitúa también ante la creencia farisea en la resurrección, que Hch 23,8 contrapone a los saduceos. Lo distinto es ver la resurrección ya iniciada en una persona."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las Iglesias católica, ortodoxa y protestantes ven aquí el fundamento de la fe en la resurrección de los cuerpos, que recitan en el credo. La Pascua ortodoxa se celebra con el anuncio de que Cristo ha resucitado de entre los muertos."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que 15,3-5 recoge una fórmula anterior a Pablo, de los primeros años tras la muerte de Jesús. Es la tradición cristiana más antigua sobre la resurrección que se conserva.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "First Corinthians (Anchor Yale Bible 32)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NIGTC)",
+      "autor": "Anthony C. Thiselton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

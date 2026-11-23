@@ -1,0 +1,45 @@
+{
+  "id": "jonas-la-pregunta-final",
+  "libro_id": "jonas",
+  "orden": 3,
+  "titulo": "¿Merece Dios compadecerse de una ciudad? Una pregunta sin respuesta",
+  "pasaje": "Jon 4,4-11",
+  "que_dice": "Jonás sale de la ciudad y se sienta al este, a ver qué pasa. Dios hace crecer una planta que le da sombra, y Jonás se alegra mucho. Al amanecer, un gusano la seca y un viento ardiente lo agota (4,5-8).\n\nJonás vuelve a pedir la muerte. Dios le pregunta si le parece bien enfadarse por la planta. Si él se duele por ella, ¿no se dolerá Dios de Nínive, con más de ciento veinte mil personas y muchos animales? (4,9-11).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee el final abierto como una invitación: Dios no reprende, pregunta. Cada lector de Yom Kipur queda en el lugar de Jonás, con su propia respuesta pendiente."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante suelen leerlo como una lección contra el estrecho nacionalismo religioso. La pregunta final pide al lector abrir el corazón a quien considera enemigo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible subraya que el libro acaba con una pregunta, no con una respuesta. Jonás se queda sin réplica, y ese silencio obliga al lector a contestar."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve en el final abierto un rasgo deliberado del narrador, que usa la ironía para cuestionar que la compasión de Dios sea solo para Israel.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jonah (Anchor Bible)",
+      "autor": "Jack M. Sasson",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Rhetorical Criticism: Context, Method, and the Book of Jonah",
+      "autor": "Phyllis Trible",
+      "tradicion": "critica"
+    }
+  ]
+}

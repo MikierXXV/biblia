@@ -1,0 +1,73 @@
+{
+  "id": "habacuc",
+  "seccion_id": "profetas",
+  "orden": 14,
+  "nombre": "Habacuc",
+  "abreviatura": "Hab",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta protesta ante Dios por la violencia que ve y espera su respuesta. Contiene una frase muy citada sobre el justo y termina con un himno de confianza.",
+  "presentacion": "Un profeta que protesta a Dios no es habitual. Habacuc grita «¿hasta cuándo?» ante la violencia y la injusticia, y se queja de que Dios no escucha (Hab 1,2-4). Dios responde que levantará a los caldeos, es decir, a los babilonios, y el profeta objeta que eso no resuelve nada (Hab 1,5-17).\n\nSe coloca entonces en su puesto de guardia, y la respuesta llega como visión que hay que escribir (Hab 2,1-3). En ella aparece una frase breve que ha pesado mucho en la historia: el justo vivirá por su fidelidad (Hab 2,4).\n\nEl libro acaba con un himno en el que Dios avanza como tormenta y el profeta, aun con los campos vacíos, decide alegrarse (Hab 3). Los manuscritos de Qumrán incluyen un *pésher*, comentario que aplica el texto verso a verso a la comunidad del desierto.",
+  "autoria": {
+    "tradicion": "Hab 1,1 lo llama «el profeta Habacuc» y no da más datos. La tradición judía y la cristiana le atribuyen el libro entero, incluido el himno del capítulo 3.",
+    "critica": "Casi toda la crítica ve en Habacuc al autor de los capítulos 1-2. Algunos, como Theodore Hiebert, tratan el himno del capítulo 3 como pieza antigua que se unió al libro.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "El Seder Olam, una cronología rabínica, sitúa a Habacuc bajo el rey Manasés.",
+    "critica": "Hacia 609-597 a. C., con el auge de Babilonia y antes de que tomara Jerusalén. La fecha exacta de cada pasaje se discute.",
+    "acuerdo": "consenso",
+    "rango": [
+      -609,
+      -597
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el octavo.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Hab 1,2-4",
+      "nota": "«¿Hasta cuándo?»: el profeta protesta ante la violencia."
+    },
+    {
+      "pasaje": "Hab 2,1-4",
+      "nota": "La visión que tarda y la frase sobre el justo y su fidelidad."
+    },
+    {
+      "pasaje": "Hab 2,6-20",
+      "nota": "Cinco ayes contra el saqueador y el que construye con sangre."
+    },
+    {
+      "pasaje": "Hab 3,17-19",
+      "nota": "Aunque falte la cosecha, el profeta se alegra en Dios."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Habakkuk (Anchor Yale Bible)",
+      "autor": "Francis I. Andersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Habacuc protesta a Dios por la violencia y recibe una respuesta que le exige esperar (Hab 1,2-2,4).",
+    "Dios anuncia a los caldeos, los babilonios, como instrumento, y el profeta lo cuestiona (Hab 1,5-13).",
+    "Hab 2,4, el justo vivirá por su fidelidad, lo leen Pablo y Lutero como fe y la tradición judía como fidelidad.",
+    "Se discute el sentido de *emuná*: fidelidad, firmeza o fe confiada.",
+    "El himno final habla de alegría con los campos vacíos (Hab 3,17-19)."
+  ]
+}

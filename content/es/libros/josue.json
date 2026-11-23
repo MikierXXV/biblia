@@ -1,0 +1,91 @@
+{
+  "id": "josue",
+  "seccion_id": "historicos",
+  "orden": 1,
+  "nombre": "Josué",
+  "abreviatura": "Jos",
+  "capitulos": 24,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Tras la muerte de Moisés, Josué guía a Israel al otro lado del Jordán. El libro cuenta la entrada en Canaán y el reparto de la tierra, y plantea preguntas serias sobre la violencia y sobre la historia.",
+  "presentacion": "Un pueblo acampa a orillas del Jordán, con el río crecido y Canaán al otro lado. Moisés ha muerto y Josué, su ayudante, toma el mando. Dos espías cruzan a Jericó, el agua se detiene ante el arca de la alianza y las murallas de la ciudad caen.\n\nEl libro tiene dos mitades. En los capítulos 1-12 llegan las campañas: Jericó, Ay, el sur y el norte. En los capítulos 13-21 se reparte el territorio entre las tribus. Los capítulos 23-24 cierran con los discursos de despedida y la asamblea de Siquén.\n\nJosué plantea dos problemas que el sitio trata de frente. Uno es moral: el *herem*, la destrucción total de ciudades «consagradas» a Dios. El otro es histórico: la arqueología no encuentra la conquista rápida que el libro parece describir.",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b-15a) atribuye el libro a Josué. La noticia de su muerte la habría añadido Eleazar, hijo de Aarón, o Pinjás.",
+    "critica": "El libro es anónimo. La mayoría de la crítica lo incluye en la Historia deuteronomista (Josué-Reyes), una gran obra histórica de los siglos VII-VI a. C. que reúne material más antiguo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Josué, el libro nació poco después de los hechos que cuenta.",
+    "critica": "Los hechos se sitúan hacia el final de la Edad del Bronce (siglos XIII-XII a. C.). La redacción actual es mucho más tardía, y su fecha exacta y sus capas se discuten.",
+    "acuerdo": "discusion",
+    "rango": [
+      -700,
+      -500
+    ],
+    "posturas": [
+      {
+        "quien": "Martin Noth",
+        "texto": "Un solo autor-compilador, hacia 560 a. C., en el exilio, reunió tradiciones antiguas en una historia de Israel desde Moisés hasta la caída de Jerusalén."
+      },
+      {
+        "quien": "Frank M. Cross",
+        "texto": "Hubo dos ediciones: una bajo el rey Josías (hacia 620 a. C.) y otra, breve, durante el exilio."
+      },
+      {
+        "quien": "Rudolf Smend y Walter Dietrich",
+        "texto": "La obra creció por capas sucesivas, todas posteriores a 587 a. C.: un historiador, un redactor profético y otro legal."
+      },
+      {
+        "quien": "Thomas Römer",
+        "texto": "Hay un núcleo bajo Josías, en el siglo VII, ampliado luego con capas del exilio y de después del exilio."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Profetas anteriores (Nevi’im rishonim), junto con Jueces, Samuel y Reyes.",
+    "ortodoxa": "Es canónico y abre los libros históricos. La Septuaginta, la traducción griega antigua, lo llama Iesoús: el mismo nombre que Jesús.",
+    "protestante": "Es canónico y abre los libros históricos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jos 2",
+      "nota": "Rahab, una cananea de Jericó, esconde a los espías de Josué."
+    },
+    {
+      "pasaje": "Jos 6",
+      "nota": "Caen las murallas de Jericó y la ciudad queda bajo el herem."
+    },
+    {
+      "pasaje": "Jos 11,23; 21,43-45",
+      "nota": "El narrador resume que Israel tomó la tierra prometida."
+    },
+    {
+      "pasaje": "Jos 24,14-15",
+      "nota": "En Siquén, Josué pide elegir a quién servir; él y su casa servirán al Señor."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Bible Unearthed",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Josué cuenta la entrada en Canaán y el reparto de la tierra entre las tribus.",
+    "Su pasaje más difícil es el herem: la destrucción total de ciudades consagradas a Dios.",
+    "La arqueología no confirma una conquista rápida; el libro se redactó siglos después.",
+    "Rahab, una cananea, es incluida en Israel: contrapunto al herem dentro del mismo libro.",
+    "La asamblea de Siquén (Jos 24) renueva la alianza y cierra el libro."
+  ]
+}

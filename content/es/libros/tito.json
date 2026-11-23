@@ -1,0 +1,91 @@
+{
+  "id": "tito",
+  "seccion_id": "nuevo-testamento",
+  "orden": 17,
+  "nombre": "Tito",
+  "abreviatura": "Tit",
+  "bloque": "cartas-paulinas",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Consejos para organizar las comunidades de Creta y para la conducta de sus miembros. Es una de las cartas pastorales; la mayoría de críticos duda de que sea de Pablo.",
+  "presentacion": "Una carta breve dirigida a Tito, colaborador de Pablo que habría quedado en Creta para organizar las comunidades (Tit 1,5). Pide nombrar responsables, cuidar la conducta de cada grupo (ancianos, mujeres mayores, jóvenes, esclavos) y mantener la fe sana frente a los falsos maestros (1; 2,1-10).\n\nContiene dos de los resúmenes más densos de la fe de las pastorales. Uno habla de la gracia de Dios, que ha aparecido y enseña a vivir bien (2,11-14). El otro, de una salvación que viene de la misericordia de Dios y no de obras de justicia (3,4-7). Ambos insisten en que las buenas obras acompañen a la fe.\n\nSu autoría se discute, como la de las otras dos pastorales. El pasaje sobre los cretenses (1,12) usa un dicho de un poeta que hoy se lee con cautela.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que se presenta como autor y escribe a Tito (Tit 1,1.4).",
+    "critica": "La mayoría de críticos la considera pseudónima, como 1 y 2 Timoteo: así Raymond Brown. La defienden como de Pablo Philip Towner, George Knight, William Mounce y Luke Timothy Johnson.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición, Pablo la escribió hacia el 62-65 d. C., entre su primer cautiverio y el segundo.",
+    "critica": "La mayoría de críticos la data entre los años 90 y 120 d. C., como las otras pastorales. Quienes defienden a Pablo como autor la sitúan en los años 60 d. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      90,
+      120
+    ],
+    "rango_tradicion": [
+      62,
+      65
+    ],
+    "posturas": [
+      {
+        "quien": "Raymond Brown",
+        "texto": "La escribió alguien de la generación posterior a Pablo, hacia finales del siglo I o principios del II."
+      },
+      {
+        "quien": "Philip Towner y William Mounce",
+        "texto": "La escribió Pablo en los años 60 d. C., tras su primer cautiverio romano."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen las cartas pastorales como testimonio de la organización de las primeras comunidades cristianas; The Jewish Annotated New Testament las comenta desde esa perspectiva.",
+    "ortodoxa": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica y figura entre las cartas de Pablo, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Tit 1,5-9",
+      "nota": "Requisitos de los responsables de la comunidad."
+    },
+    {
+      "pasaje": "Tit 2,11-14",
+      "nota": "La gracia de Dios que enseña a vivir bien."
+    },
+    {
+      "pasaje": "Tit 3,1-2",
+      "nota": "Convivencia con las autoridades y con todos."
+    },
+    {
+      "pasaje": "Tit 3,4-8",
+      "nota": "Salvación por la misericordia y buenas obras."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    },
+    {
+      "titulo": "1 & 2 Timothy and Titus: A Commentary (New Testament Library)",
+      "autor": "Raymond F. Collins",
+      "tradicion": "catolica",
+      "url": "https://www.accordancebible.com/product/nt-library-commentary-1-2-timothy-and-titus-raymond-f-collins/"
+    }
+  ],
+  "para_recordar": [
+    "La carta da consejos a Tito para organizar las comunidades de Creta.",
+    "La mayoría de críticos la ve pseudónima; otros la defienden como de Pablo.",
+    "Dice que la salvación viene de la misericordia de Dios y pide buenas obras (Tit 3,4-8).",
+    "Pide convivir con las autoridades y tratar con amabilidad a todos (3,1-2).",
+    "El dicho sobre los cretenses (1,12) es un estereotipo, citado de un poeta."
+  ]
+}

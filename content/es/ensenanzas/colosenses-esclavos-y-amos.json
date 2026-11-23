@@ -1,0 +1,59 @@
+{
+  "id": "colosenses-esclavos-y-amos",
+  "libro_id": "colosenses",
+  "orden": 4,
+  "titulo": "¿Qué dice Colosenses a los esclavos y a los amos?",
+  "pasaje": "Col 3,18-4,1",
+  "que_dice": "La carta se leía en voz alta en una casa donde podía haber esclavos y amos. Después de las normas para esposas y maridos, hijos y padres (Col 3,18-21), habla a los esclavos. Les pide obedecer en todo a sus amos de este mundo, con sinceridad, porque sirven al Señor (3,22-25).\n\nA los amos les pide un trato justo y equitativo, porque también ellos tienen un Amo en el cielo (4,1). El texto no pide liberar a nadie. Pocos versículos después nombra a Onésimo, un hermano fiel y querido (4,9).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las Iglesias cristianas usaron este texto durante siglos para pedir obediencia a los esclavos y también para defender la esclavitud. Hoy las grandes Iglesias condenan la esclavitud. Difieren en cuánto pesa la igualdad en Cristo (Gál 3,28) para entender estas normas."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Jennifer Glancy",
+      "texto": "Jennifer Glancy recuerda que los esclavos eran propiedad del amo también en el cuerpo, incluido el abuso sexual. En ese contexto, pedirles obediencia no es neutral."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el texto no cuestiona la institución. Discuten si la reciprocidad con los amos suaviza o refuerza el sistema.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "James Dunn",
+        "texto": "El texto no cuestiona la institución, pero hablar de deberes de los amos y de un mismo Señor introduce una reciprocidad poco habitual."
+      },
+      {
+        "quien": "John Barclay",
+        "texto": "La carta acepta la esclavitud y la respalda con un lenguaje religioso; la fórmula no la erosiona en la práctica."
+      }
+    ]
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Slavery in Early Christianity (Oxford University Press, 2002)",
+      "autor": "Jennifer A. Glancy",
+      "tradicion": "critica",
+      "url": "https://libcat.library.tamu.edu/Record/in00005701460"
+    },
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica",
+      "url": "https://faithlife.com/store/product/3462"
+    },
+    {
+      "titulo": "Let Wives Be Submissive: The Domestic Code in I Peter (SBL Monograph Series 26)",
+      "autor": "David L. Balch",
+      "tradicion": "critica",
+      "url": "https://cart.sbl-site.org/books/060026P"
+    }
+  ]
+}

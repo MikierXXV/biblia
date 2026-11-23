@@ -1,0 +1,56 @@
+{
+  "id": "2-timoteo-testamento-de-pablo",
+  "libro_id": "2-timoteo",
+  "orden": 1,
+  "titulo": "¿Cómo se despide quien escribe en 2 Timoteo 4,6-8?",
+  "pasaje": "2 Tim 4,6-8",
+  "que_dice": "Un anciano preso escribe a su colaborador y sabe que se acerca el final. Dice que su vida se derrama como una ofrenda y que ha llegado el momento de su partida (2 Tim 4,6). Usa tres imágenes: ha peleado el buen combate, ha terminado la carrera y ha guardado la fe (4,7).\n\nEspera la corona de justicia que el Señor dará no solo a él, sino a todos los que aman su venida (4,8). Es un testamento espiritual: la despedida de un maestro que deja instrucciones a su discípulo, un género conocido en la literatura judía (Dt 31-34).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las Iglesias cristianas leen el pasaje como la despedida de Pablo en vísperas de su martirio, que la tradición sitúa en Roma bajo Nerón. Católicos y ortodoxos celebran a Pedro y Pablo juntos el 29 de junio."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten quién escribe este testamento y cómo se formó la carta, y proponen tres respuestas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Raymond Brown",
+        "texto": "Lo lee como el testamento de Pablo escrito por un discípulo, una forma de dar autoridad de Pablo a la enseñanza de la generación siguiente."
+      },
+      {
+        "quien": "James D. Miller",
+        "texto": "Las pastorales se formaron reuniendo piezas menores; los pasajes personales de 2 Timoteo podrían proceder de materiales anteriores."
+      },
+      {
+        "quien": "Philip Towner y William Mounce",
+        "texto": "Defienden que Pablo escribió la carta desde la cárcel; Mounce admite la ayuda de un secretario."
+      }
+    ]
+  },
+  "temas": [
+    "sentido-y-finitud",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica",
+      "url": "https://openlibrary.org/books/OL998953M"
+    },
+    {
+      "titulo": "The Pastoral Letters as Composite Documents (SNTSMS 93)",
+      "autor": "James D. Miller",
+      "tradicion": "critica",
+      "url": "https://www.schweitzer-online.de/en/buch/Miller/Pastoral-Letters-Composite-Documents/9780521020640/A2246813/"
+    },
+    {
+      "titulo": "Pastoral Epistles (Word Biblical Commentary 46)",
+      "autor": "William D. Mounce",
+      "tradicion": "protestante",
+      "url": "https://www.accordancebible.com/product/wbc-vol-46-pastoral-epistles-by-william-mounce/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "baruc-confesion-colectiva",
+  "libro_id": "baruc",
+  "orden": 1,
+  "titulo": "Una comunidad en el exilio confiesa que el desastre fue culpa suya",
+  "pasaje": "Bar 1,15–3,8",
+  "que_dice": "Los desterrados rezan: a Dios la justicia y a ellos la vergüenza (1,15). Reconocen que no obedecieron a Dios ni a sus profetas y que por eso les han caído las maldiciones de la ley de Moisés (1,17-20). Describen el asedio con horror: hubo padres que comieron a sus hijos (2,3).\n\nPiden ayuda no por sus méritos ni por los de sus padres, sino por la misericordia de Dios (2,19). Quieren recordar su pecado para que se les perdone y puedan volver (3,6-8).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no incluye Baruc en su canon. Sí conserva una oración penitencial muy parecida, Dn 9,4-19, y la confesión en plural del Yom Kippur (*Vidui*, «confesión»), donde la comunidad dice «pecamos»."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica y la ortodoxa reciben Baruc como Escritura. Leen esta oración como un modelo de penitencia de toda la comunidad, no solo de cada persona."
+    }
+  ],
+  "critica": {
+    "texto": "Muchos críticos ven en esta oración una obra emparentada con Dn 9, con rasgos de Jeremías y Deuteronomio. Se discute quién depende de quién y si el original fue hebreo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Emanuel Tov",
+        "texto": "El griego de 1,1–3,8 es del mismo traductor que la segunda mitad de Jeremías en la Septuaginta. El original sería hebreo."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "Los rasgos hebraizantes se explican por la imitación del estilo bíblico. No hay prueba firme de un original hebreo."
+      }
+    ]
+  },
+  "temas": [
+    "oracion",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Introducing the Apocrypha (2.ª ed.)",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Literature Between the Bible and the Mishnah (2.ª ed.)",
+      "autor": "George W. E. Nickelsburg",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Septuagint Translation of Jeremiah and Baruch",
+      "autor": "Emanuel Tov",
+      "tradicion": "critica"
+    }
+  ]
+}

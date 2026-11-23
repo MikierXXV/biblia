@@ -1,0 +1,52 @@
+{
+  "id": "numeros-campamento-en-orden",
+  "libro_id": "numeros",
+  "orden": 1,
+  "titulo": "Las tribus acampan en torno al santuario, cada una en su sitio",
+  "pasaje": "Nm 1,1-54; 2,1-34",
+  "que_dice": "Un año después de salir de Egipto, Dios manda a Moisés contar a los varones de más de veinte años aptos para la guerra. El resultado es de 603 550 hombres, sin contar a los levitas (1,45-46).\n\nLas doce tribus acampan en cuatro grupos de tres, uno por cada lado. Los levitas rodean el santuario, que queda en el centro. Cuando el pueblo camina, el santuario va en medio (2,1-34).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi, en su comentario a Nm 1,1, explica que Dios cuenta al pueblo por amor: se cuenta lo que se quiere."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, los Padres de la Iglesia leyeron el campamento en clave alegórica. Orígenes, en sus Homilías sobre los Números, lo ve como imagen de la Iglesia ordenada en torno a Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica coincide en que 603 550 hombres no es una cifra literal: supondría unos dos millones de personas en el desierto. Discute cómo entenderla.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "George Mendenhall",
+        "texto": "La palabra *elef*, «mil», significaría también «clan» o «unidad militar», y las cifras reales serían mucho menores."
+      },
+      {
+        "quien": "Otra parte de los estudiosos",
+        "texto": "Las cifras son simbólicas: expresan el cumplimiento de la promesa de una descendencia numerosa, no un censo."
+      }
+    ]
+  },
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Census Lists of Numbers 1 and 26 (Journal of Biblical Literature 77, 1958)",
+      "autor": "George E. Mendenhall",
+      "tradicion": "critica"
+    }
+  ]
+}

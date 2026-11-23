@@ -1,0 +1,44 @@
+{
+  "id": "jueces-gedeon-rechaza-la-corona-y-abimelec-la-toma",
+  "libro_id": "jueces",
+  "orden": 3,
+  "titulo": "Gedeón rechaza ser rey, pero su hijo Abimelec se corona",
+  "pasaje": "Jue 8,22-9,57",
+  "que_dice": "Gedeón ha vencido a los madianitas con trescientos hombres, y el pueblo le pide que reine, él y sus hijos. Gedeón contesta que ni él ni su hijo los gobernarán: los gobierna el Señor (8,22-23).\n\nSu hijo Abimelec piensa distinto. Mata a sus setenta hermanos en Siquén, salvo a Jotán, y se proclama rey. Jotán lanza desde un monte una fábula: los árboles buscan un rey y solo la zarza acepta (9,8-15). Tres años después, una mujer arroja una piedra de molino sobre Abimelec y lo mata (9,53).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la fábula de Jotán advierte contra quien busca el poder para sí. El rechazo de Gedeón recuerda que el reino es de Dios."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si estos capítulos aprueban o critican la monarquía como institución.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Timo Veijola",
+        "texto": "El rechazo de Gedeón (8,23) revela una corriente antimonárquica en la historia deuteronomista."
+      },
+      {
+        "quien": "Daniel I. Block",
+        "texto": "El relato es irónico: Gedeón rechaza el título pero actúa como rey, y llama a su hijo Abimelec, «mi padre es rey». Lo condenado es Abimelec, no la monarquía."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judges, Ruth (New American Commentary 6)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Book of Judges: Literature as Politics",
+      "autor": "Marc Z. Brettler",
+      "tradicion": "critica"
+    }
+  ]
+}

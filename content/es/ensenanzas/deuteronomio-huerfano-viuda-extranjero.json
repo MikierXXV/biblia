@@ -1,0 +1,38 @@
+{
+  "id": "deuteronomio-huerfano-viuda-extranjero",
+  "libro_id": "deuteronomio",
+  "orden": 3,
+  "titulo": "Dios defiende al huérfano, a la viuda y al extranjero",
+  "pasaje": "Dt 10,17-19; 24,17-22",
+  "que_dice": "Tras la cosecha, un campesino olvida una gavilla en el campo. La ley le manda no volver a buscarla: es para el extranjero, el huérfano y la viuda. Lo mismo vale al varear el olivo y al vendimiar la viña (24,19-21).\n\nEl motivo es doble. Dios mismo defiende a esos tres (10,17-19), y el pueblo fue esclavo en Egipto (24,22).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee el *guer*, el forastero residente, unas veces como residente y otras como converso. El Talmud (Baba Metzía 59b) cuenta treinta y seis avisos contra oprimirlo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Mt 25,35 amplía el mandato: acoger al forastero es acoger a Cristo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en esta protección un rasgo social del Deuteronomio. La misma ley excluye de la asamblea a amonitas y moabitas (23,4): «extranjero» no era una sola categoría.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Deuteronomy 1-11 (Anchor Bible 5)",
+      "autor": "Moshe Weinfeld",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

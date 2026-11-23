@@ -1,0 +1,57 @@
+{
+  "id": "jeremias-confesiones-un-profeta-acusa-a-dios",
+  "libro_id": "jeremias",
+  "orden": 5,
+  "titulo": "Un profeta acusa a Dios de haberlo engañado y no puede callar",
+  "pasaje": "Jr 20,7-18",
+  "que_dice": "El sacerdote Pasjur acaba de azotar a Jeremías y de ponerlo en el cepo (20,1-2). Esa noche el profeta habla con Dios sin rodeos: lo acusa de haberlo seducido y engañado, y se queja de que su mensaje solo le trae burlas (20,7-8). Si decide callar, la palabra le arde por dentro como un fuego (20,9).\n\nEl poema da un giro: de pronto alaba a Dios, que libra al pobre (20,13). Y vuelve al abismo: maldice el día en que nació (20,14-18). Jr 11-20 reúne cinco textos así, las «confesiones».",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: las confesiones se leen como oración sincera. Protesta ante Dios sin romper con él, como los salmos de lamento y Job. Mt 16,14 recoge que algunos identificaban a Jesús con Jeremías."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica data las confesiones entre el 609 y el 597 a. C. y discute su origen y su sentido.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Bright, Holladay y Lundbom",
+        "texto": "Son experiencias personales de Jeremías, que muestran su conflicto interior."
+      },
+      {
+        "quien": "Carroll y Diamond",
+        "texto": "Son composiciones de editores que presentan a Jeremías como justo sufriente, más que un diario."
+      }
+    ]
+  },
+  "academica": [
+    {
+      "enfoque": "judaismo-academico",
+      "autor": "Abraham J. Heschel",
+      "texto": "Abraham Heschel, en The Prophets (1962), lee estas quejas como señal de que el profeta no es un altavoz. Comparte el dolor de Dios y el de su pueblo, y por eso no puede callar."
+    }
+  ],
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "oracion",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jeremiah 1-20 (Anchor Bible 21A)",
+      "autor": "Jack R. Lundbom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Prophets",
+      "autor": "Abraham J. Heschel",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Jeremiah: A Commentary (Old Testament Library)",
+      "autor": "Robert P. Carroll",
+      "tradicion": "critica"
+    }
+  ]
+}

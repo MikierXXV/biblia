@@ -1,0 +1,33 @@
+{
+  "id": "1-juan-amar-con-obras",
+  "libro_id": "1-juan",
+  "orden": 2,
+  "titulo": "Amar con hechos y de verdad, no solo con palabras",
+  "pasaje": "1 Jn 3,16-18",
+  "que_dice": "Un creyente ve a su hermano pasar necesidad y cierra el corazón. El autor pregunta cómo puede permanecer en él el amor de Dios (3,17). Antes ha dado el modelo: Cristo dio la vida por los suyos, y por eso los creyentes deben darla por los hermanos (3,16).\n\nLa conclusión es breve: no amar de palabra ni de lengua, sino con hechos y de verdad (3,18). El ejemplo concreto no es heroico: compartir los bienes con quien carece de lo necesario.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el pasaje apoya las obras de misericordia corporales (dar de comer, vestir, visitar) como expresión de la caridad."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La lectura protestante suele entender las obras como fruto de la fe y no como su condición: 3,18 describe la prueba visible del amor ya recibido."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos sitúa la frase en el conflicto de la comunidad: quienes se separaron decían amar a Dios, y la carta exige una prueba concreta (4,20). Brown subraya que la ética del texto se dirige primero al interior de la comunidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

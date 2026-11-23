@@ -1,0 +1,84 @@
+{
+  "id": "2-tesalonicenses",
+  "seccion_id": "nuevo-testamento",
+  "orden": 14,
+  "nombre": "2 Tesalonicenses",
+  "abreviatura": "2 Tes",
+  "bloque": "cartas-paulinas",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Corrige ideas sobre la inminencia del fin. Los críticos discuten si es de Pablo o de un discípulo.",
+  "presentacion": "La carta se dirige a los mismos tesalonicenses que 1 Tesalonicenses. Hay allí quien asegura que el día del Señor ya ha llegado, y la comunidad se asusta. Hay también quien ha dejado de trabajar y vive a costa de los demás (2 Tes 2,2; 3,6-12).\n\nLa carta empieza consolando a los perseguidos (cap. 1). Después pide no dejarse alarmar y describe lo que ha de ocurrir antes del fin (2,1-12). Cierra con una advertencia sobre el trabajo (cap. 3).\n\nSe parece mucho a 1 Tesalonicenses en estructura y vocabulario, pero habla del fin en tono más ordenado y con otro tono personal. Por eso los críticos discuten si la escribió Pablo o alguien de su escuela después de su muerte.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Pablo, que escribe junto a Silvano y Timoteo y firma de su mano (2 Tes 1,1; 3,17).",
+    "critica": "Los críticos están divididos. Unos la consideran de Pablo; otros, escrita por un discípulo después de su muerte en su nombre, es decir, una carta *deuteropaulina* (de la segunda generación paulina).",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "La tradición la sitúa hacia el 51-52 d. C., poco después de 1 Tesalonicenses y también desde Corinto.",
+    "critica": "Quienes la tienen por paulina la datan hacia el 51 d. C. Quienes no, la datan más tarde, y algunos hasta finales del siglo I d. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      51,
+      100
+    ],
+    "rango_tradicion": [
+      51,
+      52
+    ],
+    "posturas": [
+      {
+        "quien": "Abraham Malherbe y Charles Wanamaker",
+        "texto": "Es de Pablo, de hacia el 51 d. C.; las semejanzas con 1 Tesalonicenses se explican porque se escribió en la misma situación."
+      },
+      {
+        "quien": "Wolfgang Trilling",
+        "texto": "Es obra de un autor posterior que usa 1 Tesalonicenses como modelo y escribe en nombre de Pablo."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Los estudiosos judíos leen 2 Tesalonicenses como ejemplo del lenguaje apocalíptico judío usado por cristianos; The Jewish Annotated New Testament la comenta así.",
+    "ortodoxa": "Es canónica y se cuenta entre las cartas de Pablo, como en las demás Biblias cristianas.",
+    "protestante": "Es canónica. Lutero leyó 2,3-4 como referencia al papado, lectura que el catolicismo rechaza."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Tes 2,1-12",
+      "nota": "Lo que ha de ocurrir antes del día del Señor, sin alarmismo."
+    },
+    {
+      "pasaje": "2 Tes 2,13-17",
+      "nota": "Mantenerse firmes en las tradiciones recibidas."
+    },
+    {
+      "pasaje": "2 Tes 3,6-13",
+      "nota": "Trabajar y no vivir a costa de otros."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Der zweite Brief an die Thessalonicher (EKK 14)",
+      "autor": "Wolfgang Trilling",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Corrige a quienes dicen que el día del Señor ya ha llegado y a quienes no trabajan.",
+    "La autoría de Pablo se discute: Malherbe y Wanamaker la defienden, Trilling no.",
+    "Describe lo que ha de ocurrir antes del fin con lenguaje apocalíptico, y es muy oscuro.",
+    "Pide mantener las tradiciones recibidas, un pasaje clave en el debate sobre la Tradición.",
+    "Su regla sobre el trabajo se dirige a quienes podían trabajar y no querían."
+  ]
+}

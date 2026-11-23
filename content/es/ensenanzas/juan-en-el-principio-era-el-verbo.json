@@ -1,0 +1,60 @@
+{
+  "id": "juan-en-el-principio-era-el-verbo",
+  "libro_id": "juan",
+  "orden": 1,
+  "titulo": "En el principio existía la Palabra, y la Palabra se hizo carne",
+  "pasaje": "Jn 1,1-18",
+  "que_dice": "El evangelio de Juan no empieza con un nacimiento, sino con un himno. En el principio existía la Palabra (*Logos*), la Palabra estaba junto a Dios y era Dios. Por medio de ella se hizo todo.\n\nEl himno afirma que la Palabra se hizo carne y habitó entre nosotros. Nadie ha visto nunca a Dios, dice, pero el Hijo único lo ha dado a conocer.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la lectura judía, el himno recoge ecos de Gn 1 y de la Sabiduría personificada (Pr 8). Que la Palabra sea Dios hecho carne marca la frontera con el judaísmo, que confiesa un Dios único e indivisible."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el prólogo afirma la divinidad de Cristo y la encarnación. El Concilio de Nicea (325) definió que el Hijo es de la misma sustancia que el Padre, y la tradición católica lee el prólogo en esa clave."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lee el prólogo como evangelio de la liturgia de Pascua. Subraya que la encarnación hace posible la participación humana en la vida divina, la *theosis* (divinización)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el prólogo muestra que Dios se revela de modo pleno en Cristo, la Palabra viva. Esta idea sostiene el principio de que la Escritura apunta a él."
+    }
+  ],
+  "critica": {
+    "texto": "Muchos críticos piensan que el prólogo fue un himno anterior, que el evangelista adaptó. Se discute su origen: helenístico, judío sapiencial o ambos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "El *Logos* viene de la sabiduría judía, como la Sabiduría de Dios que estaba junto a él en la creación."
+      },
+      {
+        "quien": "C. H. Dodd",
+        "texto": "El término remite también a la filosofía helenística, donde el *Logos* era el principio racional del cosmos."
+      }
+    ]
+  },
+  "temas": [
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to John (Anchor Bible 29 y 29A)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Interpretation of the Fourth Gospel (Cambridge University Press, 1953)",
+      "autor": "C. H. Dodd",
+      "tradicion": "protestante"
+    }
+  ]
+}

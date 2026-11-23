@@ -1,0 +1,28 @@
+{
+  "id": "2-pedro-crecer-en-virtud",
+  "libro_id": "2-pedro",
+  "orden": 1,
+  "titulo": "La fe crece peldaño a peldaño, hasta llegar al amor",
+  "pasaje": "2 Pe 1,5-8",
+  "que_dice": "Un hombre que dice estar cerca de la muerte escribe a comunidades dispersas (1,13-15). Les pide que añadan a la fe una cadena de cualidades: virtud, conocimiento, dominio propio, constancia, piedad, afecto fraternal y, al final, amor (1,5-7).\n\nQuien las tiene y las hace crecer no queda ocioso ni sin fruto en el conocimiento de Jesucristo (1,8). La vida cristiana aparece como un crecimiento por etapas, no como un estado que se alcanza de una vez.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: la lista describe la vida moral ordinaria como respuesta a lo recibido. La tradición ortodoxa subraya además 2 Pe 1,4, donde se habla de participar de la naturaleza divina, base de la *theosis* (la divinización del creyente)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos señala que las listas de virtudes en cadena eran un recurso corriente en la filosofía griega y en el judaísmo helenístico. El autor adapta ese molde y lo corona con el amor, algo que el molde griego no pedía.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    }
+  ]
+}

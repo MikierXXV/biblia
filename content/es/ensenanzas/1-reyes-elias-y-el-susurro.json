@@ -1,0 +1,53 @@
+{
+  "id": "1-reyes-elias-y-el-susurro",
+  "libro_id": "1-reyes",
+  "orden": 4,
+  "titulo": "Elías, Baal y un silencio fino: Dios no está en el huracán",
+  "pasaje": "1 Re 17-19",
+  "que_dice": "Elías anuncia al rey Ajab una sequía. En el monte Carmelo reta a los 450 profetas de Baal: el dios que responda con fuego será el Dios de Israel. Baal no responde y cae fuego del cielo sobre el sacrificio de Elías. Después Elías mata a los profetas de Baal junto al torrente Quisón (18,17-40).\n\nJezabel, esposa de Ajab, jura matarlo. Elías huye al monte Horeb. Pasan un viento, un terremoto y un fuego, y Dios no está en ninguno. Después viene una voz tenue y silenciosa (19,1-13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en Elías al profeta que volverá antes del Mesías (Mal 3,23). Se le reserva una copa en el séder de Pésaj, y 1 Re 18,46-19,21 se lee como lectura profética en la semana de Pinjás."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica lo ve como padre de la vida contemplativa: los carmelitas lo reconocen como inspirador. Con Moisés aparece junto a Jesús en la Transfiguración (Mc 9,4)."
+    }
+  ],
+  "critica": {
+    "texto": "El hebreo de 19,12 dice *qol demamá dakká*: una voz de silencio fino. Se discute cómo traducirlo y cómo leer la matanza del capítulo 18.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Robert Alter y la NRSV",
+        "texto": "Traducen un sonido de silencio fino. Alter añade que Dios se revela en el silencio."
+      },
+      {
+        "quien": "La Vulgata latina",
+        "texto": "Traduce *sibilus aurae tenuis*: un silbo de aire suave, es decir, un soplo leve que se oye."
+      }
+    ]
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Kings (Anchor Bible 10)",
+      "autor": "Mordechai Cogan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Ancient Israel: The Former Prophets (Joshua, Judges, Samuel, Kings)",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tobias-rafael-y-las-tres-versiones",
+  "libro_id": "tobias",
+  "orden": 4,
+  "titulo": "Rafael se da a conocer: el ángel que no cobra",
+  "pasaje": "Tob 12",
+  "que_dice": "Tobit y Tobías quieren pagar a Azarías la mitad de lo ganado en el viaje. Él responde que es Rafael, uno de los siete ángeles que están ante Dios, y que presentó sus oraciones y sus obras al Señor (Tob 12,12-15).\n\nLes pide que den gracias y que escriban todo lo ocurrido. Y desaparece. El libro termina con el cántico de Tobit y con el aviso de que Nínive caerá (Tob 13-14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no cuenta Tobías entre sus libros, pero conoce a Rafael. El Talmud (Baba Metziá 86b) lo nombra con Miguel y Gabriel entre los ángeles que visitan a Abrahán."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el nombre de Rafael significa «Dios sana». La devoción popular lo toma por patrón de los viajeros y de los enfermos."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cuál de las versiones antiguas está más cerca del original, y eso decide cómo se lee el libro. Torres Amat sigue la Vulgata, mientras las traducciones actuales parten de los textos griegos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Antes de Qumrán",
+        "texto": "Muchos críticos preferían la recensión griega corta, la de los códices Vaticano y Alejandrino, como la más cercana al original."
+      },
+      {
+        "quien": "Joseph Fitzmyer y la mayoría actual",
+        "texto": "Tras los fragmentos de Qumrán, consideran más antigua la recensión larga, la del Códice Sinaítico, y ven la Vulgata de Jerónimo como más libre."
+      }
+    ]
+  },
+  "temas": [
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Tobit (Commentaries on Early Jewish Literature)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

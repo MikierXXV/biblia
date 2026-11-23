@@ -1,0 +1,52 @@
+{
+  "id": "sabiduria-almas-de-los-justos",
+  "libro_id": "sabiduria",
+  "orden": 1,
+  "titulo": "Los justos parecen muertos, pero están en manos de Dios",
+  "pasaje": "Sab 1,15; 3,1-9",
+  "que_dice": "Un grupo de impíos decide perseguir al justo: lo someterán a insultos y tormentos para ver si Dios lo defiende (2,17-20). El autor responde con su visión del destino del justo. A los ojos de los insensatos parece muerto, y su partida se tiene por desgracia (3,2).\n\nPero está en paz, y su esperanza está llena de inmortalidad (3,3-4). Dios los probó como el oro en el crisol y los halló dignos de sí. Brillarán y juzgarán a las naciones (3,5-8).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El libro se escribió en griego y no pasó al canon judío. Para hablar de la vida tras la muerte, la tradición rabínica parte de la resurrección de los muertos (Mishná, Sanedrín 10,1), no de este pasaje."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica lee Sab 3,1-9 en las misas de difuntos y de los mártires. Lo entiende como esperanza de vida con Dios tras la muerte."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las Biblias protestantes no lo tienen por Escritura. Los anglicanos lo leen en su liturgia, por ejemplo en el día de Todos los Santos."
+    }
+  ],
+  "critica": {
+    "texto": "Sab habla de inmortalidad (athanasía), no de resurrección del cuerpo. La crítica discute de dónde viene esa idea.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "David Winston",
+        "texto": "Ve influencia de la filosofía griega: una inmortalidad del alma que el autor une a la sabiduría judía."
+      },
+      {
+        "quien": "John J. Collins",
+        "texto": "Ve una reelaboración de la esperanza judía de exaltación del justo (Dn 12; Sab 5,15-16) en lenguaje griego."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Solomon (Anchor Bible 43)",
+      "autor": "David Winston",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2-macabeos-oracion-por-los-difuntos",
+  "libro_id": "2-macabeos",
+  "orden": 2,
+  "titulo": "Judas manda ofrecer un sacrificio por los caídos en combate",
+  "pasaje": "2 Mac 12,38-46",
+  "abierta": true,
+  "que_dice": "Tras una victoria, Judas manda enterrar a sus muertos. Bajo la túnica de cada uno hay amuletos de ídolos de Yamnia, algo que la ley prohíbe (2 Mac 12,38-40). Todos piden a Dios que borre ese pecado.\n\nJudas recoge dos mil dracmas de plata y las envía a Jerusalén para un sacrificio por el pecado. El autor comenta que obró bien, pensando en la resurrección: si no esperase que resucitaran, sería inútil rezar por ellos (12,43-45).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no recibió el libro, pero reza por los difuntos. Los hijos dicen el *Kadish*, la oración de duelo, durante el luto, y en ciertas fiestas se recita *Yizkor*, la oración de memoria."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica es el apoyo bíblico principal de la oración por los difuntos y de la doctrina del purgatorio, definida en Lyon II (1274), Florencia (1439) y Trento."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa reza por los difuntos en cada liturgia. No acepta la doctrina católica del purgatorio, pero mantiene la oración."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición protestante, que no recibe el libro, rechaza en general el purgatorio y la oración por los difuntos. Algunos anglicanos y luteranos la mantienen."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué afirma este pasaje sobre los muertos y sobre la ayuda que pueden recibir de los vivos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Prueba que hacia el 100 a. C. algunos judíos creían que los vivos podían ayudar a los muertos con sacrificio y oración."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Afirma la resurrección de los justos y trata un caso de idolatría. No desarrolla una doctrina del estado de los muertos."
+      }
+    ]
+  },
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte"
+  ],
+  "fuentes": [
+    {
+      "titulo": "2 Maccabees (Hermeneia)",
+      "autor": "Robert Doran",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

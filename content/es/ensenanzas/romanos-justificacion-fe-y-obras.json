@@ -1,0 +1,69 @@
+{
+  "id": "romanos-justificacion-fe-y-obras",
+  "libro_id": "romanos",
+  "orden": 1,
+  "titulo": "¿Se salva uno por la fe o por las obras de la ley?",
+  "pasaje": "Rom 3,21-28",
+  "que_dice": "Pablo escribe a los cristianos de Roma, judíos y no judíos, a quienes aún no conoce. Afirma que la justicia de Dios se ha manifestado sin pasar por la ley: llega por la fe en Jesucristo y alcanza a todos por igual, porque todos han fallado.\n\nConcluye que la persona es declarada justa por la fe y no por las obras de la ley (3,28). El verbo griego *dikaióo*, «justificar», significa declarar justo, y de su alcance depende todo el debate.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no recibe a Pablo como autoridad. Para ella la Torá sigue obligando a Israel y la alianza no se sostiene contando méritos. Los autores judíos que estudian a Pablo discrepan sobre su sentido."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el Concilio de Trento (1547) enseñó que la justificación es un don gratuito que transforma a la persona y que la fe obra por la caridad. Las obras son fruto de esa gracia, no su precio."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa sitúa la justificación en el camino de la divinización (*theosis*), donde gracia y obras forman parte de la comunión con Dios."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para Lutero, Dios declara justo al pecador por pura gracia, y solo la fe lo recibe. Calvino añade que quien cree es llevado a obrar bien. En 1999, luteranos y católicos firmaron una Declaración conjunta con un consenso básico."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute qué designan «las obras de la ley» y qué problema quiere resolver Pablo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Ed P. Sanders y James Dunn",
+        "texto": "Pablo no combate el mérito: critica las marcas de identidad judía (circuncisión, sábado, comidas) como condición para entrar en el pueblo de Dios."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Dios es fiel a su alianza con Israel, y esa fidelidad forma una sola familia de judíos y no judíos."
+      },
+      {
+        "quien": "Stephen Westerholm",
+        "texto": "Defiende la lectura clásica: «obras de la ley» son las exigencias de la ley en general, y Pablo niega que nadie las cumpla lo bastante para ser justo."
+      },
+      {
+        "quien": "Pamela Eisenbaum",
+        "texto": "Pablo, judío, escribe a no judíos: la carta no trata de cómo se salvan los judíos."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Romans 1-8 (Word Biblical Commentary 38A)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Paul Was Not a Christian",
+      "autor": "Pamela Eisenbaum",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Perspectives Old and New on Paul: The \"Lutheran\" Paul and His Critics",
+      "autor": "Stephen Westerholm",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jueces-debora-jueza-profeta-y-yael",
+  "libro_id": "jueces",
+  "orden": 2,
+  "titulo": "Débora, jueza y profeta, y una victoria que cantan dos mujeres",
+  "pasaje": "Jue 4-5",
+  "que_dice": "Débora se sienta bajo una palmera entre Ramá y Betel, y los israelitas acuden a ella para resolver pleitos (4,4-5). Manda llamar a Barac y le ordena atacar al ejército de Sísara, general cananeo con carros de hierro. Barac pone una condición: que ella lo acompañe (4,8).\n\nSísara huye a pie y se refugia en la tienda de Yael, que lo mata con una estaca (4,17-21). El capítulo 5 cuenta la misma historia en un poema, el Cántico de Débora.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica cuenta a Débora entre las siete profetisas de Israel (Talmud, Meguilá 14a). Otras voces del Talmud le reprochan su orgullo y dicen que su profecía se retiró (Pesajim 66b)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Entre los protestantes, Débora entra en el debate sobre el liderazgo de las mujeres. Unos la ven como excepción dada por Dios; otros, como modelo de que una mujer puede dirigir."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "J. Cheryl Exum",
+      "texto": "Para J. Cheryl Exum, Débora se llama madre en Israel (5,7): un título que une autoridad y maternidad. El poema celebra a mujeres que logran lo que los hombres no consiguen."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos cuenta el Cántico de Débora (capítulo 5) entre los textos más antiguos de la Biblia, por su hebreo arcaico. Cross y Freedman lo sitúan entre los siglos XII y XI a. C.\n\nEs más antiguo que la prosa del capítulo 4, que difiere en detalles: allí el enemigo es Jabín, rey de Hazor, y en el poema solo aparece Sísara.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mujeres-y-liderazgo",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "«Mother in Israel»: A Familiar Figure Reconsidered, en Feminist Interpretation of the Bible (Westminster, 1985)",
+      "autor": "J. Cheryl Exum",
+      "tradicion": "literaria"
+    }
+  ]
+}

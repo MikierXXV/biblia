@@ -1,0 +1,82 @@
+{
+  "id": "esdras",
+  "seccion_id": "historicos",
+  "orden": 10,
+  "nombre": "Esdras",
+  "abreviatura": "Esd",
+  "capitulos": 10,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Narra el regreso del exilio, la reconstrucción del Templo y la misión de Esdras con la ley. Incluye la prohibición de los matrimonios mixtos.",
+  "presentacion": "En el 538 a. C. Ciro, rey de Persia, deja volver a los judíos deportados. Decenas de miles suben a Jerusalén con Zorobabel y el sumo sacerdote Josué (Esd 1-2). Empiezan por el altar y los cimientos del Templo.\n\nEl Templo se acaba hacia el 515 a. C., tras años de oposición (Esd 3-6). Más tarde llega Esdras, sacerdote y escriba, con la ley de Dios y el apoyo del rey Artajerjes (Esd 7-8). Encuentra que muchos judíos se han casado con mujeres extranjeras y exige que las despidan (Esd 9-10).\n\nEl libro mezcla hebreo y arameo, y cita cartas oficiales persas. La fecha de la misión de Esdras está en discusión. Torres Amat lo llama 1 Esdras, y a Nehemías, 2 Esdras.",
+  "autoria": {
+    "tradicion": "El Talmud (Baba Batra 15a) atribuye el libro a Esdras.",
+    "critica": "El libro es anónimo. Se discute si es obra del Cronista o de su escuela, y a menudo se une a Nehemías en una sola obra. Incluye memorias en primera persona y documentos en arameo.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Esdras escribió el libro en el siglo V a. C.",
+    "critica": "La acción va del 538 a. C. a la misión de Esdras. Esta se fecha en el 458 o en el 398 a. C., y la redacción final, en el siglo IV a. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      -450,
+      -300
+    ],
+    "rango_tradicion": [
+      -450,
+      -400
+    ],
+    "posturas": [
+      {
+        "quien": "Quienes defienden el 458 a. C.",
+        "texto": "Siguen el orden del libro: Esdras llega en el año séptimo de Artajerjes I, antes que Nehemías (445 a. C.). Es la lectura tradicional."
+      },
+      {
+        "quien": "Quienes defienden el 398 a. C.",
+        "texto": "Entienden que el año séptimo es el de Artajerjes II. Así Esdras sería posterior a Nehemías, y se resolverían varios problemas de cronología."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim). Esdras y Nehemías forman un solo libro, anterior a Crónicas en la Biblia hebrea.",
+    "ortodoxa": "Es canónico. La Biblia griega lleva además 1 Esdras, un libro paralelo, y cuenta Esdras-Nehemías como 2 Esdras.",
+    "protestante": "Es canónico y sigue a 2 Crónicas. Nehemías se cuenta como libro aparte."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Esd 1,1-4",
+      "nota": "El edicto de Ciro que permite volver y reconstruir el Templo."
+    },
+    {
+      "pasaje": "Esd 3,10-13",
+      "nota": "Al poner los cimientos, unos gritan de alegría y otros lloran."
+    },
+    {
+      "pasaje": "Esd 7,6-10",
+      "nota": "Esdras dedica su corazón a estudiar la ley, cumplirla y enseñarla."
+    },
+    {
+      "pasaje": "Esd 10,1-5",
+      "nota": "La asamblea se compromete a despedir a las mujeres extranjeras."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Cuenta el regreso del exilio, desde el edicto de Ciro, y la reconstrucción del Templo.",
+    "Esdras es sacerdote y escriba: lleva la ley a Jerusalén y la enseña.",
+    "Los capítulos 9-10 exigen despedir a las mujeres extranjeras; algunos críticos leen Rut y Jonás como réplica.",
+    "La crítica discute si Esdras llegó en el 458 o en el 398 a. C.",
+    "Está en hebreo y en arameo, con documentos persas cuya autenticidad se discute."
+  ]
+}

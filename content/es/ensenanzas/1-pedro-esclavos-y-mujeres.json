@@ -1,0 +1,61 @@
+{
+  "id": "1-pedro-esclavos-y-mujeres",
+  "libro_id": "1-pedro",
+  "orden": 3,
+  "titulo": "¿Por qué pide la carta sumisión a esclavos y a mujeres?",
+  "pasaje": "1 Pe 2,18-3,7",
+  "que_dice": "Un esclavo doméstico recibe golpes por haber obrado bien (2,20). La carta le pide aguantar con paciencia, como Cristo, que sufrió sin devolver el mal (2,21-23). No dice una palabra contra la esclavitud.\n\nLuego pide a las mujeres que se sometan a sus maridos, incluso a los que no creen (3,1-2), y pone a Sara de ejemplo por llamar «señor» a Abrahán (3,6). A los maridos les pide respeto hacia sus esposas, «como a sexo más débil» (3,7). Son textos incómodos, que han servido para justificar la sumisión y para criticarla.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica actual, estos textos reflejan las costumbres de su tiempo. El Concilio Vaticano II (Gaudium et spes, 27) cuenta la esclavitud entre las infamias que ofenden la dignidad humana."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el pasaje ha dividido. En el siglo XIX se citó para defender la esclavitud y para atacarla. Hoy una parte de las iglesias evangélicas defiende la complementariedad y otra, la igualdad de varones y mujeres."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "texto": "Elisabeth Schüssler Fiorenza, en su lectura feminista, ve en estos códigos domésticos un retroceso respecto al discipulado de iguales de los primeros cristianos y una adaptación al orden patriarcal romano."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute por qué la carta adopta los códigos domésticos, una forma ya usada por moralistas griegos.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "David Balch",
+        "texto": "La carta adopta esos códigos para evitar que los vecinos acusen a los cristianos de subversivos."
+      },
+      {
+        "quien": "John H. Elliott",
+        "texto": "El código forma parte de la identidad de la casa de Dios, que se distingue de la sociedad aunque no la derribe."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "mujeres-y-liderazgo",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Let Wives Be Submissive",
+      "autor": "David L. Balch",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "En memoria de ella",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "1 Peter (Anchor Yale Bible 37B)",
+      "autor": "John H. Elliott",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tito-dicho-sobre-los-cretenses",
+  "libro_id": "tito",
+  "orden": 3,
+  "titulo": "¿Qué hace la carta con el dicho sobre los cretenses?",
+  "pasaje": "Tit 1,10-13",
+  "que_dice": "La carta dice que un profeta de los cretenses los llama siempre mentirosos, malas bestias y glotones perezosos, y añade que ese testimonio es verdadero (Tit 1,12-13). Pide a Tito reprenderlos con dureza para que sean sanos en la fe.\n\nSe atribuye al poeta Epiménides, del siglo VI antes de Cristo. Los antiguos usaban a los cretenses como ejemplo de mentirosos, y de ahí viene la paradoja del mentiroso de Creta. El contexto trata de los falsos maestros (1,10-11).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Muchos comentaristas cristianos explican el verso como una cita, no como un juicio de la Iglesia sobre un pueblo, y subrayan que la carta pide reprender a los falsos maestros. Añaden que ningún pueblo merece hoy ese estereotipo."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven aquí un estereotipo étnico de la época, tomado de un proverbio conocido. Discuten si la cita muestra que el autor conocía la literatura griega o solo un dicho popular.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

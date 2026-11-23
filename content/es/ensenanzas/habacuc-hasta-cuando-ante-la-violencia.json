@@ -1,0 +1,34 @@
+{
+  "id": "habacuc-hasta-cuando-ante-la-violencia",
+  "libro_id": "habacuc",
+  "orden": 1,
+  "titulo": "¿Hasta cuándo, Señor? Un profeta que protesta a Dios",
+  "pasaje": "Hab 1,2-4; 1,12-2,1",
+  "que_dice": "Un profeta grita a Dios y no recibe respuesta: ¿hasta cuándo? Ve violencia, saqueo y pleitos. La ley no se aplica y el derecho sale torcido, porque el malvado cerca al justo (1,2-4).\n\nDios contesta con una sorpresa: levantará a los caldeos, un pueblo cruel, como instrumento (1,5-6). Habacuc replica que eso no resuelve nada. ¿Cómo puede callar mientras el malo se traga al que es más justo que él (1,13)? Después se sube al puesto de guardia, a esperar la respuesta (2,1).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones judía y cristianas han recibido el «¿hasta cuándo?» como oración legítima. El libro entra en el canon con la queja intacta, junto a los salmos de lamento."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica identifica a los caldeos con Babilonia, que hacia el 605 a. C. derrotó a Egipto en Carquemis y heredó el poder de Asiria.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "oracion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Habakkuk (Anchor Yale Bible)",
+      "autor": "Francis I. Andersen",
+      "tradicion": "critica"
+    }
+  ]
+}

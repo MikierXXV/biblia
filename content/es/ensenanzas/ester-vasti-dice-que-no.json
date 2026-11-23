@@ -1,0 +1,43 @@
+{
+  "id": "ester-vasti-dice-que-no",
+  "libro_id": "ester",
+  "orden": 1,
+  "titulo": "Vasti se niega a comparecer y la corte teme perder el poder",
+  "pasaje": "Est 1",
+  "que_dice": "Asuero da un banquete de ciento ochenta días y otro de siete. Borracho, manda traer a la reina Vasti para mostrar su belleza. Ella se niega (Est 1,1-12).\n\nLos consejeros temen que todas las mujeres del reino imiten a Vasti. El rey la destituye y manda que cada hombre mande en su casa (1,13-22). El libro lo cuenta con humor: un imperio asustado por una sola negativa.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica suele juzgar mal a Vasti. El Talmud (Meguilá 12b) dice que obligaba a trabajar desnudas a jóvenes judías, y así explica su caída."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En la lectura protestante liberal, Elizabeth Cady Stanton (La Biblia de las mujeres, 1895) presentó la negativa de Vasti como un acto de dignidad y de libertad de conciencia."
+    }
+  ],
+  "critica": {
+    "texto": "Michael Fox observa que el libro describe al rey y a su corte con ironía. Un imperio que se alarma por una negativa es una comedia sobre el poder, no un retrato respetuoso.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mujeres-y-liderazgo",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Character and Ideology in the Book of Esther",
+      "autor": "Michael V. Fox",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Woman’s Bible",
+      "autor": "Elizabeth Cady Stanton",
+      "tradicion": "protestante"
+    }
+  ]
+}

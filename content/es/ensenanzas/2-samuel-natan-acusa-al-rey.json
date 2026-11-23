@@ -1,0 +1,45 @@
+{
+  "id": "2-samuel-natan-acusa-al-rey",
+  "libro_id": "2-samuel",
+  "orden": 3,
+  "titulo": "El profeta Natán acusa al rey con una parábola y David se rinde",
+  "pasaje": "2 Sm 12,1-25",
+  "que_dice": "Natán cuenta a David un caso de justicia: un rico, con muchas ovejas, quita al pobre su única corderilla para agasajar a un invitado. David se enfurece y dice que ese hombre merece morir. Natán le contesta: tú eres ese hombre (12,1-7).\n\nEl profeta enumera lo que Dios dio a David y lo que él hizo con Urías. David confiesa que ha pecado contra el Señor. Natán le dice que no morirá, pero que el niño de Betsabé morirá y que la espada no se apartará de su casa (12,10-14).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Natán es el modelo del profeta que dice la verdad al poder, y David, del rey que la escucha y se arrepiente. El título del Sal 51 (50) lo une a este episodio."
+    }
+  ],
+  "critica": {
+    "texto": "El relato de Natán y la confesión de David se discuten como parte de la redacción.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Timo Veijola y Walter Dietrich",
+        "texto": "Un profeta que acusa al rey es un tema deuteronomista, y las palabras de Natán (12,7-12) fueron ampliadas por ese redactor."
+      },
+      {
+        "quien": "Otros estudiosos",
+        "texto": "La parábola y la confesión son antiguas y pertenecen al relato original de la corte de David."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "profecia-y-llamada",
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Samuel (Anchor Bible 9)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    }
+  ]
+}

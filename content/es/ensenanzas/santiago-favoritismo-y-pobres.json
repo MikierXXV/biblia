@@ -1,0 +1,37 @@
+{
+  "id": "santiago-favoritismo-y-pobres",
+  "libro_id": "santiago",
+  "orden": 2,
+  "titulo": "¿Por qué sienta la comunidad al rico y deja al pobre de pie?",
+  "pasaje": "Sant 2,1-13",
+  "que_dice": "Un hombre con anillo de oro y ropa elegante entra en la asamblea y le ceden el mejor sitio. Un pobre con ropa sucia entra después, y le dicen que se quede de pie o se siente en el suelo (2,2-3).\n\nSantiago llama a eso hacer distinciones y juzgar con criterios torcidos. Recuerda que Dios eligió a los pobres para heredar el reino (2,5) y que los ricos son quienes arrastran a los tribunales. Lo resume con el mandamiento del amor al prójimo (2,8).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La Torá ya pedía juzgar sin favoritismo, ni al pobre ni al grande (Lv 19,15), amar al prójimo (Lv 19,18) y abrir la mano al necesitado (Dt 15,7-11). La tradición judía lee el reproche de Santiago en esa línea de exigencia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La doctrina social católica relaciona la elección de los pobres de Sant 2,5 con su «opción preferencial por los pobres», que formuló en Puebla (1979)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que Santiago continúa la línea profética de Israel y las palabras de Jesús sobre los pobres. Dale Allison señala los ecos del Levítico y del sermón del monte.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle of James (ICC)",
+      "autor": "Dale C. Allison Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Compendio de la doctrina social de la Iglesia",
+      "autor": "Pontificio Consejo Justicia y Paz",
+      "tradicion": "catolica"
+    }
+  ]
+}

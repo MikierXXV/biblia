@@ -1,0 +1,73 @@
+{
+  "id": "judit",
+  "seccion_id": "historicos",
+  "orden": 13,
+  "nombre": "Judit",
+  "abreviatura": "Jdt",
+  "capitulos": 16,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Una viuda de Betulia salva a su ciudad de un general asirio. Mezcla historia, ficción y debate sobre fidelidad y violencia.",
+  "presentacion": "Nabucodonosor, que el libro llama rey de los asirios, manda a su general Holofernes a someter el oeste. El ejército sitia Betulia, una ciudad de montaña, y le corta el agua. Los jefes prometen rendirse en cinco días si Dios no los salva (Jdt 7-8).\n\nEntonces entra Judit, una viuda rica, devota y hermosa. Entra en el campamento con su criada, gana la confianza de Holofernes y le corta la cabeza cuando está borracho (Jdt 10-13). Los asirios huyen y Betulia se salva.\n\nLos errores históricos son tan grandes (Nabucodonosor reinó en Babilonia y no en Nínive) que la crítica los ve como señal de ficción. El libro es un relato de resistencia y de fe, escrito en época macabea.",
+  "autoria": {
+    "tradicion": "El libro es anónimo y ni la tradición judía ni la cristiana le atribuyen un autor.",
+    "critica": "Es anónimo. Probablemente se escribió en hebreo y se conserva en griego. Jerónimo dice que tradujo al latín un texto arameo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La acción se ambienta en tiempos de Nabucodonosor, en el siglo VI a. C., aunque el libro no da fecha de composición.",
+    "critica": "La mayoría de los críticos lo sitúa en el siglo II a. C., en época macabea. Es una novela con errores históricos que la mayoría de la crítica lee como deliberados.",
+    "acuerdo": "consenso",
+    "rango": [
+      -200,
+      -100
+    ]
+  },
+  "canon": {
+    "judia": "No es canónico: no está en la Biblia hebrea. Relatos hebreos medievales reelaboraron la historia y la ligaron a la fiesta de Janucá.",
+    "ortodoxa": "Es canónico en la Biblia griega, que usa la tradición ortodoxa.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo y lo dejan fuera del canon. Lutero lo imprimió aparte, entre los libros útiles de leer."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jdt 8,11-27",
+      "nota": "Judit reprende a los jefes que ponen plazo a Dios."
+    },
+    {
+      "pasaje": "Jdt 9,1-14",
+      "nota": "Su oración al Dios de los humildes."
+    },
+    {
+      "pasaje": "Jdt 13,6-10",
+      "nota": "Judit corta la cabeza de Holofernes."
+    },
+    {
+      "pasaje": "Jdt 16,1-17",
+      "nota": "El cántico de victoria de Judit."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judith (Anchor Bible 40)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Artistry and Faith in the Book of Judith",
+      "autor": "Toni Craven",
+      "tradicion": "literaria"
+    }
+  ],
+  "para_recordar": [
+    "Una viuda de Betulia salva a su ciudad del ejército asirio.",
+    "Los errores históricos, como Nabucodonosor «rey de Asiria», muestran que es ficción.",
+    "La oración de Judit presenta a Dios del lado de los débiles.",
+    "Su violencia y su engaño se leen hoy de maneras distintas.",
+    "Católicos y ortodoxos lo cuentan como canónico; judíos y protestantes, no."
+  ]
+}

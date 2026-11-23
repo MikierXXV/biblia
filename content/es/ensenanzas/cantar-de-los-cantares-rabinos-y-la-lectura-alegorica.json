@@ -1,0 +1,47 @@
+{
+  "id": "cantar-de-los-cantares-rabinos-y-la-lectura-alegorica",
+  "libro_id": "cantar-de-los-cantares",
+  "orden": 4,
+  "titulo": "Los rabinos discutieron si el Cantar debía estar en la Biblia",
+  "pasaje": "Cant 1,1-4",
+  "que_dice": "A comienzos del siglo II d. C., maestros judíos discutían si el Cantar «ensucia las manos», es decir, si es libro sagrado. La Mishná (Yadayim 3,5) recoge el debate. Rabí Akiba negó que se discutiera. Dijo que ningún día vale como aquel en que se dio el Cantar a Israel, pues todos los escritos son santos y este es el santo de los santos.\n\nEn la lectura que se impuso, la pareja es Dios y su pueblo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Targum, traducción aramea, cuenta el Cantar como la historia de Dios con Israel, desde el Éxodo hasta la redención final. Se lee en Pésaj."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Orígenes fijó la lectura cristiana: el esposo es Cristo y la esposa, la Iglesia o el alma. Bernardo de Claraval le dedicó 86 sermones y Juan de la Cruz escribió su Cántico espiritual con ese lenguaje."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En el siglo XVI, Sebastián Castellion cuestionó en Ginebra que el Cantar fuera Escritura, y Calvino se opuso. Después, la lectura literal del amor conyugal ganó terreno en el protestantismo."
+    }
+  ],
+  "critica": {
+    "texto": "Heinrich Graetz propuso en el siglo XIX que un concilio en Yavne, hacia el 90 d. C., cerró el canon hebreo. Desde Jack P. Lewis (1964), la mayoría de críticos lo descarta: no hubo concilio, y Yadayim 3,5 discute sobre libros que ya se leían.",
+    "acuerdo": "consenso"
+  },
+  "abierta": true,
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Song of Songs and the Ancient Egyptian Love Songs",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    }
+  ]
+}

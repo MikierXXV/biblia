@@ -1,0 +1,78 @@
+{
+  "id": "lucas",
+  "seccion_id": "nuevo-testamento",
+  "orden": 3,
+  "nombre": "Lucas",
+  "abreviatura": "Lc",
+  "bloque": "evangelios",
+  "capitulos": 24,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Evangelio de alcance universal, con parábolas propias y atención a pobres y mujeres. Es la primera parte de una obra en dos volúmenes.",
+  "presentacion": "Un autor que no da su nombre se dirige a un tal Teófilo, «amigo de Dios», y promete un relato ordenado de lo ocurrido (Lc 1,1-4). Es el único evangelista que habla de su método. Lo que escribe es el primer volumen de una obra en dos partes: el evangelio y los Hechos de los Apóstoles.\n\nLucas cuenta cosas que no están en los otros evangelios: el buen samaritano, el hijo pródigo, la visita a Zaqueo (Lc 10; 15; 19). Dedica espacio a los pobres, a las mujeres y a los marginados. Y organiza la vida de Jesús como un largo viaje a Jerusalén (Lc 9,51-19,27).\n\nEl libro abre con un cántico de María y cierra con los discípulos de Emaús. El Espíritu Santo es en él una presencia constante.",
+  "autoria": {
+    "tradicion": "La tradición cristiana lo atribuye a Lucas, médico y compañero de Pablo (Col 4,14; Flm 24). Así lo recogen Ireneo, a finales del siglo II, y el Canon de Muratori, una lista antigua de libros.",
+    "critica": "La crítica lo considera anónimo y escrito por el mismo autor que los Hechos. Muchos dudan de que fuera compañero directo de Pablo, y otros lo defienden por los pasajes de los Hechos escritos en primera persona.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición lo escribió Lucas hacia el año 60 d. C., antes de que acabaran los Hechos con Pablo preso en Roma.",
+    "critica": "La mayoría de críticos lo data entre los años 80 y 90 d. C., después de la destrucción del Templo en el 70 d. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      80,
+      90
+    ],
+    "rango_tradicion": [
+      55,
+      65
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Se estudia como fuente del judaísmo del siglo I; The Jewish Annotated New Testament lo anota desde esa perspectiva.",
+    "ortodoxa": "Es canónico y ocupa el tercer lugar entre los evangelios, como en las demás Biblias cristianas.",
+    "protestante": "Es canónico y ocupa el tercer lugar entre los evangelios, como en las demás Biblias cristianas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Lc 1,46-55",
+      "nota": "El cántico de María, que celebra a un Dios que levanta a los humildes."
+    },
+    {
+      "pasaje": "Lc 4,16-21",
+      "nota": "Jesús lee a Isaías en la sinagoga de Nazaret."
+    },
+    {
+      "pasaje": "Lc 10,25-37",
+      "nota": "La parábola del buen samaritano."
+    },
+    {
+      "pasaje": "Lc 15,11-32",
+      "nota": "La parábola del hijo que se marcha y vuelve."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Gospel According to Luke I-IX y X-XXIV (Anchor Bible 28 y 28A)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Lucas es el primer volumen de una obra en dos partes: el evangelio y los Hechos.",
+    "Solo él cuenta el buen samaritano y el hijo pródigo.",
+    "Da un lugar especial a los pobres, a las mujeres y a los marginados.",
+    "La crítica lo data hacia 80-90 d. C. y lo ve anónimo; la tradición lo atribuye a Lucas, compañero de Pablo.",
+    "Comparte con Mateo muchos dichos que no están en Marcos: el problema sinóptico."
+  ]
+}

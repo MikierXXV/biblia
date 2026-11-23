@@ -1,0 +1,60 @@
+{
+  "id": "rut-iniciativa-de-las-mujeres",
+  "libro_id": "rut",
+  "orden": 4,
+  "titulo": "Dos mujeres que toman la iniciativa",
+  "pasaje": "Rut 3",
+  "que_dice": "Noemí prepara un plan. Rut debe lavarse, perfumarse e ir de noche a la era, el suelo donde se trilla el grano y donde Booz duerme tras la cosecha. Después tiene que acostarse a sus pies. Rut lo hace.\n\nCuando Booz despierta sobresaltado, ella le pide que extienda su manto sobre ella (3,9). La fórmula equivale a pedirle que la tome como esposa. Booz la bendice, la llama «mujer valiente» y promete resolverlo por la mañana. El plan nace de Noemí y lo ejecuta Rut; Booz responde.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Rut y Noemí actúan con audacia y Booz con respeto, y el libro presenta el desenlace como un bien. Las tradiciones difieren poco en lo esencial; el debate está sobre todo en la crítica."
+    }
+  ],
+  "critica": {
+    "texto": "La escena es ambigua. «A sus pies» (3,4.7) puede aludir a una intimidad sexual o ser solo un gesto formal de petición, y los críticos se dividen.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Danna Nolan Fewell y David M. Gunn",
+        "texto": "La expresión alude a una intimidad sexual."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Es solo un gesto formal de petición."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Ruth (Anchor Bible 7)",
+      "autor": "Edward F. Campbell",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Compromising Redemption",
+      "autor": "Danna Nolan Fewell y David M. Gunn",
+      "tradicion": "literaria"
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible, en su lectura literaria y feminista, ve en el capítulo 3 el momento en que dos mujeres cambian el rumbo de la historia sin pedir permiso."
+    },
+    {
+      "enfoque": "feminista",
+      "autor": "Danna Nolan Fewell y David M. Gunn",
+      "texto": "Danna Nolan Fewell y David Gunn, desde otra lectura feminista, piensan que esa iniciativa acaba sirviendo para asegurar un heredero varón a la familia de Noemí."
+    }
+  ]
+}

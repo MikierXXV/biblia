@@ -1,0 +1,53 @@
+{
+  "id": "jeremias-el-templo-no-protege",
+  "libro_id": "jeremias",
+  "orden": 2,
+  "titulo": "Jeremías avisa en la puerta del Templo: el edificio no os salvará",
+  "pasaje": "Jr 7,1-15",
+  "que_dice": "Jeremías se planta en la puerta del Templo y habla a los que entran a rezar. Repiten una fórmula, «el Templo del Señor», como si el edificio los protegiera (7,4). Pero roban, matan, juran en falso y luego vienen a decir que están a salvo (7,9-10).\n\nDios les pide que corrijan su conducta y que no opriman al extranjero, al huérfano y a la viuda (7,5-7). Les recuerda lo que pasó con Silo, el santuario antiguo, que fue destruido (7,12-14). Según Jr 26, el sermón casi le cuesta la vida.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica explica la destrucción del primer Templo por la infidelidad de Israel, como dice Jeremías. El Talmud (Yomá 9b) enumera las faltas: idolatría, inmoralidad y derramamiento de sangre."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "En Mc 11,17, Jesús expulsa del Templo a los vendedores citando Jr 7,11, «cueva de ladrones». Para la lectura católica, y en lo esencial para las demás cristianas, así retoma la crítica del profeta contra un culto sin justicia."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos sitúa el sermón hacia el 609 a. C., al comienzo del reinado de Joaquín. Se discute cuánto del texto en prosa es de Jeremías y cuánto de editores posteriores.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Bright y Holladay",
+        "texto": "El sermón recoge en lo esencial palabras de Jeremías, con una redacción posterior ligera."
+      },
+      {
+        "quien": "Carroll y McKane",
+        "texto": "La prosa es en gran parte obra de editores deuteronomistas, que reelaboraron la memoria del profeta."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Jeremiah (Anchor Bible 21)",
+      "autor": "John Bright",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jeremiah: A Commentary (Old Testament Library)",
+      "autor": "Robert P. Carroll",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ageo-zorobabel-sello",
+  "libro_id": "ageo",
+  "orden": 3,
+  "titulo": "Zorobabel, el gobernador convertido en sello de Dios",
+  "pasaje": "Ag 2,20-23",
+  "que_dice": "El 18 de diciembre del 520 a. C. Ageo recibe su último oráculo, y es para una sola persona. Dios sacudirá cielo y tierra, derribará tronos y carros de guerra, y los caballos caerán por la espada de sus jinetes (2,20-22).\n\nEntonces Dios tomará a Zorobabel, gobernador de Judá, y lo hará como un anillo de sello, su firma, porque lo ha elegido (2,23). Zorobabel era nieto de Joaquín, el rey al que Jeremías llamó sello arrancado de la mano de Dios (Jr 22,24).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los comentarios judíos actuales, como la Jewish Study Bible, leen Ag 2,23 como la elección de Zorobabel, descendiente de David (1 Cr 3,19). Revierte el sello arrancado de Jr 22,24."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones cristianas, católica, ortodoxa y protestante, coinciden en que Mt 1,12-13 y Lc 3,27 incluyen a Zorobabel en la genealogía de Jesús. Leen así la esperanza davídica de Ag 2,23 como un hilo abierto hasta él."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute qué esperaba Ageo de Zorobabel: no fue rey y desaparece de las fuentes, y de su destino no se conserva noticia.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Carol y Eric Meyers (Anchor Bible 25B)",
+        "texto": "Ag 2,23 expresa una esperanza davídica: entronizar a Zorobabel y restaurar la monarquía. No se cumplió."
+      },
+      {
+        "quien": "Wolter H. Rose",
+        "texto": "Niega que Ag 2,23 sea un programa de restauración monárquica."
+      }
+    ]
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Zemah and Zerubbabel",
+      "autor": "Wolter H. Rose",
+      "tradicion": "critica"
+    }
+  ]
+}

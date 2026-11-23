@@ -1,0 +1,42 @@
+{
+  "id": "genesis-creacion-orden-bueno",
+  "libro_id": "genesis",
+  "orden": 1,
+  "titulo": "Un mundo ordenado y declarado bueno",
+  "pasaje": "Gn 1,1–2,4",
+  "que_dice": "El primer relato de la Biblia cuenta la creación en siete días. Dios ordena el caos con su palabra: separa la luz de la oscuridad, las aguas de lo seco, y llena cada espacio de seres vivos. Tras cada obra repite que «vio que era bueno». El ser humano, hombre y mujer, se crea a imagen de Dios (1,26-27) y recibe el encargo de dominar la tierra (1,28). El séptimo día Dios descansa y lo declara día santo.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi, el gran comentarista medieval, abre su comentario citando una pregunta de Rabí Isaac: si la Torá es sobre todo un libro de leyes, ¿por qué comienza con la creación? Su respuesta es que el mundo es de Dios y por eso Dios puede dar una tierra a quien quiere. El sábado, el séptimo día, es en la tradición judía la huella de este relato en la vida de cada semana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición católica lee el relato como afirmación de que el mundo fue creado de la nada y que es bueno, y no como una explicación científica del origen. El Concilio Vaticano II y los documentos de la Comisión Bíblica Pontificia piden leer el texto según su género literario. La Iglesia ve aquí también la base de la dignidad de la persona."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Las lecturas protestantes se dividen entre sí. Para una parte de la lectura evangélica, los «días» son períodos o un marco literario, y la fe no se opone a la ciencia moderna. Para otra, los seis días se entienden como jornadas literales y excluyen la evolución. La lectura protestante liberal lo interpreta como un texto teológico de su época."
+    }
+  ],
+  "critica": {
+    "texto": "Para la mayoría de los críticos, este relato pertenece a la tradición sacerdotal del Pentateuco y se redactó durante o después del exilio en Babilonia (siglo VI a. C.), con un orden y un vocabulario que dialogan con las cosmogonías de Mesopotamia como el Enuma Elish. La fecha y el alcance de esa relación se discuten: algunos ven una réplica deliberada, otros una herencia cultural compartida sin polémica.",
+    "acuerdo": "discusion"
+  },
+  "temas": [
+    "creacion-y-cuidado-del-mundo",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducción a la lectura del Pentateuco",
+      "autor": "Jean-Louis Ska",
+      "tradicion": "critica"
+    }
+  ]
+}

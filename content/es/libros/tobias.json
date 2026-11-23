@@ -1,0 +1,72 @@
+{
+  "id": "tobias",
+  "seccion_id": "historicos",
+  "orden": 12,
+  "nombre": "Tobías",
+  "abreviatura": "Tob",
+  "capitulos": 14,
+  "deuterocanonico": true,
+  "estado": "completo",
+  "resumen": "Relato familiar del exilio asirio: el ciego Tobit, su hijo Tobías y el ángel Rafael. Las Biblias protestantes lo dejan fuera del canon.",
+  "presentacion": "Tobit, un judío deportado a Nínive, entierra de noche a los muertos de su pueblo. Una noche, mientras duerme, le cae excremento de un pájaro en los ojos y se queda ciego. Reza para morir.\n\nEn Ecbátana, Sara ha perdido a siete maridos, muertos por un demonio la noche de bodas. También ella reza para morir. Dios oye a los dos y envía al ángel Rafael, que acompaña disfrazado a Tobías, hijo de Tobit, en un viaje con un perro y un pez.\n\nEs un relato familiar, no una crónica: la crítica lo lee como novela edificante. Existe en varias versiones antiguas: la griega corta, la griega larga y la latina de la Vulgata. Torres Amat sigue la Vulgata, y por eso su texto difiere en detalles de las Biblias actuales.",
+  "autoria": {
+    "tradicion": "El libro se presenta como memorias de Tobit, que narra en primera persona al principio. La tradición no le da otro autor.",
+    "critica": "El libro es anónimo. Se escribió probablemente en arameo. Su lugar de composición, Mesopotamia, Egipto o Palestina, se discute.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "El relato se ambienta en el siglo VIII a. C., tras la caída de Samaría en el 722 a. C. (Tob 1,2).",
+    "critica": "La crítica lo sitúa entre los siglos III y II a. C. Cuatro fragmentos arameos y uno hebreo de Qumrán muestran que ya circulaba en el siglo II. Sus errores históricos y geográficos forman parte de su carácter de novela.",
+    "acuerdo": "consenso",
+    "rango": [
+      -250,
+      -150
+    ],
+    "rango_tradicion": [
+      -725,
+      -690
+    ]
+  },
+  "canon": {
+    "judia": "No es canónico: no entró en la Biblia hebrea. Se conservaron fragmentos arameos y hebreos entre los manuscritos de Qumrán.",
+    "ortodoxa": "Es canónico y forma parte de la Biblia griega que usa la tradición ortodoxa.",
+    "protestante": "Las Biblias protestantes lo llaman apócrifo y lo dejan fuera del canon. Lutero lo juzgó útil de leer; los anglicanos, para ejemplo de vida."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Tob 1,16–2,10",
+      "nota": "Tobit entierra a los muertos y queda ciego."
+    },
+    {
+      "pasaje": "Tob 4,7-11",
+      "nota": "El consejo de Tobit a su hijo: dar limosna."
+    },
+    {
+      "pasaje": "Tob 8,4-8",
+      "nota": "La oración de Tobías y Sara en la noche de bodas."
+    },
+    {
+      "pasaje": "Tob 12,6-15",
+      "nota": "Rafael revela quién es: uno de los siete ángeles que sirven ante Dios."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Tobit (Commentaries on Early Jewish Literature)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Es un relato familiar de la diáspora asiria: un ciego, una viuda de siete maridos y un ángel viajero.",
+    "Sus obras de misericordia son enterrar a los muertos y dar limosna.",
+    "Dos oraciones desesperadas se cruzan, y Dios envía a Rafael a curar a los dos.",
+    "Católicos y ortodoxos lo cuentan como canónico; judíos y protestantes, no.",
+    "Existe en tres versiones: la griega corta, la larga y la Vulgata, que sigue Torres Amat."
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Libro",
+  "description": "Un libro del canon. estado \"esbozo\" = solo datos básicos y resumen.",
+  "type": "object",
+  "required": [
+    "id",
+    "seccion_id",
+    "orden",
+    "nombre",
+    "abreviatura",
+    "capitulos",
+    "deuterocanonico",
+    "estado",
+    "resumen"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "seccion_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "orden": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "nombre": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 80
+    },
+    "abreviatura": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 12
+    },
+    "bloque": {
+      "type": "string",
+      "enum": [
+        "evangelios",
+        "hechos",
+        "cartas-paulinas",
+        "cartas-catolicas",
+        "apocalipsis"
+      ]
+    },
+    "capitulos": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 150
+    },
+    "deuterocanonico": {
+      "type": "boolean"
+    },
+    "adiciones_griegas": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "estado": {
+      "type": "string",
+      "enum": [
+        "esbozo",
+        "completo"
+      ]
+    },
+    "resumen": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 300
+    },
+    "presentacion": {
+      "type": "string",
+      "minLength": 400,
+      "maxLength": 1600
+    },
+    "autoria": {
+      "type": "object",
+      "required": [
+        "tradicion",
+        "critica",
+        "acuerdo"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "tradicion": {
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 500
+        },
+        "critica": {
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 500
+        },
+        "acuerdo": {
+          "type": "string",
+          "enum": [
+            "consenso",
+            "discusion"
+          ]
+        }
+      }
+    },
+    "datacion": {
+      "type": "object",
+      "required": [
+        "tradicion",
+        "critica",
+        "acuerdo",
+        "rango"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "tradicion": {
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 500
+        },
+        "critica": {
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 700
+        },
+        "acuerdo": {
+          "type": "string",
+          "enum": [
+            "consenso",
+            "discusion"
+          ]
+        },
+        "rango": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "integer"
+          },
+          "description": "Crítica: [desde, hasta], años negativos = a. C."
+        },
+        "rango_tradicion": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "integer"
+          },
+          "description": "Opcional (añadido en el piloto): la datación de la tradición, para la segunda barra de la visualización."
+        },
+        "posturas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "quien",
+              "texto"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "quien": {
+                "type": "string",
+                "minLength": 3,
+                "maxLength": 100
+              },
+              "texto": {
+                "type": "string",
+                "minLength": 20,
+                "maxLength": 260
+              }
+            }
+          }
+        }
+      }
+    },
+    "canon": {
+      "type": "object",
+      "required": [
+        "judia",
+        "ortodoxa",
+        "protestante"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "judia": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 300
+        },
+        "ortodoxa": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 300
+        },
+        "protestante": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 300
+        }
+      }
+    },
+    "pasajes_clave": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": [
+          "pasaje",
+          "nota"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "pasaje": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 60
+          },
+          "nota": {
+            "type": "string",
+            "minLength": 10,
+            "maxLength": 200
+          }
+        }
+      }
+    },
+    "fuentes": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": [
+          "titulo",
+          "autor",
+          "tradicion"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "titulo": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 200
+          },
+          "autor": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 200
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "tradicion": {
+            "type": "string",
+            "enum": [
+              "judia",
+              "catolica",
+              "ortodoxa",
+              "protestante",
+              "critica",
+              "literaria"
+            ]
+          }
+        }
+      }
+    },
+    "para_recordar": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 140
+      }
+    }
+  }
+}

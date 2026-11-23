@@ -1,0 +1,60 @@
+{
+  "id": "galatas-ni-judio-ni-griego-ni-esclavo-ni-varon",
+  "libro_id": "galatas",
+  "orden": 2,
+  "titulo": "¿Qué significa que ya no hay varón ni mujer, esclavo ni libre?",
+  "pasaje": "Gál 3,26-29",
+  "que_dice": "Una comunidad de Galacia escucha la carta de Pablo leída en voz alta. Pablo dice que todos son hijos de Dios por la fe y que en Cristo no hay judío ni griego, esclavo ni libre, varón ni mujer.\n\nTodos son «uno» en Cristo y descendencia de Abrahán. La frase suena a igualdad social, y se discute qué consecuencias tiene para la esclavitud y para el papel de las mujeres.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Desde la lectura judía, la fórmula plantea cómo pertenecen las naciones a la descendencia de Abrahán sin dejar de ser naciones. Los autores judíos discrepan: unos ven una disolución de la identidad judía; otros, un lugar para los no judíos."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen la fórmula como igualdad ante Dios en el bautismo. Difieren en sus consecuencias: unas ordenan mujeres, otras reservan el sacerdocio o la enseñanza a los varones."
+    }
+  ],
+  "critica": {
+    "texto": "Muchos críticos piensan que Pablo cita una fórmula bautismal anterior. Discuten qué efectos sociales tenía.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Hans Dieter Betz",
+        "texto": "Es una fórmula sacramental que declara abolidas las diferencias de religión, clase y sexo en la comunidad."
+      },
+      {
+        "quien": "John Barclay",
+        "texto": "Pablo habla de un nuevo estatus ante Dios, no de reformar la sociedad; la fórmula no elimina la jerarquía de esclavo y libre."
+      }
+    ]
+  },
+  "temas": [
+    "mujeres-y-liderazgo",
+    "imagen-de-dios-y-dignidad-humana"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "In Memory of Her: A Feminist Theological Reconstruction of Christian Origins",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Paul and the Gift",
+      "autor": "John M. G. Barclay",
+      "tradicion": "critica"
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Elisabeth Schüssler Fiorenza",
+      "texto": "Elisabeth Schüssler Fiorenza ve en esta fórmula el programa de igualdad de las primeras comunidades, que el mundo patriarcal fue recortando después."
+    }
+  ]
+}

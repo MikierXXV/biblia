@@ -1,0 +1,52 @@
+{
+  "id": "hebreos-alianza-mejor",
+  "libro_id": "hebreos",
+  "orden": 4,
+  "titulo": "¿Reemplaza la alianza nueva a la de Sinaí?",
+  "pasaje": "Heb 8,1-13",
+  "que_dice": "Un profeta del siglo VI a. C., Jeremías, anunció entre las ruinas del exilio una alianza nueva. Dios escribiría su ley en el corazón de su pueblo (Jr 31,31-34). Hebreos recoge ese oráculo entero.\n\nEl autor lo usa para decir que Cristo es mediador de una «alianza mejor», fundada en promesas mejores (8,6). Termina con una frase dura: lo que envejece está cerca de desaparecer (8,13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía sostiene que la alianza del Sinaí sigue en vigor. Jeremías habla de renovarla, y su oráculo se dirige a la casa de Israel y de Judá. Levine y Brettler avisan de que Heb 8,13 se ha usado contra los judíos."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el Concilio Vaticano II (Nostra aetate, 1965) enseña que Dios no rechaza a los judíos. Juan Pablo II habló en 1980 de una alianza nunca revocada. Hebreos hablaría de plenitud, no de sustitución."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante clásica, como la de Calvino, la alianza nueva cumple la antigua y la lleva a su meta. Hoy muchos autores protestantes rechazan leer el pasaje como condena del judaísmo."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute si el pasaje es supersesionista, es decir, si sostiene que la Iglesia sustituye a Israel.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "William L. Lane",
+        "texto": "Lee Heb 8,13 como declaración de caducidad de la alianza del Sinaí: lo viejo ha cumplido su tiempo y la alianza nueva lo sustituye."
+      },
+      {
+        "quien": "Harold Attridge",
+        "texto": "Ve continuidad con Jr 31: el autor discute el culto descrito en la Escritura, no a los judíos de su tiempo, y no habla de sustitución de Israel."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Epistle to the Hebrews (Hermeneia)",
+      "autor": "Harold W. Attridge",
+      "tradicion": "critica"
+    }
+  ]
+}

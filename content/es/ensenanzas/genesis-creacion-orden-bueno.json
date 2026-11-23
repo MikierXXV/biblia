@@ -1,0 +1,56 @@
+{
+  "id": "genesis-creacion-orden-bueno",
+  "libro_id": "genesis",
+  "orden": 1,
+  "titulo": "Dios pone orden en el caos y declara bueno lo que crea",
+  "pasaje": "Gn 1,1–2,4",
+  "que_dice": "Al principio solo hay agua y oscuridad. Dios habla y aparece la luz. En seis días separa las aguas, levanta la tierra seca, coloca el sol, la luna y las estrellas, y llena de seres vivos el mar, el aire y el suelo.\n\nDespués de cada obra, el texto repite que Dios vio que era bueno. Al terminar el sexto día lo llama muy bueno. El séptimo, Dios descansa y declara santo ese día (1,1–2,4).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en el séptimo día el origen del sábado. Rashi, comentarista del siglo XI, recoge la pregunta de Rabí Isaac: ¿por qué la Torá, libro de leyes, empieza por la creación? Su respuesta es que el mundo es de Dios, que puede entregar una tierra a quien quiere."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el relato afirma que el mundo es obra de Dios y es bueno, no que explique cómo se formó. La Comisión Bíblica Pontificia (1993) pide leerlo atendiendo a su género literario."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Entre los evangélicos hay dos lecturas. Unas entienden los días como jornadas de veinticuatro horas, otras como épocas o como un marco literario. La lectura protestante liberal lo entiende como un texto teológico de su época."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos atribuye el relato a la tradición sacerdotal del Pentateuco, del exilio o poco después (siglos VI-V a. C.). Se discute su relación con la literatura mesopotámica.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Nahum Sarna",
+        "texto": "Ve en Gn 1 una réplica deliberada al Enuma Elish, el poema babilonio de la creación."
+      },
+      {
+        "quien": "David Toshio Tsumura",
+        "texto": "Ve una herencia cultural compartida, sin intención polémica."
+      }
+    ]
+  },
+  "temas": [
+    "creacion-y-cuidado-del-mundo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Introducción a la lectura del Pentateuco",
+      "autor": "Jean-Louis Ska",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Creation and Destruction: A Reappraisal of the Chaoskampf Theory in the Old Testament (Eisenbrauns, 2005)",
+      "autor": "David Toshio Tsumura",
+      "tradicion": "critica"
+    }
+  ]
+}

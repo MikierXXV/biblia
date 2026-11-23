@@ -1,0 +1,68 @@
+{
+  "id": "ageo",
+  "seccion_id": "profetas",
+  "orden": 16,
+  "nombre": "Ageo",
+  "abreviatura": "Ag",
+  "capitulos": 2,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta fechado al día reprocha a los regresados del exilio que cuidan sus casas mientras el Templo sigue en ruinas. Son dos capítulos y cuatro oráculos en cuatro meses del 520 a. C.",
+  "presentacion": "Hace dieciocho años que los primeros judíos volvieron de Babilonia, y el solar del Templo sigue vacío. Cada uno ha levantado su casa. Ageo se planta ante el gobernador Zorobabel y el sumo sacerdote Josué y pregunta por qué viven bajo techo mientras la casa de Dios está en ruinas (Ag 1,1-4).\n\nEs el libro profético con las fechas más exactas. Cada oráculo lleva mes y día del segundo año del rey persa Darío, el 520 a. C. (Ag 1,1; 1,15; 2,1; 2,10; 2,20). En cuatro meses el pueblo se pone a la obra, y Ageo lo anima cuando el nuevo Templo parece pobre al lado del de Salomón (Ag 2,3).\n\nEl libro acaba con una promesa para Zorobabel, descendiente del rey David, llamado «sello» de Dios (Ag 2,23). Esdras 5,1-2 cuenta que Ageo y Zacarías apoyaron la obra, que se terminó hacia el 515 a. C. (Esd 6,15).",
+  "autoria": {
+    "tradicion": "Ag 1,1 presenta el libro como palabra de Dios por medio del profeta Ageo, y Esd 5,1 y 6,14 lo nombran junto a Zacarías. La tradición judía y la cristiana se lo atribuyen.",
+    "critica": "Casi toda la crítica ve en Ageo al autor de los oráculos. Meyers y Meyers piensan que un editor del círculo de Zacarías ordenó el libro poco después, con la narración en tercera persona.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Ag 1,1 fecha el primer oráculo en el segundo año de Darío, el sexto mes, el primer día. Los otros tres siguen en los meses séptimo, noveno y noveno.",
+    "critica": "Se fecha entre agosto y diciembre del 520 a. C. Es de las pocas dataciones proféticas que la crítica da por segura, pues las fechas encajan con el calendario persa.",
+    "acuerdo": "consenso",
+    "rango": [
+      -520,
+      -515
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el décimo.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Ag 1,2-11",
+      "nota": "El pueblo vive en casas con artesonado y el Templo sigue en ruinas."
+    },
+    {
+      "pasaje": "Ag 2,3-5",
+      "nota": "El Templo nuevo parece nada, pero Dios promete estar entre ellos."
+    },
+    {
+      "pasaje": "Ag 2,20-23",
+      "nota": "Dios llama a Zorobabel su sello."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+      "autor": "Carol L. Meyers y Eric M. Meyers",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Haggai and Zechariah 1-8 (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Ageo predica en el 520 a. C., con fechas exactas, a los regresados del exilio que no reconstruían el Templo.",
+    "Ageo pregunta por qué viven en casas lujosas mientras la casa de Dios sigue en ruinas (Ag 1,4).",
+    "Ag 2,5 asegura que el espíritu de Dios está entre ellos, aunque el Templo nuevo parezca pobre.",
+    "Zorobabel, descendiente de David, es llamado «sello» de Dios (Ag 2,23); la crítica ve una esperanza que no se cumplió."
+  ]
+}

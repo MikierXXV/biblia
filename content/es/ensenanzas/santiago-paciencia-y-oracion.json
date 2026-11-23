@@ -1,0 +1,48 @@
+{
+  "id": "santiago-paciencia-y-oracion",
+  "libro_id": "santiago",
+  "orden": 4,
+  "titulo": "¿Qué hacer mientras se espera? Paciencia y oración",
+  "pasaje": "Sant 5,7-20",
+  "que_dice": "Un agricultor espera la lluvia temprana y la tardía antes de recoger el fruto. Santiago pone ese ritmo como modelo para la comunidad: paciencia hasta que llegue el Señor (5,7-8).\n\nCita a los profetas y a Job como ejemplos de aguante (5,10-11) y a Elías como hombre de oración eficaz (5,17-18). Pide que los enfermos llamen a los ancianos de la comunidad, que oren sobre ellos y los unjan con aceite (5,14-15).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la unción de 5,14-15 es el origen de la unción de los enfermos, uno de los siete sacramentos. Trento (1551) lo enseñó así."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Para la lectura protestante, el pasaje describe una práctica de oración por los enfermos, no un sacramento. Lutero y Calvino rechazaron la unción como sacramento, aunque muchas iglesias evangélicas hoy la practican."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute cómo entender la unción: remedio médico, rito de la comunidad o gesto simbólico, y qué significa «salvar» al enfermo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Dale Allison",
+        "texto": "El aceite es un gesto ritual de la comunidad que acompaña a la oración, y en el texto no se fija todavía un sacramento."
+      },
+      {
+        "quien": "Scot McKnight",
+        "texto": "La sanación incluye cuerpo y comunidad; la unción es signo de consagración y la oración de fe es el motor."
+      }
+    ]
+  },
+  "temas": [
+    "oracion",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle of James (ICC)",
+      "autor": "Dale C. Allison Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Letter of James (NICNT)",
+      "autor": "Scot McKnight",
+      "tradicion": "protestante"
+    }
+  ]
+}

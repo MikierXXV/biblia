@@ -1,0 +1,52 @@
+{
+  "id": "eclesiastes-recuerda-a-tu-creador",
+  "libro_id": "eclesiastes",
+  "orden": 5,
+  "titulo": "Recuerda a tu Creador antes de que vuelva el polvo",
+  "pasaje": "Ecl 12,1-14",
+  "que_dice": "Qohélet cierra con una imagen de la vejez. Tiemblan los guardianes de la casa, dejan de moler las que muelen, se oscurecen los que miran por las ventanas (12,3). El polvo vuelve a la tierra y el aliento, a Dios (12,7).\n\nUn último párrafo habla de Qohélet en tercera persona. Elogia al sabio, avisa de que hacer libros no tiene fin y resume: teme a Dios y guarda sus mandamientos (12,9-14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los sabios del Talmud (Shabat 151b-152a) leyeron 12,1-7 como imagen del cuerpo que envejece, miembro por miembro."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición cristiana, con Jerónimo, tomó «recuerda a tu Creador» como un recuerdo de la muerte: llamada a no apegarse a un mundo que pasa."
+    }
+  ],
+  "critica": {
+    "texto": "El epílogo (12,9-14) habla de Qohélet en tercera persona y suena más ortodoxo que el resto. Se discute quién lo escribió.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Choon-Leong Seow",
+        "texto": "Es de un redactor posterior, que presenta a Qohélet como sabio y resume el libro de modo ortodoxo."
+      },
+      {
+        "quien": "Michael V. Fox",
+        "texto": "Es del autor del libro, un narrador que enmarca la voz de Qohélet desde el principio (1,1-2) y la interpreta."
+      }
+    ]
+  },
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

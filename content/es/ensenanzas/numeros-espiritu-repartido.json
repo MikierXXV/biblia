@@ -1,0 +1,38 @@
+{
+  "id": "numeros-espiritu-repartido",
+  "libro_id": "numeros",
+  "orden": 3,
+  "titulo": "Dios reparte su espíritu y Moisés se alegra de que otros profeticen",
+  "pasaje": "Nm 11,24-29",
+  "que_dice": "Moisés, agotado, se queja a Dios: no puede cargar solo con todo un pueblo. Dios le manda reunir a setenta ancianos ante la Tienda. Toma parte del espíritu que reposa sobre Moisés y lo reparte entre ellos, y todos profetizan.\n\nDos hombres, Eldad y Medad, se han quedado en el campamento y también profetizan. Josué pide a Moisés que se lo prohíba. Moisés responde que ojalá todo el pueblo fuera profeta (11,24-29).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en los setenta ancianos, con Moisés, el origen del Sanedrín de setenta y un jueces (Misná, Sanedrín 1,6)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, el deseo de Moisés se cumple en Pentecostés (Hch 2). Allí el Espíritu se reparte entre todos, según la profecía de Joel."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en el relato una reflexión sobre la autoridad: el espíritu de Dios se reparte y no se limita a Moisés ni a una institución.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Numbers (JPS Torah Commentary)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2-corintios-mi-gracia-te-basta",
+  "libro_id": "2-corintios",
+  "orden": 4,
+  "titulo": "¿Qué respuesta recibe Pablo cuando pide que le quiten su espina?",
+  "pasaje": "2 Cor 12,7-10",
+  "que_dice": "Pablo cuenta una experiencia extraordinaria: hace catorce años fue llevado al tercer cielo (12,1-4). Pero habla de otra cosa: una espina clavada en la carne, un mensajero de Satanás que lo golpea. Tres veces pidió al Señor que se la quitara (12,7-8).\n\nLa respuesta fue que la gracia le basta, porque el poder se realiza en la debilidad. Por eso prefiere gloriarse de sus debilidades: cuando es débil, entonces es fuerte (12,9-10). La carta ya había presentado a Dios como consolador en toda tribulación (1,3-7).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura latina medieval entendió muchas veces la espina como tentación de la carne, según la traducción latina de la Vulgata, y vio en la gracia la ayuda para resistirla."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "Juan Crisóstomo la entiende como la oposición de los adversarios de Pablo, no como enfermedad ni tentación. Es una lectura frecuente en la tradición ortodoxa."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino la leen como prueba espiritual, que mantiene humilde al apóstol y le enseña a depender solo de la gracia de Dios."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el texto no dice qué era la espina. Las propuestas, entre ellas una enfermedad, la oposición de rivales o una tentación, no se pueden comprobar.",
+    "acuerdo": "consenso"
+  },
+  "abierta": true,
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Corinthians (Anchor Bible 32A)",
+      "autor": "Victor Paul Furnish",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Second Epistle to the Corinthians (NIGTC)",
+      "autor": "Murray J. Harris",
+      "tradicion": "protestante"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "apocalipsis-siete-cartas",
+  "libro_id": "apocalipsis",
+  "orden": 1,
+  "titulo": "Siete cartas para siete comunidades reales",
+  "pasaje": "Ap 2,1-3,22",
+  "que_dice": "Un mensajero recorre la costa de Asia Menor con siete cartas, una para cada comunidad cristiana: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadelfia y Laodicea. Cristo resucitado habla a cada una por su nombre y conoce su situación concreta.\n\nElogia a unas, como Esmirna, pobre y perseguida. Reprende a otras: Éfeso ha perdido el primer amor y Laodicea, rica y tibia, se cree autosuficiente. Cada carta termina con una promesa para quien resista.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen las cartas como exhortación a comunidades reales y como espejo para las iglesias de cualquier época, con su fidelidad, su tibieza y su ceguera."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los comentaristas ve en cada carta alusiones a la vida de la ciudad. Así, la riqueza de Laodicea o la presión del culto al emperador en Pérgamo. Las cartas dialogan con comunidades de finales del siglo I.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "profecia-y-llamada",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Revelation 1-5 (Word Biblical Commentary 52A)",
+      "autor": "David E. Aune",
+      "tradicion": "critica"
+    }
+  ]
+}

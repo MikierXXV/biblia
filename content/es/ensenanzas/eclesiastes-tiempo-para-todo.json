@@ -1,0 +1,52 @@
+{
+  "id": "eclesiastes-tiempo-para-todo",
+  "libro_id": "eclesiastes",
+  "orden": 2,
+  "titulo": "Hay un tiempo para cada cosa, pero el hombre no lo domina",
+  "pasaje": "Ecl 3,1-14",
+  "que_dice": "Un poema reúne catorce pares de opuestos: tiempo de nacer y de morir, de plantar y de arrancar, de llorar y de reír, de abrazar y de apartarse (3,1-8). Los pares recorren la vida entera, del nacimiento a la guerra y a la paz.\n\nDespués llega la pregunta. Dios hizo todo apropiado a su tiempo y puso en el corazón del hombre el *olam*, palabra hebrea difícil de traducir. Con todo, el hombre no alcanza a ver la obra de Dios de principio a fin (3,11).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas, que reciben el poema como Escritura: lo leen como confesión de que el tiempo está en manos de Dios. El hombre acepta lo que no puede ordenar."
+    }
+  ],
+  "critica": {
+    "texto": "La palabra hebrea *olam* de 3,11 admite varias lecturas, y de ella depende el sentido del versículo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Septuaginta",
+        "texto": "Traduce «eternidad»: Dios puso en el hombre el deseo de lo que dura."
+      },
+      {
+        "quien": "Vulgata",
+        "texto": "Traduce «mundo»: Dios entregó el mundo a la reflexión humana, sin que el hombre lo abarque."
+      },
+      {
+        "quien": "Algunos críticos modernos",
+        "texto": "Cambian las vocales y leen «ignorancia» u «ocultamiento»: Dios puso un velo en el corazón del hombre."
+      }
+    ]
+  },
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Wisdom Books: Job, Proverbs, Ecclesiastes",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

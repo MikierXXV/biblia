@@ -1,0 +1,40 @@
+{
+  "id": "tito-gracia-y-buenas-obras",
+  "libro_id": "tito",
+  "orden": 1,
+  "titulo": "¿Qué relación pone Tito entre la gracia y las buenas obras?",
+  "pasaje": "Tit 2,11-14; 3,4-8",
+  "que_dice": "Dos pasajes de la carta resumen la fe de las pastorales. El primero dice que la gracia de Dios ha aparecido para salvar a todos. Enseña a renunciar a los deseos mundanos y a vivir con sensatez, justicia y piedad (Tit 2,11-14). El segundo dice que Dios salvó, no por obras de justicia que hubiéramos hecho, sino por su misericordia, mediante el baño del nuevo nacimiento y la renovación del Espíritu (3,4-7).\n\nTras el segundo, la carta pide a los creyentes ocuparse en buenas obras (3,8). Las obras no son el origen de la salvación, pero la carta las espera como fruto.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica entiende el baño del nuevo nacimiento como el bautismo. El Concilio de Trento (1547) enseña que la fe va unida a la caridad y a las obras."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición reformada cita Tit 3,5 junto a Rom 3: Dios justifica sin obras del creyente, y las buenas obras son su fruto."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven en 2,11-14 y 3,4-7 fórmulas de fe ya formadas, quizá usadas en el bautismo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

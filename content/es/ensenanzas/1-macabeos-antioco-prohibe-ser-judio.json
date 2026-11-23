@@ -1,0 +1,47 @@
+{
+  "id": "1-macabeos-antioco-prohibe-ser-judio",
+  "libro_id": "1-macabeos",
+  "orden": 1,
+  "titulo": "Antíoco prohíbe el sábado y la circuncisión y profana el altar",
+  "pasaje": "1 Mac 1",
+  "que_dice": "Antíoco IV vuelve de Egipto, entra en Jerusalén y saquea el Templo (1 Mac 1,20-28). Dos años después envía a un recaudador con soldados y levanta una fortaleza junto al Templo (1,29-40).\n\nSu decreto prohíbe los sacrificios, el sábado y la circuncisión, y manda quemar los libros de la ley. El 15 de Quisleu del año 145 de la era seléucida se coloca un objeto abominable sobre el altar. Mueren quienes se resisten (1,41-64).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recuerda esta persecución en Janucá. La oración *Al hanisim*, «por los milagros», agradece las victorias de Matatías y sus hijos."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa recuerda cada 1 de agosto a los siete hermanos macabeos, su madre y el maestro Eleazar, mártires de esta persecución."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute por qué Antíoco prohibió el culto judío, algo insólito para un rey helenístico.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Elias Bickerman",
+        "texto": "La iniciativa fue de judíos helenizantes, como el sumo sacerdote Menelao, y el rey la aplicó."
+      },
+      {
+        "quien": "Victor Tcherikover",
+        "texto": "Fue una medida del rey contra una revuelta que ya había empezado en Jerusalén."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Maccabees (Anchor Bible 41)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

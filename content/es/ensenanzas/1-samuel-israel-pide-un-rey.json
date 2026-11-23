@@ -1,0 +1,56 @@
+{
+  "id": "1-samuel-israel-pide-un-rey",
+  "libro_id": "1-samuel",
+  "orden": 2,
+  "titulo": "Israel pide un rey y Samuel avisa de lo que costará",
+  "pasaje": "1 Sm 8; 12",
+  "que_dice": "Samuel es viejo y sus hijos, a quienes ha hecho jueces, aceptan sobornos. Los ancianos de Israel le piden un rey igual que el de las demás naciones (8,5). A Samuel le parece mal. Dios le dice que no lo rechazan a él, sino a Dios (8,7).\n\nSamuel los avisa de lo que hará un rey. Tomará a sus hijos para el ejército, a sus hijas para su servicio, sus mejores campos y una décima parte de la cosecha (8,11-17). El pueblo insiste y Dios cede.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica discute si pedir un rey fue un mandato o una queja. Según el Talmud (Sanedrín 20b), rabí Yehudá lo considera un mandato, y rabí Nehoraí, una concesión ante las quejas del pueblo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Tomás de Aquino, en la Suma teológica (I-II, q. 105, a. 1), comenta por qué desagradó a Dios la petición de un rey y propone un régimen mixto. En Sobre el gobierno de los príncipes advierte de que la tiranía es el peor régimen."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si el relato de la monarquía tiene una voz o dos. Los capítulos 8, 10,17-27 y 12 critican al rey, y los capítulos 9 y 11 lo presentan con simpatía.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Julius Wellhausen",
+        "texto": "Hay dos fuentes: una favorable a la monarquía (9; 10,1-16; 11) y otra contraria (8; 10,17-27; 12), unidas por un redactor."
+      },
+      {
+        "quien": "Martin Noth",
+        "texto": "Los pasajes contra el rey los escribió el propio historiador deuteronomista."
+      },
+      {
+        "quien": "Robert Alter",
+        "texto": "Es una sola narración que mantiene las dos voces en tensión: el rey es necesario y peligroso a la vez."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "nahum",
+  "seccion_id": "profetas",
+  "orden": 13,
+  "nombre": "Nahúm",
+  "abreviatura": "Nah",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta anuncia la caída de Nínive, la capital que oprimía a Judá. Es un libro duro, y plantea si se puede celebrar la ruina de un enemigo.",
+  "presentacion": "Nínive, la capital de Asiria, ardía en el 612 a. C. Un ejército de babilonios y medes tomaba la ciudad que había sometido a media región, incluida Judá. Nahúm anuncia esa caída antes o mientras ocurre.\n\nEl libro abre con un poema sobre un Dios paciente, pero que no deja impune al culpable (Nah 1,2-8). Sigue la descripción del asalto, con carros y ruido de látigos (Nah 2-3). Menciona a Tebas, la ciudad egipcia que Asiria destruyó en el 663 a. C., para decir que Nínive correrá la misma suerte (Nah 3,8-10).\n\nEs, con Abdías, uno de los libros más duros de los profetas. No habla de pecado de Judá ni pide conversión. Sus lectores actuales discuten cómo valorar su tono vengativo.",
+  "autoria": {
+    "tradicion": "Nah 1,1 presenta el libro como visión de Nahúm de Elcós, una localidad que no se ha podido situar. La tradición judía y la cristiana se lo atribuyen.",
+    "critica": "Casi toda la crítica acepta a Nahúm como autor del núcleo. Se discute si el poema alfabético de 1,2-8 es suyo o un himno anterior que se le añadió.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "El Seder Olam, una cronología rabínica, sitúa a Nahúm bajo el rey Manasés.",
+    "critica": "Entre 663 y 612 a. C., con la caída de Nínive como hecho próximo. Es una de las dataciones más seguras de los profetas.",
+    "acuerdo": "consenso",
+    "rango": [
+      -663,
+      -612
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el séptimo.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Nah 1,2-8",
+      "nota": "Un Dios lento a la ira, que no deja impune al culpable."
+    },
+    {
+      "pasaje": "Nah 2,1",
+      "nota": "Un mensajero llega por los montes con la noticia de la paz."
+    },
+    {
+      "pasaje": "Nah 3,1-7",
+      "nota": "Nínive, ciudad de sangre, humillada como una mujer expuesta."
+    },
+    {
+      "pasaje": "Nah 3,19",
+      "nota": "Todos aplauden la caída del rey de Asiria."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Twelve Prophets (Berit Olam)",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nahum (Readings: A New Biblical Commentary)",
+      "autor": "Julia M. O'Brien",
+      "tradicion": "literaria"
+    }
+  ],
+  "para_recordar": [
+    "Nahúm anuncia la caída de Nínive, que cayó en el 612 a. C., y se escribió entre 663 y 612 a. C.",
+    "Nah 1,2-8 presenta a un Dios paciente que no deja impune al culpable, eco parcial de Éx 34,6-7.",
+    "Judá sufrió durante décadas el yugo de Asiria, y el libro habla con la voz de ese pueblo.",
+    "Su tono vengativo se discute: unos lo leen como justicia, otros como violencia que pide examen."
+  ]
+}

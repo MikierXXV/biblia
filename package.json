@@ -1,0 +1,36 @@
+{
+  "name": "biblia-sitio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Los 73 libros de la Biblia: qué enseñan, cómo los leen las tradiciones y qué dice la crítica histórica.",
+  "scripts": {
+    "alineacion": "node scripts/check-alineacion.mjs",
+    "auditar": "node scripts/auditar.mjs",
+    "build": "npm run validar && tsc --noEmit && vite build",
+    "capturar": "node scripts/capturar-sitio.mjs",
+    "dev": "vite",
+    "metricas": "node scripts/metricas-respaldo.mjs",
+    "modelo": "node scripts/optimizar-modelo.mjs",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "validar": "node scripts/validar-contenido.mjs && node scripts/check-contraste.mjs && node scripts/check-idiomas.mjs",
+    "validar:contenido": "node scripts/validar-contenido.mjs",
+    "validar:contraste": "node scripts/check-contraste.mjs",
+    "validar:idiomas": "node scripts/check-idiomas.mjs"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^3.10.1",
+    "@gltf-transform/extensions": "^3.10.1",
+    "@gltf-transform/functions": "^3.10.1",
+    "@types/node": "^22.10.0",
+    "@types/three": "^0.171.0",
+    "meshoptimizer": "^0.20.0",
+    "playwright": "1.62.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.3"
+  },
+  "dependencies": {
+    "three": "^0.171.0"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "2-samuel",
+  "seccion_id": "historicos",
+  "orden": 5,
+  "nombre": "2 Samuel",
+  "abreviatura": "2 Sm",
+  "capitulos": 24,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Narra el reinado de David: de rey de Judá a rey de todo Israel, con Jerusalén por capital. Cuenta la promesa de Dios a su casa, su pecado con Betsabé y las desgracias que siguieron en su familia.",
+  "presentacion": "David baila delante del arca mientras entra en Jerusalén, y su esposa Mical lo mira con desprecio desde una ventana. La escena resume el libro: un rey grande, humano y criticado de cerca. 2 Samuel cuenta su reinado.\n\nEl libro tiene tres partes. En los capítulos 1-10, David se afianza: toma Jerusalén, trae el arca y recibe la promesa de Natán (capítulo 7). En los capítulos 11-20 llegan la caída y sus consecuencias: Betsabé, Urías, la violación de Tamar y la rebelión de Absalón. Los capítulos 21-24 son un apéndice de relatos y poemas.\n\nMuchos estudiosos ven en 2 Sm 9-20 y 1 Re 1-2 una «historia de la sucesión»: un relato sobre quién heredaría el trono de David. Su estilo, fino y sin adornos, es de los mejores de la Biblia. Se discute si fue una obra independiente.\n\nTorres Amat, que sigue la Vulgata, llama a este libro «2 Reyes».",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b-15a) atribuye 1-2 Samuel a Samuel, Natán y Gad: Samuel hasta su muerte y los otros dos el resto.",
+    "critica": "El libro es anónimo. Forma una unidad con 1 Samuel, y la mayoría de la crítica lo incluye en la Historia deuteronomista, con fuentes más antiguas.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, el libro se escribió hacia el siglo X a. C., por profetas que conocían los hechos.",
+    "critica": "Los hechos se sitúan hacia 1000-970 a. C., y la forma actual es deuteronomista (siglos VII-VI a. C.). Se discute la fecha de las fuentes más antiguas.",
+    "acuerdo": "discusion",
+    "rango": [
+      -950,
+      -550
+    ],
+    "rango_tradicion": [
+      -1000,
+      -950
+    ],
+    "posturas": [
+      {
+        "quien": "Leonhard Rost y Gerhard von Rad",
+        "texto": "La historia de la sucesión se escribió en la corte de Salomón, en el siglo X a. C., por alguien que conocía los hechos."
+      },
+      {
+        "quien": "John Van Seters",
+        "texto": "La historia de la corte no es una fuente antigua: es un añadido posterior a la Historia deuteronomista, del final del exilio o de época persa."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es un solo libro con 1 Samuel, entre los Profetas anteriores.",
+    "ortodoxa": "Es canónico. La Septuaginta lo llama 2 Reinos.",
+    "protestante": "Es canónico, con 1 Samuel."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Sm 5,6-10",
+      "nota": "David toma Jerusalén y la hace su capital."
+    },
+    {
+      "pasaje": "2 Sm 7",
+      "nota": "Dios promete a David una casa y un reino duraderos."
+    },
+    {
+      "pasaje": "2 Sm 11-12",
+      "nota": "David, Betsabé y Urías; el profeta Natán acusa al rey."
+    },
+    {
+      "pasaje": "2 Sm 13",
+      "nota": "La violación de Tamar abre las desgracias de la casa de David."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Samuel (Anchor Bible 9)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The David Story",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "David pasa de rey de Judá a rey de todo Israel y hace de Jerusalén su capital.",
+    "2 Sm 7 promete a David una casa y un reino duraderos; judíos y cristianos lo leen de modo distinto.",
+    "El libro cuenta el pecado de David con Betsabé y deja que el profeta Natán lo acuse.",
+    "Tras la violación de Tamar y la rebelión de Absalón, la violencia entra en la casa de David.",
+    "Torres Amat lo llama «2 Reyes», por la numeración de la Vulgata."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "eclesiastico-medico-don-de-dios",
+  "libro_id": "eclesiastico",
+  "orden": 4,
+  "titulo": "Honra al médico: Ben Sira dice que la medicina viene de Dios",
+  "pasaje": "Sir 38,1-15",
+  "que_dice": "Un enfermo manda llamar al médico, ¿hace bien? Ben Sira responde que sí: el médico merece honor, porque el Altísimo lo creó (38,1-2). El Señor hizo nacer de la tierra los remedios, y el hombre prudente no los desprecia (38,4).\n\nEl pasaje pide hacerlo todo en orden. Primero orar al Señor, que sana, dejar el pecado y ofrecer un sacrificio. Después llamar al médico, que también reza por el alivio del enfermo (38,9-14).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: rezar y recurrir al médico no se excluyen. El Talmud (Berajot 60a) dice que Dios dio permiso al médico para curar, y Sant 5,14-15 pide orar por el enfermo y ungirlo."
+    }
+  ],
+  "critica": {
+    "texto": "El último versículo (38,15) se lee de dos modos según el manuscrito, y cambia el sentido.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Texto hebreo de la Genizá",
+        "texto": "El que peca contra su Hacedor se comporta con arrogancia ante el médico."
+      },
+      {
+        "quien": "Traducción griega",
+        "texto": "Quien peca contra su Hacedor, que caiga en manos del médico: parece un castigo."
+      }
+    ]
+  },
+  "temas": [
+    "oracion",
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

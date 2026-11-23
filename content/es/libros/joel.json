@@ -1,0 +1,83 @@
+{
+  "id": "joel",
+  "seccion_id": "profetas",
+  "orden": 8,
+  "nombre": "Joel",
+  "abreviatura": "Jl",
+  "capitulos": 4,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Una plaga de langostas deja el campo sin cosecha y el profeta ve en ella la señal de un día del Señor. Pide volver a Dios y promete derramar su Espíritu sobre todos.",
+  "presentacion": "Una nube de langostas arrasa los campos de Judá. No queda grano para el Templo y los sacerdotes están de luto (Jl 1). Joel ve en la plaga una advertencia: se acerca el día del Señor, una jornada de juicio. Pide un ayuno de todo el pueblo, desde los ancianos hasta los niños de pecho (Jl 2,12-17).\n\nDespués el tono cambia. Dios responde, devuelve la lluvia y la cosecha, y promete derramar su Espíritu sobre toda carne (Jl 3,1-5). La última parte anuncia el juicio de las naciones (Jl 4).\n\nEste sitio numera Joel en cuatro capítulos, como el hebreo. Torres Amat y otras Biblias antiguas tienen tres: lo que aquí es Jl 3 es en ellas Jl 2,28-32, y Jl 4 es su Jl 3.",
+  "autoria": {
+    "tradicion": "Jl 1,1 presenta el libro como palabra del Señor a Joel, hijo de Petuel, y no dice nada más de él. El Talmud (Baba Batra 15a) atribuye los Doce Profetas a los hombres de la Gran Asamblea.",
+    "critica": "Joel solo se conoce por su libro. La mayoría de la crítica lo ve unitario. Duhm, a comienzos del siglo XX, propuso dos autores, uno para los capítulos 1-2 y otro para los 3-4.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Jl 1,1 no da rey ni fecha. El canon hebreo lo coloca entre Oseas y Amós, y esa posición ha llevado a algunos a leerlo como profeta del siglo VIII a. C.",
+    "critica": "La fecha está en discusión. La mayoría de la crítica prefiere la época persa, porque el Templo funciona, no hay rey y se mencionan los griegos (Jl 4,6).",
+    "acuerdo": "discusion",
+    "rango": [
+      -500,
+      -350
+    ],
+    "posturas": [
+      {
+        "quien": "Wolff y Barton",
+        "texto": "Después del exilio, entre los siglos V y IV a. C.: el Templo está en pie, no hay rey y aparecen los griegos como compradores de esclavos (4,6)."
+      },
+      {
+        "quien": "Keil y quienes lo siguen",
+        "texto": "Hacia el siglo IX a. C., bajo el joven rey Joás: así se explicaría que mande el sacerdote y no el rey."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im).",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el cuarto.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jl 1,4",
+      "nota": "Cuatro nombres de langosta, como cuatro oleadas que no dejan nada."
+    },
+    {
+      "pasaje": "Jl 2,12-13",
+      "nota": "La llamada a volver a Dios con todo el corazón."
+    },
+    {
+      "pasaje": "Jl 3,1-5",
+      "nota": "El Espíritu sobre toda carne (Jl 2,28-32 en otras Biblias)."
+    },
+    {
+      "pasaje": "Jl 4,9-10",
+      "nota": "Invierte la profecía de Is 2,4 y Miq 4,3: aquí los arados se forjan en espadas."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Joel and Obadiah (Old Testament Library)",
+      "autor": "John Barton",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Joel and Amos (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Una plaga de langostas es, para Joel, una advertencia del día del Señor.",
+    "Pide un ayuno de todo el pueblo: volver a Dios con el corazón y no solo con gestos (Jl 2,12-13).",
+    "Jl 3,1-5 promete el Espíritu sobre toda carne; Pedro lo cita en Pentecostés (Hch 2,17-21).",
+    "Este sitio numera Joel en cuatro capítulos, como el hebreo. Torres Amat tiene tres.",
+    "La crítica fecha el libro en los siglos V-IV a. C.; otros defienden una fecha mucho más antigua."
+  ]
+}

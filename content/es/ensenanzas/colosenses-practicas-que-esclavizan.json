@@ -1,0 +1,60 @@
+{
+  "id": "colosenses-practicas-que-esclavizan",
+  "libro_id": "colosenses",
+  "orden": 2,
+  "titulo": "¿Contra qué filosofía y prácticas pone en guardia Colosenses?",
+  "pasaje": "Col 2,8-23",
+  "que_dice": "La carta avisa a la comunidad contra quien quiere atraparla con una *filosofía* (un modo de pensar basado en tradiciones humanas y poderes del mundo, Col 2,8). Cita prácticas: comidas y bebidas, fiestas, lunas nuevas, sábados, una humildad rebuscada y una devoción a los ángeles (2,16-18).\n\nLa carta responde que todo eso es sombra de lo que venía, y que Cristo es la realidad. Quienes han muerto con él ya no deben someterse a reglas que no pasan de lo material (2,17.20-23).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía advierte que comidas, fiestas y sábados eran prácticas de Israel, y que este pasaje no debe leerse como crítica al judaísmo. La carta se dirige a creyentes no judíos y discute con un grupo del que se conocen mal las ideas."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas han leído el pasaje como señal de que los ritos antiguos eran sombra y Cristo la realidad. Ese uso se volvió a veces contra el judaísmo, algo que hoy muchos teólogos cristianos rechazan."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten quiénes eran esos adversarios, ya que la carta no da su nombre y solo cita sus prácticas.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "James Dunn",
+        "texto": "Eran judíos de la zona, con prácticas de pureza y visiones místicas, que juzgaban a los creyentes no judíos desde fuera."
+      },
+      {
+        "quien": "Richard DeMaris",
+        "texto": "Eran no judíos aficionados a la filosofía, con ideas del platonismo medio y elementos judíos y cristianos."
+      },
+      {
+        "quien": "Eduard Lohse",
+        "texto": "Era una mezcla (sincretismo) de ideas judías y paganas, con cultos de misterios y poderes cósmicos."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles to the Colossians and to Philemon (NIGTC)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica",
+      "url": "https://faithlife.com/store/product/3462"
+    },
+    {
+      "titulo": "Colossians and Philemon (Hermeneia)",
+      "autor": "Eduard Lohse",
+      "tradicion": "critica",
+      "url": "https://vufind.daystar.ac.ke/Record/18858"
+    },
+    {
+      "titulo": "The Colossian Controversy: Wisdom in Dispute at Colossae",
+      "autor": "Richard E. DeMaris",
+      "tradicion": "critica",
+      "url": "https://bestcommentaries.com/book/17096"
+    }
+  ]
+}

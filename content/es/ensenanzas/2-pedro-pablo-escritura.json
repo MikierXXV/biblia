@@ -1,0 +1,38 @@
+{
+  "id": "2-pedro-pablo-escritura",
+  "libro_id": "2-pedro",
+  "orden": 4,
+  "titulo": "Un texto que llama Escritura a las cartas de Pablo",
+  "pasaje": "2 Pe 3,15-16",
+  "que_dice": "Al cerrar la carta, su autor recuerda a Pablo como hermano querido y dice que su sabiduría coincide con la suya (3,15). Admite que las cartas de Pablo tienen pasajes difíciles, que los ignorantes tuercen igual que las demás Escrituras (3,16).\n\nEs una de las primeras veces que escritos cristianos se colocan junto a las Escrituras de Israel.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el pasaje muestra que la Escritura difícil necesita una interpretación autorizada dentro de la Iglesia, y que Pedro y Pablo se reconocen mutuamente."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas lecturas protestantes ven aquí un testimonio temprano de la autoridad de los escritos apostólicos, que ya circulaban reunidos y se leían como Escritura."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica considera pseudónima esta carta. El texto supone ya una colección de cartas de Pablo y una generación que mira atrás a los apóstoles (3,2) y a «los padres» (3,4), lo que la sitúa entre el 80 y el 150 según el autor. Bauckham la lee como un «testamento» de Pedro, un género en que la pseudonimia era reconocible para los lectores.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

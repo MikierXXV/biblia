@@ -1,0 +1,38 @@
+{
+  "id": "1-cronicas-oracion-todo-es-don",
+  "libro_id": "1-cronicas",
+  "orden": 3,
+  "titulo": "David reconoce que todo lo que ofrece ya era de Dios",
+  "pasaje": "1 Cr 29,10-19",
+  "que_dice": "Es el final del reinado. David ha reunido oro, plata y bronce para el Templo, y el pueblo ha donado de buen grado. Entonces bendice a Dios delante de toda la asamblea (1 Cr 29,10-19).\n\nSu oración dice que todo lo que se ofrece viene de Dios, y que ellos son forasteros y huéspedes ante él (29,14-15). Pide un corazón íntegro para el pueblo y para su hijo Salomón.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recita parte de esta oración (1 Cr 29,10-13) en los salmos de alabanza que preceden al rezo matutino."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica de las horas recoge 1 Cr 29,10-13 como cántico de bendición."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica, la oración es obra del Cronista y no un documento de la época de David. Expresa su teología: el rey y el pueblo ofrecen lo que Dios ya les dio, y el Templo es el centro de esa gratitud.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

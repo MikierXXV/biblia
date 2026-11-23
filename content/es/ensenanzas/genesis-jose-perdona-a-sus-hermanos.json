@@ -1,0 +1,33 @@
+{
+  "id": "genesis-jose-perdona-a-sus-hermanos",
+  "libro_id": "genesis",
+  "orden": 5,
+  "titulo": "José perdona a sus hermanos: Dios convirtió el mal en bien",
+  "pasaje": "Gn 50,15-21",
+  "que_dice": "Jacob ha muerto y los hermanos de José tienen miedo. Años atrás lo vendieron como esclavo. Ahora le mandan un mensaje: antes de morir, su padre pidió que los perdonara.\n\nJosé llora al oírlo. Les responde que él no ocupa el lugar de Dios. Ellos planearon un mal, y Dios lo convirtió en bien para salvar a muchos. Los consuela y promete mantenerlos a ellos y a sus hijos (50,15-21).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el perdón de José es modelo de reconciliación sin venganza. Su frase sobre el mal y el bien resume cómo ve el libro la acción de Dios: casi sin intervenciones visibles, a través de las decisiones humanas."
+    }
+  ],
+  "critica": {
+    "texto": "Gn 37-50 es una novela corta en la que Dios casi no interviene en escena (solo habla en 46,2-4) y el relato se apoya en la psicología de los personajes.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

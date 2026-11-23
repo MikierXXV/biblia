@@ -1,0 +1,91 @@
+{
+  "id": "2-reyes",
+  "seccion_id": "historicos",
+  "orden": 7,
+  "nombre": "2 Reyes",
+  "abreviatura": "2 Re",
+  "capitulos": 25,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Sigue a los reyes de Israel y de Judá hasta la caída de Samaría y de Jerusalén. Cuenta los milagros de Eliseo, las reformas de Ezequías y Josías y el exilio en Babilonia.",
+  "presentacion": "Eliseo recibe el manto de Elías y con él, un doble de su espíritu. Los primeros capítulos de 2 Reyes cuentan sus milagros: una viuda con aceite, un niño devuelto a la vida, un general extranjero curado de la lepra.\n\nLuego el libro avanza hacia la ruina. Samaría cae ante Asiria en el 722 a. C. y su población es deportada (capítulo 17). Judá sobrevive más de un siglo, con reformas religiosas de Ezequías y de Josías, hasta que Babilonia destruye Jerusalén y su templo en el 587 a. C. (capítulos 24-25).\n\nEl libro explica esa caída como consecuencia de la infidelidad del pueblo y de sus reyes. Pero acaba con una nota abierta: el rey Joaquín, preso en Babilonia, es sacado de la cárcel y se sienta a la mesa del rey (25,27-30).\n\nTorres Amat, que sigue la Vulgata, llama a este libro «4 Reyes».",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b-15a) atribuye 1-2 Reyes al profeta Jeremías.",
+    "critica": "El libro es anónimo y forma una unidad con 1 Reyes. La mayoría de la crítica lo incluye en la Historia deuteronomista, que usó anales de los reyes y relatos de profetas.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Jeremías, el libro se escribió en el siglo VI a. C., hacia el exilio.",
+    "critica": "Los hechos van de hacia 850 a 561 a. C. El último dato, la liberación de Joaquín, es de 561. La forma final es del exilio, aunque se discute si hubo una edición anterior bajo Josías.",
+    "acuerdo": "discusion",
+    "rango": [
+      -650,
+      -550
+    ],
+    "rango_tradicion": [
+      -600,
+      -560
+    ],
+    "posturas": [
+      {
+        "quien": "Frank M. Cross",
+        "texto": "Hubo una primera edición bajo Josías, hacia 620 a. C., y una segunda en el exilio con la explicación de la caída."
+      },
+      {
+        "quien": "Martin Noth",
+        "texto": "Un solo autor, hacia 560 a. C., escribió la obra para explicar la ruina del pueblo."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es un solo libro con 1 Reyes, entre los Profetas anteriores.",
+    "ortodoxa": "Es canónico. La Septuaginta lo llama 4 Reinos.",
+    "protestante": "Es canónico, con 1 Reyes."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Re 4",
+      "nota": "Eliseo ayuda a una viuda y devuelve la vida al hijo de la sunamita."
+    },
+    {
+      "pasaje": "2 Re 5",
+      "nota": "Naamán, general de Aram, queda limpio de la lepra."
+    },
+    {
+      "pasaje": "2 Re 17",
+      "nota": "Cae Samaría y el libro explica por qué."
+    },
+    {
+      "pasaje": "2 Re 22-23",
+      "nota": "Josías encuentra el libro de la ley y hace una reforma."
+    },
+    {
+      "pasaje": "2 Re 25",
+      "nota": "Cae Jerusalén; Joaquín es liberado en Babilonia."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Kings (Anchor Bible 11)",
+      "autor": "Mordechai Cogan y Hayim Tadmor",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "I & II Kings: A Commentary",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Eliseo hace milagros de cercanía y cura a un general extranjero, Naamán.",
+    "Samaría cae en 722 a. C. y Jerusalén en 587 a. C.; el libro lo explica como fruto de la infidelidad.",
+    "Ezequías y Josías hacen reformas religiosas; la arqueología discute su alcance.",
+    "El libro acaba con Joaquín liberado: una luz mínima de esperanza.",
+    "Torres Amat llama «4 Reyes» a este libro, por la numeración de la Vulgata."
+  ]
+}

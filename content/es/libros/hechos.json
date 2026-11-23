@@ -1,0 +1,88 @@
+{
+  "id": "hechos",
+  "seccion_id": "nuevo-testamento",
+  "orden": 5,
+  "nombre": "Hechos de los Apóstoles",
+  "abreviatura": "Hch",
+  "bloque": "hechos",
+  "capitulos": 28,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta cómo el mensaje de Jesús sale de Jerusalén y llega a Roma. Es la segunda parte de la obra de Lucas.",
+  "presentacion": "Los Hechos retoman el hilo donde acaba el evangelio de Lucas: Jesús asciende al cielo y los discípulos esperan el Espíritu (Hch 1). El libro sigue su expansión, de Jerusalén a Judea, a Samaría y hasta Roma (Hch 1,8).\n\nLa primera parte tiene a Pedro como protagonista: Pentecostés, la vida de los primeros creyentes y el bautismo de Cornelio. La segunda sigue a Pablo en sus viajes y acaba con él preso en Roma (Hch 13-28).\n\nEl libro incluye discursos, escritos con las ideas de Lucas. Sus datos no siempre coinciden con las cartas de Pablo, y por eso se discute su fiabilidad histórica.",
+  "autoria": {
+    "tradicion": "La tradición cristiana lo atribuye a Lucas, compañero de Pablo y autor del evangelio. Los pasajes en primera persona del plural («nosotros») se leen como señal de que estuvo presente.",
+    "critica": "La crítica lo considera anónimo, del mismo autor que el evangelio. Muchos dudan de que fuera compañero de Pablo, porque su visión de Pablo difiere de la de sus cartas.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición se escribió hacia el año 62 d. C., cuando acaba el relato con Pablo en Roma.",
+    "critica": "La crítica lo sitúa después del evangelio de Lucas, pero discute cuánto después.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Joseph A. Fitzmyer y la mayoría",
+        "texto": "Hacia los años 80-90 d. C., poco después del evangelio."
+      },
+      {
+        "quien": "Richard I. Pervo y el Acts Seminar",
+        "texto": "Hacia 110-120 d. C., porque el autor parece conocer obras de Josefo y una colección de cartas de Pablo."
+      }
+    ],
+    "rango": [
+      80,
+      90
+    ],
+    "rango_tradicion": [
+      60,
+      65
+    ]
+  },
+  "canon": {
+    "judia": "El judaísmo no reconoce el Nuevo Testamento como Escritura. Se estudia como fuente del judaísmo del siglo I; The Jewish Annotated New Testament lo anota desde esa perspectiva.",
+    "ortodoxa": "Es canónico y se lee en la liturgia durante el tiempo pascual, entre la Pascua y Pentecostés.",
+    "protestante": "Es canónico y ocupa el quinto lugar del Nuevo Testamento, tras los evangelios."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Hch 2,1-13",
+      "nota": "Pentecostés: el Espíritu desciende sobre los discípulos."
+    },
+    {
+      "pasaje": "Hch 10,1-48",
+      "nota": "Pedro y el centurión Cornelio."
+    },
+    {
+      "pasaje": "Hch 15,1-29",
+      "nota": "El concilio de Jerusalén."
+    },
+    {
+      "pasaje": "Hch 7,54-60",
+      "nota": "La muerte de Esteban."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Acts of the Apostles (Anchor Bible 31)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Acts: A Commentary (Hermeneia)",
+      "autor": "Richard I. Pervo",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Los Hechos son la segunda parte de la obra de Lucas.",
+    "Cuentan cómo el mensaje sale de Jerusalén y llega a Roma.",
+    "Pentecostés, Cornelio y el concilio de Jerusalén marcan la apertura a los no judíos.",
+    "La mayoría de críticos ve en los discursos una composición de Lucas que no siempre coincide con Pablo.",
+    "La tradición lo fecha antes del año 65; la crítica duda entre 80-90 y 110-120 d. C."
+  ]
+}

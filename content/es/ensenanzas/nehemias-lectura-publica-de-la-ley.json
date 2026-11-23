@@ -1,0 +1,54 @@
+{
+  "id": "nehemias-lectura-publica-de-la-ley",
+  "libro_id": "nehemias",
+  "orden": 3,
+  "titulo": "La lectura pública de la ley termina en fiesta, no en duelo",
+  "pasaje": "Neh 8",
+  "que_dice": "Es el día de Año Nuevo. Todo el pueblo, hombres, mujeres y niños en edad de entender, se reúne en la plaza delante de la Puerta del Agua. Esdras lee la ley desde una tribuna de madera, del amanecer hasta mediodía (Neh 8,1-3).\n\nLos levitas explican lo leído y la gente llora. Nehemías y Esdras les dicen que no lloren: es día santo, hay que comer y compartir con quien no tiene (8,9-12). Después celebran la fiesta de las Cabañas.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en esta escena el origen de la lectura pública de la Torá. El Talmud (Meguilá 3a) entiende que 8,8 habla de traducción y explicación: el *targum*, la versión aramea que acompañaba la lectura."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición protestante subraya aquí la lectura y la explicación de la Escritura al pueblo, en una lengua que entienda. Es un precedente de la predicación."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Tamara Eskenazi",
+      "texto": "Tamara Eskenazi, en su lectura literaria de Esdras-Nehemías, ve que la autoridad pasa del profeta o del rey al texto escrito y a la comunidad que lo lee."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute si este capítulo está en su lugar original dentro del conjunto de Esdras-Nehemías.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Está en su sitio: Esdras y Nehemías fueron contemporáneos y trabajaron juntos."
+      },
+      {
+        "quien": "Joseph Blenkinsopp",
+        "texto": "Continuaba originalmente el relato de Esd 7-8 y se trasladó aquí al unir las dos obras."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "In an Age of Prose: A Literary Approach to Ezra–Nehemiah",
+      "autor": "Tamara C. Eskenazi",
+      "tradicion": "literaria"
+    }
+  ]
+}

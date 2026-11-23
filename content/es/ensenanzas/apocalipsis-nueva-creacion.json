@@ -1,0 +1,34 @@
+{
+  "id": "apocalipsis-nueva-creacion",
+  "libro_id": "apocalipsis",
+  "orden": 6,
+  "titulo": "Dios enjugará toda lágrima y hará nuevas todas las cosas",
+  "pasaje": "Ap 21,1-5",
+  "que_dice": "Tras la caída de Babilonia, Juan ve un cielo nuevo y una tierra nueva, sin mar. Una ciudad, la nueva Jerusalén, baja del cielo como una novia, y una voz anuncia que Dios habitará con los hombres.\n\nDios enjugará toda lágrima de sus ojos. Ya no habrá muerte, ni llanto, ni dolor, y quien está en el trono declara que hace nuevas todas las cosas (Ap 21,1-5).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee en Isaías 65,17 y 25,8 las promesas de cielos nuevos y de una muerte vencida, y las espera para Israel y las naciones. El Apocalipsis las retoma para su comunidad cristiana."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, la escena expresa la renovación de la creación entera y la esperanza de la resurrección."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de los críticos subraya que Juan teje la escena con Isaías (65,17; 25,8) y con las imágenes de Jerusalén y del Templo. Lo que baja es una ciudad, no un lugar lejano. Su función es consolar a comunidades que sufren.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "sufrimiento-del-inocente-y-lamento",
+    "creacion-y-cuidado-del-mundo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Revelation 17-22 (Word Biblical Commentary 52C)",
+      "autor": "David E. Aune",
+      "tradicion": "critica"
+    }
+  ]
+}

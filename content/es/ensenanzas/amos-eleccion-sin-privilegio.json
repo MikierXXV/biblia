@@ -1,0 +1,52 @@
+{
+  "id": "amos-eleccion-sin-privilegio",
+  "libro_id": "amos",
+  "orden": 3,
+  "titulo": "Dios sacó también a otros pueblos: la elección no es un privilegio",
+  "pasaje": "Am 3,1-2; 9,7-15",
+  "que_dice": "Amós sorprende a Israel. Dios dice que solo lo ha conocido a él entre todas las familias de la tierra, y por eso le pedirá cuentas de todas sus culpas (3,1-2). La elección es responsabilidad, no garantía.\n\nMás adelante va más lejos: para Dios, los israelitas son como los cusitas, los habitantes de Etiopía. Él sacó a Israel de Egipto, pero también a los filisteos de Caftor y a los arameos de Quir (9,7). El libro acaba con una promesa: Dios levantará la cabaña caída de David (9,11-15).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Sanedrín 96b) llama al mesías Bar Nafle, «hijo de la caída», a partir de la cabaña caída de Am 9,11."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante leen en Hch 15,16-18 cómo Santiago cita Am 9,11-12 en la versión griega, para justificar que los no judíos entren sin circuncisión."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute quién escribió la promesa final de 9,11-15 y en qué momento: si fue el propio Amós o un editor posterior.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Wolff",
+        "texto": "Es posterior al exilio: la cabaña caída supone que la dinastía de David ya había caído."
+      },
+      {
+        "quien": "Paul",
+        "texto": "Es de Amós. La imagen alude a la monarquía unida, que se partió a la muerte de Salomón."
+      }
+    ]
+  },
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Amos (Hermeneia)",
+      "autor": "Shalom M. Paul",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Joel and Amos (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ]
+}

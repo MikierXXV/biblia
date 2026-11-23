@@ -1,0 +1,82 @@
+{
+  "id": "2-pedro",
+  "seccion_id": "nuevo-testamento",
+  "orden": 22,
+  "nombre": "2 Pedro",
+  "abreviatura": "2 Pe",
+  "bloque": "cartas-catolicas",
+  "capitulos": 3,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Advierte contra falsos maestros y responde a la tardanza del fin. Su autoría y su fecha son muy discutidas.",
+  "presentacion": "Un hombre que se sabe cerca de la muerte deja un último mensaje a comunidades cristianas. Se presenta como Simón Pedro (1,1) y recuerda que estuvo con Jesús en el monte de la transfiguración (1,16-18). Escribe contra maestros que se burlan de la espera del fin.\n\nLa carta tiene tres partes: un llamamiento a crecer en la fe y la virtud (cap. 1), una advertencia contra falsos maestros (cap. 2) y una respuesta a la tardanza del retorno de Cristo (cap. 3). Su autoría es una de las más discutidas del Nuevo Testamento, y su lugar en el canon tardó en asentarse.",
+  "autoria": {
+    "tradicion": "La tradición cristiana la atribuye a Simón Pedro, apóstol, que se nombra en 1,1.",
+    "critica": "Casi toda la crítica la considera pseudónima: el lenguaje, la dependencia de Judas y la mirada atrás a los apóstoles apuntan a otro autor. Bauckham la lee como un «testamento» de Pedro.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que la atribuye a Pedro, es anterior a su muerte en Roma, hacia el 64-67 d. C.",
+    "critica": "Las propuestas van del 80 al 150 d. C., según el autor.",
+    "acuerdo": "discusion",
+    "rango": [
+      80,
+      150
+    ],
+    "rango_tradicion": [
+      64,
+      67
+    ],
+    "posturas": [
+      {
+        "quien": "Richard Bauckham",
+        "texto": "La carta es un testamento de Pedro escrito hacia el 80-90, por un discípulo que habla en su nombre."
+      },
+      {
+        "quien": "Raymond E. Brown",
+        "texto": "La sitúa hacia el 130, en el límite de los escritos del Nuevo Testamento (Introducción al Nuevo Testamento, Trotta)."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica. En la antigüedad se discutió: Orígenes y Eusebio de Cesarea recogen dudas sobre ella.",
+    "protestante": "Es canónica, como en la tradición católica, pese a las dudas antiguas sobre su autoría."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Pe 1,5-8",
+      "nota": "La cadena de cualidades que debe crecer sobre la fe."
+    },
+    {
+      "pasaje": "2 Pe 2,1-10",
+      "nota": "Aviso contra los falsos maestros, con paralelos en Judas."
+    },
+    {
+      "pasaje": "2 Pe 3,8-9",
+      "nota": "La demora del Señor es paciencia, no descuido."
+    },
+    {
+      "pasaje": "2 Pe 3,15-16",
+      "nota": "Las cartas de Pablo, puestas junto a las demás Escrituras."
+    }
+  ],
+  "para_recordar": [
+    "2 Pedro dice ser de Pedro, pero casi toda la crítica la considera pseudónima.",
+    "Su capítulo 2 reelabora buena parte de Judas.",
+    "Responde a la tardanza del fin: la demora es paciencia de Dios.",
+    "Llama Escritura a las cartas de Pablo (3,15-16)."
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

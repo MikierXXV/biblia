@@ -1,0 +1,53 @@
+{
+  "id": "lamentaciones-la-misericordia-no-se-acaba",
+  "libro_id": "lamentaciones",
+  "orden": 3,
+  "titulo": "En el abismo, el poeta recuerda que la misericordia no se agota",
+  "pasaje": "Lam 3,1-33",
+  "que_dice": "El poema central cambia de voz: habla un hombre, no la ciudad. Dice que ha visto la aflicción por la vara de la ira de Dios (3,1). Se siente encerrado en tinieblas, con muros alrededor y cadenas pesadas, y Dios no deja pasar su oración (3,2-9).\n\nLuego, sin transición, cambia el tono. El hombre dice que recuerda algo y por eso espera: la misericordia de Dios no se acaba y su fidelidad se renueva cada mañana (3,21-23). Es bueno esperar en silencio su salvación (3,26).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los comentarios rabínicos, como Eijá Rabá, relacionan lo «nuevo cada mañana» con la renovación diaria de Israel y con la redención futura."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchas comunidades protestantes, sobre todo evangélicas, han hecho de Lam 3,22-23 un himno: *Great Is Thy Faithfulness* («Grande es tu fidelidad»), de 1923."
+    }
+  ],
+  "critica": {
+    "texto": "Es el poema más largo y el único con tres versos seguidos por cada letra: 66 versos en 22 grupos de tres. La crítica discute quién es el «hombre» (en hebreo, *géber*): un individuo concreto o una voz que representa a toda la comunidad.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Un superviviente concreto, quizá un cantor del culto, que da su experiencia personal para consolar a otros."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Una figura representativa. El «hombre» habla por la comunidad y no por una persona identificable."
+      }
+    ]
+  },
+  "temas": [
+    "esperanza-y-consuelo",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Lamentations (Old Testament Library)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Lamentations (New Century Bible Commentary)",
+      "autor": "Iain W. Provan",
+      "tradicion": "protestante"
+    }
+  ]
+}

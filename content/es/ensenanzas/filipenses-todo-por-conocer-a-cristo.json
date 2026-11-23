@@ -1,0 +1,58 @@
+{
+  "id": "filipenses-todo-por-conocer-a-cristo",
+  "libro_id": "filipenses",
+  "orden": 3,
+  "titulo": "¿Rechaza Pablo el judaísmo cuando llama basura a sus títulos?",
+  "pasaje": "Flp 3,7-11",
+  "que_dice": "Pablo enumera sus credenciales como judío: circuncidado al octavo día, del pueblo de Israel, de la tribu de Benjamín, hebreo, fariseo, irreprochable ante la ley (Flp 3,5-6).\n\nDespués lo cuenta todo como pérdida y como *skúbala*, palabra griega que designa desechos, por conocer a Cristo (3,7-8). Quiere una justicia que no venga de la ley, sino de la fe en Cristo (3,9). La pregunta es qué rechaza: el judaísmo o la confianza en sus propios títulos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Estudiosos judíos del enfoque «Pablo dentro del judaísmo», como Pamela Eisenbaum, rechazan que abandone el judaísmo: sigue llamándose israelita (Rom 11,1) y habla de pérdida, no de condena. Ven en él a un judío apóstol de las naciones."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y la lectura luterana contraponen la justicia propia por la ley y la justicia recibida por la fe (3,9). Ven aquí que Pablo dejó de confiar en sus obras."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten qué rechaza Pablo aquí y de qué cambio habla: de religión o de vocación.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Krister Stendahl",
+        "texto": "Pablo no tenía mala conciencia por la ley; el texto describe un cambio de vocación, no de religión."
+      },
+      {
+        "quien": "Alan Segal",
+        "texto": "Pablo se convirtió: pasó de un judaísmo fariseo a otro, el de la secta de Jesús, tras una experiencia visionaria. Fue un cambio real, aunque dentro de la tradición judía."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Lo que rechaza es confiar en ser del pueblo de la ley, un privilegio étnico."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul Among Jews and Gentiles and Other Essays (Fortress Press)",
+      "autor": "Krister Stendahl",
+      "tradicion": "protestante",
+      "url": "https://fortresspress.com/store/product/9780800612245/Paul-Among-Jews-and-Gentiles-and-Other-Essays"
+    },
+    {
+      "titulo": "Paul the Convert: The Apostolate and Apostasy of Saul the Pharisee (Yale University Press, 1990)",
+      "autor": "Alan F. Segal",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Climax of the Covenant",
+      "autor": "N. T. Wright",
+      "tradicion": "protestante"
+    }
+  ]
+}

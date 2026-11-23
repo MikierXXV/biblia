@@ -1,0 +1,38 @@
+{
+  "id": "zacarias-rey-humilde-en-un-asno",
+  "libro_id": "zacarias",
+  "orden": 3,
+  "titulo": "Un rey humilde sobre un asno: ¿quién es y cuándo llega?",
+  "pasaje": "Zac 9,9-10",
+  "que_dice": "Jerusalén recibe una orden de alegría: llega su rey, justo y victorioso, pero pobre y montado en un asno, cría de asna (9,9). No viene en caballo de guerra, como los reyes de los imperios.\n\nDios quitará de Israel los carros y los caballos, y romperá el arco de combate. Su rey anunciará la paz a las naciones y su dominio irá de mar a mar (9,10).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee un mesías davídico futuro. El Talmud (Sanedrín 98a) cita a Rabí Yehoshúa ben Leví: si Israel lo merece, vendrá con las nubes del cielo; si no, pobre sobre un asno."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones cristianas, católica, ortodoxa y protestante, coinciden en que Mt 21,5 y Jn 12,15 citan Zac 9,9 al contar la entrada de Jesús en Jerusalén, el domingo de Ramos. Ven en él a ese rey humilde."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica lee Zac 9,9 como la esperanza de un rey no guerrero, opuesto al poder militar de los imperios.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "mesias-y-esperanza-mesianica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Zechariah 9-14 and Malachi (Old Testament Library)",
+      "autor": "David L. Petersen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

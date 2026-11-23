@@ -1,0 +1,42 @@
+{
+  "id": "romanos-vida-en-el-espiritu",
+  "libro_id": "romanos",
+  "orden": 5,
+  "titulo": "¿Qué significa vivir según el Espíritu y no según la carne?",
+  "pasaje": "Rom 8,1-17",
+  "que_dice": "Pablo acaba de describir la lucha interior de quien quiere obrar bien y no puede (Rom 7). Abre el capítulo 8 con una frase de alivio: ya no hay condena para los que están en Cristo Jesús.\n\nContrapone dos modos de vivir, según la *carne* (la existencia humana cerrada en sí misma, en griego, *sarx*) y según el Espíritu de Dios. Dice que ese Espíritu permite llamar a Dios «Abba», «padre» en arameo, y hace de los creyentes hijos y herederos (8,15-17).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el Espíritu infunde en el creyente la gracia que lo hace hijo adoptivo y capaz de obrar el bien. Es la base de la doctrina de la gracia santificante y de las virtudes."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa lee aquí la *théosis*, la participación del ser humano en la vida de Dios por el Espíritu. Basilio de Cesarea y Gregorio Palamás desarrollaron esa doctrina."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino ven en el Espíritu la certeza de la adopción y de la fe. Las iglesias pentecostales, desde el siglo XX, subrayan además la experiencia personal del Espíritu."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que el capítulo 8 responde al fracaso descrito en Rom 7 y culmina la primera parte de la carta.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Romans (Anchor Bible 33)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Romans 1-8 (Word Biblical Commentary 38A)",
+      "autor": "James D. G. Dunn",
+      "tradicion": "critica"
+    }
+  ]
+}

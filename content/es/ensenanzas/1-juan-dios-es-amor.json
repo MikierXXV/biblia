@@ -1,0 +1,33 @@
+{
+  "id": "1-juan-dios-es-amor",
+  "libro_id": "1-juan",
+  "orden": 1,
+  "titulo": "¿Qué quiere decir que Dios es amor?",
+  "pasaje": "1 Jn 4,7-21",
+  "que_dice": "Una comunidad dividida recibe una carta que insiste en amarse. El amor viene de Dios, dice el autor, y quien ama ha nacido de Dios y lo conoce (4,7). El motivo es que Dios es amor y lo mostró enviando a su Hijo (4,8-10).\n\nLa carta invierte el orden esperado: los creyentes no aman primero para llegar a Dios, sino que Dios amó primero (4,10.19). A Dios nadie lo ha visto, pero si los creyentes se aman, Dios permanece en ellos (4,12).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía conoce el amor de Dios a su pueblo (Os 11,1-4) y el mandato de amar al prójimo (Lv 19,18). Rabí Akiva lo llamó gran principio de la Torá. Ve en este texto una formulación cristiana, porque concentra el amor de Dios en el envío del Hijo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, 4,16 resume la fe cristiana. Benedicto XVI tomó esa frase para su primera encíclica, *Deus caritas est* (en latín, «Dios es amor», 2005), dedicada al amor de Dios y al amor al prójimo."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en 1 Jn un texto de la escuela joánica, cercano al evangelio (Jn 13,34). Raymond Brown lo lee tras una ruptura de la comunidad (2,19), de modo que amar a los hermanos es también una cuestión de lealtad interna.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

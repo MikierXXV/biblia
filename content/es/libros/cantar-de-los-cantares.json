@@ -1,0 +1,87 @@
+{
+  "id": "cantar-de-los-cantares",
+  "seccion_id": "sapienciales",
+  "orden": 5,
+  "nombre": "Cantar de los Cantares",
+  "abreviatura": "Cant",
+  "capitulos": 8,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Poemas de amor entre dos amantes, con un lenguaje sensual poco común en la Biblia. Se ha leído como amor humano y como alegoría.",
+  "presentacion": "Una mujer desea los besos de su amado: así abre el Cantar de los Cantares (1,2). El libro es una serie de poemas de amor entre ella y él, con un coro de mujeres de Jerusalén. La voz femenina predomina. Cada uno describe el cuerpo del otro con imágenes de jardines, viñas y animales.\n\nSe lee de dos modos desde hace dos mil años. La lectura alegórica ve en la pareja a Dios y su pueblo, a Cristo y la Iglesia, o a Dios y el alma. La lectura literal ve amor humano.\n\nEl título es un superlativo, «el mejor de los cantos», y lo atribuye a Salomón. Se discute desde el principio por qué un libro de amor erótico está en la Biblia.",
+  "autoria": {
+    "tradicion": "La tradición lo atribuye a Salomón (1,1), a quien 1 Re 5,12 atribuye mil cinco cantares.",
+    "critica": "El libro es anónimo. El «de Salomón» del título puede significar «dedicado a» o «sobre» Salomón.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Salomón, el libro es del siglo X a. C.",
+    "critica": "La fecha está en discusión: se ha propuesto desde la monarquía hasta la época helenística.",
+    "acuerdo": "discusion",
+    "rango": [
+      -500,
+      -200
+    ],
+    "rango_tradicion": [
+      -970,
+      -930
+    ],
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Lo data en época persa o helenística (siglos V-III a. C.), por su hebreo y por algunas palabras de origen persa o griego."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Lo sitúa antes, entre los siglos X y VIII a. C., por menciones como la de Tirsá, capital del reino del norte (6,4)."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), como uno de los cinco rollos (megillot). Se lee en Pésaj, la Pascua. Rabí Akiba lo llamó el santo de los santos (Mishná, Yadayim 3,5).",
+    "ortodoxa": "Es canónico y figura entre los libros poéticos y sapienciales.",
+    "protestante": "Es canónico y figura entre los libros poéticos."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Cant 1,2-4",
+      "nota": "Apertura: ella desea los besos de él."
+    },
+    {
+      "pasaje": "Cant 2,10-13",
+      "nota": "Él la llama a salir: ha llegado la primavera."
+    },
+    {
+      "pasaje": "Cant 5,2-8",
+      "nota": "Ella busca de noche al amado."
+    },
+    {
+      "pasaje": "Cant 8,6-7",
+      "nota": "El amor, fuerte como la muerte."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Song of Songs and the Ancient Egyptian Love Songs",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "God and the Rhetoric of Sexuality",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    }
+  ],
+  "para_recordar": [
+    "El Cantar son poemas de amor entre un hombre y una mujer, con voz femenina dominante.",
+    "Desde hace siglos se lee como amor humano y como alegoría del amor de Dios.",
+    "Rabí Akiba lo defendió como «santo de los santos» (Mishná, Yadayim 3,5).",
+    "Tiene paralelos en las canciones de amor del Egipto antiguo.",
+    "La fecha está en discusión: de la monarquía a la época helenística."
+  ]
+}

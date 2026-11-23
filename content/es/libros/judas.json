@@ -1,0 +1,79 @@
+{
+  "id": "judas",
+  "seccion_id": "nuevo-testamento",
+  "orden": 26,
+  "nombre": "Judas",
+  "abreviatura": "Jds",
+  "bloque": "cartas-catolicas",
+  "capitulos": 1,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Carta breve contra maestros que llevan a la comunidad por mal camino. Cita textos judíos no canónicos.",
+  "presentacion": "Judas quería escribir sobre la salvación común, pero se ve obligado a pedir que combatan por la fe: unos intrusos se han colado en la comunidad. La carta es una polémica de veinticinco versículos, con ejemplos de juicio en serie (Israel en el desierto, ángeles, Sodoma) y citas de textos judíos no bíblicos.\n\nSu rasgo más llamativo es la cita de 1 Enoc (vv. 14-15), un libro que casi ninguna tradición recibió en la Biblia. Jerónimo recuerda que por eso muchos rechazaron la carta. Su relación con 2 Pe 2 es estrecha.",
+  "autoria": {
+    "tradicion": "La tradición la atribuye a Judas, hermano de Santiago y, según la lectura habitual, hermano del Señor (v. 1).",
+    "critica": "Se discute si fue ese Judas o un autor posterior que usa su nombre. Bauckham defiende en una monografía de 1990 la autoría del familiar de Jesús; otros críticos ven pseudonimia.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que la atribuye al hermano de Jesús, es de la segunda mitad del siglo I.",
+    "critica": "La fecha depende de la autoría. Una carta del propio Judas sería de mediados del siglo I; si es pseudónima, de finales.",
+    "acuerdo": "discusion",
+    "rango": [
+      60,
+      110
+    ],
+    "posturas": [
+      {
+        "quien": "Richard Bauckham",
+        "texto": "La escribió Judas, hermano de Jesús, en ambiente judeocristiano de Palestina, en la primera generación."
+      },
+      {
+        "quien": "Quienes ven pseudonimia",
+        "texto": "Un autor posterior usa el nombre de Judas; la mirada atrás a los apóstoles (v. 17) apunta al final del siglo I."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica. La Iglesia ortodoxa etíope recibe además 1 Enoc, que Judas cita.",
+    "protestante": "Es canónica, como en la tradición católica, aunque en la antigüedad se dudó de ella."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Jds 3-4",
+      "nota": "Combatir por la fe transmitida de una vez para siempre."
+    },
+    {
+      "pasaje": "Jds 14-15",
+      "nota": "Cita de 1 Enoc, libro fuera de casi todos los cánones."
+    },
+    {
+      "pasaje": "Jds 24-25",
+      "nota": "La doxología final."
+    }
+  ],
+  "para_recordar": [
+    "Judas es una polémica contra intrusos, con ejemplos de juicio en serie.",
+    "Cita 1 Enoc, que la Iglesia etíope recibe como Escritura y casi nadie más.",
+    "2 Pedro 2 reelabora buena parte de Judas, no al revés.",
+    "La crítica discute si lo escribió el hermano de Jesús o un autor posterior."
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

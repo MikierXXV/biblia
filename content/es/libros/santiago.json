@@ -1,0 +1,88 @@
+{
+  "id": "santiago",
+  "seccion_id": "nuevo-testamento",
+  "orden": 20,
+  "nombre": "Santiago",
+  "abreviatura": "Sant",
+  "bloque": "cartas-catolicas",
+  "capitulos": 5,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Carta práctica sobre fe y obras, riqueza y lengua. Se la ha leído como contrapunto de Pablo, lectura que hoy se matiza.",
+  "presentacion": "Un rico con anillos de oro entra en la reunión y le ofrecen el mejor sitio. Detrás llega un pobre con ropa sucia, y le dicen que se quede de pie (Sant 2,2-3). Con esta escena pasa el autor de la queja al reproche.\n\nLa carta se dirige a «las doce tribus de la dispersión» y reúne consejos breves sobre la prueba, la riqueza, la lengua, la paciencia y la oración. Se parece más a la literatura sapiencial de Israel que a una carta de Pablo, y sus órdenes son directas.\n\nEs famosa por una frase: la fe sin obras está muerta (2,26). Durante siglos se leyó como respuesta a Pablo. Hoy muchos especialistas matizan ese conflicto y piden leerla por sí misma.",
+  "autoria": {
+    "tradicion": "La tradición la atribuye a Santiago, el «hermano del Señor», jefe de la comunidad de Jerusalén y muerto hacia el año 62.",
+    "critica": "La crítica está dividida: Bauckham y McKnight la creen de Santiago, quizá con ayuda de un secretario; Dibelius y Allison la creen pseudónima. El griego es de buena calidad.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Si es de Santiago, es anterior a su muerte, hacia el año 62, y sería de las cartas más antiguas del Nuevo Testamento.",
+    "critica": "La fecha depende de la autoría y cubre medio siglo, entre los años 50 y 110.",
+    "acuerdo": "discusion",
+    "rango": [
+      50,
+      110
+    ],
+    "rango_tradicion": [
+      45,
+      62
+    ],
+    "posturas": [
+      {
+        "quien": "Richard Bauckham y Scot McKnight",
+        "texto": "Es de Santiago o está escrita en su nombre antes del 62, y refleja la Iglesia de Jerusalén."
+      },
+      {
+        "quien": "Martin Dibelius y Dale Allison",
+        "texto": "Es pseudónima y tardía, entre el 80 y el 110, y recoge la tradición del judaísmo helenístico y de Jesús."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica y se lee mucho en la liturgia de las iglesias de Oriente.",
+    "protestante": "Es canónica. Lutero dudó de su valor en 1522 y la colocó al final de su Nuevo Testamento; Calvino la aceptó, aunque dudó de qué Santiago la escribió."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Sant 2,1-9",
+      "nota": "Contra el favoritismo con el rico y el desprecio del pobre en la asamblea."
+    },
+    {
+      "pasaje": "Sant 2,14-26",
+      "nota": "La fe sin obras está muerta, con los ejemplos de Abrahán y Rajab."
+    },
+    {
+      "pasaje": "Sant 3,1-12",
+      "nota": "La lengua, pequeña como el timón de un barco y capaz de incendiar un bosque."
+    },
+    {
+      "pasaje": "Sant 5,13-16",
+      "nota": "Oración por los enfermos y confesión mutua en la comunidad."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Epistle of James (ICC)",
+      "autor": "Dale C. Allison Jr.",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Letter of James (NICNT)",
+      "autor": "Scot McKnight",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "James (New Testament Readings)",
+      "autor": "Richard Bauckham",
+      "tradicion": "critica"
+    }
+  ],
+  "para_recordar": [
+    "Santiago es una carta de consejos prácticos, cercana a la literatura sapiencial de Israel.",
+    "Denuncia el favoritismo hacia los ricos y la dureza con los pobres en la comunidad.",
+    "La fe sin obras está muerta: la frase más conocida del libro, leída de muchos modos.",
+    "Lutero la llamó epístola de paja, comparada con Juan, Romanos o 1 Pedro; la lectura católica la usa para defender que la fe obra por amor.",
+    "La crítica discute si es de Santiago, el hermano del Señor, o si es pseudónima."
+  ]
+}

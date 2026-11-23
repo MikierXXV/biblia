@@ -1,0 +1,44 @@
+{
+  "id": "1-timoteo-amor-al-dinero",
+  "libro_id": "1-timoteo",
+  "orden": 5,
+  "titulo": "¿Por qué dice 1 Timoteo que el amor al dinero es raíz de males?",
+  "pasaje": "1 Tim 6,6-10",
+  "que_dice": "Al final de la carta, el autor habla de quienes toman la religión por un negocio (1 Tim 6,5). Responde que la verdadera ganancia es la piedad con contentarse con lo necesario: nada trajimos al mundo y nada nos llevaremos (6,6-8).\n\nAdvierte luego que el afán de dinero es raíz de toda clase de males, y que algunos, por ese deseo, se han extraviado de la fe (6,9-10). A los ricos les pide no ser soberbios, no poner la esperanza en la riqueza y ser generosos (6,17-19). El texto condena el amor al dinero, no el dinero.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La doctrina social católica sigue la línea patrística: los bienes tienen un destino universal y lo que sobra al rico pertenece al pobre (Catecismo, nn. 2402-2406)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa recoge a Basilio de Cesarea y Juan Crisóstomo, que lo leyeron junto a su predicación sobre los bienes. Para ellos, lo que el rico guarda de más pertenece al pobre."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Un sector evangélico, la teología de la prosperidad, enseña que Dios quiere la riqueza de los creyentes. Sus críticos citan 6,9-10 contra esa postura."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven en 6,10 un proverbio frecuente en la moral griega, que la carta aplica a los falsos maestros que buscaban provecho.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre",
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

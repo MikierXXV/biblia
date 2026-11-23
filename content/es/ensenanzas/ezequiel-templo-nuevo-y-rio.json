@@ -1,0 +1,62 @@
+{
+  "id": "ezequiel-templo-nuevo-y-rio",
+  "libro_id": "ezequiel",
+  "orden": 5,
+  "titulo": "Una visión de un Templo nuevo y de un río que brota de él",
+  "pasaje": "Ez 40,1–48,35",
+  "que_dice": "En el año 25 del destierro (573 a. C.), Ezequiel es llevado en visión a un monte altísimo. Un hombre con una caña de medir le enseña un Templo nuevo, con patios, puertas y cámaras, y le dice cada medida (40,1-5). La gloria de Dios, que se había ido, vuelve a entrar por el este (43,1-5).\n\nDe debajo del umbral brota un agua que se hace río. Corre hacia el desierto, desemboca en el mar Muerto y lo sana. A sus orillas crecen árboles cuyas hojas curan (47,1-12). La ciudad se llamará «El Señor está allí» (48,35).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la tradición judía, Ez 40-48 plantea un problema: sus leyes de culto difieren de las de la Torá. El Talmud (Shabat 13b) cuenta que Ananías ben Ezequías pasó noches con aceite para armonizarlas, y deja otras para Elías (Menajot 45a)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Ap 21-22 retoma imágenes de Ez 40-48, como el río de agua viva y los árboles que curan. Muchas lecturas cristianas ven en el Templo un símbolo de la presencia de Dios."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Algunas lecturas protestantes, sobre todo dispensacionalistas (una corriente que lee las profecías como plan del futuro), aguardan un Templo literal en el futuro."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos data la visión en el 573 a. C. Se discute cuánto es del profeta y qué es: un plan de reconstrucción, una utopía o un símbolo. El Templo del 515 a. C. no siguió este plan.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Zimmerli y otros",
+        "texto": "Una visión retocada por la escuela de Ezequiel, con capas posteriores, que expresa un programa de futuro."
+      },
+      {
+        "quien": "Greenberg y Block",
+        "texto": "Obra del profeta. Un plan ideal más que un proyecto de obra."
+      },
+      {
+        "quien": "Jon Levenson",
+        "texto": "Un programa visionario de restauración que no tiene que ser literal. Importa su teología: Dios vuelve a habitar con su pueblo."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezekiel 1-20 y Ezekiel 21-37 (Anchor Bible 22 y 22A)",
+      "autor": "Moshe Greenberg",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Ezekiel (NICOT, 2 vols.)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "Theology of the Program of Restoration of Ezekiel 40-48",
+      "autor": "Jon D. Levenson",
+      "tradicion": "judia"
+    }
+  ]
+}

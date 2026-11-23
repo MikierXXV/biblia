@@ -1,0 +1,43 @@
+{
+  "id": "2-timoteo-escritura-inspirada",
+  "libro_id": "2-timoteo",
+  "orden": 3,
+  "titulo": "¿Qué quiere decir 2 Timoteo con que la Escritura es inspirada?",
+  "pasaje": "2 Tim 3,14-17",
+  "que_dice": "Una carta a un joven líder, rodeado de falsos maestros, le recuerda que conoce las Sagradas Escrituras desde niño (2 Tim 3,14-15). Añade que toda Escritura es *theópneustos*, palabra griega que suele traducirse como inspirada por Dios, y útil para enseñar, reprender, corregir y formar en la justicia (3,16-17).\n\nEntonces, las Escrituras que Timoteo conocía eran las de Israel. El Nuevo Testamento aún no estaba reunido. El texto no dice cuántos libros son ni cómo actúa Dios en ellos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía entiende por Escritura el Tanak (Torá, Profetas y Escritos) y la estudia junto con la tradición oral de los rabinos. Para ella, el pasaje habla de su propia Biblia."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "El Concilio Vaticano II cita este pasaje en Dei Verbum (1965): Dios es autor de los libros sagrados, que se leen dentro de la Tradición de la Iglesia."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La Reforma lo cita como base de *sola scriptura* (solo la Escritura): la Escritura es la norma suprema de la fe. Entre los evangélicos, unos añaden que es inerrante, sin error, y otros lo discuten."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos discuten la gramática de 3,16: si dice que toda Escritura inspirada es útil, o que toda Escritura es inspirada y útil. Coinciden en que habla de las Escrituras de Israel, probablemente en su versión griega, y que no define un canon.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

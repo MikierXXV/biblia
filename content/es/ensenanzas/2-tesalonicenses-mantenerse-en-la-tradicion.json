@@ -1,0 +1,56 @@
+{
+  "id": "2-tesalonicenses-mantenerse-en-la-tradicion",
+  "libro_id": "2-tesalonicenses",
+  "orden": 2,
+  "titulo": "¿Qué tradiciones manda conservar la carta, de palabra o por escrito?",
+  "pasaje": "2 Tes 2,13-17",
+  "que_dice": "Tras el aviso sobre el fin, la carta da gracias: Dios ha escogido a los tesalonicenses desde el principio para salvarlos por el Espíritu y la fe en la verdad. Los llamó mediante el evangelio que Pablo les anunció (2,13-14).\n\nLuego les pide mantenerse firmes y conservar las tradiciones que se les enseñaron, de palabra o por carta (2,15). Termina con una oración para que Dios los consuele y los fortalezca (2,16-17).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica ve aquí que la enseñanza apostólica se transmitió de palabra y por escrito. Tradición y Escritura son dos formas de una sola revelación (Trento; Dei Verbum, n. 8)."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La lectura ortodoxa entiende la Tradición como vida del Espíritu en la Iglesia, dentro de la cual se lee la Escritura. Las tradiciones de este pasaje se ven como parte de ella."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Desde la Reforma, la tradición protestante defiende la *sola Scriptura* (la Escritura como única norma). Las tradiciones del pasaje serían la enseñanza apostólica hoy contenida en el Nuevo Testamento."
+    }
+  ],
+  "critica": {
+    "texto": "El pasaje alude a cartas falsas (2,2) y a una firma de puño y letra (3,17), lo que se lee de modos opuestos al decidir la autoría de la carta.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Abraham Malherbe",
+        "texto": "La carta es de Pablo; las semejanzas y diferencias con 1 Tesalonicenses se explican por una situación nueva en la misma comunidad."
+      },
+      {
+        "quien": "Charles Wanamaker",
+        "texto": "La carta es de Pablo; propone incluso que se escribió antes que 1 Tesalonicenses, enviada con Timoteo."
+      },
+      {
+        "quien": "Wolfgang Trilling",
+        "texto": "La carta es de un autor posterior que usa 1 Tesalonicenses como modelo y escribe en nombre de Pablo."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia",
+    "espiritu-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    }
+  ]
+}

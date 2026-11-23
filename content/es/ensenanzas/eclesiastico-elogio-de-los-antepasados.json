@@ -1,0 +1,47 @@
+{
+  "id": "eclesiastico-elogio-de-los-antepasados",
+  "libro_id": "eclesiastico",
+  "orden": 5,
+  "titulo": "Ben Sira recorre la historia de Israel en una galería de héroes",
+  "pasaje": "Sir 44-50",
+  "que_dice": "El elogio empieza invitando a alabar a los hombres ilustres (44,1). Recorre la historia de Israel de Henoc a Noé, de Abrahán a Moisés, de David a Josías, de los profetas a Nehemías. Dedica más versos a Aarón y a su sacerdocio que a Moisés (45,6-22).\n\nLa serie termina con Simón, el sumo sacerdote de su tiempo, que sale del santuario como un astro. Ben Sira lo describe de cerca, porque lo ha visto (50,1-21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La liturgia judía de Yom Kipur recoge el pasaje en el poema Mareh Kohén, «el aspecto del sacerdote», que describe al sumo sacerdote saliendo del santuario."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "El leccionario católico usa Sir 44,1-15 en las memorias de santos, como elogio de los santos de la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "Ben Sira habla de los doce profetas (49,10) y no menciona a Esdras. Se discute qué dice esto del canon hebreo, aún sin cerrar.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Supone ya una colección de Ley y Profetas bastante fija, aunque no una tercera parte cerrada."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "No prueba un canon cerrado: omite figuras como Esdras y usa también otras tradiciones."
+      }
+    ]
+  },
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom of Ben Sira (Anchor Bible 39)",
+      "autor": "Patrick W. Skehan y Alexander A. Di Lella",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Jewish Wisdom in the Hellenistic Age",
+      "autor": "John J. Collins",
+      "tradicion": "critica"
+    }
+  ]
+}

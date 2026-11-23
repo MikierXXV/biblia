@@ -1,0 +1,37 @@
+{
+  "id": "1-macabeos-purificacion-del-templo-y-januca",
+  "libro_id": "1-macabeos",
+  "orden": 3,
+  "titulo": "Los Macabeos purifican el Templo y fundan una fiesta",
+  "pasaje": "1 Mac 4,36-59",
+  "que_dice": "En el 164 a. C., Judas y sus hombres suben a Jerusalén y encuentran el Templo abandonado: puertas quemadas, maleza en los patios. Se rasgan los vestidos, lloran y eligen sacerdotes irreprochables (1 Mac 4,36-42).\n\nNo saben qué hacer con las piedras del altar profanado y las guardan hasta que venga un profeta. Construyen otro altar, encienden las lámparas y celebran la dedicación ocho días, desde el 25 de Quisleu. Deciden repetir la fiesta cada año (4,43-59).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía celebra Janucá con las ocho luces. El Talmud (Shabat 21b) explica que se encienden por el milagro de una vasija de aceite que duró ocho días, relato que 1 Macabeos no recoge."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura cristiana, el único testimonio de la fiesta en el Nuevo Testamento es Jn 10,22. Ese texto sitúa a Jesús en Jerusalén durante la Dedicación."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica compara 1 Mac 4 con 2 Mac 10,1-8, que cuenta lo mismo con otra explicación. Allí se celebran ocho días como la fiesta de las Cabañas, que no se pudo celebrar durante la guerra.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I Maccabees (Anchor Bible 41)",
+      "autor": "Jonathan A. Goldstein",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "oseas",
+  "seccion_id": "profetas",
+  "orden": 7,
+  "nombre": "Oseas",
+  "abreviatura": "Os",
+  "capitulos": 14,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Un profeta recibe la orden de casarse con una mujer que lo dejará. Su casa se vuelve imagen de Dios e Israel: un amor fiel frente a un pueblo que se va con otros dioses.",
+  "presentacion": "Un matrimonio roto sirve de mensaje. Oseas, profeta del reino del norte (Israel), recibe la orden de casarse con Gomer. Sus tres hijos llevan nombres que son oráculos, como «No-compadecida» y «No-mi-pueblo» (Os 1).\n\nEl libro denuncia dos males. Uno es el culto a Baal, el dios cananeo de la lluvia y la fertilidad, mezclado con el del Señor. El otro es la política: alianzas con Asiria y Egipto en lugar de confiar en Dios (Os 5,13; 7,11). Hacia el 722 a. C. Samaria cae ante Asiria.\n\nEntre las denuncias aparecen las páginas más tiernas del profeta. Dios es un padre que enseña a andar a su hijo (Os 11). Es también un esposo que lleva de nuevo a su esposa al desierto para hablarle al corazón (Os 2,16-17). El hebreo es abrupto y muy difícil de traducir.",
+  "autoria": {
+    "tradicion": "Os 1,1 presenta el libro como palabra de Dios a Oseas, hijo de Beerí. Lo sitúa en tiempos de Jeroboán II de Israel y de los reyes de Judá, de Ozías a Ezequías. La tradición judía y la cristiana se lo atribuyen.",
+    "critica": "Casi toda la crítica ve en Oseas al autor de los oráculos, en el reino del norte. Atribuye a editores de Judá, tras la caída de Samaria, las referencias a Judá y algunos retoques.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Los reyes de Os 1,1 sitúan al profeta entre mediados y finales del siglo VIII a. C.",
+    "critica": "Los oráculos se fechan hacia 755-725 a. C., entre el final de Jeroboán II y la caída de Samaria. Los retoques de Judá son posteriores al 722 a. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      -755,
+      -715
+    ]
+  },
+  "canon": {
+    "judia": "Es uno de los Doce Profetas, que el canon hebreo cuenta como un solo libro (Trei Asar, «los Doce» en arameo), entre los Profetas (Nevi'im). Abre el rollo.",
+    "ortodoxa": "Es canónico. La Septuaginta, la traducción griega antigua, ordena los Doce de otro modo; en ella este libro es el primero.",
+    "protestante": "Es canónico y ocupa el mismo lugar que en la Biblia católica. Abre los Doce."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Os 1-3",
+      "nota": "Gomer y los tres hijos: un matrimonio y unos nombres que son mensaje."
+    },
+    {
+      "pasaje": "Os 2,16-17",
+      "nota": "Dios lleva de nuevo a su esposa al desierto, donde empezó todo."
+    },
+    {
+      "pasaje": "Os 6,6",
+      "nota": "Dios quiere lealtad y conocimiento de Él más que sacrificios."
+    },
+    {
+      "pasaje": "Os 11",
+      "nota": "Un padre que no puede abandonar a su hijo rebelde."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hosea (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Battered Love: Marriage, Sex, and Violence in the Hebrew Prophets",
+      "autor": "Renita J. Weems",
+      "tradicion": "literaria"
+    }
+  ],
+  "para_recordar": [
+    "Oseas usa su matrimonio con Gomer como imagen de Dios e Israel: un amor fiel frente a un pueblo que se va.",
+    "Denuncia el culto a Baal y las alianzas con Asiria y Egipto antes de la caída de Samaria (722 a. C.).",
+    "Desde antiguo se discute si el matrimonio fue real o una visión simbólica.",
+    "Os 6,6 pone la lealtad por encima de los sacrificios, y Jesús lo cita en Mt 9,13."
+  ]
+}

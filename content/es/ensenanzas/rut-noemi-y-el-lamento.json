@@ -1,0 +1,38 @@
+{
+  "id": "rut-noemi-y-el-lamento",
+  "libro_id": "rut",
+  "orden": 5,
+  "titulo": "Noemí vuelve vacía y culpa a Dios",
+  "pasaje": "Rut 1,20-21",
+  "que_dice": "Noemí llega a Belén y las mujeres del pueblo la reconocen y se emocionan. Ella responde que no la llamen Noemí, «mi dulzura», sino Mará, «amarga»: el Todopoderoso la ha llenado de amargura. Se fue llena y vuelve vacía.\n\nNo suaviza nada. Culpa a Dios de su desgracia, y el narrador no la corrige. Rut está a su lado en esa escena y Noemí ni la menciona.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica no suele leer el lamento como queja de una inocente. El midrás Rut Rabá, comentario antiguo, y el Talmud (Baba Batra 91a) ven las muertes de Elimélec y de sus hijos como fruto de abandonar la tierra en el hambre."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, y en lo esencial las demás cristianas, entiende el lamento como una queja de oración, de la familia de los salmos de lamento y de Job. Subraya que el libro termina con un cambio de suerte."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos subrayan que el libro da voz a una queja directa contra Dios y no la corrige, algo que comparte con Job y con Lamentaciones.\n\nHay consenso amplio en que el contraste entre el «vacío» del capítulo 1 y la «plenitud» del 4 estructura el relato. Lo marca el juego de palabras entre Noemí y Mará.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ruth (Anchor Bible 7)",
+      "autor": "Edward F. Campbell",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

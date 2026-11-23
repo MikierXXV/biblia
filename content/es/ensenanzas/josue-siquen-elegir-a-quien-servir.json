@@ -1,0 +1,47 @@
+{
+  "id": "josue-siquen-elegir-a-quien-servir",
+  "libro_id": "josue",
+  "orden": 5,
+  "titulo": "En Siquén, Josué pide elegir: él y su casa servirán al Señor",
+  "pasaje": "Jos 24,1-28",
+  "que_dice": "Josué reúne a las tribus en Siquén, ya anciano. Les recuerda su historia, desde Abrahán hasta la entrada en la tierra. Les pide que quiten los dioses extranjeros y elijan a quién servirán. Él y su familia servirán al Señor (24,14-15).\n\nEl pueblo responde tres veces que también servirá al Señor. Josué lo advierte: Dios es celoso y no perdonará la infidelidad (24,19). Ese día se cierra un pacto: Josué escribe sus cláusulas y levanta una piedra como testigo (24,25-27).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Jos 24 es el modelo de una alianza que se renueva por libre elección del pueblo. Ambas la relacionan con la del Sinaí (Éx 24) y con la de Moab (Dt 29)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué fue la asamblea de Siquén y qué relación tiene con el pacto del Sinaí.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Martin Noth",
+        "texto": "Siquén fue el centro de una liga de tribus que renovaba el pacto. Esta hipótesis, la anfictionía, hoy se discute mucho."
+      },
+      {
+        "quien": "Norman Gottwald",
+        "texto": "Siquén sería la alianza de grupos de origen distinto, cananeos y llegados de Egipto, que así forman Israel."
+      },
+      {
+        "quien": "Thomas Römer",
+        "texto": "Es un texto tardío que cierra el libro y presenta la alianza como una elección: el pueblo ya es diverso y debe decidir."
+      }
+    ]
+  },
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Tribes of Yahweh",
+      "autor": "Norman K. Gottwald",
+      "tradicion": "critica"
+    }
+  ]
+}

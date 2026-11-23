@@ -1,0 +1,95 @@
+{
+  "id": "1-reyes",
+  "seccion_id": "historicos",
+  "orden": 6,
+  "nombre": "1 Reyes",
+  "abreviatura": "1 Re",
+  "capitulos": 22,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta el reinado de Salomón, el templo y la división del reino. Narra también la lucha de los profetas, sobre todo Elías, contra el culto a Baal y el abuso de poder.",
+  "presentacion": "Salomón pide a Dios, en sueños, un corazón que sepa juzgar. Su sabiduría y su riqueza se hacen famosas, y levanta el templo de Jerusalén. Pero el libro no lo idealiza: al final, sus mujeres extranjeras le desvían el corazón (1 Re 11).\n\nA su muerte el reino se parte en dos: Judá, con Jerusalén, e Israel, al norte. El libro sigue a los reyes de ambos con un mismo patrón. Cada reinado recibe un juicio religioso, casi siempre negativo, y remite a otros anales para el resto.\n\nDesde el capítulo 17 los profetas ocupan el centro. Elías se enfrenta al rey Ajab y a su esposa Jezabel por el culto a Baal, y en el monte Horeb oye a Dios en un susurro. Nabot, un campesino, muere por defender su viña (capítulo 21).\n\nTorres Amat, que sigue la Vulgata, llama a este libro «3 Reyes».",
+  "autoria": {
+    "tradicion": "La tradición rabínica (Talmud, Baba Batra 14b-15a) atribuye 1-2 Reyes al profeta Jeremías.",
+    "critica": "Los libros de los Reyes son anónimos. La mayoría de la crítica los incluye en la Historia deuteronomista. Esta usó fuentes como el libro de los hechos de Salomón (1 Re 11,41) y los anales de los reyes.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que lo atribuye a Jeremías, el libro se escribió en el siglo VI a. C., hacia el exilio.",
+    "critica": "Los hechos van de hacia 970 a hacia 850 a. C., pero la forma final es del exilio (después de 561 a. C.). Se discute si hubo antes una edición bajo Josías, hacia 620 a. C.",
+    "acuerdo": "discusion",
+    "rango": [
+      -650,
+      -550
+    ],
+    "rango_tradicion": [
+      -600,
+      -560
+    ],
+    "posturas": [
+      {
+        "quien": "Frank M. Cross",
+        "texto": "Hubo dos ediciones: la primera, bajo Josías, celebraba al rey reformador; la segunda, en el exilio, explicaba la caída."
+      },
+      {
+        "quien": "Martin Noth",
+        "texto": "Un solo autor, hacia 560 a. C., reunió anales y relatos de profetas para explicar por qué cayeron los reinos."
+      },
+      {
+        "quien": "Rudolf Smend y Walter Dietrich",
+        "texto": "La obra creció por capas, todas del exilio: una histórica, otra profética y otra legal."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es un solo libro con 2 Reyes, entre los Profetas anteriores.",
+    "ortodoxa": "Es canónico. La Septuaginta lo llama 3 Reinos.",
+    "protestante": "Es canónico, con 2 Reyes."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "1 Re 3",
+      "nota": "Salomón pide un corazón atento para juzgar y resuelve el caso de las dos madres."
+    },
+    {
+      "pasaje": "1 Re 8,27",
+      "nota": "En la dedicación del templo, Salomón confiesa que los cielos no pueden contener a Dios."
+    },
+    {
+      "pasaje": "1 Re 12",
+      "nota": "Las tribus del norte se separan de Roboán."
+    },
+    {
+      "pasaje": "1 Re 18-19",
+      "nota": "Elías en el Carmelo, y en el Horeb, ante un silencio fino."
+    },
+    {
+      "pasaje": "1 Re 21",
+      "nota": "Ajab y Jezabel se apoderan de la viña de Nabot, y Elías los acusa."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "1 Kings (Anchor Bible 10)",
+      "autor": "Mordechai Cogan",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "I & II Kings: A Commentary",
+      "autor": "Marvin A. Sweeney",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Salomón construye el templo y acaba desviado por el culto de sus mujeres extranjeras.",
+    "El reino se parte hacia 930 a. C. en Judá, al sur, e Israel, al norte.",
+    "La arqueología discute cuánto hay de histórico en la grandeza de Salomón: no hay acuerdo.",
+    "Elías se enfrenta a Baal y a Ajab, y en el Horeb oye a Dios en un silencio fino.",
+    "Torres Amat llama «3 Reyes» a este libro, por la numeración de la Vulgata."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1-cronicas-genealogias-identidad",
+  "libro_id": "1-cronicas",
+  "orden": 1,
+  "titulo": "Nueve capítulos de nombres para decir: seguimos aquí",
+  "pasaje": "1 Cr 1-9",
+  "que_dice": "Quien abre 1 Crónicas se encuentra con listas: Adán, Set, Enós, y luego tribus, familias y sacerdotes. El autor tiene prisa por llegar a David, pero no se salta a nadie.\n\nLas listas dan más espacio a Judá (1 Cr 2-4), a Leví (1 Cr 6) y a Benjamín (1 Cr 8-9). Terminan con quienes viven en Jerusalén tras el exilio (1 Cr 9). Para una comunidad pequeña, decían que el pueblo no se había roto.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: las genealogías afirman que el pueblo tiene raíces. Cada nombre dice que nadie queda fuera de la historia, y que la historia de Israel es una sola desde Adán."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica, las listas no son un archivo neutro: son una selección con intención. Sara Japhet subraya que el libro mira a «todo Israel», y que las genealogías hacen visible esa unidad tras el exilio.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

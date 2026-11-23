@@ -1,0 +1,39 @@
+{
+  "id": "1-samuel-ana-reza-y-dios-escucha",
+  "libro_id": "1-samuel",
+  "orden": 1,
+  "titulo": "Ana, una mujer sin hijos, reza y Dios la escucha",
+  "pasaje": "1 Sm 1,1-2,10",
+  "que_dice": "Ana no tiene hijos, y Penina, la otra esposa de su marido, se burla de ella cada año en Siló. Un día entra en el santuario y reza llorando, moviendo los labios sin voz. El sacerdote Elí cree que está borracha y la reprende (1,12-14).\n\nAna le explica que reza con el alma rota, y Elí la despide con su bendición. Nace Samuel, y ella lo lleva al santuario cuando lo destetan. Su cántico (2,1-10) celebra a un Dios que levanta al pobre y humilla al poderoso.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en Ana el modelo de la oración sincera y silenciosa. El Talmud (Berajot 31a-b) deduce de ella cómo se reza la Amidá, la oración central. Su historia se lee en Rosh Hashaná, el Año Nuevo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el Magníficat (Lc 1,46-55) retoma temas del cántico de Ana. Agustín (La ciudad de Dios, XVII,4) ve en Ana una figura de la Iglesia."
+    }
+  ],
+  "critica": {
+    "texto": "El cántico de Ana habla de un rey y un ungido del Señor (2,10), algo que no encaja con la época de Ana, anterior a la monarquía. La mayoría de críticos lo ve como un salmo más tardío, adaptado a este lugar.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "mujeres-y-liderazgo",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "I Samuel (Anchor Bible 8)",
+      "autor": "P. Kyle McCarter Jr.",
+      "tradicion": "critica"
+    }
+  ]
+}

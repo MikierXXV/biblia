@@ -1,0 +1,94 @@
+{
+  "id": "levitico",
+  "seccion_id": "pentateuco",
+  "orden": 3,
+  "nombre": "Levítico",
+  "abreviatura": "Lv",
+  "capitulos": 27,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Reúne las normas de culto, sacrificio y pureza, y el llamado código de santidad. Presenta cómo debía vivir un pueblo apartado para Dios.",
+  "presentacion": "Lo primero que sorprende de Levítico es que casi no hay relato. Es un manual de culto: sacrificios, sacerdotes, pureza, fiestas y un año de descanso. Se dirige a un pueblo recién salido de Egipto y acampado al pie del Sinaí.\n\nTiene dos bloques. Los capítulos 1-16 tratan del culto y de la pureza, y terminan en Yom Kipur, el Día de la Expiación. Los capítulos 17-26, el llamado Código de Santidad, piden un pueblo santo también en la vida diaria.\n\nEs uno de los libros menos leídos y de los más influyentes. De él salen el mandato de amar al prójimo (19,18), el año jubilar y normas que judíos y cristianos discuten hoy, como las de pureza o Lv 18,22.",
+  "autoria": {
+    "tradicion": "La tradición judía y la cristiana clásica atribuyen el libro a Moisés. Su época se calcula distinto: la cronología judía tradicional lo sitúa en el siglo XIII a. C., y la cristiana clásica, por 1 Re 6,1, algo antes.",
+    "critica": "La crítica no lo atribuye a Moisés: lo vincula a la fuente sacerdotal del Pentateuco. Discute cuándo se escribió y si el Código de Santidad es un texto aparte.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Moisés recibió y escribió estas normas en el Sinaí, entre los siglos XIV y XIII a. C.",
+    "critica": "La mayoría de críticos data la fuente sacerdotal en el exilio o después, con materiales más antiguos. La fecha de cada parte está en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      -600,
+      -400
+    ],
+    "rango_tradicion": [
+      -1320,
+      -1200
+    ],
+    "posturas": [
+      {
+        "quien": "Modelo clásico (Wellhausen y sucesores)",
+        "texto": "Fecha la fuente sacerdotal en el exilio o después (siglos VI-V a. C.), con el Código de Santidad como parte propia."
+      },
+      {
+        "quien": "Jacob Milgrom y la escuela israelí",
+        "texto": "Datan buena parte del material sacerdotal antes del exilio, entre los siglos VIII y VII a. C."
+      },
+      {
+        "quien": "Estudiosos conservadores, evangélicos y judíos ortodoxos",
+        "texto": "Defienden un núcleo mosaico y una redacción antigua."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es el tercer libro de la Torá, Vaikrá, «y llamó». Los niños judíos tradicionalmente empezaban por él el estudio de la Torá.",
+    "ortodoxa": "Es canónico y sigue a Éxodo, como en las Biblias católicas.",
+    "protestante": "Es canónico y sigue a Éxodo, como en las Biblias católicas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Lv 16,1-34",
+      "nota": "El ritual de Yom Kipur y el macho cabrío enviado al desierto."
+    },
+    {
+      "pasaje": "Lv 19,2",
+      "nota": "Sed santos, porque yo soy santo."
+    },
+    {
+      "pasaje": "Lv 19,18",
+      "nota": "Amarás a tu prójimo como a ti mismo."
+    },
+    {
+      "pasaje": "Lv 19,33-34",
+      "nota": "El forastero residente se trata como a uno de los nuestros."
+    },
+    {
+      "pasaje": "Lv 25,8-17",
+      "nota": "El año jubilar: la tierra descansa y se recuperan las propiedades."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Leviticus 17-22 (Anchor Bible 3A)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Levítico es un manual de culto: sacrificios, pureza y fiestas, con pocos relatos.",
+    "Pide un pueblo santo en lo ritual y en lo cotidiano: dejar espigas al pobre, no engañar en el peso.",
+    "Contiene el mandato de amar al prójimo como a uno mismo (19,18) y el año jubilar (25).",
+    "La crítica discute si el material es del exilio o anterior; el Código de Santidad (17-26) tiene su propio estilo."
+  ]
+}

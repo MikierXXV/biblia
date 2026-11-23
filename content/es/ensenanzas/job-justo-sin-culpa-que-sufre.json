@@ -1,0 +1,58 @@
+{
+  "id": "job-justo-sin-culpa-que-sufre",
+  "libro_id": "job",
+  "orden": 1,
+  "titulo": "Un hombre íntegro lo pierde todo y nadie le dice por qué",
+  "pasaje": "Job 1-2",
+  "que_dice": "En el cielo, el acusador sostiene que Job es fiel solo porque le va bien. Dios le deja probarlo. En un día mueren los hijos de Job y se pierden sus bienes (1,13-19). Después enferma de llagas (2,7), y el narrador repite que no pecó (1,22; 2,10).\n\nSu mujer le aconseja maldecir a Dios y morir. Job responde que se recibe de Dios lo bueno y también lo malo. El lector conoce el motivo de la prueba porque lo ha visto en el cielo. Job nunca lo sabrá.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica discute si Job existió. El Talmud (Baba Batra 15a) recoge la opinión de un maestro: Job nunca existió y el libro es una parábola. Otros lo sitúan en tiempos de Jacob, de Moisés, de los jueces o del regreso del exilio."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La tradición cristiana ha visto en Job un modelo de paciencia (Sant 5,11). El papa Gregorio Magno le dedicó los Moralia in Iob, un comentario en 35 libros. Los lectores actuales, católicos entre ellos, notan que el Job de los diálogos protesta más que aguanta."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa lee Job en las vísperas de los primeros días de la Semana Santa. Pone al justo que sufre junto a la Pasión de Cristo."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Carol Newsom",
+      "texto": "Para Carol Newsom, el libro no defiende una tesis. Pone en escena voces morales que chocan: el prólogo, los amigos, Job y Dios. El lector decide con quién se queda."
+    }
+  ],
+  "critica": {
+    "texto": "Ezequiel nombra a Job junto a Noé y Daniel como figura ya famosa (Ez 14,14). Se discute si el marco en prosa viene de un cuento anterior.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "El prólogo y el epílogo proceden de un cuento popular más antiguo, al que un poeta añadió los diálogos."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Marco y poema son de la misma mano y se pensaron juntos; la tensión entre ambos es deliberada."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Book of Job: A Contest of Moral Imaginations",
+      "autor": "Carol A. Newsom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

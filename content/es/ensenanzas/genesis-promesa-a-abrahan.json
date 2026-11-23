@@ -1,0 +1,52 @@
+{
+  "id": "genesis-promesa-a-abrahan",
+  "libro_id": "genesis",
+  "orden": 4,
+  "titulo": "Dios elige a Abrahán para bendecir a todas las naciones",
+  "pasaje": "Gn 12,1-3",
+  "que_dice": "Abrán, que más tarde se llamará Abrahán, tiene setenta y cinco años y una esposa sin hijos. Dios le dice que salga de su tierra y de su familia hacia otra que le mostrará. Le promete una gran nación, un nombre famoso y su bendición.\n\nLa promesa termina mirando más lejos: por él serán bendecidas todas las familias de la tierra (12,1-3). Más adelante Dios sella la alianza con dos ritos: animales partidos (15) y la circuncisión (17).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve aquí el origen de Israel y de su vínculo con la tierra. Rashi entiende la bendición así: quien quiera bendecir a su hijo dirá «seas como Abrahán»."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, la bendición universal anuncia la apertura a las naciones. Pablo cita Gn 12,3 en Gál 3,8 para decir que los no judíos entran en la promesa por la fe."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos considera que la historia de los patriarcas no se puede verificar. Discute qué recuerdo conserva.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Finkelstein y Silberman",
+        "texto": "Ven una elaboración tardía, de los siglos VII-VI a. C., que proyecta intereses de su tiempo a un pasado remoto."
+      },
+      {
+        "quien": "K. A. Kitchen y otros estudiosos conservadores",
+        "texto": "Defienden que los relatos guardan recuerdos del segundo milenio a. C., por sus nombres y costumbres."
+      }
+    ]
+  },
+  "temas": [
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "La Biblia desenterrada",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "On the Reliability of the Old Testament",
+      "autor": "K. A. Kitchen",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "filipenses-unidad-y-humildad",
+  "libro_id": "filipenses",
+  "orden": 1,
+  "titulo": "¿Cómo pide Pablo a los filipenses que vivan unidos?",
+  "pasaje": "Flp 2,1-4",
+  "que_dice": "Pablo escribe a una comunidad muy querida, en Filipos, colonia romana de Macedonia. Les pide completar su alegría pensando lo mismo, con el mismo amor y los mismos sentimientos (Flp 2,1-2).\n\nLa receta es no hacer nada por rivalidad ni por vanidad y considerar a los demás superiores a uno mismo. Cada uno mira no solo su interés, sino el de los otros (2,3-4). La carta nombra a dos mujeres enfrentadas, Evodia y Síntique (4,2-3).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Las tradiciones cristianas leen el pasaje como llamada a la humildad entre hermanos. La tradición monástica, benedictina y ortodoxa, la ha tomado como base de la vida en común."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el centro es la concordia de una comunidad con tensiones, como muestra el enfrentamiento de Evodia y Síntique (4,2). Fee añade que la carta sigue las convenciones de las cartas de amistad de la época.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Paul's Letter to the Philippians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/37584"
+    },
+    {
+      "titulo": "The Epistle to the Philippians (Black's New Testament Commentary)",
+      "autor": "Markus Bockmuehl",
+      "tradicion": "critica",
+      "url": "https://bestcommentaries.com/book/3186"
+    }
+  ]
+}

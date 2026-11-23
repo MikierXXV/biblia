@@ -1,0 +1,41 @@
+{
+  "id": "judas-cita-de-1-enoc",
+  "libro_id": "judas",
+  "orden": 2,
+  "titulo": "Un libro fuera de la Biblia citado dentro de ella",
+  "pasaje": "Jds 14-15",
+  "que_dice": "Para anunciar el juicio a los impíos, Judas cita una profecía de Enoc, el séptimo patriarca después de Adán. El Señor llega con miles de santos para juzgar y pedir cuentas de las obras de impiedad (vv. 14-15).\n\nEnoc es un personaje de Gn 5,18-24 al que luego se atribuyeron escritos propios. La cita coincide, con variantes, con 1 Enoc 1,9, un libro que no entró en la Biblia hebrea ni en la mayoría de los cánones cristianos.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no incluyó 1 Enoc en la Biblia hebrea. Hoy se estudia sobre todo por los fragmentos arameos hallados en Qumrán."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para la protestante, 1 Enoc no es canónico. Tertuliano (hacia el 200) defendió su autoridad, pero no prevaleció. Judas cita una tradición conocida, sin dar autoridad al libro."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La Iglesia ortodoxa etíope sí recibe 1 Enoc en su canon, donde el libro se llama *Henok* (Enoc en ge'ez, la lengua litúrgica etíope). Las demás tradiciones ortodoxas no lo incluyen."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en la cita una prueba de que Judas y su comunidad se movían en el judaísmo apocalíptico, donde Enoc tenía autoridad. Los fragmentos de Qumrán muestran que 1 Enoc circulaba antes de la era cristiana.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Jude, 2 Peter (Word Biblical Commentary 50)",
+      "autor": "Richard J. Bauckham",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

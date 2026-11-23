@@ -1,0 +1,45 @@
+{
+  "id": "jonas-dios-se-compadece-de-ninive",
+  "libro_id": "jonas",
+  "orden": 2,
+  "titulo": "¿Por qué se enfada Jonás cuando Dios perdona a Nínive?",
+  "pasaje": "Jon 3,1-4,3",
+  "que_dice": "Jonás recorre Nínive un día entero y grita su mensaje: dentro de cuarenta días la ciudad será destruida (3,1-4). El rey, el pueblo y hasta los animales se visten de sayal y ayunan. Dios cambia de parecer (3,5-10).\n\nJonás se enfurece. Reza: por eso huyó, porque sabe que Dios es clemente, compasivo, lento a la ira y rico en *jésed*, lealtad (4,2). Pide morir. Es la fórmula de Éx 34,6-7, ahora dicha con rabia.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recita la fórmula de Éx 34,6-7 en Yom Kipur, pidiendo perdón. En Jon 4,2 aparece en boca de un profeta que no la soporta, y esa tensión es el centro del libro."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante suelen leer la conversión de Nínive como señal de que el perdón de Dios no tiene fronteras. Mt 12,41 la pone como ejemplo frente a quienes no se arrepienten."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Phyllis Trible",
+      "texto": "Phyllis Trible estudia cómo el libro repite palabras («grande», «mal») hasta hacer que el mal de Nínive y el mal de Jonás se enfrenten. La retórica deja al profeta ante su propio rencor."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica ve en Jon 4,2 el corazón del libro: un debate sobre si Dios puede perdonar a un enemigo cruel como Asiria.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "misericordia-y-compasion-de-dios",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Rhetorical Criticism: Context, Method, and the Book of Jonah",
+      "autor": "Phyllis Trible",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

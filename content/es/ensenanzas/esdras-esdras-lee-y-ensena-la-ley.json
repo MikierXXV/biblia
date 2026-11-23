@@ -1,0 +1,47 @@
+{
+  "id": "esdras-esdras-lee-y-ensena-la-ley",
+  "libro_id": "esdras",
+  "orden": 3,
+  "titulo": "Esdras estudia la ley, la cumple y la enseña",
+  "pasaje": "Esd 7-8",
+  "que_dice": "Esdras es sacerdote y escriba, descendiente de Aarón. Sube de Babilonia a Jerusalén con un grupo y una carta del rey Artajerjes, que le da poder para hacer cumplir la ley de su Dios (Esd 7,11-26).\n\nEl libro resume su carácter en una frase: había dedicado su corazón a estudiar la ley, a cumplirla y a enseñarla en Israel (7,10). Antes de partir ayuna con los suyos y pide a Dios un camino seguro, sin pedir escolta al rey (8,21-23).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía ve en Esdras casi un segundo Moisés. El Talmud (Sanedrín 21b) dice que la Torá habría podido darse por medio de él, si Moisés no lo hubiera precedido."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "En la tradición protestante, que subraya el lugar de la Escritura, Esdras suele ser modelo de maestro de la ley. Se lo une a la lectura pública de Neh 8."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica discute qué era «la ley de Dios» que llevó Esdras, y cuánto de nuestro Pentateuco incluía.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Era el Pentateuco prácticamente como lo conocemos, ya completo hacia el siglo V a. C."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Era una colección más reducida, como parte de la ley sacerdotal o de Deuteronomio. El Pentateuco se habría cerrado después."
+      }
+    ]
+  },
+  "temas": [
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

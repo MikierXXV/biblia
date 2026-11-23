@@ -1,0 +1,48 @@
+{
+  "id": "galatas-destinatarios-y-el-concilio-de-jerusalen",
+  "libro_id": "galatas",
+  "orden": 5,
+  "titulo": "¿A quién escribe Pablo y cómo encaja con Hch 15?",
+  "pasaje": "Gál 2,1-10",
+  "que_dice": "Pablo cuenta que subió a Jerusalén con Bernabé y Tito y se reunió con Santiago, Pedro y Juan. Dice que los líderes no le impusieron nada y que Tito no fue obligado a circuncidarse. Aceptaron que Pablo evangelizara a los no judíos y Pedro a los judíos.\n\nEl libro de los Hechos cuenta una asamblea parecida en Hch 15, pero con otro desarrollo. Y «Galacia» puede designar una región del norte de Asia Menor o una provincia romana del sur.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La exégesis católica tradicional identifica la visita de Gál 2 con la de Hch 15 y llama a esa asamblea el primer concilio de la Iglesia. Otros comentaristas católicos la identifican con la visita de Hch 11,30."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Muchos comentaristas protestantes, como Longenecker y Bruce, defienden la hipótesis sur: Gálatas sería la carta más antigua de Pablo, anterior a Hch 15. Otros siguen la hipótesis norte."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute dónde vivían los gálatas, en qué año se escribió la carta y qué visita a Jerusalén cuenta Pablo.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Hans Dieter Betz y J. Louis Martyn",
+        "texto": "Galacia es la región del norte (Ancira). La carta se escribió hacia el 53-57, en Éfeso o Macedonia, tras el viaje de Hch 18,23."
+      },
+      {
+        "quien": "Richard Longenecker y F. F. Bruce",
+        "texto": "Galacia es la provincia romana del sur (Antioquía de Pisidia, Iconio, Listra, Derbe). La carta es de hacia el 48-49, antes de Hch 15."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Galatians (Hermeneia)",
+      "autor": "Hans Dieter Betz",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Galatians (Anchor Bible 33A)",
+      "autor": "J. Louis Martyn",
+      "tradicion": "critica"
+    }
+  ]
+}

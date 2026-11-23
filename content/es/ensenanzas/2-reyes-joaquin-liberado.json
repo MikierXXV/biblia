@@ -1,0 +1,58 @@
+{
+  "id": "2-reyes-joaquin-liberado",
+  "libro_id": "2-reyes",
+  "orden": 5,
+  "titulo": "Joaquín sale de la cárcel y el libro acaba con un rey vivo",
+  "pasaje": "2 Re 25,27-30",
+  "que_dice": "El libro acaba de forma inesperada. En el año 561 a. C., Evil-Merodac, rey de Babilonia, saca de la cárcel a Joaquín, rey de Judá, tras treinta y siete años preso. Le habla con amabilidad y le da un puesto por encima de los demás reyes cautivos.\n\nJoaquín cambia su ropa de preso y come a la mesa del rey, de por vida. Se le asigna una ración diaria. No hay palabra de restauración ni de regreso. Solo queda un descendiente de David, vivo y a la mesa de su captor.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía conservó la línea de David: los jefes de la comunidad en Babilonia, los exilarcas, se tuvieron por descendientes de Joaquín."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Mt 1,11-12 incluye a Jeconías, nombre griego de Joaquín, en la genealogía de Jesús como eslabón entre el exilio y el Mesías."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute qué quiere decir este final. Para unos es esperanza, para otros solo un dato sin consecuencias.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Gerhard von Rad",
+        "texto": "Es un signo de esperanza: la promesa a David no está cancelada."
+      },
+      {
+        "quien": "Martin Noth",
+        "texto": "Es un dato final sin más. El autor explica la caída y no ve futuro para el pueblo."
+      },
+      {
+        "quien": "Hans Walter Wolff",
+        "texto": "El libro llama a volver a Dios, y Joaquín es un signo mínimo de que eso es posible."
+      }
+    ]
+  },
+  "temas": [
+    "exilio-y-retorno",
+    "mesias-y-esperanza-mesianica",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Kings (Anchor Bible 11)",
+      "autor": "Mordechai Cogan y Hayim Tadmor",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Deuteronomistic History",
+      "autor": "Martin Noth",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

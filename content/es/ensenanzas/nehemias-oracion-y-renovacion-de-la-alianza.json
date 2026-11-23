@@ -1,0 +1,34 @@
+{
+  "id": "nehemias-oracion-y-renovacion-de-la-alianza",
+  "libro_id": "nehemias",
+  "orden": 4,
+  "titulo": "Una oración larga repasa la historia y acaba en una firma",
+  "pasaje": "Neh 9-10",
+  "que_dice": "Tras la fiesta, el pueblo se reúne con ayuno, saco y ceniza. Los levitas rezan una oración larga que repasa la historia: creación, Abrahán, Éxodo, Sinaí, desierto, tierra, jueces y exilio (Neh 9,5-37).\n\nTermina con una queja: somos esclavos en la tierra que diste (9,36-37). Entonces el pueblo firma un documento. Se comprometen a no casar a sus hijos con gente del país, a respetar el sábado y a sostener el Templo (10,1-40).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: la oración resume la historia de Israel como historia de la fidelidad de Dios y de la infidelidad del pueblo. La tradición judía recita parte de ella (9,6-11) cada mañana."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica, el capítulo 9 es una oración penitencial parecida a otras (Sal 106; Dn 9; Esd 9). El capítulo 10 contiene un compromiso con una lista de firmantes que parece sacada de un archivo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "alianza",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

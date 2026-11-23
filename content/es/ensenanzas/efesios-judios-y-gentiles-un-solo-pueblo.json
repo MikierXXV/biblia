@@ -1,0 +1,56 @@
+{
+  "id": "efesios-judios-y-gentiles-un-solo-pueblo",
+  "libro_id": "efesios",
+  "orden": 3,
+  "titulo": "¿Cómo derriba Cristo el muro entre judíos y no judíos?",
+  "pasaje": "Ef 2,11-22",
+  "que_dice": "La carta recuerda a sus lectores no judíos cómo estaban antes: sin ciudadanía en Israel, ajenos a las alianzas, sin esperanza (Ef 2,11-12). Ahora, dice, Cristo los ha acercado y ha derribado el muro que separaba a los dos pueblos (2,14).\n\nEse muro se relaciona con la Ley o con la valla del Templo que dejaba a los no judíos en un patio exterior. El resultado es un solo pueblo, una casa con Cristo como piedra angular, donde ambos tienen el mismo acceso al Padre (2,18-22).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La lectura judía recuerda que los profetas esperaban que las naciones se unieran a Israel (Is 2,2-4; 56,6-7). Mantiene que Israel sigue siendo un pueblo con su Torá, y pregunta si «un solo pueblo» conserva esa identidad o la diluye."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica ve aquí el fundamento de la Iglesia como pueblo único de judíos y no judíos. El Vaticano II (*Nostra aetate*, 4) cita este pasaje y añade que Israel no ha sido rechazado."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que el pasaje trata de unir dos pueblos en uno. Discuten qué significa que Cristo anuló la ley de los mandamientos (2,15).",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Andrew Lincoln",
+        "texto": "Se anula la ley mosaica como tal, lo que choca con la valoración de la Ley en Rom 7,12 y 3,31 y apunta a un autor posterior."
+      },
+      {
+        "quien": "Harold Hoehner",
+        "texto": "Lo que queda anulada es la función de la Ley como barrera entre judíos y no judíos, no la Torá misma; encaja con Pablo."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ephesians (Word Biblical Commentary 42)",
+      "autor": "Andrew T. Lincoln",
+      "tradicion": "critica",
+      "url": "https://www.accordancebible.com/product/wbc-vol-42-ephesians-by-andrew-t-lincoln/"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia",
+      "url": "https://search.worldcat.org/title/The-Jewish-annotated-New-Testament-:-New-Revised-Standard-Version-Bible-translation/oclc/666242532"
+    },
+    {
+      "titulo": "Ephesians: An Exegetical Commentary (Baker Academic, 2002)",
+      "autor": "Harold W. Hoehner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/ephesians-harold-hoehner-9780801026140"
+    }
+  ]
+}

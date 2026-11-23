@@ -1,0 +1,37 @@
+{
+  "id": "levitico-jubileo",
+  "libro_id": "levitico",
+  "orden": 3,
+  "titulo": "Cada cincuenta años la tierra descansa y se devuelven las tierras",
+  "pasaje": "Lv 25,1-55",
+  "que_dice": "Cada siete años, la tierra descansa y no se siembra. Cada cincuenta, el toque de un cuerno anuncia el jubileo: quien vendió su campo lo recupera y el esclavo por deudas vuelve a su familia.\n\nEl texto da una razón: la tierra es de Dios, y los israelitas son sus huéspedes (25,23). Pero la misma ley permite comprar esclavos de los pueblos vecinos y dejarlos en herencia (25,44-46).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica entiende que el jubileo dejó de regir al ser exiliadas las tribus del este del Jordán (Talmud, Arajín 32b)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Lc 4,18-19 evoca el año de gracia con un eco del jubileo. Juan Pablo II propuso el Jubileo del año 2000 y pidió condonar la deuda de los países pobres."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos duda de que el jubileo se aplicara como describe el texto. Señala que 25,44-46 protege a los hebreos de la esclavitud, pero no a los extranjeros: una de las tensiones éticas del libro.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Leviticus 23-27 (Anchor Bible 3B)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

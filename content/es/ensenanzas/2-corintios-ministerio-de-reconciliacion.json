@@ -1,0 +1,42 @@
+{
+  "id": "2-corintios-ministerio-de-reconciliacion",
+  "libro_id": "2-corintios",
+  "orden": 2,
+  "titulo": "¿Qué significa que Dios reconcilió al mundo en Cristo?",
+  "pasaje": "2 Cor 5,17-21",
+  "que_dice": "Pablo describe su tarea con la palabra reconciliación. Quien está en Cristo es una creación nueva: lo viejo pasó (5,17). Dios reconcilió consigo al mundo en Cristo, sin tomar en cuenta sus faltas, y confió a Pablo y sus colaboradores el mensaje de la reconciliación (5,18-19).\n\nSe presentan como embajadores y ruegan a los corintios que se dejen reconciliar con Dios. El pasaje termina con una frase densa: Dios hizo pecado por nosotros a quien no conoció pecado, para que seamos justicia de Dios (5,20-21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía entiende la reconciliación con Dios como arrepentimiento (*teshuvá*) y perdón, sobre todo en Yom Kipur (Lv 16). No requiere un mediador distinto de Dios, así que no comparte el centro del pasaje."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica, desde Trento (1547), entiende que Dios no solo declara justo, sino que hace justo al creyente por la gracia. La reconciliación renueva realmente a la persona."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino leen 5,21 como imputación: los pecados de los hombres se cargan a Cristo y su justicia se atribuye al creyente, que sigue siendo pecador mientras vive."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que la reconciliación es aquí iniciativa de Dios, no esfuerzo humano. Observan que *embajador* (enviado oficial de un poder) es un título político: Pablo se presenta como representante de otro que no está presente.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "perdon-y-reconciliacion",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "II Corinthians (Anchor Bible 32A)",
+      "autor": "Victor Paul Furnish",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Annotated New Testament",
+      "autor": "Amy-Jill Levine y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sofonias-dia-de-ira-para-quien",
+  "libro_id": "sofonias",
+  "orden": 1,
+  "titulo": "¿Un día de ira para quién? El día del Señor en Jerusalén",
+  "pasaje": "Sof 1,4-18",
+  "que_dice": "Jerusalén, hacia el 630 a. C.: unos sacerdotes sirven a Baal junto al Señor, los ricos visten ropa extranjera y los comerciantes del barrio nuevo harán duelo (1,4-11). Dios registrará la ciudad con lámparas. Buscará a los que piensan que el Señor no hace ni bien ni mal (1,12).\n\nEl día del Señor llegará como ira, angustia y tiniebla, con trompeta y alarma (1,14-16). Ni la plata ni el oro salvarán a nadie (1,18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Talmud (Pesajim 7b-8a) relaciona las lámparas con que Dios registra Jerusalén (Sof 1,12) con la vela para buscar y retirar el pan fermentado antes de Pésaj."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La liturgia católica de difuntos cantó durante siglos el *Dies irae* («día de ira»), secuencia medieval atribuida a Tomás de Celano e inspirada en Sof 1,15-16. El Misal de 1970 lo retiró de la misa de difuntos, y sobrevive como himno opcional en la Liturgia de las Horas."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica sitúa esta denuncia bajo Josías, antes de su reforma del 622 a. C. Lee el día del Señor como juicio sobre Judá, igual que Am 5,18-20.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "profecia-y-llamada"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Zephaniah (Anchor Bible)",
+      "autor": "Adele Berlin",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+      "autor": "J. J. M. Roberts",
+      "tradicion": "critica"
+    }
+  ]
+}

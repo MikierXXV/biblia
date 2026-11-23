@@ -1,0 +1,59 @@
+{
+  "id": "2-juan",
+  "seccion_id": "nuevo-testamento",
+  "orden": 24,
+  "nombre": "2 Juan",
+  "abreviatura": "2 Jn",
+  "bloque": "cartas-catolicas",
+  "capitulos": 1,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Breve carta a una comunidad, para que mantenga el amor y no acoja a los falsos maestros.",
+  "presentacion": "Un hombre que se llama a sí mismo el Anciano escribe a una señora elegida y a sus hijos. Es una comunidad presentada como persona. El texto cabe en trece versículos y tiene el aspecto de una carta del mundo grecorromano, con saludo, cuerpo y despedida.\n\nDice dos cosas: que se amen unos a otros, y que no abran la puerta a los que niegan que Jesucristo ha venido en carne. Su vocabulario y sus temas recuerdan a 1 Jn, que sería casi una versión larga.",
+  "autoria": {
+    "tradicion": "La atribuyeron al apóstol Juan, aunque ya se discutía si era de Juan el presbítero.",
+    "critica": "Su autor se llama solo el Anciano. La mayoría de críticos lo sitúa en la escuela joánica, el mismo círculo de 1 y 3 Jn, sin identificarlo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que la atribuye al apóstol, es de finales del siglo I.",
+    "critica": "La mayoría de críticos la data hacia el 90-110 d. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      90,
+      110
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica, aunque en la antigüedad se contó entre los escritos más tarde reconocidos.",
+    "protestante": "Es canónica, como en la tradición católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "2 Jn 5-6",
+      "nota": "El mandamiento antiguo: amarse y caminar en la verdad."
+    },
+    {
+      "pasaje": "2 Jn 7-11",
+      "nota": "No acoger a los que niegan que Jesucristo ha venido en carne."
+    }
+  ],
+  "para_recordar": [
+    "2 Jn y 3 Jn son de los escritos más breves del Nuevo Testamento.",
+    "Su autor se llama solo el Anciano.",
+    "Une verdad y amor, y manda cerrar la puerta a los falsos maestros."
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

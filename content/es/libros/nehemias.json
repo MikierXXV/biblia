@@ -1,0 +1,72 @@
+{
+  "id": "nehemias",
+  "seccion_id": "historicos",
+  "orden": 11,
+  "nombre": "Nehemías",
+  "abreviatura": "Neh",
+  "capitulos": 13,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Cuenta cómo Nehemías reconstruye las murallas de Jerusalén y reorganiza la comunidad. Culmina con la lectura solemne de la ley.",
+  "presentacion": "Nehemías es copero del rey persa Artajerjes en Susa. Un día oye que las murallas de Jerusalén siguen en ruinas, y se pone a llorar y a rezar (Neh 1). El rey le deja ir como gobernador.\n\nLa muralla se reconstruye en 52 días, pese a las burlas y amenazas de los vecinos (Neh 2-6). El libro incluye una protesta de los pobres endeudados (Neh 5), la lectura pública de la ley (Neh 8) y una renovación de la alianza (Neh 9-10).\n\nGran parte está en primera persona: las llamadas memorias de Nehemías. El libro cierra con las reformas del gobernador, que no son menos duras que las de Esdras (Neh 13). Torres Amat lo llama 2 Esdras.",
+  "autoria": {
+    "tradicion": "El Talmud (Baba Batra 15a) atribuye a Esdras su libro; comentaristas posteriores añaden que Nehemías lo completó.",
+    "critica": "Una parte del libro son las memorias de Nehemías, en primera persona. Otras manos añadieron listas, documentos y relatos. Casi todos los críticos lo ven así.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "La tradición lo sitúa en el siglo V a. C., en tiempos del propio Nehemías.",
+    "critica": "Las memorias son del siglo V a. C., pues Nehemías llega a Jerusalén en el 445 a. C. La redacción final es del siglo IV a. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      -445,
+      -300
+    ],
+    "rango_tradicion": [
+      -445,
+      -400
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), unido a Esdras en un solo libro.",
+    "ortodoxa": "Es canónico. En la Biblia griega, Esdras-Nehemías se cuenta como 2 Esdras.",
+    "protestante": "Es canónico y sigue a Esdras como libro aparte."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Neh 1,4-11",
+      "nota": "La oración de Nehemías al enterarse de que Jerusalén sigue en ruinas."
+    },
+    {
+      "pasaje": "Neh 5,1-13",
+      "nota": "Los pobres endeudados protestan y Nehemías obliga a devolver lo tomado."
+    },
+    {
+      "pasaje": "Neh 8,1-12",
+      "nota": "Esdras lee la ley en la plaza y el pueblo celebra."
+    },
+    {
+      "pasaje": "Neh 9,5-37",
+      "nota": "Una larga oración que repasa la historia de Israel."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Nehemías reconstruye la muralla de Jerusalén en 52 días, entre burlas y amenazas.",
+    "Su libro mezcla oración, política y acción: un gobernador que reza y organiza.",
+    "En Neh 5 denuncia la usura y la esclavitud por deudas.",
+    "Neh 8 es la escena de la lectura pública de la ley, que termina en fiesta.",
+    "Neh 13 muestra a un gobernador de reformas duras, como las de Esdras."
+  ]
+}

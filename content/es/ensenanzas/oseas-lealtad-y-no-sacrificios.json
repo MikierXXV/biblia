@@ -1,0 +1,38 @@
+{
+  "id": "oseas-lealtad-y-no-sacrificios",
+  "libro_id": "oseas",
+  "orden": 2,
+  "titulo": "El Dios que prefiere la lealtad a los sacrificios",
+  "pasaje": "Os 6,1-6",
+  "que_dice": "Un pueblo en apuros se anima a volver al Señor: Él herirá, pero también sanará (6,1-3). El Señor no se fía. El amor del pueblo se parece a la niebla de la mañana, que el sol disipa (6,4).\n\nLo que Dios quiere es *jésed*, la lealtad que nace del amor, y conocer a Dios. No quiere holocaustos, los sacrificios que se quemaban enteros (6,6). El texto no prohíbe el culto: lo pone detrás de la lealtad.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Según Avot de Rabí Natán (4), el Templo fue destruido en el año 70 d. C. Yojanán ben Zakai consoló entonces a un discípulo con Os 6,6. Sin Templo, dijo, las obras de amor valen como los sacrificios."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Las tradiciones católica, ortodoxa y protestante coinciden en que Jesús cita Os 6,6 dos veces. Lo hace para defender que coma con pecadores y que sus discípulos arranquen espigas en sábado (Mt 9,13; 12,7). En ambos casos, la misericordia pesa más que el rito."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica, como Wolff, lee 6,1-3 como un canto de penitencia del pueblo que el profeta cita y 6,4-6 como la respuesta de Dios.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible (2.ª ed.)",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Hosea (Hermeneia)",
+      "autor": "Hans Walter Wolff",
+      "tradicion": "critica"
+    }
+  ]
+}

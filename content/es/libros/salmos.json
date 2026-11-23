@@ -1,0 +1,81 @@
+{
+  "id": "salmos",
+  "seccion_id": "sapienciales",
+  "orden": 2,
+  "nombre": "Salmos",
+  "abreviatura": "Sal",
+  "capitulos": 150,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Colección de 150 oraciones: alabanza, lamento, gratitud, sabiduría y realeza. Ha sido el libro de oración de judíos y cristianos.",
+  "presentacion": "Los Salmos son 150 poemas pensados para cantarse o rezarse: alabanzas, lamentos, acciones de gracias, oraciones del rey y poemas de sabiduría. Muchos llevan un título con un nombre (David, Asaf, los hijos de Coré), un género o una indicación musical.\n\nLa colección se reparte en cinco libros (1-41, 42-72, 73-89, 90-106, 107-150), cada uno cerrado con una fórmula de bendición. Los salmos 1 y 2 hacen de pórtico y el 150 termina en alabanza.\n\nLa numeración varía. La hebrea y la griega (Septuaginta, Vulgata, Torres Amat) no coinciden de Sal 9 a 147. El sitio usa la hebrea y pone la griega entre paréntesis: Sal 23 (22).",
+  "autoria": {
+    "tradicion": "La tradición atribuye a David 73 salmos, por el título «de David». Otros llevan los nombres de Asaf, de los hijos de Coré, de Salomón y de Moisés.",
+    "critica": "La crítica ve una colección formada durante siglos. Se discute qué significa «de David»: autoría, dedicatoria, colección o estilo.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que atribuye los salmos a David, la colección arranca hacia el año 1000 a. C.",
+    "critica": "Hay salmos de la monarquía, pero la mayoría de críticos data muchos en el exilio o después. El rollo de Salmos de Qumrán (11QPsa) tiene otro orden y salmos añadidos.",
+    "acuerdo": "consenso",
+    "rango": [
+      -1000,
+      -150
+    ],
+    "rango_tradicion": [
+      -1050,
+      -950
+    ]
+  },
+  "canon": {
+    "judia": "Está entre los Escritos (Ketuvim), que en la ordenación habitual abre; el Talmud (Baba Batra 14b) los empieza por Rut. Se divide en cinco libros, como la Torá. Se reza cada día en la sinagoga y en casa.",
+    "ortodoxa": "Es canónico, con la numeración griega de la Septuaginta, y añade un Sal 151.",
+    "protestante": "Es canónico, con la numeración hebrea."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Sal 1",
+      "nota": "Pórtico del libro: el justo, como un árbol junto al agua."
+    },
+    {
+      "pasaje": "Sal 23 (22)",
+      "nota": "El Señor es mi pastor: el salmo más conocido."
+    },
+    {
+      "pasaje": "Sal 51 (50)",
+      "nota": "Oración de arrepentimiento, atribuida a David."
+    },
+    {
+      "pasaje": "Sal 137 (136)",
+      "nota": "Los deportados en Babilonia: del llanto a la imprecación."
+    },
+    {
+      "pasaje": "Sal 150",
+      "nota": "Cierre del libro: todo ser que respira alabe al Señor."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Book of Psalms: A Translation with Commentary",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Psalms (Interpretation)",
+      "autor": "James Luther Mays",
+      "tradicion": "protestante"
+    }
+  ],
+  "para_recordar": [
+    "Son 150 poemas en cinco libros, hechos para cantar o rezar, no para leer de corrido.",
+    "El lamento es el género más frecuente: el libro enseña a rezar también con queja.",
+    "La numeración hebrea y la griega difieren; aquí, Sal 23 (22).",
+    "Los títulos «de David» se discuten: pueden indicar autoría, dedicatoria o colección.",
+    "Los salmos del rey se leen como oráculos de un monarca y como esperanza mesiánica."
+  ]
+}

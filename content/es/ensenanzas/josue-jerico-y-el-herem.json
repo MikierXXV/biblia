@@ -1,0 +1,68 @@
+{
+  "id": "josue-jerico-y-el-herem",
+  "libro_id": "josue",
+  "orden": 3,
+  "titulo": "Jericó: el herem, la destrucción total que incomoda hoy",
+  "pasaje": "Jos 6; 8,24-29; 10,28-40; 11,10-15",
+  "que_dice": "Durante seis días, Israel rodea Jericó en silencio con el arca. Al séptimo, suenan las trompetas y caen las murallas (6,1-20). La ciudad es *herem*: se consagra a Dios, y por eso se destruye. Mueren hombres, mujeres, niños y ganado; solo se salvan Rahab y los suyos (6,21-25).\n\nEl libro cuenta algo parecido en Ay y en las ciudades del sur y del norte: no queda nadie con vida (10,40; 11,11). Según el relato, así lo había ordenado Dios a Moisés (Dt 20,16-18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica suaviza el alcance práctico del *herem*. Según el Talmud de Jerusalén (Shevi’it 6,1), Josué envió tres cartas a los cananeos: huir, hacer la paz o combatir."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Orígenes (s. III) lee estas guerras como combate espiritual: los cananeos son los vicios. Agustín las defiende como mandatos de Dios, y de Jos 8 deduce criterios para la guerra justa."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Entre los protestantes hay lecturas distintas. El evangélico Paul Copan entiende las órdenes como lenguaje de guerra exagerado. El menonita Millard Lind ve en Dios al guerrero que vence sin ejército."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "otra",
+      "autor": "Robert Allen Warrior",
+      "texto": "El teólogo osage Robert Allen Warrior propone leer Josué desde el lado de los cananeos. Los pueblos nativos de América vivieron el papel de los conquistados."
+    }
+  ],
+  "critica": {
+    "texto": "La arqueología no muestra una destrucción general de ciudades cananeas, y el propio libro dice que los cananeos siguen en el país (15,63; 16,10).",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Thomas Römer",
+        "texto": "El herem de Josué es un ideal deuteronomista del siglo VII a. C., proyectado hacia atrás y sin base en hechos."
+      },
+      {
+        "quien": "Susan Niditch",
+        "texto": "La estela de Mesá (siglo IX a. C.) muestra que la ideología del herem existía en la región, no solo en Israel."
+      },
+      {
+        "quien": "Amnon Ben-Tor y Sharon Zuckerman",
+        "texto": "Ben-Tor atribuye a Israel la destrucción de Hazor hacia 1200 a. C. Zuckerman la atribuye a una revuelta interna de la ciudad."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "War in the Hebrew Bible",
+      "autor": "Susan Niditch",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Is God a Moral Monster?",
+      "autor": "Paul Copan",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

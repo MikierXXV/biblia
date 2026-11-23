@@ -1,0 +1,55 @@
+{
+  "id": "job-dios-responde-desde-la-tormenta",
+  "libro_id": "job",
+  "orden": 4,
+  "titulo": "Dios responde desde la tormenta con preguntas, no con explicaciones",
+  "pasaje": "Job 28; 38-42",
+  "que_dice": "Después de treinta y siete capítulos de discusión, Dios habla desde la tormenta. No menciona a los hijos muertos ni las llagas. Pregunta a Job dónde estaba cuando fundó la tierra (38,4) y le muestra animales que Job no domará: el león, el búfalo, el Leviatán.\n\nJob contesta que habló de lo que no entendía y que ahora sus ojos lo ven (42,5). El libro no añade otra explicación. Antes, el capítulo 28 había dicho que la sabiduría no se halla en las minas y que solo Dios conoce su camino.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Maimónides lee en Job una discusión sobre la providencia. En su Guía de perplejos (III,23) dice que Job conocía a Dios solo de oídas y que la respuesta divina lo lleva a un conocimiento más hondo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Tomás de Aquino escribió hacia 1260 un comentario literal a Job. Lo lee como un debate sobre la providencia divina: la sabiduría de Dios supera lo que el hombre puede medir."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Robert Alter",
+      "texto": "Para Robert Alter, la respuesta divina no explica nada y es una gran poesía. Alter subraya que Dios muestra una creación sin centro humano, donde también hay lo salvaje."
+    }
+  ],
+  "critica": {
+    "texto": "El poema del capítulo 28 interrumpe los discursos de Job. Se discute si pertenece al libro original.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Una parte de la crítica",
+        "texto": "Es un poema aparte y posterior: el tono sereno no es el de Job, que antes y después sigue discutiendo."
+      },
+      {
+        "quien": "Otra parte",
+        "texto": "Pertenece al libro: es un interludio que prepara la respuesta de Dios sobre lo inalcanzable de la sabiduría."
+      }
+    ]
+  },
+  "temas": [
+    "sufrimiento-del-inocente-y-lamento",
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Wisdom Books: Job, Proverbs, Ecclesiastes",
+      "autor": "Robert Alter",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

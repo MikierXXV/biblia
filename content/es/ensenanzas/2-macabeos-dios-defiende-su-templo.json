@@ -1,0 +1,37 @@
+{
+  "id": "2-macabeos-dios-defiende-su-templo",
+  "libro_id": "2-macabeos",
+  "orden": 4,
+  "titulo": "Dios defiende el Templo: Heliodoro azotado y Nicanor derrotado",
+  "pasaje": "2 Mac 3; 15,12-16",
+  "que_dice": "Un ministro del rey, Heliodoro, entra en el Templo para llevarse el dinero depositado allí. Un caballo con un jinete armado y dos jóvenes que lo azotan lo derriban y lo dejan mudo (2 Mac 3,24-28). El sumo sacerdote ofrece un sacrificio y Heliodoro se salva.\n\nAl final del libro, Judas tiene un sueño: el difunto sumo sacerdote Onías y el profeta Jeremías rezan por el pueblo (15,12-16). Jeremías le entrega una espada de oro. Judas derrota a Nicanor y cuelgan su cabeza y su mano en Jerusalén (15,28-35).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, 2 Mac 15,12-16 se cita sobre la intercesión de los santos. Onías y Jeremías, ya difuntos, rezan por el pueblo vivo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición protestante, que no recibe el libro, no apoya en este texto la intercesión de los santos. Los reformadores subrayan a Cristo como único mediador (1 Tim 2,5)."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven las apariciones celestes como un recurso retórico del autor, típico de la historiografía helenística. Robert Doran compara este relato con los de dioses que defienden sus santuarios, como el de Delfos.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "2 Maccabees (Hermeneia)",
+      "autor": "Robert Doran",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "deuteronomio-escucha-israel",
+  "libro_id": "deuteronomio",
+  "orden": 1,
+  "titulo": "Escucha, Israel: el Señor es uno y se le ama con todo el ser",
+  "pasaje": "Dt 6,4-9",
+  "que_dice": "Moisés llama al pueblo con una orden: ¡escucha! Les dice que el Señor es su Dios, el Señor es uno, y manda amarlo con todo el corazón, con toda el alma y con todas las fuerzas.\n\nEsas palabras han de quedar en el corazón. Se repiten a los hijos en casa y en el camino, al acostarse y al levantarse. Se atan a la mano y a la frente, y se escriben en las jambas de la puerta (6,4-9).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "El Shemá, nombre que viene de su primera palabra, «escucha», es la oración central del judaísmo y se recita mañana y noche. Se cumple al pie de la letra: la mezuzá, en la puerta, y los tefilín, atados al brazo y a la frente."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Jesús cita Dt 6,4-5 como primer mandamiento y lo une a Lv 19,18 (Mc 12,28-34)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en el Shemá la fórmula de la exclusividad de Dios en la reforma deuteronomista. Se discute si afirma que solo existe un Dios o que solo uno es el de Israel.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Lectura monoteísta",
+        "texto": "Afirma que Dios es único, sin rival, y que los demás dioses no existen."
+      },
+      {
+        "quien": "Lectura monolátrica",
+        "texto": "Exige a Israel servir solo al Señor, sin negar que otros pueblos tengan dioses."
+      }
+    ]
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "alianza"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Deuteronomy 1-11 (Anchor Bible 5)",
+      "autor": "Moshe Weinfeld",
+      "tradicion": "judia"
+    }
+  ]
+}

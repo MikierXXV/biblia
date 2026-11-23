@@ -1,0 +1,38 @@
+{
+  "id": "levitico-santidad-en-la-vida-diaria",
+  "libro_id": "levitico",
+  "orden": 1,
+  "titulo": "Ser santo es dejar espigas al pobre y no engañar en el peso",
+  "pasaje": "Lv 19,1-18",
+  "que_dice": "En medio del libro, Dios manda al pueblo: sed santos, porque yo soy santo. Lo que sigue son costumbres. No se siega hasta el borde del campo, para que espigue el pobre. No se retiene el jornal del obrero ni se maldice al sordo.\n\nLa serie culmina en el mandato de amar al prójimo como a uno mismo (19,18).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía entiende la santidad (*kedushá*) como estar separado para Dios y entregado a los demás. Rabí Akiba llamó a Lv 19,18 «un gran principio de la Torá» (Sifra)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, Lv 19,18 es una raíz del doble mandamiento del amor. Jesús lo une a Dt 6,5 (Mc 12,28-34)."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en Lv 19 una mezcla de normas éticas y rituales, sin separarlas. Para el texto, unas y otras forman parte de la santidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Leviticus 17-22 (Anchor Bible 3A)",
+      "autor": "Jacob Milgrom",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

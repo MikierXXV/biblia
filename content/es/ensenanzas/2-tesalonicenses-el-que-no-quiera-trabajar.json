@@ -1,0 +1,38 @@
+{
+  "id": "2-tesalonicenses-el-que-no-quiera-trabajar",
+  "libro_id": "2-tesalonicenses",
+  "orden": 3,
+  "titulo": "¿A quién se dirige la regla de que quien no trabaje no coma?",
+  "pasaje": "2 Tes 3,6-13",
+  "que_dice": "Algunos miembros de la comunidad de Tesalónica han dejado de trabajar. La carta, atribuida a Pablo, les recuerda que él y sus compañeros trabajaron día y noche para no ser carga para nadie, aunque tenían derecho a ser mantenidos (3,7-9). La regla es que quien no quiera trabajar no coma (3,10).\n\nEl texto se refiere a quienes podían trabajar y vivían del esfuerzo de otros, metiéndose en todo (3,11). No habla de los enfermos, los ancianos ni los pobres de la comunidad. A los demás les pide no cansarse de hacer el bien (3,13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Los maestros judíos de la época valoraban unir el estudio con un oficio. Pirké Avot 2,2, colección de dichos rabínicos, dice que ambos juntos alejan del pecado. Pablo mismo trabajaba como artesano."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino leen el trabajo como vocación, un llamado de Dios en la vida cotidiana, y ven en este pasaje una advertencia contra la ociosidad."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos coinciden en que la regla apunta a una situación concreta de la comunidad, no a una norma general contra quienes no pueden trabajar. Que dejaran de trabajar se explica por la espera del fin, por la dependencia de patronos o por ambas cosas.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    }
+  ]
+}

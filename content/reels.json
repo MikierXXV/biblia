@@ -1,0 +1,147 @@
+{
+  "nota": "Generado por scripts/importar-reels.mjs; no se edita a mano.",
+  "reels": [
+    {
+      "id": "rut-la-extranjera",
+      "libro": "rut",
+      "titulo": "Rut, la extranjera",
+      "transcripcion": [
+        "Una extranjera, de un pueblo vetado, es la bisabuela del rey David.",
+        "Su libro es de los más cortos, con solo cuatro capítulos.",
+        "¿Por qué un relato tan pequeño molestaba?",
+        "Porque Rut es moabita, y Deuteronomio dice que un moabita no entra en la asamblea, ni en la décima generación.",
+        "Y David es la décima desde Fares.",
+        "Dos viudas, una hambruna, y Rut le dice a su suegra: tu pueblo será mi pueblo.",
+        "Para la tradición judía, es el modelo de quien se une al pueblo.",
+        "Por eso se lee en Shavuot, la fiesta de las Semanas.",
+        "Para la lectura cristiana, Mateo la nombra en la genealogía de Jesús.",
+        "La crítica no se pone de acuerdo en cuándo se escribió: unos, en la monarquía temprana; otros, tras el exilio.",
+        "Para buena parte de la crítica, quizá fue una réplica a Esdras y Nehemías, que rechazaban los matrimonios mixtos.",
+        "Si fue así, el libro discutía con otro texto de la propia Biblia.",
+        "Un mismo libro, tres lecturas, y ninguna borra a las otras."
+      ],
+      "fuentes": "Rut 1-4; Dt 23,4; Mt 1,5; Esd 9-10; Neh 13,23-27. The Jewish Study Bible (Adele Berlin y Marc Z. Brettler, eds.); Edward F. Campbell, Ruth (Anchor Bible 7).",
+      "duracion": 53,
+      "video": "reels/rut-la-extranjera.mp4",
+      "poster": "reels/rut-la-extranjera.webp",
+      "bytes": 2960398,
+      "huella": "7800149-1794843462414|378180-1794843462942"
+    },
+    {
+      "id": "dos-relatos-de-la-creacion",
+      "libro": "genesis",
+      "titulo": "Dos relatos de la creación",
+      "transcripcion": [
+        "La Biblia cuenta la creación dos veces, y no coinciden.",
+        "En el primer relato, Dios crea en seis días, y el ser humano llega el último, hombre y mujer a la vez.",
+        "En el segundo, el hombre llega primero, modelado del barro, y la mujer, al final.",
+        "Un jardín, un solo hombre, y los animales vienen después.",
+        "La tradición judía repara hasta en el nombre de Dios, que cambia de un relato a otro, y busca en ese cambio una enseñanza.",
+        "La lectura católica pide atender al género literario: los dos dicen que el mundo es obra de Dios y es bueno.",
+        "Para la crítica, son dos textos de dos tradiciones: el de los seis días, sacerdotal, del exilio o poco después.",
+        "El del jardín es de otra tradición, que muchos consideran anterior.",
+        "Quien reunió el libro conservó los dos, sin armonizarlos.",
+        "Un mismo comienzo, dos relatos, y cada lectura hace algo distinto con la diferencia."
+      ],
+      "fuentes": "Gn 1,1–2,4; Gn 2,4-25; Gn 1,26-28; Gn 2,7.21-22. Nahum M. Sarna, Genesis (JPS Torah Commentary); Jean-Louis Ska, Introducción a la lectura del Pentateuco; Comisión Bíblica Pontificia, La interpretación de la Biblia en la Iglesia (1993).",
+      "duracion": 52,
+      "video": "reels/dos-relatos-de-la-creacion.mp4",
+      "poster": "reels/dos-relatos-de-la-creacion.webp",
+      "bytes": 2960617,
+      "huella": "7801422-1795199628592|394122-1795199629116"
+    },
+    {
+      "id": "los-libros-que-tu-biblia-quiza-no-tiene",
+      "libro": "tobias",
+      "titulo": "Los libros que tu Biblia quizá no tiene",
+      "transcripcion": [
+        "Una Biblia católica tiene setenta y tres libros, y una protestante, sesenta y seis.",
+        "Faltan siete: Tobías, Judit, Sabiduría, Eclesiástico, Baruc y los dos libros de los Macabeos.",
+        "La Biblia hebrea no los incluye, pero sí la antigua traducción griega, la Septuaginta.",
+        "¿Quién decide qué libros son Biblia?",
+        "La tradición judía no los cuenta entre sus libros, aunque de Tobías aparecieron fragmentos en Qumrán.",
+        "Católicos y ortodoxos los tienen por canónicos, y Trento lo confirmó en mil quinientos cuarenta y seis.",
+        "Lutero los dejó aparte, buenos de leer, pero no iguales a la Escritura.",
+        "Para la crítica histórica, ninguna lista fue obra de un día: los cánones se fueron fijando poco a poco.",
+        "Tobías lo muestra: un ciego, una joven que ha perdido siete maridos y un ángel disfrazado, en un relato que unas Biblias traen y otras no.",
+        "Dos listas, y detrás de cada una, siglos de lectores que la sintieron suya."
+      ],
+      "fuentes": "Tob 1-14; los siete libros: Tobías, Judit, Sabiduría, Eclesiástico, Baruc y 1-2 Macabeos. Joseph A. Fitzmyer, Tobit (Commentaries on Early Jewish Literature); David A. deSilva, Introducing the Apocrypha; Concilio de Trento, sesión IV (1546); Martín Lutero, prefacio a los apócrifos (1534).",
+      "duracion": 52,
+      "video": "reels/los-libros-que-tu-biblia-quiza-no-tiene.mp4",
+      "poster": "reels/los-libros-que-tu-biblia-quiza-no-tiene.webp",
+      "bytes": 2966257,
+      "huella": "7812580-1795199158245|376228-1795199158847"
+    },
+    {
+      "id": "job-la-pregunta-que-no-se-responde",
+      "libro": "job",
+      "titulo": "Job: la pregunta que no se responde",
+      "transcripcion": [
+        "Un hombre lo pierde todo sin haber hecho nada, y Dios, cuando por fin habla, no le explica nada.",
+        "Job es íntegro. En el cielo, el acusador apuesta que lo es solo porque le va bien.",
+        "En un día pierde hijos, bienes y salud, y tres amigos le dicen que algo habrá hecho.",
+        "Job lo niega, y exige que Dios responda.",
+        "Dios responde desde la tormenta, pero no habla de los hijos muertos. Pregunta: ¿dónde estabas cuando fundé la tierra?",
+        "Y Job contesta que hablaba de lo que no entendía.",
+        "Maimónides lo lee como una discusión sobre la providencia: Job conocía a Dios solo de oídas.",
+        "Tomás de Aquino ve una sabiduría que supera lo que el hombre puede medir, y hoy muchos notan que el Job de los diálogos protesta más que aguanta.",
+        "La crítica discute si el prólogo viene de un cuento más antiguo, al que un poeta añadió los diálogos.",
+        "El libro no explica por qué sufre el inocente, y cada lectura hace algo distinto con ese silencio."
+      ],
+      "fuentes": "Job 1-2; 4-5; 38,4; 42,3-7. Maimónides, Guía de perplejos III,23; Tomás de Aquino, Exposición literal sobre Job (hacia 1260); Gustavo Gutiérrez, Hablar de Dios desde el sufrimiento del inocente; Carol A. Newsom, The Book of Job; The Jewish Study Bible (Berlin y Brettler, eds.).",
+      "duracion": 58,
+      "video": "reels/job-la-pregunta-que-no-se-responde.mp4",
+      "poster": "reels/job-la-pregunta-que-no-se-responde.webp",
+      "bytes": 3314991,
+      "huella": "8972839-1795198099828|399726-1795198100466"
+    },
+    {
+      "id": "un-isaias-o-tres",
+      "libro": "isaias",
+      "titulo": "¿Un Isaías o tres?",
+      "transcripcion": [
+        "Un mismo libro nombra a Ciro, rey de Persia, casi dos siglos antes de que reine.",
+        "¿Lo escribió un profeta, o fueron tres?",
+        "Los capítulos uno a treinta y nueve miran a la Jerusalén del siglo ocho, amenazada por Asiria.",
+        "Del cuarenta al cincuenta y cinco hablan a desterrados en Babilonia: «Consolad, consolad a mi pueblo».",
+        "Y el resto, a quienes vuelven a una ciudad en ruinas.",
+        "Ya en el siglo doce, el comentarista judío Ibn Ezra sugirió, con cautela, que desde el cuarenta se hablaba de otra época.",
+        "Hoy la mayoría de la crítica lee tres partes de épocas distintas.",
+        "Otros, como Oswalt, defienden a un solo Isaías, que habría visto de antemano el exilio y a Ciro.",
+        "Y otros ven varias épocas, pero un libro compuesto como unidad.",
+        "Quién lo escribió cambia cómo se lee, pero el consuelo del cuarenta se sigue leyendo cada año."
+      ],
+      "fuentes": "Is 1-39; 40,1; 44,28; 45,1; 56-66. Joseph Blenkinsopp, Isaiah 1-39 (Anchor Bible 19); John N. Oswalt, The Book of Isaiah (NICOT); Brevard Childs, Isaiah (OTL); The Jewish Study Bible (Berlin y Brettler, eds.); Talmud, Baba Batra 15a; Abraham ibn Ezra, comentario a Isaías (siglo XII).",
+      "duracion": 50,
+      "video": "reels/un-isaias-o-tres.mp4",
+      "poster": "reels/un-isaias-o-tres.webp",
+      "bytes": 2836637,
+      "huella": "7472083-1795221471957|417388-1795221473864"
+    },
+    {
+      "id": "cuatro-evangelios-cuatro-retratos",
+      "libro": "mateo",
+      "titulo": "Cuatro evangelios, cuatro retratos",
+      "transcripcion": [
+        "Cuatro libros cuentan la vida de Jesús, y no la cuentan igual.",
+        "Marcos, el más breve, termina en sus manuscritos más antiguos con una tumba vacía y un silencio.",
+        "Mateo lo presenta como maestro de la Ley: no he venido a abolirla.",
+        "Lucas trae parábolas que solo él cuenta: el buen samaritano y el hijo que vuelve.",
+        "Y Juan empieza antes de todo: en el principio era el Verbo.",
+        "¿Por qué tres se parecen tanto, y el cuarto tan poco?",
+        "Es el problema sinóptico: Mateo, Marcos y Lucas comparten escenas, orden y hasta frases.",
+        "La hipótesis más extendida dice que Marcos fue el primero, y que Mateo y Lucas lo usaron.",
+        "La tradición cristiana recibió cuatro, y para Ireneo, hacia el año ciento ochenta, eran cuatro columnas, ni una más ni una menos.",
+        "La lectura judía académica los lee dentro del mundo judío del siglo primero.",
+        "Cuatro retratos: unos ven un mismo rostro visto cuatro veces; otros, cuatro comunidades, cada una con el suyo."
+      ],
+      "fuentes": "Mc 16,8; Mt 5,17; Lc 10,25-37; 15,11-32; Jn 1,1. Raymond E. Brown, Introducción al Nuevo Testamento; Ulrich Luz, Matthew (Hermeneia); Joel Marcus, Mark (Anchor Bible 27); Joseph A. Fitzmyer, The Gospel According to Luke (Anchor Bible 28); The Jewish Annotated New Testament (Levine y Brettler, eds.); Ireneo de Lyon, Contra las herejías III,11,8.",
+      "duracion": 55,
+      "video": "reels/cuatro-evangelios-cuatro-retratos.mp4",
+      "poster": "reels/cuatro-evangelios-cuatro-retratos.webp",
+      "bytes": 3128524,
+      "huella": "8210175-1795221993437|403253-1795221993895"
+    }
+  ]
+}

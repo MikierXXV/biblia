@@ -1,0 +1,38 @@
+{
+  "id": "2-cronicas-retribucion-manases",
+  "libro_id": "2-cronicas",
+  "orden": 2,
+  "titulo": "Arrepentirse trae la restauración: el caso de Manasés",
+  "pasaje": "2 Cr 7,14; 33,10-20",
+  "que_dice": "En 2 Re 21, Manasés es el peor rey de Judá y su reinado de 55 años explica el exilio. En 2 Cr 33, el mismo rey es llevado cautivo a Babilonia, se humilla, reza, y Dios lo devuelve a Jerusalén (33,10-13). Allí quita los ídolos y restaura el altar (33,15-16).\n\nEl Cronista hace de ello una regla: Dios responde a cada generación según lo que hace. Su fórmula está en la promesa a Salomón: si el pueblo se humilla, reza y busca a Dios, él lo escucha y sana su tierra (2 Cr 7,14).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La Misná (la recopilación de la ley oral) excluye a Manasés del mundo futuro (Sanedrín 10,2). El Talmud (Sanedrín 103a) discute su arrepentimiento: unos rabinos lo aceptan como prueba de que nadie queda fuera."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "Algunas Iglesias ortodoxas incluyen entre sus textos la Oración de Manasés, que desarrolla 2 Cr 33,18-19 y pone en boca del rey la súplica de perdón."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven aquí la retribución inmediata del Cronista: un reinado largo es señal de fidelidad, y por tanto Manasés tuvo que arrepentirse. Es una reescritura y no un dato de la fuente anterior.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "exilio-y-retorno",
+    "misericordia-y-compasion-de-dios"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

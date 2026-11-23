@@ -1,0 +1,33 @@
+{
+  "id": "nehemias-usura-y-esclavitud-por-deudas",
+  "libro_id": "nehemias",
+  "orden": 2,
+  "titulo": "Los endeudados gritan y el gobernador les hace justicia",
+  "pasaje": "Neh 5",
+  "que_dice": "En plena obra estalla otro conflicto. Hay familias que empeñan campos y casas para comer, y otras que entregan a sus hijas como esclavas por deudas. Dicen que sus hijos valen lo mismo que los de los ricos (Neh 5,1-5).\n\nNehemías se enfada y convoca una asamblea. Exige a los acreedores devolver tierras, casas y los intereses cobrados, y ellos lo prometen (5,6-13). Él mismo renuncia a la comida que le correspondía como gobernador (5,14-19).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: Neh 5 trata la deuda como cuestión de justicia entre hermanos. Se juzga con la ley que prohíbe cobrar interés a un compatriota (Éx 22,24; Lv 25,35-37; Dt 23,20-21)."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos sitúan el conflicto en el contexto de los tributos persas y de las malas cosechas, que empujaban a endeudarse (5,3-4). Nehemías aparece como gobernador que usa su autoridad contra la élite local.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "justicia-social-y-defensa-del-pobre"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ezra–Nehemiah (Old Testament Library)",
+      "autor": "Joseph Blenkinsopp",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

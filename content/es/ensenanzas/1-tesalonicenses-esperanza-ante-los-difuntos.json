@@ -1,0 +1,57 @@
+{
+  "id": "1-tesalonicenses-esperanza-ante-los-difuntos",
+  "libro_id": "1-tesalonicenses",
+  "orden": 2,
+  "titulo": "¿Qué esperanza ofrece Pablo ante quienes han muerto?",
+  "pasaje": "1 Tes 4,13-18",
+  "que_dice": "En Tesalónica han muerto algunos miembros, y los demás temen que se pierdan la venida del Señor. Pablo no quiere que vivan sin esperanza, como los demás. Si creen que Jesús murió y resucitó, creen también que Dios llevará con él a los que murieron (4,13-14).\n\nDescribe la venida con imágenes apocalípticas: aclamación, voz de arcángel y trompeta de Dios. Los muertos en Cristo resucitan primero; luego los vivos serán llevados con ellos al encuentro del Señor, y así estarán siempre con él (4,15-17).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica lo entiende como parte de la única venida gloriosa de Cristo. No enseña un arrebatamiento separado y previo."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La lectura ortodoxa lo lee en la misma línea: resurrección de los muertos y encuentro con Cristo al final, no un rapto previo."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Desde el siglo XIX, el dispensacionalismo (J. N. Darby, Biblia de Scofield) lee 4,17 como un *arrebatamiento*, es decir, un rapto secreto, de la Iglesia antes de la gran tribulación. Luteranos y reformados lo leen como parte de la venida única."
+    }
+  ],
+  "critica": {
+    "texto": "Se discute qué describe el pasaje sobre el modo en que los creyentes están con el Señor.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Robert Gundry",
+        "texto": "La palabra griega para el encuentro designa la salida a recibir a un gobernante que llega, que luego sigue su camino hacia la ciudad."
+      },
+      {
+        "quien": "F. F. Bruce",
+        "texto": "El texto no permite saber si el Señor, con los suyos, sigue hacia la tierra o vuelve al cielo."
+      },
+      {
+        "quien": "N. T. Wright",
+        "texto": "Niega que el pasaje enseñe un arrebatamiento previo a la tribulación; ve en él imágenes de resurrección y de victoria del Señor."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "resurreccion-y-vida-despues-de-la-muerte",
+    "esperanza-y-consuelo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Letters to the Thessalonians (Anchor Bible 32B)",
+      "autor": "Abraham J. Malherbe",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Epistles to the Thessalonians (NIGTC)",
+      "autor": "Charles A. Wanamaker",
+      "tradicion": "protestante"
+    }
+  ]
+}

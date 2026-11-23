@@ -1,0 +1,61 @@
+{
+  "id": "jueces-jefte-y-su-hija",
+  "libro_id": "jueces",
+  "orden": 4,
+  "titulo": "El voto de Jefté: una hija pagó la promesa de su padre",
+  "pasaje": "Jue 11,29-40",
+  "que_dice": "Antes de la batalla contra los amonitas, Jefté hace un voto: ofrecerá a Dios lo primero que salga de su casa si vuelve vencedor (11,30-31). Al regresar, sale a recibirlo su hija, hija única, con panderos y danzas.\n\nJefté rasga sus vestidos. Ella acepta, pide dos meses para llorar con sus amigas en los montes y vuelve (11,37-39). El texto no da su nombre. Cuenta que su padre cumplió el voto y que cada año las jóvenes de Israel la lloran cuatro días (11,39-40).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica critica a Jefté. Según Génesis Rabá 60,3, hizo un voto necio, y el sumo sacerdote Pinjás debió anularlo. Cada uno esperó que el otro fuera a buscarlo, y la joven murió."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Tomás de Aquino recoge una frase atribuida a Jerónimo: Jefté fue necio al prometer e impío al cumplir. Pese a todo, Heb 11,32 lo cuenta entre los hombres de fe, y las tradiciones cristianas lo han leído con esa tensión."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "feminista",
+      "autor": "Phyllis Trible",
+      "texto": "Para Phyllis Trible, la hija sin nombre es víctima de un voto que no hizo y de un relato que no la nombra. Trible la incluye entre sus «textos de terror» y lee su duelo anual como memoria."
+    }
+  ],
+  "critica": {
+    "texto": "El texto no dice con claridad si Jefté mató a su hija, y la discusión es antigua.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Daniel Block y muchos comentaristas modernos",
+        "texto": "Hubo sacrificio real. El texto habla de holocausto (11,31), y aquí queda un recuerdo de una práctica que la ley condena (Dt 12,31)."
+      },
+      {
+        "quien": "David Kimji (Radak, s. XIII) y otros",
+        "texto": "Jefté consagró a su hija a una vida sin casarse: el texto subraya que ella no conoció varón (11,39), y el duelo sería por su virginidad."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "violencia-guerra-y-paz",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Texts of Terror",
+      "autor": "Phyllis Trible",
+      "tradicion": "literaria"
+    },
+    {
+      "titulo": "Judges, Ruth (New American Commentary 6)",
+      "autor": "Daniel I. Block",
+      "tradicion": "protestante"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

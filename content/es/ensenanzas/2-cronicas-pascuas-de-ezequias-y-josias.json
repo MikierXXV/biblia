@@ -1,0 +1,43 @@
+{
+  "id": "2-cronicas-pascuas-de-ezequias-y-josias",
+  "libro_id": "2-cronicas",
+  "orden": 3,
+  "titulo": "Ezequías y Josías celebran la Pascua e invitan también al norte",
+  "pasaje": "2 Cr 29-30; 34-35",
+  "que_dice": "Ezequías abre el Templo, lo purifica y manda cartas a todo Israel, también al reino del norte, para celebrar la Pascua en Jerusalén (2 Cr 30). Algunos se ríen de los mensajeros y otros acuden. Se aplaza la fecha un mes para que llegue más gente.\n\nMás tarde Josías repite la Pascua con una participación inmensa (2 Cr 35). El Cronista presenta ambas reformas como ocasiones en que Judá y los restos de Israel vuelven a ser un solo pueblo.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el culto vale por la actitud de quien lo celebra. Ezequías pide a Dios que perdone a quien lo busca de corazón aunque no esté purificado (30,18-19)."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve aquí el proyecto de «todo Israel» del Cronista. Discute hasta dónde llega su apertura: si piensa en los habitantes del norte de su propio tiempo o solo en los de la época de Ezequías.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Sara Japhet",
+        "texto": "El Cronista abre la fiesta a los del norte como parte de un Israel único, que incluye a quienes no fueron deportados."
+      },
+      {
+        "quien": "Otra parte de la crítica",
+        "texto": "La invitación se limita a la época de Ezequías y no describe una apertura general en tiempos del autor."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

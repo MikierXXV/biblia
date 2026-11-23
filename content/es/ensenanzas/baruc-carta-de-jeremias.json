@@ -1,0 +1,57 @@
+{
+  "id": "baruc-carta-de-jeremias",
+  "libro_id": "baruc",
+  "orden": 4,
+  "titulo": "Una carta se burla de los ídolos de Babilonia: son de madera y no ven",
+  "pasaje": "Bar 6,1-72",
+  "que_dice": "Una carta atribuida a Jeremías avisa a los que van cautivos a Babilonia. Allí verán dioses de plata, oro y madera, llevados a hombros. No han de imitar a quienes los adoran (6,3-4).\n\nEl autor se burla con ejemplos. Sus sacerdotes se quedan con las ofrendas. Los ídolos necesitan que les limpien el polvo y no se defienden de ladrones ni de polillas (6,10-25). El estribillo se repite: no son dioses, no los temáis (6,16; 6,23; 6,29).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no incluye la carta en su canon, pero comparte la burla de los ídolos que aparece en Is 44,9-20, Jr 10,1-16 y Sal 115,4-8."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "La lectura católica la recibe como el capítulo 6 de Baruc y la ortodoxa, como libro aparte. Ambas la leen como Escritura contra el culto a los ídolos."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero, en su Biblia de 1534, puso los apócrifos en una sección aparte, como libros «útiles y buenos de leer», aunque no iguales a la Escritura."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica data la carta entre los siglos IV y II a. C. Un fragmento griego de Qumrán (7Q2) suele identificarse con Bar 6,43-44. Eso la haría anterior al siglo I a. C., pero la identificación se discute.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Maurice Baillet",
+        "texto": "El fragmento 7Q2 es de la carta. Por eso la carta es anterior a hacia el 100 a. C. y circulaba ya en griego."
+      },
+      {
+        "quien": "Otros críticos",
+        "texto": "El fragmento es muy pequeño y su identificación es incierta. No sirve para fijar la fecha de la carta."
+      }
+    ]
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "exilio-y-retorno"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Introducing the Apocrypha (2.ª ed.)",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Daniel, Esther, and Jeremiah: The Additions (Anchor Bible 44)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Les «petites grottes» de Qumrân (Discoveries in the Judaean Desert III)",
+      "autor": "Maurice Baillet, J. T. Milik y Roland de Vaux",
+      "tradicion": "catolica"
+    }
+  ]
+}

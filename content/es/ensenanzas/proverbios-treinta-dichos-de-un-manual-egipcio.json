@@ -1,0 +1,42 @@
+{
+  "id": "proverbios-treinta-dichos-de-un-manual-egipcio",
+  "libro_id": "proverbios",
+  "orden": 2,
+  "titulo": "Treinta dichos del libro se parecen a un manual egipcio",
+  "pasaje": "Prov 22,17-24,22",
+  "que_dice": "Un maestro invita a escuchar las palabras de los sabios y anuncia treinta dichos (22,17-21). Hablan de no robar al débil, de no codiciar la mesa del poderoso, de no mover el lindero antiguo. Son consejos de un escriba para un joven que quiere ascender.\n\nEl orden y buena parte de los temas coinciden con un texto egipcio, la Instrucción de Amenemope, dividido en treinta capítulos. Eso no resta valor al libro. Dice cómo funcionaba la sabiduría de la región.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía clásica atribuye el libro a Salomón y no conoce Amenemope, que se publicó en 1923. Los comentarios judíos actuales, como The Jewish Study Bible, recogen el paralelo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Agustín justificó el uso del saber de otros pueblos con la imagen de despojar a los egipcios (La doctrina cristiana II,40). Esa lectura cristiana acepta que haya sabiduría fuera de Israel."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica coincide en que Prov 22,17-24,22 conoce la Instrucción de Amenemope, más antigua. Adolf Erman lo señaló en 1924. Discute cuánto: reelabora los dichos, no los copia.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Proverbs 10-31 (Anchor Bible 18B)",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Proverbs (Word Biblical Commentary 22)",
+      "autor": "Roland E. Murphy",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

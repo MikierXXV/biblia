@@ -1,0 +1,49 @@
+{
+  "id": "eclesiastes-disfrutar-con-gratitud",
+  "libro_id": "eclesiastes",
+  "orden": 3,
+  "titulo": "Come tu pan con alegría: disfrutar es la respuesta de Qohélet",
+  "pasaje": "Ecl 9,7-10; 2,24-25",
+  "que_dice": "Qohélet, que ha dicho que todo es aliento, da un consejo. Come tu pan con alegría y bebe tu vino con buen ánimo, porque Dios ya aprobó lo que haces (9,7). Viste de blanco, perfúmate y disfruta de la vida con la mujer que amas (9,8-9).\n\nEl motivo es la muerte. En el *Sheol*, la morada de los muertos adonde vas, no hay trabajo ni saber (9,10). La alegría no cancela lo efímero: es lo que se puede hacer con ello. Qohélet la presenta como don de Dios (2,24-25).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "En Sucot, la «fiesta de nuestra alegría», muchas comunidades leen Eclesiastés. La tradición ve en la alegría ante la fragilidad un mandato: disfrutar de lo que Dios da."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero dio clases sobre el libro en 1526. Lo leyó como llamada a aceptar con gratitud lo que Dios da en la vida diaria: casa, trabajo y mesa."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Michael V. Fox",
+      "texto": "Para Michael Fox, Qohélet no se resigna a la nada. El placer es la única ganancia que el absurdo no le puede quitar, y la defiende como bien real."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica señala que el consejo de comer, vestirse y amar tiene paralelos mesopotámicos. En la epopeya de Gilgamés, la tabernera Siduri da un consejo parecido.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Ecclesiastes (Anchor Bible 18C)",
+      "autor": "Choon-Leong Seow",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "genesis-imagen-de-dios",
+  "libro_id": "genesis",
+  "orden": 2,
+  "titulo": "Hombre y mujer llevan la imagen de Dios",
+  "pasaje": "Gn 1,26-28",
+  "que_dice": "El sexto día, Dios habla en plural: hagamos al ser humano a nuestra imagen y semejanza. Crea al hombre y a la mujer a la vez y los bendice. Les encarga dominar a los peces, a las aves y a los animales de la tierra (1,26-28).\n\nEn el Oriente antiguo, solo el rey solía llamarse imagen de un dios. Aquí el texto lo dice de todo ser humano, sin distinción de rango. Gn 9,6 usa esa imagen para prohibir el homicidio.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía lee la imagen como dignidad de cada persona. La Misná (Sanedrín 4,5), colección de leyes del siglo II, enseña que Adán fue creado solo para que nadie diga a otro: mi padre es más que el tuyo."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, y en lo esencial para las demás cristianas, la imagen funda la dignidad de toda persona. Algunos Padres de la Iglesia, como Ireneo, distinguen entre imagen, que se recibe, y semejanza, que se alcanza."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa une la imagen a la divinización: el ser humano está llamado a compartir la vida de Dios."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos sitúa el texto en la tradición sacerdotal y lo compara con Egipto y Mesopotamia, donde la imagen del dios era el rey. Gn 1 extiende ese título a toda la humanidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "imagen-de-dios-y-dignidad-humana",
+    "creacion-y-cuidado-del-mundo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Genesis (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Nuevo Comentario Bíblico San Jerónimo",
+      "autor": "Raymond E. Brown, Joseph A. Fitzmyer y Roland E. Murphy (eds.)",
+      "tradicion": "catolica"
+    }
+  ]
+}

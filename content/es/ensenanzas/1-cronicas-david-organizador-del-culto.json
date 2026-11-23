@@ -1,0 +1,34 @@
+{
+  "id": "1-cronicas-david-organizador-del-culto",
+  "libro_id": "1-cronicas",
+  "orden": 2,
+  "titulo": "El David de Crónicas organiza el culto, no el escándalo",
+  "pasaje": "1 Cr 13-16; 22-29",
+  "que_dice": "David trae el arca de la alianza a Jerusalén entre música y danza (1 Cr 15-16). Después reúne materiales y planos para un Templo que no construirá él, sino su hijo Salomón (1 Cr 22; 28). Reparte a los levitas en turnos de portero, músico y sacerdote (1 Cr 23-26).\n\nFalta lo que contaba Samuel: Betsabé, Urías y la revuelta de Absalón. El David del Cronista es el fundador de la liturgia.",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: este David es el rey modelo, el que prepara el culto. La tradición judía, que atribuye a David muchos salmos, ve en Crónicas el origen del canto del Templo."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica compara Crónicas con Samuel y Reyes y observa que el Cronista omite lo que no sirve a su propósito y amplía lo litúrgico. Es la diferencia más visible entre las dos historias, como señala Japhet.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "culto-verdadero-y-sacrificio",
+    "poder-monarquia-y-critica-politica"
+  ],
+  "fuentes": [
+    {
+      "titulo": "I & II Chronicles (Old Testament Library)",
+      "autor": "Sara Japhet",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

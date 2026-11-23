@@ -1,0 +1,38 @@
+{
+  "id": "baruc-la-sabiduria-es-la-ley",
+  "libro_id": "baruc",
+  "orden": 2,
+  "titulo": "La sabiduría que nadie encontró está en el libro de la ley",
+  "pasaje": "Bar 3,9–4,4",
+  "que_dice": "El poeta pregunta a Israel por qué sigue en tierra enemiga, envejeciendo entre extraños. Porque abandonó la fuente de la sabiduría (3,10-12). El poema pregunta quién subió al cielo a buscarla y quién cruzó el mar para traerla (3,29-30). Ni los príncipes ni los gigantes ni los mercaderes la hallaron (3,16-23).\n\nSolo Dios la conoce y se la dio a Jacob (3,32-37). El poema la identifica con el libro de los mandamientos, la ley que dura siempre. Quien la sigue, vive (4,1).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía no tiene Baruc. Conoce la misma idea en Sir 24,23 y en los rabinos: la Torá es la sabiduría con la que Dios creó el mundo (Génesis Rabá 1,1)."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Varios Padres de la Iglesia leyeron Bar 3,38, donde la sabiduría aparece en la tierra y vive entre los hombres, como referido a Cristo. Bar 3,9-15.32–4,4 es una lectura de la Vigilia Pascual católica."
+    }
+  ],
+  "critica": {
+    "texto": "Casi toda la crítica coincide en que este poema une sabiduría y ley de Moisés, como Sir 24 y Job 28. Es un paso importante del judaísmo del segundo Templo.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "sabiduria-y-vida-buena",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Introducing the Apocrypha (2.ª ed.)",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Jewish Literature Between the Bible and the Mishnah (2.ª ed.)",
+      "autor": "George W. E. Nickelsburg",
+      "tradicion": "critica"
+    }
+  ]
+}

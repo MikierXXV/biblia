@@ -1,0 +1,63 @@
+{
+  "id": "3-juan",
+  "seccion_id": "nuevo-testamento",
+  "orden": 25,
+  "nombre": "3 Juan",
+  "abreviatura": "3 Jn",
+  "bloque": "cartas-catolicas",
+  "capitulos": 1,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Breve nota sobre la hospitalidad a los misioneros itinerantes y un conflicto con un líder local.",
+  "presentacion": "Gayo recibe en su casa a unos misioneros itinerantes, y el Anciano se lo agradece por escrito. Pero en otra iglesia de la red un tal Diótrefes no acoge a los enviados del Anciano y expulsa a quien quiere hacerlo.\n\nEs una carta personal y es el testimonio más claro del Nuevo Testamento sobre cómo se sostenían los misioneros: de casa en casa. También muestra un conflicto de autoridad con nombre propio.",
+  "autoria": {
+    "tradicion": "La atribuyeron al apóstol Juan, aunque ya se discutía si era de Juan el presbítero.",
+    "critica": "Su autor se llama solo el Anciano. La mayoría de críticos lo sitúa en la escuela joánica, el mismo círculo de 1 y 2 Jn, sin identificarlo.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición que la atribuye al apóstol, es de finales del siglo I.",
+    "critica": "La mayoría de críticos la data hacia el 90-110 d. C.",
+    "acuerdo": "consenso",
+    "rango": [
+      90,
+      110
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte del canon judío, que no incluye el Nuevo Testamento.",
+    "ortodoxa": "Es canónica, aunque en la antigüedad se contó entre los escritos más tarde reconocidos.",
+    "protestante": "Es canónica, como en la tradición católica."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "3 Jn 5-8",
+      "nota": "Acoger a los misioneros es colaborar con la verdad."
+    },
+    {
+      "pasaje": "3 Jn 9-10",
+      "nota": "Diótrefes, que quiere el primer puesto."
+    },
+    {
+      "pasaje": "3 Jn 12",
+      "nota": "Demetrio, recomendado por todos."
+    }
+  ],
+  "para_recordar": [
+    "3 Jn es una carta personal a Gayo sobre la hospitalidad a misioneros.",
+    "Diótrefes es un conflicto de autoridad con nombre propio.",
+    "Muestra cómo funcionaba la red de misioneros itinerantes, de casa en casa."
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "judit-oracion-del-dios-de-los-humildes",
+  "libro_id": "judit",
+  "orden": 2,
+  "titulo": "Antes de actuar, Judit reza al Dios de los humildes",
+  "pasaje": "Jdt 9",
+  "que_dice": "Judit se cubre de ceniza, se viste de saco y reza a la hora en que se ofrece el incienso en el Templo (Jdt 9,1). Recuerda cómo Dios defendió a Dina, la hija de Jacob violada en Siquén, y pide ayuda para una viuda (9,2-4).\n\nPide que el engaño de sus labios hiera a los asirios (9,13). Y añade que Dios no necesita muchos ni fuertes: es el Dios de los humildes, amparo de los pequeños y salvador de los desesperados (9,11).",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, la oración de Judit es modelo de plegaria confiada. Los Padres, como Clemente de Roma, la ponen de ejemplo de la fe de una mujer."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Los anglicanos, y otros protestantes que leen los libros deuterocanónicos, ven en Judit un ejemplo de piedad. No fundan doctrina en ella."
+    }
+  ],
+  "academica": [
+    {
+      "enfoque": "literaria",
+      "autor": "Toni Craven",
+      "texto": "Toni Craven, en su análisis literario, subraya que Judit lleva la iniciativa en todo el relato mientras los hombres de Betulia dudan."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos ven en Jdt 9 la oración que da sentido al relato: Judit actúa después de rezar. El estilo recuerda a los salmos, que presentan a Dios como defensor de los humildes.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "mujeres-y-liderazgo"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Judith (Anchor Bible 40)",
+      "autor": "Carey A. Moore",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Artistry and Faith in the Book of Judith",
+      "autor": "Toni Craven",
+      "tradicion": "literaria"
+    }
+  ]
+}

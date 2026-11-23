@@ -1,0 +1,58 @@
+{
+  "id": "2-reyes-samaria-y-jerusalen-caen",
+  "libro_id": "2-reyes",
+  "orden": 3,
+  "titulo": "Samaría y Jerusalén caen, y el libro explica por qué",
+  "pasaje": "2 Re 17; 24-25",
+  "que_dice": "El rey de Asiria toma Samaría tras un asedio de tres años y deporta a los israelitas (17,5-6). El libro no se limita a contar la caída: explica que Israel abandonó a Dios, adoró ídolos y no escuchó a los profetas (17,7-23).\n\nJudá dura más. Hacia 598 a. C., Nabucodonosor se lleva al rey Joaquín y a la élite. En el 587 a. C., tras otro asedio, destruye el templo y la ciudad, y deporta a más gente. Solo quedan los más pobres para trabajar la tierra (24,10-25,21).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición judía recuerda la caída del templo el nueve de Av (Tisha b'Av), un día de ayuno y duelo. Ese día se leen las Lamentaciones."
+    },
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones judía y cristianas: el libro interpreta la ruina como juicio de Dios sobre la infidelidad, y deja abierta la puerta a una restauración."
+    }
+  ],
+  "critica": {
+    "texto": "La arqueología y los textos asirios y babilonios dan otra perspectiva. Se discuten el número de deportados y el papel de Judá tras 722 a. C.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Thomas Römer",
+        "texto": "La explicación de 2 Re 17 es una teología escrita después, para dar sentido a la catástrofe. No es un informe de los hechos."
+      },
+      {
+        "quien": "Bob Becking",
+        "texto": "Hubo dos tomas: una de Salmanasar V, hacia 723-722 a. C., y otra de Sargón II, hacia 720, que los anales de este reclaman."
+      },
+      {
+        "quien": "Israel Finkelstein",
+        "texto": "Tras 722 a. C. llegaron a Judá refugiados del norte, y Jerusalén creció mucho. Eso explicaría el auge de textos sobre el pasado de Israel."
+      }
+    ]
+  },
+  "temas": [
+    "exilio-y-retorno",
+    "poder-monarquia-y-critica-politica",
+    "violencia-guerra-y-paz"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Fall of Samaria",
+      "autor": "Bob Becking",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Bible Unearthed",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    }
+  ]
+}

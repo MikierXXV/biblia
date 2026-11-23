@@ -1,0 +1,57 @@
+{
+  "id": "1-reyes-salomon-sabio-y-caido",
+  "libro_id": "1-reyes",
+  "orden": 1,
+  "titulo": "Salomón pide sabiduría y acaba desviado por sus mujeres",
+  "pasaje": "1 Re 3; 10-11",
+  "que_dice": "Salomón sueña en Gabaón. Dios le ofrece lo que pida, y él pide un corazón atento para juzgar al pueblo y distinguir el bien del mal (3,5-9). Dios se lo da y añade riqueza y fama. Después resuelve el caso de dos madres que se disputan un niño (3,16-28).\n\nEl final es distinto. Salomón se casa con muchas extranjeras, acumula caballos y oro, y ellas lo llevan a adorar a otros dioses (10,26-11,8). Es lo que Dt 17,16-17 prohíbe a un rey. Dios anuncia que el reino se partirá (11,9-13).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "La tradición rabínica atribuye a Salomón Proverbios, el Cantar y Eclesiastés. El Talmud (Shabat 56b) recoge la opinión de que no pecó y de que el texto lo culpa solo porque no impidió el culto de sus mujeres."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Jesús habla de una sabiduría mayor que la de Salomón (Mt 12,42). La caída de Salomón se lee como aviso contra el poder y la riqueza sin freno."
+    }
+  ],
+  "critica": {
+    "texto": "La arqueología discute la grandeza de Salomón. Palacios y puertas monumentales de Hazor, Megiddo y Guézer se fechan en el siglo X a. C. según unos y en el IX según otros.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Israel Finkelstein",
+        "texto": "Con su cronología baja, esas obras son del siglo IX, de los reyes del norte. En el siglo X, Jerusalén era una aldea y Salomón, un jefe local."
+      },
+      {
+        "quien": "Amihai Mazar",
+        "texto": "Con una cronología intermedia, las sitúa a finales del siglo X. Jerusalén sería un centro real, pero modesto."
+      },
+      {
+        "quien": "Kenneth Kitchen y lecturas maximalistas",
+        "texto": "El libro es en general fiable: sus noticias de riqueza y alianzas encajan con las monarquías vecinas de la época."
+      }
+    ]
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "extranjero-y-hospitalidad"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Bible Unearthed",
+      "autor": "Israel Finkelstein y Neil A. Silberman",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Archaeology of the Land of the Bible, 10,000–586 B.C.E.",
+      "autor": "Amihai Mazar",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "On the Reliability of the Old Testament",
+      "autor": "Kenneth A. Kitchen",
+      "tradicion": "protestante"
+    }
+  ]
+}

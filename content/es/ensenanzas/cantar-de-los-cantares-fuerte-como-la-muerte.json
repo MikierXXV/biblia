@@ -1,0 +1,48 @@
+{
+  "id": "cantar-de-los-cantares-fuerte-como-la-muerte",
+  "libro_id": "cantar-de-los-cantares",
+  "orden": 2,
+  "titulo": "El amor es fuerte como la muerte y el dinero no lo compra",
+  "pasaje": "Cant 8,6-7",
+  "que_dice": "Casi al final, ella le pide que la ponga como sello sobre su corazón y su brazo. El motivo: el amor es fuerte como la muerte, y la pasión, dura como el *Sheol*, la morada de los muertos (8,6). Sus brasas son brasas de fuego, una llama poderosa.\n\nNingún río apaga el amor ni lo ahogan las aguas. Y si alguien diera toda su fortuna por amor, solo recibiría desprecio (8,7). El amor no se compra.",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Rashi lee el pasaje como diálogo de Dios e Israel: Israel le pide que no la olvide en el exilio. El amor de Dios por su pueblo no se apaga."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "El ritual católico del matrimonio propone Cant 8,6-7 como lectura. Aplica el pasaje al amor de los esposos, signo del amor de Cristo con la Iglesia (Ef 5,32)."
+    }
+  ],
+  "critica": {
+    "texto": "La última palabra del versículo 8,6, *shalhebetyah*, puede leerse «llama de Yah», nombre abreviado de Dios, o «llama poderosísima».",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Quienes ven el nombre divino",
+        "texto": "Sería la única vez que el Cantar nombra a Dios, aunque sea abreviado: el amor sería fuego que viene de él."
+      },
+      {
+        "quien": "Quienes ven un superlativo",
+        "texto": "Yah es solo un intensificador, como en otros textos hebreos: una llama fortísima, sin referencia directa a Dios."
+      }
+    ]
+  },
+  "abierta": true,
+  "temas": [
+    "sentido-y-finitud"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Song of Songs and the Ancient Egyptian Love Songs",
+      "autor": "Michael V. Fox",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ]
+}

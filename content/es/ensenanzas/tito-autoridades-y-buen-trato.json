@@ -1,0 +1,40 @@
+{
+  "id": "tito-autoridades-y-buen-trato",
+  "libro_id": "tito",
+  "orden": 2,
+  "titulo": "¿Qué pide Tito sobre la convivencia con las autoridades?",
+  "pasaje": "Tit 3,1-2",
+  "que_dice": "En una isla de fama turbulenta, la carta pide a Tito recordar algo a los creyentes. Que sean sumisos a gobernantes y autoridades, y dispuestos a toda obra buena (Tit 3,1). Pide también no insultar a nadie, evitar las peleas, ser amables y mostrar dulzura con todos (3,2).\n\nLa razón es que ellos mismos eran antes insensatos y esclavos de sus pasiones, hasta que Dios mostró su bondad (3,3-4). Es un aviso contra el desprecio hacia quienes están fuera.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "El Catecismo de la Iglesia Católica (n. 2242) enseña que obliga la obediencia a la autoridad legítima, y que se debe desobedecer cuando manda algo contrario a la ley moral."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "Lutero y Calvino vieron en estos textos un deber ante las autoridades. Los anabaptistas limitaron lo que la autoridad puede exigir a un creyente."
+    }
+  ],
+  "critica": {
+    "texto": "Los críticos relacionan Tit 3,1-2 con Rom 13 y 1 Pe 2,13-17 y lo leen como una consigna de buena vecindad para una comunidad minoritaria.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "poder-monarquia-y-critica-politica",
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "A Critical and Exegetical Commentary on the Pastoral Epistles (International Critical Commentary)",
+      "autor": "I. Howard Marshall (con Philip H. Towner)",
+      "tradicion": "protestante",
+      "url": "https://www.logos.com/product/4191/the-pastoral-epistles"
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Philip H. Towner",
+      "tradicion": "protestante",
+      "url": "https://wtsbooks.com/the-letters-to-timothy-and-titus-philip-towner-9780802825131"
+    }
+  ]
+}

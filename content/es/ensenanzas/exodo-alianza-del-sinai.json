@@ -1,0 +1,57 @@
+{
+  "id": "exodo-alianza-del-sinai",
+  "libro_id": "exodo",
+  "orden": 2,
+  "titulo": "En el Sinaí, el pueblo liberado acepta una alianza con Dios",
+  "pasaje": "Éx 19,3-8; 24,3-8",
+  "que_dice": "Tres meses después de salir de Egipto, el pueblo acampa ante el monte Sinaí. Dios le recuerda lo que ha hecho: lo llevó sobre alas de águila. Le propone ser su propiedad, un reino de sacerdotes y una nación santa.\n\nEl pueblo responde que hará todo lo que Dios diga (19,3-8). Después Moisés lee el libro de la alianza, rocía con sangre el altar y al pueblo, y los israelitas repiten su promesa (24,3-8).",
+  "lecturas": [
+    {
+      "tradicion": "judia",
+      "texto": "Para la tradición judía, la entrega de la Torá en el Sinaí es el centro de su historia, y se celebra en Shavuot. El Talmud (Shabat 88a) alaba que el pueblo dijera «haremos y escucharemos»: aceptó antes de entender."
+    },
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, el Sinaí es una etapa de la pedagogía de Dios, que culmina en la nueva alianza (Jr 31,31-34; Lc 22,20)."
+    },
+    {
+      "tradicion": "protestante",
+      "texto": "La tradición reformada habla de un solo pacto de gracia con varias etapas. La luterana contrapone la ley, que acusa, al evangelio, que perdona."
+    }
+  ],
+  "critica": {
+    "texto": "Para la crítica, Éx 19-24 reúne capas de épocas distintas. Se discute desde cuándo Israel entendió su relación con Dios como una alianza.",
+    "acuerdo": "discusion",
+    "posturas": [
+      {
+        "quien": "Lothar Perlitt y otros",
+        "texto": "La idea de alianza es una teología tardía, de la época de Deuteronomio (siglo VII a. C.)."
+      },
+      {
+        "quien": "K. A. Kitchen y otros",
+        "texto": "Los paralelos con tratados hititas del siglo XIII a. C. apuntan a una forma de pacto mucho más antigua."
+      }
+    ]
+  },
+  "temas": [
+    "alianza",
+    "ley-libertad-y-gracia"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Exodus (JPS Torah Commentary)",
+      "autor": "Nahum M. Sarna",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "Bundestheologie im Alten Testament",
+      "autor": "Lothar Perlitt",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "On the Reliability of the Old Testament",
+      "autor": "K. A. Kitchen",
+      "tradicion": "critica"
+    }
+  ]
+}

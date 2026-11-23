@@ -1,0 +1,99 @@
+{
+  "id": "deuteronomio",
+  "seccion_id": "pentateuco",
+  "orden": 5,
+  "nombre": "Deuteronomio",
+  "abreviatura": "Dt",
+  "capitulos": 34,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Presenta los discursos de despedida de Moisés antes de cruzar el Jordán. Repite la ley y pide al pueblo elegir fidelidad a la alianza.",
+  "presentacion": "Moisés tiene ciento veinte años y no cruzará el Jordán. En la orilla oriental, frente a la tierra prometida, habla al pueblo durante todo un libro. Repasa el camino, repite la ley y pide una decisión.\n\nDeuteronomio significa «segunda ley», pero no copia lo anterior. Reformula las leyes de Éxodo para un pueblo que va a vivir en ciudades, con tribunales y reyes. Tiene la forma de un tratado de alianza: preámbulo, recuerdo de la historia, normas, bendiciones y maldiciones.\n\nEs la base de la llamada historia deuteronomista (de Josué a 2 Reyes). Contiene el Shemá (6,4-9), la protección de huérfanos, viudas y extranjeros, y las órdenes de *herem*, el exterminio de pueblos, cuya lectura incomoda hoy.",
+  "autoria": {
+    "tradicion": "La tradición presenta el libro como discursos de Moisés. El Talmud (Baba Batra 14b) atribuye a Josué los últimos versículos, los de la muerte de Moisés.",
+    "critica": "La crítica no lo atribuye a Moisés. Relaciona un núcleo (Dt 12-26) con la reforma del rey Josías (621 a. C.) y discute cómo se redactó el conjunto.",
+    "acuerdo": "discusion"
+  },
+  "datacion": {
+    "tradicion": "Para la tradición, Moisés pronunció estos discursos entre los siglos XIV y XIII a. C., al final de los cuarenta años en el desierto.",
+    "critica": "Muchos críticos relacionan el núcleo con la reforma de Josías y el marco con el exilio (siglo VI a. C.); otros ven capas posmonárquicas. Los modelos de redacción difieren.",
+    "acuerdo": "discusion",
+    "rango": [
+      -700,
+      -450
+    ],
+    "rango_tradicion": [
+      -1320,
+      -1200
+    ],
+    "posturas": [
+      {
+        "quien": "Martin Noth y sus seguidores",
+        "texto": "Un autor o escuela deuteronomista, en el exilio, escribió la obra de Dt 1 a 2 Re 25 como una historia continua."
+      },
+      {
+        "quien": "Cross, Römer y otros",
+        "texto": "Ven varias ediciones: una anterior al exilio, en tiempos de Josías, y otras del exilio y después."
+      },
+      {
+        "quien": "Estudiosos conservadores, como K. A. Kitchen",
+        "texto": "Sostienen que la forma de tratado sigue modelos del segundo milenio a. C. y conserva a Moisés."
+      },
+      {
+        "quien": "Parte de la crítica reciente",
+        "texto": "Ve capas importantes de Dt en la época persa (siglo V a. C.), cuando el libro se integra en el Pentateuco."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "Es el quinto y último libro de la Torá, Devarim, «palabras». El Shemá (6,4-9) se recita cada mañana y cada noche.",
+    "ortodoxa": "Es canónico y cierra el Pentateuco, como en las Biblias católicas.",
+    "protestante": "Es canónico y cierra el Pentateuco, como en las Biblias católicas."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Dt 6,4-9",
+      "nota": "El Shemá: el Señor es uno y se le ama con todo el ser."
+    },
+    {
+      "pasaje": "Dt 10,17-19",
+      "nota": "Dios defiende al huérfano, a la viuda y al extranjero."
+    },
+    {
+      "pasaje": "Dt 15,12-15",
+      "nota": "La liberación de los esclavos al séptimo año."
+    },
+    {
+      "pasaje": "Dt 20,10-18",
+      "nota": "Las normas de guerra, con la orden de herem contra las ciudades de Canaán."
+    },
+    {
+      "pasaje": "Dt 30,15-20",
+      "nota": "Moisés pone ante el pueblo la vida y la muerte."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "The So-Called Deuteronomistic History",
+      "autor": "Thomas Römer",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Deuteronomy 1-11 (Anchor Bible 5)",
+      "autor": "Moshe Weinfeld",
+      "tradicion": "judia"
+    },
+    {
+      "titulo": "The Jewish Study Bible",
+      "autor": "Adele Berlin y Marc Z. Brettler (eds.)",
+      "tradicion": "judia"
+    }
+  ],
+  "para_recordar": [
+    "Deuteronomio son los discursos de despedida de Moisés, y pide al pueblo elegir la vida.",
+    "Contiene el Shemá (6,4-9), oración central del judaísmo, y la memoria de la esclavitud como base de la ética.",
+    "Protege al huérfano, a la viuda y al extranjero (10,18-19; 24,17-22).",
+    "Incluye órdenes de herem contra pueblos de Canaán: las tradiciones y la crítica las leen hoy de varios modos.",
+    "Buena parte de la crítica relaciona su núcleo con la reforma de Josías (621 a. C.); la redacción se discute."
+  ]
+}

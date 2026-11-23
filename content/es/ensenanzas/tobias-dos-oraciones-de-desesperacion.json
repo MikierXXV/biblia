@@ -1,0 +1,38 @@
+{
+  "id": "tobias-dos-oraciones-de-desesperacion",
+  "libro_id": "tobias",
+  "orden": 2,
+  "titulo": "Dos personas piden morir y Dios las oye a la vez",
+  "pasaje": "Tob 3",
+  "que_dice": "En un mismo momento, dos personas lejanas rezan para morir. Tobit, ciego y humillado por su mujer, pide a Dios que lo deje morir (Tob 3,1-6). Sara, en Ecbátana, acusada por una criada de matar a sus maridos, piensa en ahorcarse y reza lo mismo (3,7-15).\n\nEl texto dice que las dos oraciones llegan a la vez ante Dios y que Rafael es enviado a curar a los dos (3,16-17). El libro no explica el sufrimiento: muestra que alguien lo escucha.",
+  "lecturas": [
+    {
+      "tradicion": "catolica",
+      "texto": "Para la lectura católica, Rafael es uno de los tres arcángeles con nombre. Desde 1969 su fiesta se celebra el 29 de septiembre, junto a Miguel y Gabriel."
+    },
+    {
+      "tradicion": "ortodoxa",
+      "texto": "La tradición ortodoxa celebra el 8 de noviembre, en calendario juliano, el Sínodo de los santos arcángeles, entre los que está Rafael."
+    }
+  ],
+  "critica": {
+    "texto": "La crítica ve en el demonio Asmodeo (3,8) una figura de origen persa. Ve en Rafael un tipo de intercesor propio de la literatura judía helenística, como 1 Henoc.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "oracion",
+    "sufrimiento-del-inocente-y-lamento"
+  ],
+  "fuentes": [
+    {
+      "titulo": "Tobit (Commentaries on Early Jewish Literature)",
+      "autor": "Joseph A. Fitzmyer",
+      "tradicion": "catolica"
+    },
+    {
+      "titulo": "Introducing the Apocrypha: Message, Context, and Significance",
+      "autor": "David A. deSilva",
+      "tradicion": "critica"
+    }
+  ]
+}

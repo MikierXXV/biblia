@@ -1,0 +1,160 @@
+/*
+ * El marco común de las visualizaciones.
+ *
+ * Todas las piezas viven en el mismo hueco, con la misma proporción y los mismos controles. Ese
+ * marco compartido es la mitad de lo que hace que N piezas distintas se sientan del mismo sistema;
+ * la otra mitad es src/vis/lenguaje.ts.
+ */
+
+/*
+ * El hueco contiene DOS cosas: el lienzo, que dibuja, y el texto que va debajo de él. Están
+ * separados porque el lienzo tiene que recortar lo que se salga —un trazo desbordado ensuciaría la
+ * página— y la resolución de la pieza es texto que va fuera. Cuando compartían caja, la resolución
+ * se escribía y el recorte se la comía: no se veía nunca, y sin ningún síntoma que lo delatara.
+ */
+.vis-hueco {
+  width: 100%;
+  margin: var(--e6) 0;
+}
+
+/* Antes de montarse, el hueco reserva el alto que va a ocupar el lienzo. Sin esto, el contenido de
+   debajo da un salto al aparecer la pieza, que es exactamente lo que mide el CLS. */
+.vis-hueco:empty {
+  aspect-ratio: var(--vis-proporcion);
+  background: var(--fondo-hundido);
+  border-radius: var(--e2);
+}
+
+.vis-lienzo {
+  aspect-ratio: var(--vis-proporcion);
+  width: 100%;
+  background: var(--fondo-hundido);
+  border-radius: var(--e2);
+  overflow: hidden;
+  position: relative;
+}
+
+.vis-svg,
+.vis-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.vis-rotulo {
+  font-family: var(--fuente-texto);
+  /* La calcula crearSvg() con el ancho real, para que se vea igual de grande en cualquier pantalla.
+     El 15px de respaldo solo se usa si algo va mal antes del primer ajuste. */
+  font-size: var(--tam-rotulo, 15px);
+  fill: var(--texto);
+}
+
+.vis-rotulo-enfasis { font-weight: var(--peso-semibold); }
+
+.vis-marca { cursor: grab; }
+.vis-marca:active { cursor: grabbing; }
+
+.vis-controles {
+  position: absolute;
+  bottom: var(--e3);
+  left: var(--e3);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--e2);
+}
+
+/*
+ * Alternativa textual: fuera de la vista, presente para el lector de pantalla.
+ *
+ * NO se usa `display: none` ni `visibility: hidden`: ambos la esconden también del lector, que es
+ * justo lo contrario de lo que se busca. Este es el patrón que sí funciona.
+ */
+.vis-alternativa {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* La resolución SÍ se ve: es el cierre de la pieza, lo que el usuario debía entender. */
+.vis-resolucion {
+  font-size: var(--t-pequeno);
+  color: var(--texto-secundario);
+  border-left: var(--trazo-enfasis) solid var(--acento, var(--separador));
+  padding-left: var(--e3);
+  margin-top: var(--e4);
+}
+
+/* Lo que se ve cuando no hay WebGL o el sistema pide no moverse. */
+.vis-respaldo {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  padding: var(--e6);
+  text-align: center;
+  color: var(--texto-secundario);
+  font-size: var(--t-pequeno);
+}
+
+/* ------------------------------------------------------- mecánicas del canon -- */
+
+/* Reserva de alto antes de montar: las piezas de este sitio miden su alto al dibujar, y sin esto el
+   hueco vacío mide cero y empuja el contenido al aparecer (CLS). */
+.vis-hueco[data-vis]:empty { min-height: 24rem; aspect-ratio: auto; }
+.vis-hueco[data-vis='dataciones']:empty { min-height: 14rem; }
+
+/* Mapa del canon. Atenuar es solo FORMA (trazo y relleno apagados), nunca el texto. */
+.mapa-bloque { cursor: pointer; outline: none; }
+.mapa-bloque .forma { fill: color-mix(in oklab, var(--acento) 22%, var(--fondo-elevado)); stroke: var(--acento); stroke-width: 1.5; }
+.mapa-bloque .trama { stroke: none; opacity: 0.55; pointer-events: none; }
+.mapa-bloque.adiciones .forma { stroke-dasharray: 4 3; stroke-width: 2.25; }
+.mapa-bloque:hover .forma { fill: color-mix(in oklab, var(--acento) 40%, var(--fondo-elevado)); }
+.mapa-bloque:focus-visible .forma { stroke: var(--foco); stroke-width: 3; }
+.mapa-bloque[data-fuera='si'] .forma { fill: var(--fondo-hundido); stroke-opacity: 0.35; stroke-dasharray: 2 4; }
+.mapa-bloque[data-fuera='si'] .trama { opacity: 0.1; }
+/* Leyenda: mismas formas que los bloques reales (la trama lleva su <pattern>; el borde discontinuo, el mismo trazo). */
+.mapa-leyenda .forma { fill: color-mix(in oklab, var(--acento) 22%, var(--fondo-elevado)); stroke: var(--acento); stroke-width: 1.5; }
+.mapa-leyenda .trama { stroke: none; opacity: 0.55; }
+.mapa-leyenda.adiciones .forma { stroke-dasharray: 4 3; stroke-width: 2.25; }
+.mapa-abrev { pointer-events: none; font-size: calc(var(--tam-rotulo, 15px) * 0.8); }
+
+.mapa-conmutador { display: flex; flex-wrap: wrap; align-items: center; gap: var(--e2); margin-bottom: var(--e3); }
+.mapa-conmutador-rotulo { color: var(--texto-secundario); font-size: var(--t-pequeno); margin-right: var(--e2); }
+.mapa-conmutador button {
+  min-height: 40px; padding: 0 var(--e3); border: 1px solid var(--borde-interactivo); border-radius: var(--radio-medio);
+  background: var(--fondo-elevado); color: var(--texto); font: inherit; font-size: var(--t-pequeno); cursor: pointer;
+}
+/* Pulsado: relleno de tinta + marca de verificación (forma), no solo color. */
+.mapa-conmutador button[aria-pressed='true'] { background: var(--accion); color: var(--sobre-accion); border-color: var(--accion); font-weight: var(--peso-semibold); }
+.mapa-conmutador button[aria-pressed='true']::before { content: '✓ '; }
+.mapa-estado, .mapa-pie { margin: var(--e2) 0 0; font-size: var(--t-pequeno); color: var(--texto-secundario); min-height: 1.5em; }
+.mapa-pie { color: var(--texto); }
+
+.vis-lista { margin-top: var(--e3); font-size: var(--t-pequeno); }
+.vis-lista summary { cursor: pointer; min-height: 40px; display: flex; align-items: center; font-weight: var(--peso-medio); }
+.vis-lista ul { padding-left: var(--e4); columns: 14rem; }
+.vis-lista li { break-inside: avoid; margin-bottom: var(--e1); }
+.vis-lista-seccion { font-weight: var(--peso-semibold); column-span: all; margin-top: var(--e3); list-style: none; }
+.vis-lista-fuera { color: var(--texto-secundario); }
+
+/* Dataciones. */
+.dat-rejilla { stroke: var(--separador); stroke-width: 1; }
+.dat-linea { stroke: var(--borde-interactivo); stroke-width: 1.5; }
+.dat-barra { fill: color-mix(in oklab, var(--acento) 30%, var(--fondo-elevado)); stroke: var(--acento); stroke-width: 2; }
+
+/* Matriz de temas. */
+.mat-banda { fill: var(--fondo-hundido); opacity: 0.6; }
+.mat-vacia { fill: var(--separador); }
+.mat-celda .forma { fill: color-mix(in oklab, var(--acento) 30%, var(--fondo-elevado)); stroke: var(--acento); stroke-width: 2; }
+.mat-celda:hover .forma { fill: color-mix(in oklab, var(--acento) 50%, var(--fondo-elevado)); }
+.mat-celda:focus-visible .forma, .mat-fila:focus-visible text { stroke: var(--foco); stroke-width: 3; }
+.mat-celda, .mat-fila { outline: none; }
+.mat-num { pointer-events: none; font-weight: var(--peso-semibold); }
+.mat-fila:hover text { text-decoration: underline; }
+
+@media (prefers-reduced-motion: reduce) {
+  .mapa-bloque .forma, .mat-celda .forma { transition: none; }
+}

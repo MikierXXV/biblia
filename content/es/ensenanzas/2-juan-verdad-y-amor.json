@@ -1,0 +1,28 @@
+{
+  "id": "2-juan-verdad-y-amor",
+  "libro_id": "2-juan",
+  "orden": 1,
+  "titulo": "Un mandamiento antiguo: amarse y caminar en la verdad",
+  "pasaje": "2 Jn 4-6",
+  "que_dice": "Esta carta es tan breve que cabría en una sola hoja de papiro. Empieza con una alegría: el autor ha visto que algunos hijos de la comunidad caminan en la verdad (v. 4). Luego pide algo que, dice, no es nuevo: que se amen unos a otros (v. 5).\n\nAmar, explica, es caminar según los mandamientos (v. 6). Verdad y amor van unidos desde el saludo (vv. 1-3).",
+  "lecturas": [
+    {
+      "tradicion": "comun",
+      "texto": "Lectura común a las tradiciones cristianas: el mandamiento antiguo remite a Jn 13,34-35 y a 1 Jn 2,7-8. Se lee como resumen de la ética cristiana, que une la verdad que se cree con el amor que se practica."
+    }
+  ],
+  "critica": {
+    "texto": "La mayoría de críticos ve en 2 Jn el mismo vocabulario de 1 Jn (mandamiento desde el principio, verdad, amor) y lo atribuye al mismo círculo joánico. La carta suele leerse como un resumen de 1 Jn dirigido a otra comunidad.",
+    "acuerdo": "consenso"
+  },
+  "temas": [
+    "amor-al-projimo-y-a-los-enemigos"
+  ],
+  "fuentes": [
+    {
+      "titulo": "The Epistles of John (Anchor Bible 30)",
+      "autor": "Raymond E. Brown",
+      "tradicion": "critica"
+    }
+  ]
+}

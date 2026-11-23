@@ -1,0 +1,88 @@
+{
+  "id": "apocalipsis",
+  "seccion_id": "nuevo-testamento",
+  "orden": 27,
+  "nombre": "Apocalipsis",
+  "abreviatura": "Ap",
+  "bloque": "apocalipsis",
+  "capitulos": 22,
+  "deuterocanonico": false,
+  "estado": "completo",
+  "resumen": "Visión en lenguaje simbólico escrita bajo la presión del Imperio romano. Promete la victoria final de Dios sobre el mal.",
+  "presentacion": "Un hombre llamado Juan dice estar en la isla de Patmos por la palabra de Dios. El día del Señor oyó una voz potente y recibió una visión (1,9-10). Se le manda escribirla y enviarla a siete comunidades cristianas de Asia Menor. El libro se llama *apokálypsis*, «revelación», y es el único libro apocalíptico completo del Nuevo Testamento.\n\nEstá escrito con símbolos: bestias, sellos, trompetas, una mujer y un dragón, números como el siete y el doce. Su género ya lo usaban Daniel y 1 Enoc, un libro judío antiguo. La exégesis académica lo lee como lenguaje simbólico y no como cronología del futuro. Muchos lectores evangélicos lo leen como profecía de lo que vendrá.\n\nImporta por su imagen de Cristo como Cordero degollado y vencedor, por su crítica al poder imperial y por su esperanza final: un mundo renovado, sin muerte ni lágrimas.",
+  "autoria": {
+    "tradicion": "Justino e Ireneo, en el siglo II, lo atribuyen al apóstol Juan, el mismo que se tenía por autor del cuarto evangelio.",
+    "critica": "El autor se llama Juan (Ap 1,1.4.9) y no dice ser apóstol. La mayoría de la crítica lo ve como un profeta cristiano, «Juan de Patmos», distinto del evangelista: el griego y la teología difieren. Dionisio de Alejandría ya dudaba en el siglo III.",
+    "acuerdo": "consenso"
+  },
+  "datacion": {
+    "tradicion": "Según la tradición que lo atribuye al apóstol Juan, se escribió hacia el 95, bajo el emperador Domiciano.",
+    "critica": "Se sitúa entre el reinado de Nerón (hacia el 68-70) y el de Domiciano (hacia el 95). La fecha de composición está en discusión.",
+    "acuerdo": "discusion",
+    "rango": [
+      68,
+      96
+    ],
+    "rango_tradicion": [
+      90,
+      96
+    ],
+    "posturas": [
+      {
+        "quien": "Adela Yarbro Collins y la mayoría de críticos",
+        "texto": "Lo fechan hacia el 95, bajo Domiciano, en línea con el testimonio antiguo de Ireneo."
+      },
+      {
+        "quien": "John A. T. Robinson",
+        "texto": "Propuso una fecha temprana, hacia el 68-70, poco después de Nerón, dentro de su revisión de la datación del Nuevo Testamento."
+      }
+    ]
+  },
+  "canon": {
+    "judia": "No forma parte de la Biblia hebrea: es un escrito cristiano. La tradición apocalíptica judía (Daniel, 1 Enoc) es su trasfondo.",
+    "ortodoxa": "Es canónico, aunque su aceptación fue más lenta en Oriente que en Occidente durante los siglos III y IV.",
+    "protestante": "Es canónico. Lutero y Zwinglio dudaron de él; luego todas las iglesias reformadas lo recibieron."
+  },
+  "pasajes_clave": [
+    {
+      "pasaje": "Ap 1,9-11",
+      "nota": "Juan en Patmos recibe la visión y el mandato de escribirla a siete iglesias."
+    },
+    {
+      "pasaje": "Ap 5,5-6",
+      "nota": "Se anuncia a un león y aparece un Cordero degollado: la clave del libro."
+    },
+    {
+      "pasaje": "Ap 13,1-4",
+      "nota": "La bestia del mar, imagen del poder imperial que exige adoración."
+    },
+    {
+      "pasaje": "Ap 21,1-5",
+      "nota": "Cielo nuevo y tierra nueva: Dios habita entre los hombres y enjuga toda lágrima."
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Crisis and Catharsis: The Power of the Apocalypse",
+      "autor": "Adela Yarbro Collins",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Revelation 1-5, 6-16, 17-22 (Word Biblical Commentary 52A-C)",
+      "autor": "David E. Aune",
+      "tradicion": "critica"
+    },
+    {
+      "titulo": "Introducción al Nuevo Testamento",
+      "autor": "Raymond E. Brown",
+      "tradicion": "catolica"
+    }
+  ],
+  "para_recordar": [
+    "Juan de Patmos escribe en símbolos a siete comunidades de Asia Menor bajo el Imperio romano.",
+    "Su clave es el Cordero degollado, que vence sufriendo y no por la fuerza.",
+    "La exégesis académica lo lee como lenguaje simbólico; muchos evangélicos, como profecía del futuro.",
+    "La crítica discute si se escribió bajo Nerón (hacia el 68-70) o bajo Domiciano (hacia el 95).",
+    "Termina con la esperanza de una creación nueva, sin muerte ni lágrimas."
+  ]
+}
