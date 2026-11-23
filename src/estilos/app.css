@@ -441,6 +441,8 @@ h1, h2, h3 { letter-spacing: -0.02em; font-weight: var(--peso-semibold); }
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
   gap: var(--e3);
+  /* Todas las filas al alto de la más alta: sin escalones entre tarjetas, con cualquier tipografía. */
+  grid-auto-rows: 1fr;
   margin: 0;
   padding: 0;
 }

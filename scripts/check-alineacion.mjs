@@ -95,6 +95,11 @@ function medir({ TOLERANCIA, TACTIL }) {
   }
   for (const el of qa('body *')) {
     const b = el.getBoundingClientRect();
+    // Lo que va dentro de una caja con desplazamiento propio (la tabla del canon) puede ser más
+    // ancho que la ventana: es lo que se pide, y la página no se desplaza.
+    let caja = el.parentElement;
+    while (caja && caja !== document.body && !['auto', 'scroll'].includes(getComputedStyle(caja).overflowX)) caja = caja.parentElement;
+    if (caja && caja !== document.body) continue;
     if (b.width > 0 && (b.right > innerWidth + 0.5 || b.left < -0.5)) {
       anota(`se sale de la ventana: ${el.tagName.toLowerCase()}.${String(el.className).slice(0, 30)} (de ${Math.round(b.left)} a ${Math.round(b.right)})`);
       break; // El primero basta: los demás suelen ser sus padres o sus hijos.
@@ -226,8 +231,12 @@ function medir({ TOLERANCIA, TACTIL }) {
 
   /* 5. La rejilla: todas las tarjetas del mismo tamaño. Una fila más baja que la de arriba deja el
         catálogo con un escalón por el que no pasa ninguna otra comprobación. */
-  const dims = new Set(qa('.rejilla > *').map((t) => `${Math.round(t.getBoundingClientRect().width)}×${Math.round(t.getBoundingClientRect().height)}`));
-  if (dims.size > 1) anota(`tarjetas de tamaños distintos: ${[...dims].join('  ')}`);
+  // Por rejilla: cada sección de la portada tiene la suya y no comparten filas, así que comparar
+  // entre rejillas exigiría igualar textos de longitud distinta.
+  for (const rej of qa('.rejilla')) {
+    const dims = new Set([...rej.children].map((t) => `${Math.round(t.getBoundingClientRect().width)}×${Math.round(t.getBoundingClientRect().height)}`));
+    if (dims.size > 1) { anota(`tarjetas de tamaños distintos: ${[...dims].join('  ')}`); break; }
+  }
 
   /* 6. Listas numeradas o con viñeta: todas las líneas arrancan igual. */
   for (const lista of qa('.pasos')) {
