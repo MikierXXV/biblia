@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- Libro abierto: tinta (accion) sobre papel (fondo) de design/tokens.json, tema claro. -->
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#F3F1EC" stroke="#7A756A"/>
+  <path fill="#1D1B17" d="M4 8C7 4 11.5 4.5 14 8v18c-3-3-6.5-3-10-1zM28 8c-3-4-7.5-3.5-10 0v18c3-3 6.5-3 10-1z"/>
+</svg>
