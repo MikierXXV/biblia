@@ -105,6 +105,12 @@ async function medir({ nombre, cpu = 1, red = null }) {
 
   await pagina.goto(BASE, { waitUntil: 'networkidle', timeout: 60000 });
 
+  // La escena de la portada se pide después de pintar: sin esperarla, se contarían contextos antes
+  // de que exista ninguno y el presupuesto pasaría sin haber mirado nada.
+  const escenaMontada = P.escena_en_portada
+    ? await pagina.waitForSelector(P.escena_en_portada, { timeout: 30000 }).then(() => true, () => false)
+    : null;
+
   const metricas = await pagina.evaluate(async () => {
     const pintado = performance.getEntriesByName('first-contentful-paint')[0]?.startTime ?? null;
 
@@ -168,6 +174,17 @@ async function medir({ nombre, cpu = 1, red = null }) {
     };
   });
 
+  // El peso es el de la portada: lo que pidan las pantallas siguientes no cuenta.
+  const peso = { jsCritico, jsThree };
+
+  // Salir de la portada sin recargar la página: solo así se ve si la escena suelta su contexto.
+  let fueraDePortada = null;
+  if (P.al_salir_de_la_portada) {
+    await pagina.evaluate((ruta) => { location.hash = ruta; }, P.al_salir_de_la_portada);
+    await pagina.waitForTimeout(800);
+    fueraDePortada = await pagina.evaluate(() => ({ ...window.__webgl }));
+  }
+
   /*
    * Segunda parada: las rutas donde vive el 3D.
    *
@@ -222,7 +239,7 @@ async function medir({ nombre, cpu = 1, red = null }) {
   primerPintado = metricas.pintado;
   await navegador.close();
 
-  return { nombre, jsCritico, jsThree, ...metricas, fluidez, primerPintado, paradas };
+  return { nombre, ...peso, ...metricas, fluidez, primerPintado, paradas, escenaMontada, fueraDePortada, porSoftware, renderer };
 }
 
 /* ------------------------------------------------------------------ informe -- */
@@ -238,6 +255,13 @@ for (const escenario of P.escenarios) {
   console.log(`  CLS                 ${(r.cls ?? 0).toFixed(3).padStart(8)}      (presupuesto ${P.cls})`);
   console.log(`  Contextos WebGL     ${String(r.webgl.creados - r.webgl.perdidos).padStart(8)}      (creados ${r.webgl.creados}, liberados ${r.webgl.perdidos})`);
   console.log(`  Fotogramas lentos   ${r.fluidez.porcentaje.toFixed(1).padStart(8)} %    (presupuesto ${P.scroll_fotogramas_lentos_pct} %, peor ${r.fluidez.peor.toFixed(0)} ms sobre ${r.fluidez.fotogramas})`);
+  if (r.escenaMontada !== null) console.log(`  Escena en portada   ${(r.escenaMontada ? 'montada' : 'NO').padStart(8)}`);
+  if (r.fueraDePortada) {
+    const quedan = r.fueraDePortada.creados - r.fueraDePortada.perdidos;
+    console.log(`  Al salir de portada ${String(quedan).padStart(8)}      contextos vivos en ${P.al_salir_de_la_portada} (creados ${r.fueraDePortada.creados})`);
+    if (quedan > 0) fallos.push(`[${r.nombre}] al salir de la portada quedan ${quedan} contextos WebGL vivos.`);
+  }
+  if (r.escenaMontada === false && !r.porSoftware) fallos.push(`[${r.nombre}] la escena de la portada no llegó a montarse.`);
   for (const p of r.paradas ?? []) {
     const vivos = p.webgl.creados - p.webgl.perdidos;
     const tras = p.alSalir.creados - p.alSalir.perdidos;

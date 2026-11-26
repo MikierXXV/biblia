@@ -197,9 +197,15 @@ Rutas en el fragmento (`#/…`), como la variante `app`:
 - **Un acento por sección (5)**, repartidos en la rueda con ≥ 15° (skill `sistema-visual`, `--sugerir`). Orientativo: Pentateuco ocre, Históricos teja, Sapienciales verde oliva, Profetas azul, NT violeta. Las tradiciones **no** tienen color propio (evita que una «gane» visualmente): se distinguen por su rótulo.
 - **Etiquetas fijas:** «Deuterocanónico», «Adiciones griegas», «Consenso amplio», «En discusión», «Interpretación abierta», «En preparación». Todas con texto; el color solo refuerza.
 
-### 7.2 Visualizaciones (SVG, sin 3D)
+### 7.2 Visualizaciones (SVG) y una sola escena 3D, solo en la portada
 
-Ningún contenido de este sitio depende de profundidad u oclusión: **cero escenas 3D** (`presupuesto_3d: 0`). Tres mecánicas en `src/vis/mecanicas/`, con el lenguaje de `src/vis/lenguaje.ts` (skill `mecanica-de-visualizacion`):
+**1 escena 3D, solo portada** (`presupuesto_3d: 1`, `contextos_webgl_vivos: 1`). La autorizó el humano el 25-11 y sustituye al «cero escenas 3D» anterior. Ningún contenido depende de profundidad u oclusión, así que la escena no informa de nada que no esté también en HTML: es puesta en escena. Fuera de la portada sigue sin haber 3D.
+
+La escena es un **libro abierto** que se mece despacio (`src/vis/portada/`): «Open Book», de Quaternius (CC0), con los colores de los tokens. Es un emblema: no se pulsa ni informa de nada. La eligió el humano el 26-11 frente a otra propuesta, que se retiró.
+
+Reglas: Three.js y el modelo se descargan después del primer pintado; sin WebGL 2 o con «reducir movimiento» no se descargan y queda una imagen fija (`public/portada/`, `npm run carteles:portada`); el contexto se libera al salir de la portada (lo exige `auditar.mjs`); la pieza lleva alternativa textual.
+
+Tres mecánicas en `src/vis/mecanicas/`, con el lenguaje de `src/vis/lenguaje.ts` (skill `mecanica-de-visualizacion`):
 
 1. **`mapa-canon`** (portada y `#/canon`): los 73 libros como bloques en orden canónico, agrupados por sección, **ancho proporcional a los capítulos**; deuterocanónicos con trama, adiciones con borde discontinuo; un conmutador «Ver el canon de…» (católico / ortodoxo / judío / protestante) **atenúa** los libros que esa tradición no tiene (no los quita). Cada bloque es un enlace a su libro. Alternativa textual: la lista de libros con sus marcas.
 2. **`dataciones`** (ficha de libro y una vista global en `#/acerca` o `#/canon`): para cada libro, **dos barras** en un eje de tiempo: la datación de la tradición y el intervalo `datacion.rango` de la crítica, con trazo discontinuo si `acuerdo` es `discusion`. Muestra de un vistazo dónde coinciden y dónde no. Alternativa textual: la frase de `datacion`.
@@ -269,7 +275,7 @@ La usan B4 (sobre el piloto), cada tanda de B5 (sobre su lote) y B6 (sobre todo)
 ### D. Visual (sin navegador en lotes de contenido; con navegador solo en B4 y B6, uno a la vez)
 - [ ] `npm run validar` (contenido, contraste, textos en código) y `npm run build` sin errores.
 - [ ] `npm run capturar`: 2 temas × 2 anchos sin errores mudos, sin huecos vacíos, sin desbordamiento horizontal, rótulos legibles y objetivos táctiles ≥ 44 px en móvil, en las rutas de `presupuestos.rutas` (portada, un libro completo, uno deuterocanónico, un tema, `#/temas`, `#/canon`).
-- [ ] `npm run auditar`: presupuestos de carga cumplidos; 0 contextos WebGL.
+- [ ] `npm run auditar`: presupuestos de carga cumplidos; como mucho 1 contexto WebGL en la portada y 0 al salir de ella.
 - [ ] Las insignias (deuterocanónico, acuerdo, abierta) se entienden **sin color** (revisión de captura en escala de grises por un subagente).
 - [ ] Cada visualización tiene su alternativa textual y funciona con teclado.
 - [ ] Reels: se reproducen en la ficha, con póster, transcripción y fuentes visibles.

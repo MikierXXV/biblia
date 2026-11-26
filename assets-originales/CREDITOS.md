@@ -21,6 +21,18 @@ convertido, que sí está en `public/modelos/`.
   node scripts/optimizar-modelo.mjs assets-originales/nombre-del-modelo.glb public/modelos/nombre.glb --sin-texturas --triangulos 25000
   ```
 
+## `libro-abierto.glb`
+
+- **Autor:** Quaternius
+- **Fuente:** https://poly.pizza/m/FsCIGEfTEs («Open Book»)
+- **Licencia:** CC0 1.0
+- **Modificaciones:** sin texturas; geometría cuantizada y comprimida con meshopt. 10 kB. Los colores
+  de sus tres materiales se sustituyen al cargarlo por los del sitio (`design/tokens.css`).
+- **Comando:**
+  ```
+  node scripts/optimizar-modelo.mjs assets-originales/libro-abierto/open-book.glb public/modelos/libro-abierto.glb --sin-texturas
+  ```
+
 ## Tipografías
 
 - **Inter**, de Rasmus Andersson — https://github.com/rsms/inter

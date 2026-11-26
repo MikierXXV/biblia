@@ -9,6 +9,7 @@
     "auditar": "node scripts/auditar.mjs",
     "build": "npm run validar && tsc --noEmit && vite build",
     "capturar": "node scripts/capturar-sitio.mjs",
+    "carteles:portada": "node scripts/carteles-portada.mjs",
     "dev": "vite",
     "metricas": "node scripts/metricas-respaldo.mjs",
     "modelo": "node scripts/optimizar-modelo.mjs",

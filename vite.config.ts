@@ -10,7 +10,7 @@ export default defineConfig({
     // Three.js supera los 500 kB sin comprimir y el aviso por defecto salta siempre. Aquí es
     // esperado: va en su propio chunk y solo lo descarga quien abre una escena. Lo que sí se vigila
     // es el JS crítico, y de eso se encarga scripts/auditar.mjs con un presupuesto medido.
-    chunkSizeWarningLimit: 700,
+    chunkSizeWarningLimit: 800,
     rollupOptions: {
       output: {
         // Three.js en su propio chunk: separarlo es lo que permite que no bloquee el primer pintado.

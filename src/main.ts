@@ -16,6 +16,7 @@
 
 import './estilos/sitio.css';
 import './estilos/app.css';
+import './estilos/portada3d.css';
 import {
   ENSENANZAS, LIBROS, cargarEnsenanzas, ensenanzasListas, PAGINAS, SECCIONES, TEMAS, ensenanzasDeLibro, ensenanzasDeTema, libroPorId, librosDeSeccion,
   reelDe, seccionPorId, temaPorId, temasDeLibro, vecinosEnCanon,
@@ -27,6 +28,7 @@ import {
 import { alCambiarTema, cambiarTema, temaActual } from './app/tema';
 import { t } from './app/textos';
 import { registrarAcentos } from './vis/lenguaje';
+import { montarPortada3d, portada3dHtml } from './vis/portada';
 import { crearVisualizacion } from './vis/registro';
 
 registrarAcentos(Object.fromEntries(SECCIONES.map((s) => [s.id, s.color_acento])));
@@ -371,6 +373,7 @@ function pintarPortada(ruta: Ruta): void {
   ponerPortada(t('sitio.titular'), t('sitio.entradilla'));
   sitio.innerHTML = `
     <a class="saltar boton" href="#libros">${escapar(t('catalogo.saltar'))}</a>
+    ${portada3dHtml()}
     <section class="mapa" aria-labelledby="h-mapa">
       <h2 id="h-mapa">${escapar(t('portada.mapa_titulo'))}</h2>
       <p class="intro">${escapar(t('portada.mapa_intro'))} <a href="${enlace({ vista: 'canon', filtros: {} })}">${escapar(t('portada.mapa_canon'))}</a></p>
@@ -384,6 +387,7 @@ function pintarPortada(ruta: Ruta): void {
   enlazarCatalogo(ruta, sitio.querySelector<HTMLElement>('.reparto')!);
   if (panelAbierto) abrirPanel();
   void montar('portada-mapa', 'mapa-canon', parametrosMapa(), sitio.querySelector<HTMLElement>('[data-vis="mapa"]'));
+  vivas.push(montarPortada3d(sitio.querySelector<HTMLElement>('.p3d')));
 }
 
 const parametrosMapa = () => ({ secciones: SECCIONES, libros: LIBROS, enlace: (id: string) => enlaceLibro(id) });

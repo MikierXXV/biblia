@@ -1,0 +1,17 @@
+/*
+ * La pieza 3D de la portada (src/vis/portada/). El hueco se reserva con aspect-ratio antes de que
+ * llegue nada, para que ni la imagen fija ni el lienzo muevan la página.
+ */
+
+.p3d { position: relative; margin-bottom: var(--e8); }
+
+.p3d-caja {
+  position: relative;
+  width: 100%;
+  max-width: 34rem;
+  margin-inline: auto;
+  aspect-ratio: 16 / 10;
+}
+.p3d-cartel,
+.p3d-canvas { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.p3d[data-estado='3d'] .p3d-cartel { visibility: hidden; }

@@ -10,8 +10,11 @@
   "rutas_3d": [],
   "$comment_rutas_3d": "Rutas donde se monta una escena 3D que no está en la portada —en una app de catálogo, una ficha—. Si está vacío, la auditoría solo mide la portada: en un sitio de contenido basta, porque el 3D vive en el propio recorrido, pero en una app el presupuesto de contextos WebGL no llegaba a comprobar nada. De cada ruta se mide la fluidez con la escena en marcha, los contextos vivos allí, y los que quedan AL VOLVER, que es lo que de verdad caza una pieza que no se libera.",
   "fotogramas_lentos_3d_pct": 35,
-  "$comment_3d": "Este sitio no usa 3D: no hay escenas ni Three.js en el bundle.",
-  "contextos_webgl_vivos": 0,
+  "$comment_3d": "Una sola escena 3D, en la portada (autorizada por el humano el 25-11; DECISIONES.md §7.2). El resto del sitio no tiene 3D.",
+  "escena_en_portada": ".p3d[data-estado='3d']",
+  "al_salir_de_la_portada": "#/l/rut",
+  "$comment_portada": "auditar.mjs espera a que la escena esté montada antes de contar contextos, y navega a otra pantalla sin recargar para exigir que no quede ninguno vivo.",
+  "contextos_webgl_vivos": 1,
   "$comment_webgl": "Un solo contexto WebGL vivo a la vez. Los navegadores limitan los contextos simultáneos, así que el que falla no es el primero sino el noveno: el síntoma aparece lejos de su causa. Lo garantiza destruir() en src/vis/escena3d.ts y el desmontaje al salir de pantalla en src/main.ts.",
   "three_no_bloquea_pintado": true,
   "$comment_three": "Exigir que Three.js NO se pida en la carga inicial sería incorrecto si el sitio tiene una escena en la portada: entonces se pide, y con razón. Lo que hay que exigir es que no bloquee el primer pintado.",
@@ -41,5 +44,5 @@
     "#/canon"
   ],
   "$comment_rutas": "Las pantallas que capturar-sitio.mjs recorre: portada, un libro completo (Rut), un esbozo deuterocanónico (Tobías), un tema, la matriz de temas y el canon.",
-  "presupuesto_3d": 0
+  "presupuesto_3d": 1
 }

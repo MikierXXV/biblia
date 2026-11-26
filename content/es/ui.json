@@ -22,6 +22,11 @@
     "mapa_canon": "Qué libros entran en cada Biblia",
     "libros_titulo": "Los 73 libros"
   },
+  "portada3d": {
+    "titulo": "Un libro abierto",
+    "etiqueta": "Modelo 3D de un libro abierto",
+    "alternativa": "Un libro abierto, sin texto, que se mece despacio. Es un adorno: las secciones y los libros están a continuación."
+  },
   "seccion": {
     "cuenta": "{libros} libros, {completos} con la ficha completa."
   },

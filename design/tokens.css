@@ -157,6 +157,10 @@
    * favoritos era una mancha con un número dentro que no se leía—.
    */
   --claro-sobre-accion: #FBFAF7;
+  /* Materiales de la pieza 3D de la portada (src/vis/portada/): sin dorados. */
+  --claro-p3d-papel: #E6DEC9;
+  --claro-p3d-cubierta: #34425E;
+  --claro-p3d-detalle: #8A857A;
   --claro-sombra: 0 1px 2px rgba(29, 27, 23, 0.05), 0 8px 24px rgba(29, 27, 23, 0.06);
 
   --oscuro-fondo: #0E121B;
@@ -170,6 +174,9 @@
   --oscuro-enlace: #E8EAEF;
   --oscuro-accion: #E8EAEF;
   --oscuro-sobre-accion: #0E121B;
+  --oscuro-p3d-papel: #D9D3C4;
+  --oscuro-p3d-cubierta: #56698F;
+  --oscuro-p3d-detalle: #A7A294;
   --oscuro-sombra: 0 1px 2px rgba(0, 0, 0, 0.5), 0 12px 32px rgba(0, 0, 0, 0.4);
 }
 
@@ -201,6 +208,9 @@
   --enlace: var(--claro-enlace);
   --accion: var(--claro-accion);
   --sobre-accion: var(--claro-sobre-accion);
+  --p3d-papel: var(--claro-p3d-papel);
+  --p3d-cubierta: var(--claro-p3d-cubierta);
+  --p3d-detalle: var(--claro-p3d-detalle);
   --sombra: var(--claro-sombra);
 }
 
@@ -218,6 +228,9 @@
   --enlace: var(--oscuro-enlace);
   --accion: var(--oscuro-accion);
   --sobre-accion: var(--oscuro-sobre-accion);
+  --p3d-papel: var(--oscuro-p3d-papel);
+  --p3d-cubierta: var(--oscuro-p3d-cubierta);
+  --p3d-detalle: var(--oscuro-p3d-detalle);
   --sombra: var(--oscuro-sombra);
 }
 

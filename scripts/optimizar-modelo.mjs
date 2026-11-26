@@ -29,15 +29,16 @@
  */
 
 import { NodeIO } from '@gltf-transform/core';
-import { EXTMeshoptCompression } from '@gltf-transform/extensions';
+import { EXTMeshoptCompression, KHRMeshQuantization } from '@gltf-transform/extensions';
 import { dedup, prune, weld, simplify, quantize, reorder, textureCompress } from '@gltf-transform/functions';
 import { MeshoptEncoder, MeshoptSimplifier } from 'meshoptimizer';
 import { stat, mkdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
-import { dirname } from 'node:path';
+import { existsSync, readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
 
 const args = process.argv.slice(2);
-const [origen, destino] = args.filter((a) => !a.startsWith('--'));
+/* El valor de una opción (`--triangulos 25000`) no es un fichero. */
+const [origen, destino] = args.filter((a, i) => !a.startsWith('--') && !/^--(triangulos|error)$/.test(args[i - 1] ?? ''));
 const opcion = (nombre, porDefecto) => {
   const i = args.indexOf(`--${nombre}`);
   return i === -1 ? porDefecto : Number(args[i + 1]);
@@ -73,7 +74,8 @@ await MeshoptSimplifier.ready;
  * dos cosas.
  */
 const io = new NodeIO()
-  .registerExtensions([EXTMeshoptCompression])
+  // La cuantización también es una extensión: sin registrarla, el GLB sale sin declararla.
+  .registerExtensions([EXTMeshoptCompression, KHRMeshQuantization])
   .registerDependencies({ 'meshopt.encoder': MeshoptEncoder });
 
 const documento = await io.read(origen);
@@ -83,7 +85,14 @@ const trianguloTotal = () =>
     .flatMap((m) => m.listPrimitives())
     .reduce((n, p) => n + (p.getIndices()?.getCount() ?? p.getAttribute('POSITION')?.getCount() ?? 0) / 3, 0);
 
-const antes = (await stat(origen)).size;
+/* Un .gltf es solo el índice: el peso del original incluye sus búferes e imágenes sueltos. */
+let antes = (await stat(origen)).size;
+if (origen.endsWith('.gltf')) {
+  const indice = JSON.parse(readFileSync(origen, 'utf8'));
+  for (const { uri } of [...(indice.buffers ?? []), ...(indice.images ?? [])]) {
+    if (uri && !uri.startsWith('data:')) antes += (await stat(join(dirname(origen), decodeURIComponent(uri)))).size;
+  }
+}
 const trianglesAntes = trianguloTotal();
 
 const pasos = [
